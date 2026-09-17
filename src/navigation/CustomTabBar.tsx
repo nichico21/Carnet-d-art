@@ -1,37 +1,37 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Pressable } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { colors } from '../theme/colors';
 
-const TABS = [
-  { key: 'accueil', label: 'Accueil', icon: 'home-outline' as const },
-  { key: 'explorer', label: 'Explorer', icon: 'search-outline' as const },
-  { key: 'carte', label: 'Carte', icon: 'location-outline' as const },
-  { key: 'carnet', label: 'Carnet', icon: 'bookmark-outline' as const },
-  { key: 'profil', label: 'Profil', icon: 'person-outline' as const },
+export const TABS = [
+  { key: 'Accueil', label: 'Accueil', icon: 'home-outline' as const },
+  { key: 'Explorer', label: 'Explorer', icon: 'search-outline' as const },
+  { key: 'Carte', label: 'Carte', icon: 'location-outline' as const },
+  { key: 'Carnet', label: 'Carnet', icon: 'bookmark-outline' as const },
+  { key: 'Profil', label: 'Profil', icon: 'person-outline' as const },
 ];
 
-/**
- * Barre de navigation purement visuelle pour l'instant : la vraie
- * navigation entre écrans (Accueil, Explorer, Carte, Profil...) sera
- * branchée quand ces écrans existeront.
- */
-export function BottomTabBarStub({ active = 'carnet' }: { active?: string }) {
+interface Props {
+  active: string;
+  onPress: (key: string) => void;
+}
+
+export function CustomTabBar({ active, onPress }: Props) {
   const insets = useSafeAreaInsets();
   return (
     <View style={[styles.container, { paddingBottom: Math.max(insets.bottom, 10) }]}>
       {TABS.map((tab) => {
         const isActive = tab.key === active;
         return (
-          <View key={tab.key} style={styles.tab}>
+          <Pressable key={tab.key} style={styles.tab} onPress={() => onPress(tab.key)}>
             <Ionicons
               name={isActive ? (tab.icon.replace('-outline', '') as any) : tab.icon}
               size={22}
               color={isActive ? colors.accent : colors.textSecondary}
             />
             <Text style={[styles.label, isActive && styles.labelActive]}>{tab.label}</Text>
-          </View>
+          </Pressable>
         );
       })}
     </View>

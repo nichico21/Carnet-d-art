@@ -7,7 +7,7 @@ import { Artwork } from '../types/artwork';
 import { colors } from '../theme/colors';
 import { StarRating } from './StarRating';
 import { ContentCard } from './ContentCard';
-import { BottomTabBarStub } from './BottomTabBarStub';
+import { CustomTabBar } from '../navigation/CustomTabBar';
 
 interface Props {
   artwork: Artwork | null;
@@ -16,6 +16,7 @@ interface Props {
   onChangeNote: (note: number) => void;
   favori: boolean;
   onToggleFavori: () => void;
+  onNavigateTab: (tab: string) => void;
 }
 
 export function ArtworkDetail({
@@ -25,6 +26,7 @@ export function ArtworkDetail({
   onChangeNote,
   favori,
   onToggleFavori,
+  onNavigateTab,
 }: Props) {
   const [descriptionOuverte, setDescriptionOuverte] = useState(false);
 
@@ -108,7 +110,12 @@ export function ArtworkDetail({
             </View>
           </ScrollView>
 
-          <BottomTabBarStub active="carnet" />
+          <CustomTabBar
+            active="Carnet"
+            onPress={(tab) => {
+              if (tab !== 'Carnet') onNavigateTab(tab);
+            }}
+          />
         </View>
       )}
     </Modal>

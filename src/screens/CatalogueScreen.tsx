@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FlatList, SafeAreaView, StyleSheet, Text } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 import { ARTWORKS } from '../data/artworks';
 import { Artwork } from '../types/artwork';
 import { ArtworkCard } from '../components/ArtworkCard';
@@ -7,6 +8,7 @@ import { ArtworkDetail } from '../components/ArtworkDetail';
 import { colors } from '../theme/colors';
 
 export function CatalogueScreen() {
+  const navigation = useNavigation();
   const [selected, setSelected] = useState<Artwork | null>(null);
   const [notes, setNotes] = useState<Record<string, number>>({});
   const [favoris, setFavoris] = useState<Record<string, boolean>>({});
@@ -34,6 +36,10 @@ export function CatalogueScreen() {
           selected &&
           setFavoris((prev) => ({ ...prev, [selected.id]: !prev[selected.id] }))
         }
+        onNavigateTab={(tab) => {
+          setSelected(null);
+          navigation.navigate(tab as never);
+        }}
       />
     </SafeAreaView>
   );

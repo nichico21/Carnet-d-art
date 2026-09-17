@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Linking, Pressable, StyleSheet, Text, View } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { ContenuVeille, TYPE_VEILLE_COLORS, TYPE_VEILLE_LABELS } from '../../types/veille';
 import { colors } from '../../theme/colors';
@@ -9,7 +9,10 @@ export function SelectionCard({ contenu }: { contenu: ContenuVeille }) {
     contenu.couleurs.length > 1 ? contenu.couleurs : [contenu.couleurs[0], contenu.couleurs[0]];
 
   return (
-    <View style={styles.card}>
+    <Pressable
+      style={styles.card}
+      onPress={() => contenu.url && Linking.openURL(contenu.url)}
+    >
       <View style={styles.cover}>
         <LinearGradient
           colors={gradient as any}
@@ -30,7 +33,7 @@ export function SelectionCard({ contenu }: { contenu: ContenuVeille }) {
         {contenu.titre}
       </Text>
       <Text style={styles.source}>{contenu.source}</Text>
-    </View>
+    </Pressable>
   );
 }
 

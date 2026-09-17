@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { Linking, Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { ContenuVeille, TYPE_VEILLE_COLORS, TYPE_VEILLE_LABELS } from '../../types/veille';
 import { colors } from '../../theme/colors';
@@ -7,19 +7,24 @@ import { colors } from '../../theme/colors';
 export function AjoutListItem({ contenu }: { contenu: ContenuVeille }) {
   return (
     <View style={styles.row}>
-      <View style={[styles.thumb, { backgroundColor: contenu.couleurs[0] }]} />
-      <View style={styles.body}>
-        <View style={styles.metaRow}>
-          <Text style={[styles.type, { color: TYPE_VEILLE_COLORS[contenu.type] }]}>
-            {TYPE_VEILLE_LABELS[contenu.type].toUpperCase()}
+      <Pressable
+        style={styles.pressableBody}
+        onPress={() => contenu.url && Linking.openURL(contenu.url)}
+      >
+        <View style={[styles.thumb, { backgroundColor: contenu.couleurs[0] }]} />
+        <View style={styles.body}>
+          <View style={styles.metaRow}>
+            <Text style={[styles.type, { color: TYPE_VEILLE_COLORS[contenu.type] }]}>
+              {TYPE_VEILLE_LABELS[contenu.type].toUpperCase()}
+            </Text>
+            <Text style={styles.duree}>{contenu.duree}</Text>
+          </View>
+          <Text style={styles.titre} numberOfLines={2}>
+            {contenu.titre}
           </Text>
-          <Text style={styles.duree}>{contenu.duree}</Text>
+          <Text style={styles.source}>{contenu.source}</Text>
         </View>
-        <Text style={styles.titre} numberOfLines={2}>
-          {contenu.titre}
-        </Text>
-        <Text style={styles.source}>{contenu.source}</Text>
-      </View>
+      </Pressable>
       <Pressable hitSlop={8}>
         <Ionicons name="bookmark-outline" size={18} color={colors.textSecondary} />
       </Pressable>
@@ -32,6 +37,12 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingVertical: 10,
+    gap: 12,
+  },
+  pressableBody: {
+    flex: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
     gap: 12,
   },
   thumb: {

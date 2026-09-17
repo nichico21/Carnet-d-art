@@ -27,4 +27,6 @@ export interface ContenuVeille {
   dateGroupe?: string;
   /** Compteur d'audience pour l'écran "Les plus consultés" */
   audience?: string;
+  /** Lien vers la source d'origine (ouvert dans le navigateur) */
+  url?: string;
 }

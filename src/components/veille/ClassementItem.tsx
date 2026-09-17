@@ -1,11 +1,14 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Linking, Pressable, StyleSheet, Text, View } from 'react-native';
 import { ContenuVeille, TYPE_VEILLE_COLORS, TYPE_VEILLE_LABELS } from '../../types/veille';
 import { colors } from '../../theme/colors';
 
 export function ClassementItem({ contenu, rang }: { contenu: ContenuVeille; rang: number }) {
   return (
-    <View style={styles.row}>
+    <Pressable
+      style={styles.row}
+      onPress={() => contenu.url && Linking.openURL(contenu.url)}
+    >
       <Text style={styles.rang}>{rang}</Text>
       <View style={[styles.thumb, { backgroundColor: contenu.couleurs[0] }]} />
       <View style={styles.body}>
@@ -21,7 +24,7 @@ export function ClassementItem({ contenu, rang }: { contenu: ContenuVeille; rang
         <Text style={styles.source}>{contenu.source}</Text>
         {contenu.audience && <Text style={styles.audience}>{contenu.audience}</Text>}
       </View>
-    </View>
+    </Pressable>
   );
 }
 

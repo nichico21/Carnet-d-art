@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Linking, Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
@@ -50,7 +50,10 @@ export function VeilleAccueilScreen() {
         </Section>
 
         <Section title="Reprendre vos contenus">
-          <View style={styles.reprendreCard}>
+          <Pressable
+            style={styles.reprendreCard}
+            onPress={() => enCours.url && Linking.openURL(enCours.url)}
+          >
             <View style={[styles.reprendreThumb, { backgroundColor: enCours.couleurs[0] }]}>
               <View style={styles.playButton}>
                 <Ionicons name="play" size={16} color={colors.accent} />
@@ -66,7 +69,7 @@ export function VeilleAccueilScreen() {
               </View>
             </View>
             <Text style={styles.progressPct}>{Math.round(progression * 100)}%</Text>
-          </View>
+          </Pressable>
         </Section>
 
         <Section title="Vos contenus enregistrés" noAction>

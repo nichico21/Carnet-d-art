@@ -1,115 +1,204 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
-import { Artwork, THEME_LABELS, Valence } from '../types/artwork';
+import { Ionicons } from '@expo/vector-icons';
+import { LinearGradient } from 'expo-linear-gradient';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { Artwork } from '../types/artwork';
 import { colors } from '../theme/colors';
+import { StarRating } from './StarRating';
+import { ContentCard } from './ContentCard';
+import { BottomTabBarStub } from './BottomTabBarStub';
 
 interface Props {
   artwork: Artwork | null;
   onClose: () => void;
+  note: number;
+  onChangeNote: (note: number) => void;
+  favori: boolean;
+  onToggleFavori: () => void;
 }
 
-const VALENCE_LABELS: Record<Valence, string> = {
-  positive: 'Positive',
-  negative: 'Négative',
-  neutre: 'Neutre',
-};
+export function ArtworkDetail({
+  artwork,
+  onClose,
+  note,
+  onChangeNote,
+  favori,
+  onToggleFavori,
+}: Props) {
+  const [descriptionOuverte, setDescriptionOuverte] = useState(false);
 
-const VALENCE_COLORS: Record<Valence, string> = {
-  positive: colors.positive,
-  negative: colors.negative,
-  neutre: colors.neutre,
-};
-
-export function ArtworkDetail({ artwork, onClose }: Props) {
   return (
-    <Modal visible={artwork !== null} animationType="slide" onRequestClose={onClose}>
+    <Modal
+      visible={artwork !== null}
+      animationType="slide"
+      onRequestClose={onClose}
+      statusBarTranslucent
+    >
       {artwork && (
-        <ScrollView style={styles.container} contentContainerStyle={styles.content}>
-          <Pressable onPress={onClose} style={styles.closeButton}>
-            <Text style={styles.closeButtonText}>Fermer</Text>
-          </Pressable>
+        <View style={styles.container}>
+          <ScrollView bounces={false}>
+            <Hero
+              artwork={artwork}
+              onClose={onClose}
+              favori={favori}
+              onToggleFavori={onToggleFavori}
+            />
 
-          <View style={styles.cover}>
-            {artwork.couleursDominantes.map((c) => (
-              <View key={c.hex} style={[styles.swatch, { backgroundColor: c.hex }]} />
-            ))}
-          </View>
-
-          <Text style={styles.titre}>{artwork.titre}</Text>
-          <Text style={styles.artiste}>
-            {artwork.artiste}, {artwork.annee}
-          </Text>
-          <Text style={styles.meta}>
-            {artwork.technique}
-            {artwork.dimensions ? ` • ${artwork.dimensions}` : ''}
-          </Text>
-          <Text style={styles.meta}>
-            {artwork.lieuConservation}, {artwork.ville}
-          </Text>
-
-          <Section title="Thème">
-            <Text style={styles.value}>{THEME_LABELS[artwork.theme]}</Text>
-          </Section>
-
-          <Section title="Mouvement(s)">
-            <View style={styles.tagsRow}>
-              {artwork.mouvements.map((m) => (
-                <View key={m} style={styles.tag}>
-                  <Text style={styles.tagText}>{m}</Text>
-                </View>
-              ))}
-            </View>
-          </Section>
-
-          <Section title="Couleurs dominantes">
-            <View style={styles.tagsRow}>
-              {artwork.couleursDominantes.map((c) => (
-                <View key={c.hex} style={styles.colorTag}>
-                  <View style={[styles.colorDot, { backgroundColor: c.hex }]} />
-                  <Text style={styles.tagText}>{c.nom}</Text>
-                </View>
-              ))}
-            </View>
-          </Section>
-
-          <Section title="Tonalité émotionnelle">
-            <View style={styles.emotionRow}>
-              <View
-                style={[
-                  styles.valenceBadge,
-                  { backgroundColor: VALENCE_COLORS[artwork.emotion.valence] },
-                ]}
-              >
-                <Text style={styles.valenceBadgeText}>
-                  {VALENCE_LABELS[artwork.emotion.valence]} · intensité{' '}
-                  {artwork.emotion.intensite}/5
+            <View style={styles.sheet}>
+              <Section title="À propos de l'œuvre">
+                <Text
+                  style={styles.description}
+                  numberOfLines={descriptionOuverte ? undefined : 3}
+                >
+                  {artwork.description}
                 </Text>
-              </View>
-            </View>
-            <View style={styles.tagsRow}>
-              {artwork.emotion.tags.map((t) => (
-                <View key={t} style={styles.tag}>
-                  <Text style={styles.tagText}>{t}</Text>
-                </View>
-              ))}
-            </View>
-          </Section>
+                {artwork.description && artwork.description.length > 140 && (
+                  <Pressable onPress={() => setDescriptionOuverte((v) => !v)}>
+                    <Text style={styles.link}>
+                      {descriptionOuverte ? 'Voir moins' : 'Voir plus'}
+                    </Text>
+                  </Pressable>
+                )}
+              </Section>
 
-          {artwork.description && (
-            <Section title="À propos">
-              <Text style={styles.description}>{artwork.description}</Text>
-            </Section>
-          )}
-        </ScrollView>
+              <View style={styles.divider} />
+
+              <Section title="Votre appréciation">
+                <View style={styles.appreciationRow}>
+                  <StarRating value={note} onChange={onChangeNote} />
+                  <Text style={styles.note}>{note.toFixed(1).replace('.', ',')}</Text>
+                  <Text style={styles.noteLabel}>Ma note</Text>
+                </View>
+              </Section>
+
+              {artwork.contenusAssocies && artwork.contenusAssocies.length > 0 && (
+                <>
+                  <View style={styles.divider} />
+                  <Section
+                    title="Pour approfondir"
+                    action={<Text style={styles.link}>Voir tout</Text>}
+                  >
+                    <ScrollView
+                      horizontal
+                      showsHorizontalScrollIndicator={false}
+                      style={styles.contenusScroll}
+                    >
+                      {artwork.contenusAssocies.map((c) => (
+                        <ContentCard key={c.titre} contenu={c} />
+                      ))}
+                    </ScrollView>
+                  </Section>
+                </>
+              )}
+
+              <View style={styles.promo}>
+                <Ionicons name="bag-outline" size={20} color={colors.accent} />
+                <View style={styles.promoTextBlock}>
+                  <Text style={styles.promoTitle}>Prolonger l'expérience</Text>
+                  <Text style={styles.promoDescription}>
+                    Livres, affiches, objets… une sélection inspirée par cette œuvre et
+                    l'univers de {artwork.artiste.split(' ').slice(-1)[0]}.
+                  </Text>
+                </View>
+              </View>
+              <Pressable style={styles.promoButton}>
+                <Text style={styles.promoButtonText}>Découvrir la sélection</Text>
+              </Pressable>
+            </View>
+          </ScrollView>
+
+          <BottomTabBarStub active="carnet" />
+        </View>
       )}
     </Modal>
   );
 }
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
+function Hero({
+  artwork,
+  onClose,
+  favori,
+  onToggleFavori,
+}: {
+  artwork: Artwork;
+  onClose: () => void;
+  favori: boolean;
+  onToggleFavori: () => void;
+}) {
+  const insets = useSafeAreaInsets();
+  const gradientColors = artwork.couleursDominantes.map((c) => c.hex);
+  const scrimColors = ['transparent', 'rgba(0,0,0,0.75)'] as const;
+
+  return (
+    <View style={styles.hero}>
+      <LinearGradient
+        colors={gradientColors.length > 1 ? (gradientColors as any) : [gradientColors[0], gradientColors[0]]}
+        start={{ x: 0, y: 0 }}
+        end={{ x: 1, y: 1 }}
+        style={StyleSheet.absoluteFill}
+      />
+      <LinearGradient colors={scrimColors} style={StyleSheet.absoluteFill} />
+
+      <View style={[styles.heroTopBar, { paddingTop: insets.top + 8 }]}>
+        <Pressable style={styles.iconButton} onPress={onClose}>
+          <Ionicons name="arrow-back" size={20} color="#FFFFFF" />
+        </Pressable>
+        <View style={styles.heroTopBarRight}>
+          <Pressable style={styles.iconButton}>
+            <Ionicons name="share-outline" size={19} color="#FFFFFF" />
+          </Pressable>
+          <Pressable style={styles.iconButton}>
+            <Ionicons name="ellipsis-horizontal" size={19} color="#FFFFFF" />
+          </Pressable>
+        </View>
+      </View>
+
+      <Pressable style={styles.favoriButton} onPress={onToggleFavori}>
+        <Ionicons
+          name={favori ? 'heart' : 'heart-outline'}
+          size={20}
+          color={favori ? colors.negative : colors.textPrimary}
+        />
+      </Pressable>
+
+      <View style={styles.heroTextBlock}>
+        <Text style={styles.heroTitre}>{artwork.titre}</Text>
+        <Text style={styles.heroAnnee}>{artwork.annee}</Text>
+        <Text style={styles.heroArtiste}>
+          {artwork.artiste}
+          {artwork.artisteAnnees ? ` (${artwork.artisteAnnees})` : ''}
+        </Text>
+        <Text style={styles.heroMeta}>
+          {artwork.technique}
+          {artwork.dimensions ? ` • ${artwork.dimensions}` : ''}
+        </Text>
+        <View style={styles.heroLieuRow}>
+          <Ionicons name="location-outline" size={13} color="#FFFFFF" />
+          <Text style={styles.heroLieu}>
+            {artwork.lieuConservation}, {artwork.ville}
+          </Text>
+        </View>
+      </View>
+    </View>
+  );
+}
+
+function Section({
+  title,
+  action,
+  children,
+}: {
+  title: string;
+  action?: React.ReactNode;
+  children: React.ReactNode;
+}) {
   return (
     <View style={styles.section}>
-      <Text style={styles.sectionTitle}>{title}</Text>
+      <View style={styles.sectionHeader}>
+        <Text style={styles.sectionTitle}>{title}</Text>
+        {action}
+      </View>
       {children}
     </View>
   );
@@ -118,114 +207,166 @@ function Section({ title, children }: { title: string; children: React.ReactNode
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background,
+    backgroundColor: colors.surface,
   },
-  content: {
-    paddingBottom: 40,
+  hero: {
+    height: 340,
+    justifyContent: 'flex-end',
   },
-  closeButton: {
-    alignSelf: 'flex-end',
-    padding: 16,
-  },
-  closeButtonText: {
-    color: colors.accent,
-    fontWeight: '600',
-    fontSize: 15,
-  },
-  cover: {
+  heroTopBar: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
     flexDirection: 'row',
-    height: 220,
-    marginHorizontal: 16,
-    borderRadius: 16,
-    overflow: 'hidden',
+    justifyContent: 'space-between',
+    paddingHorizontal: 12,
   },
-  swatch: {
-    flex: 1,
-  },
-  titre: {
-    fontSize: 24,
-    fontWeight: '700',
-    color: colors.textPrimary,
-    marginHorizontal: 16,
-    marginTop: 16,
-  },
-  artiste: {
-    fontSize: 16,
-    color: colors.textSecondary,
-    marginHorizontal: 16,
-    marginTop: 4,
-  },
-  meta: {
-    fontSize: 13,
-    color: colors.textSecondary,
-    marginHorizontal: 16,
-    marginTop: 2,
-  },
-  section: {
-    marginHorizontal: 16,
-    marginTop: 20,
-  },
-  sectionTitle: {
-    fontSize: 13,
-    fontWeight: '700',
-    color: colors.textSecondary,
-    textTransform: 'uppercase',
-    letterSpacing: 0.5,
-    marginBottom: 8,
-  },
-  value: {
-    fontSize: 15,
-    color: colors.textPrimary,
-  },
-  tagsRow: {
+  heroTopBarRight: {
     flexDirection: 'row',
-    flexWrap: 'wrap',
     gap: 8,
   },
-  tag: {
-    backgroundColor: colors.accentSoft,
-    paddingHorizontal: 10,
-    paddingVertical: 5,
-    borderRadius: 999,
+  iconButton: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    backgroundColor: 'rgba(0,0,0,0.35)',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-  tagText: {
-    fontSize: 12,
-    color: colors.accent,
-    fontWeight: '600',
+  favoriButton: {
+    position: 'absolute',
+    right: 16,
+    bottom: 130,
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    backgroundColor: colors.surface,
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-  colorTag: {
+  heroTextBlock: {
+    paddingHorizontal: 20,
+    paddingBottom: 24,
+  },
+  heroTitre: {
+    fontSize: 26,
+    fontWeight: '700',
+    color: '#FFFFFF',
+  },
+  heroAnnee: {
+    fontSize: 14,
+    color: 'rgba(255,255,255,0.85)',
+    marginTop: 4,
+  },
+  heroArtiste: {
+    fontSize: 14,
+    color: 'rgba(255,255,255,0.85)',
+    marginTop: 8,
+  },
+  heroMeta: {
+    fontSize: 13,
+    color: 'rgba(255,255,255,0.75)',
+    marginTop: 2,
+  },
+  heroLieuRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: colors.surface,
-    borderWidth: 1,
-    borderColor: colors.border,
-    paddingHorizontal: 8,
-    paddingVertical: 5,
-    borderRadius: 999,
-    gap: 6,
+    gap: 4,
+    marginTop: 6,
   },
-  colorDot: {
-    width: 12,
-    height: 12,
-    borderRadius: 6,
+  heroLieu: {
+    fontSize: 13,
+    color: 'rgba(255,255,255,0.85)',
   },
-  emotionRow: {
-    marginBottom: 8,
+  sheet: {
+    paddingBottom: 32,
   },
-  valenceBadge: {
-    alignSelf: 'flex-start',
-    paddingHorizontal: 10,
-    paddingVertical: 6,
-    borderRadius: 999,
+  section: {
+    paddingHorizontal: 20,
+    paddingTop: 20,
   },
-  valenceBadgeText: {
-    color: colors.surface,
-    fontSize: 12,
+  sectionHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 10,
+  },
+  sectionTitle: {
+    fontSize: 16,
     fontWeight: '700',
+    color: colors.textPrimary,
   },
   description: {
     fontSize: 14,
     color: colors.textPrimary,
     lineHeight: 20,
+  },
+  link: {
+    fontSize: 13,
+    fontWeight: '600',
+    color: colors.accent,
+    marginTop: 6,
+  },
+  divider: {
+    height: 1,
+    backgroundColor: colors.border,
+    marginTop: 20,
+    marginHorizontal: 20,
+  },
+  appreciationRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  note: {
+    fontSize: 16,
+    fontWeight: '700',
+    color: colors.textPrimary,
+    marginLeft: 10,
+  },
+  noteLabel: {
+    fontSize: 12,
+    color: colors.textSecondary,
+    marginLeft: 'auto',
+  },
+  contenusScroll: {
+    marginHorizontal: -20,
+    paddingHorizontal: 20,
+  },
+  promo: {
+    flexDirection: 'row',
+    gap: 10,
+    backgroundColor: colors.accentSoft,
+    marginHorizontal: 20,
+    marginTop: 20,
+    padding: 14,
+    borderRadius: 14,
+  },
+  promoTextBlock: {
+    flex: 1,
+  },
+  promoTitle: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: colors.textPrimary,
+    marginBottom: 4,
+  },
+  promoDescription: {
+    fontSize: 12,
+    color: colors.textSecondary,
+    lineHeight: 17,
+  },
+  promoButton: {
+    backgroundColor: colors.accent,
+    marginHorizontal: 20,
+    marginTop: 10,
+    paddingVertical: 13,
+    borderRadius: 12,
+    alignItems: 'center',
+  },
+  promoButtonText: {
+    color: '#FFFFFF',
+    fontWeight: '700',
+    fontSize: 14,
   },
 });

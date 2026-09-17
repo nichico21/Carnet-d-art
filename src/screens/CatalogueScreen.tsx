@@ -8,6 +8,8 @@ import { colors } from '../theme/colors';
 
 export function CatalogueScreen() {
   const [selected, setSelected] = useState<Artwork | null>(null);
+  const [notes, setNotes] = useState<Record<string, number>>({});
+  const [favoris, setFavoris] = useState<Record<string, boolean>>({});
 
   return (
     <SafeAreaView style={styles.container}>
@@ -20,7 +22,19 @@ export function CatalogueScreen() {
           <ArtworkCard artwork={item} onPress={() => setSelected(item)} />
         )}
       />
-      <ArtworkDetail artwork={selected} onClose={() => setSelected(null)} />
+      <ArtworkDetail
+        artwork={selected}
+        onClose={() => setSelected(null)}
+        note={selected ? notes[selected.id] ?? 0 : 0}
+        onChangeNote={(note) =>
+          selected && setNotes((prev) => ({ ...prev, [selected.id]: note }))
+        }
+        favori={selected ? favoris[selected.id] ?? false : false}
+        onToggleFavori={() =>
+          selected &&
+          setFavoris((prev) => ({ ...prev, [selected.id]: !prev[selected.id] }))
+        }
+      />
     </SafeAreaView>
   );
 }

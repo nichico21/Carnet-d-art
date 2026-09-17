@@ -43,10 +43,28 @@ export interface CouleurDominante {
   hex: string;
 }
 
+export type TypeContenu = 'podcast' | 'documentaire' | 'article' | 'video';
+
+export const TYPE_CONTENU_LABELS: Record<TypeContenu, string> = {
+  podcast: 'Podcast',
+  documentaire: 'Documentaire',
+  article: 'Article',
+  video: 'Vidéo',
+};
+
+export interface ContenuAssocie {
+  type: TypeContenu;
+  titre: string;
+  source: string;
+  duree: string;
+}
+
 export interface Artwork {
   id: string;
   titre: string;
   artiste: string;
+  /** Dates de naissance et de mort de l'artiste, ex: "1853 – 1890" */
+  artisteAnnees?: string;
   annee: string;
   technique: string;
   dimensions?: string;
@@ -58,4 +76,5 @@ export interface Artwork {
   couleursDominantes: CouleurDominante[];
   emotion: Emotion;
   description?: string;
+  contenusAssocies?: ContenuAssocie[];
 }

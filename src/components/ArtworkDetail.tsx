@@ -17,6 +17,7 @@ interface Props {
   favori: boolean;
   onToggleFavori: () => void;
   onNavigateTab: (tab: string) => void;
+  onOuvrirBoutique: (artworkId: string) => void;
 }
 
 export function ArtworkDetail({
@@ -27,6 +28,7 @@ export function ArtworkDetail({
   favori,
   onToggleFavori,
   onNavigateTab,
+  onOuvrirBoutique,
 }: Props) {
   const [descriptionOuverte, setDescriptionOuverte] = useState(false);
 
@@ -104,7 +106,10 @@ export function ArtworkDetail({
                   </Text>
                 </View>
               </View>
-              <Pressable style={styles.promoButton}>
+              <Pressable
+                style={styles.promoButton}
+                onPress={() => onOuvrirBoutique(artwork.id)}
+              >
                 <Text style={styles.promoButtonText}>Découvrir la sélection</Text>
               </Pressable>
             </View>

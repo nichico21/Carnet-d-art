@@ -40,6 +40,12 @@ export function CatalogueScreen() {
           setSelected(null);
           navigation.navigate(tab as never);
         }}
+        onOuvrirBoutique={(artworkId) => {
+          setSelected(null);
+          (navigation.navigate as (name: string, params?: object) => void)('Boutique', {
+            artworkId,
+          });
+        }}
       />
     </SafeAreaView>
   );

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Image, Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -139,16 +140,18 @@ function Hero({
   onToggleFavori: () => void;
 }) {
   const insets = useSafeAreaInsets();
+  const [echecImage, setEchecImage] = useState(false);
   const gradientColors = artwork.couleursDominantes.map((c) => c.hex);
   const scrimColors = ['transparent', 'rgba(0,0,0,0.75)'] as const;
 
   return (
     <View style={styles.hero}>
-      {artwork.imageUrl ? (
+      {artwork.imageUrl && !echecImage ? (
         <Image
           source={{ uri: artwork.imageUrl }}
           style={StyleSheet.absoluteFill}
-          resizeMode="cover"
+          contentFit="cover"
+          onError={() => setEchecImage(true)}
         />
       ) : (
         <LinearGradient

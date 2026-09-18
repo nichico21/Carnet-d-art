@@ -1,16 +1,26 @@
-import React from 'react';
-import { Image, StyleSheet, View } from 'react-native';
+import React, { useState } from 'react';
+import { StyleSheet, View } from 'react-native';
+import { Image } from 'expo-image';
 import { Artwork } from '../types/artwork';
 
 /**
  * Couverture d'une œuvre : la vraie image quand on l'a (domaine public,
- * Wikimedia Commons), sinon un aplat des couleurs dominantes en repli.
+ * Wikimedia Commons), sinon un aplat des couleurs dominantes — utilisé
+ * aussi en repli si l'image échoue à charger.
  * À placer dans un conteneur qui fixe hauteur/overflow/arrondi.
  */
 export function ArtworkCover({ artwork }: { artwork: Artwork }) {
-  if (artwork.imageUrl) {
+  const [echec, setEchec] = useState(false);
+
+  if (artwork.imageUrl && !echec) {
     return (
-      <Image source={{ uri: artwork.imageUrl }} style={styles.image} resizeMode="cover" />
+      <Image
+        source={{ uri: artwork.imageUrl }}
+        style={styles.image}
+        contentFit="cover"
+        transition={150}
+        onError={() => setEchec(true)}
+      />
     );
   }
 

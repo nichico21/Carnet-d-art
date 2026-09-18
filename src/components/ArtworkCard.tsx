@@ -2,6 +2,7 @@ import React from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Artwork, THEME_LABELS } from '../types/artwork';
 import { colors } from '../theme/colors';
+import { ArtworkCover } from './ArtworkCover';
 
 interface Props {
   artwork: Artwork;
@@ -12,9 +13,7 @@ export function ArtworkCard({ artwork, onPress }: Props) {
   return (
     <Pressable style={styles.card} onPress={onPress}>
       <View style={styles.cover}>
-        {artwork.couleursDominantes.map((c) => (
-          <View key={c.hex} style={[styles.swatch, { backgroundColor: c.hex }]} />
-        ))}
+        <ArtworkCover artwork={artwork} />
       </View>
       <View style={styles.body}>
         <Text style={styles.titre} numberOfLines={1}>
@@ -48,11 +47,7 @@ const styles = StyleSheet.create({
     borderColor: colors.border,
   },
   cover: {
-    flexDirection: 'row',
     height: 120,
-  },
-  swatch: {
-    flex: 1,
   },
   body: {
     padding: 12,

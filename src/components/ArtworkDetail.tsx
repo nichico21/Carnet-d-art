@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Image, Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -144,12 +144,20 @@ function Hero({
 
   return (
     <View style={styles.hero}>
-      <LinearGradient
-        colors={gradientColors.length > 1 ? (gradientColors as any) : [gradientColors[0], gradientColors[0]]}
-        start={{ x: 0, y: 0 }}
-        end={{ x: 1, y: 1 }}
-        style={StyleSheet.absoluteFill}
-      />
+      {artwork.imageUrl ? (
+        <Image
+          source={{ uri: artwork.imageUrl }}
+          style={StyleSheet.absoluteFill}
+          resizeMode="cover"
+        />
+      ) : (
+        <LinearGradient
+          colors={gradientColors.length > 1 ? (gradientColors as any) : [gradientColors[0], gradientColors[0]]}
+          start={{ x: 0, y: 0 }}
+          end={{ x: 1, y: 1 }}
+          style={StyleSheet.absoluteFill}
+        />
+      )}
       <LinearGradient colors={scrimColors} style={StyleSheet.absoluteFill} />
 
       <View style={[styles.heroTopBar, { paddingTop: insets.top + 8 }]}>

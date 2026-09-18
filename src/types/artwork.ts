@@ -66,6 +66,9 @@ export interface Artwork {
   /** Dates de naissance et de mort de l'artiste, ex: "1853 – 1890" */
   artisteAnnees?: string;
   annee: string;
+  /** Image réelle de l'œuvre (domaine public, Wikimedia Commons). Sans
+   * cette valeur, l'app retombe sur un aplat des couleurs dominantes. */
+  imageUrl?: string;
   technique: string;
   dimensions?: string;
   lieuConservation: string;

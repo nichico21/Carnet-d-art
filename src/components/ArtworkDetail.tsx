@@ -8,6 +8,8 @@ import { Artwork } from '../types/artwork';
 import { colors } from '../theme/colors';
 import { StarRating } from './StarRating';
 import { CustomTabBar } from '../navigation/CustomTabBar';
+import { ZoomableImage } from './ZoomableImage';
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 interface Props {
   artwork: Artwork | null;
@@ -121,30 +123,38 @@ function Hero({
   const insets = useSafeAreaInsets();
   const [tentative, setTentative] = useState(0);
   const [echecDefinitif, setEchecDefinitif] = useState(false);
+  const [pleinEcran, setPleinEcran] = useState(false);
   const scrimColors = ['transparent', 'rgba(0,0,0,0.75)'] as const;
   const uri = artwork.imageUrl ? `${artwork.imageUrl}?width=1200` : undefined;
 
   return (
     <View style={styles.hero}>
-      {uri && !echecDefinitif ? (
-        <Image
-          key={tentative}
-          source={{ uri }}
-          style={StyleSheet.absoluteFill}
-          contentFit="cover"
-          cachePolicy="memory-disk"
-          onError={() => {
-            if (tentative < 2) {
-              setTimeout(() => setTentative((t) => t + 1), 1500 * (tentative + 1));
-            } else {
-              setEchecDefinitif(true);
-            }
-          }}
-        />
-      ) : (
-        <View style={[StyleSheet.absoluteFill, { backgroundColor: colors.border }]} />
-      )}
-      <LinearGradient colors={scrimColors} style={StyleSheet.absoluteFill} />
+      <Pressable
+        style={StyleSheet.absoluteFill}
+        onPress={() => uri && !echecDefinitif && setPleinEcran(true)}
+      >
+        {uri && !echecDefinitif ? (
+          <Image
+            key={tentative}
+            source={{ uri }}
+            placeholder={{ uri: artwork.imageUrl ? `${artwork.imageUrl}?width=500` : undefined }}
+            placeholderContentFit="cover"
+            style={StyleSheet.absoluteFill}
+            contentFit="cover"
+            cachePolicy="memory-disk"
+            onError={() => {
+              if (tentative < 2) {
+                setTimeout(() => setTentative((t) => t + 1), 1500 * (tentative + 1));
+              } else {
+                setEchecDefinitif(true);
+              }
+            }}
+          />
+        ) : (
+          <View style={[StyleSheet.absoluteFill, { backgroundColor: colors.border }]} />
+        )}
+      </Pressable>
+      <LinearGradient colors={scrimColors} style={StyleSheet.absoluteFill} pointerEvents="none" />
 
       <View style={[styles.heroTopBar, { paddingTop: insets.top + 8 }]}>
         <Pressable style={styles.iconButton} onPress={onClose}>
@@ -168,7 +178,7 @@ function Hero({
         />
       </Pressable>
 
-      <View style={styles.heroTextBlock}>
+      <View style={styles.heroTextBlock} pointerEvents="none">
         <Text style={styles.heroTitre}>{artwork.titre}</Text>
         <Text style={styles.heroAnnee}>{artwork.annee}</Text>
         <Text style={styles.heroArtiste}>
@@ -186,6 +196,25 @@ function Hero({
           </Text>
         </View>
       </View>
+
+      <Modal
+        visible={pleinEcran}
+        transparent
+        animationType="fade"
+        onRequestClose={() => setPleinEcran(false)}
+      >
+        <GestureHandlerRootView style={{ flex: 1 }}>
+        <Pressable style={styles.viewerBackdrop} onPress={() => setPleinEcran(false)}>
+         {uri && <ZoomableImage uri={uri} />}
+          <Pressable
+            style={[styles.viewerClose, { top: insets.top + 12 }]}
+            onPress={() => setPleinEcran(false)}
+          >
+            <Ionicons name="close" size={24} color="#FFFFFF" />
+          </Pressable>
+        </Pressable>
+         </GestureHandlerRootView>
+      </Modal>
     </View>
   );
 }
@@ -240,6 +269,26 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  viewerBackdrop: {
+  flex: 1,
+  backgroundColor: 'rgba(0,0,0,0.95)',
+  alignItems: 'center',
+  justifyContent: 'center',
+},
+viewerImage: {
+  width: '100%',
+  height: '100%',
+},
+viewerClose: {
+  position: 'absolute',
+  right: 16,
+  width: 36,
+  height: 36,
+  borderRadius: 18,
+  backgroundColor: 'rgba(255,255,255,0.15)',
+  alignItems: 'center',
+  justifyContent: 'center',
+},
   favoriButton: {
     position: 'absolute',
     right: 16,

@@ -1,8 +1,8 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { ProfilScreen } from '../screens/ProfilScreen';
-import { AccueilScreen } from '../screens/AccueilScreen';
 import { PlaceholderScreen } from '../screens/PlaceholderScreen';
+import { AccueilStack } from './AccueilStack';
 import { ExploreStack } from './ExploreStack';
 import { CarnetStack } from './CarnetStack';
 import { CustomTabBar } from './CustomTabBar';
@@ -28,7 +28,7 @@ export function RootTabs() {
         />
       )}
     >
-      <Tab.Screen name="Accueil" component={AccueilScreen} />
+      <Tab.Screen name="Accueil" component={AccueilStack} />
       <Tab.Screen name="Explorer" component={ExploreStack} />
       <Tab.Screen name="Carte">{() => <PlaceholderScreen nom="Carte" />}</Tab.Screen>
       <Tab.Screen name="Carnet" component={CarnetStack} />

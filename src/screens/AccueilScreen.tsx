@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import { useNavigation } from '@react-navigation/native';
 import { ARTWORKS } from '../data/artworks';
 import {
   EXPOSITIONS_A_VENIR,
@@ -15,6 +16,7 @@ import { colors } from '../theme/colors';
 const ONGLETS = ['Pour vous', 'Artistes', 'Mouvements', 'Thèmes'];
 
 export function AccueilScreen() {
+  const navigation = useNavigation();
   const [onglet, setOnglet] = useState('Pour vous');
   const [favoriSelection, setFavoriSelection] = useState(false);
 
@@ -92,9 +94,15 @@ export function AccueilScreen() {
               ))}
             </ScrollView>
 
-            <Section title="Expositions à ne pas manquer" action="Voir tout" />
+            <Section
+              title="Expositions à ne pas manquer"
+              action="Voir tout"
+              onPressAction={() => navigation.navigate('Expositions' as never)}
+            />
             {EXPOSITIONS_A_VENIR.map((e) => (
-              <ExpoAVenirCard key={e.id} expo={e} />
+              <Pressable key={e.id} onPress={() => navigation.navigate('Expositions' as never)}>
+                <ExpoAVenirCard expo={e} />
+              </Pressable>
             ))}
           </>
         )}
@@ -103,11 +111,21 @@ export function AccueilScreen() {
   );
 }
 
-function Section({ title, action }: { title: string; action: string }) {
+function Section({
+  title,
+  action,
+  onPressAction,
+}: {
+  title: string;
+  action: string;
+  onPressAction?: () => void;
+}) {
   return (
     <View style={styles.sectionHeader}>
       <Text style={styles.sectionTitle}>{title}</Text>
-      <Text style={styles.sectionAction}>{action}</Text>
+      <Text style={styles.sectionAction} onPress={onPressAction}>
+        {action}
+      </Text>
     </View>
   );
 }

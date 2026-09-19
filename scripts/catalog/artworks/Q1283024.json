@@ -1,0 +1,20 @@
+{
+  "titre": "La Naissance de Vénus",
+  "artiste": "William Bouguereau",
+  "annee": "1879",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20The%20Birth%20of%20Venus%20%281879%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1283024",
+  "ville": "Paris",
+  "pays": "France"
+}

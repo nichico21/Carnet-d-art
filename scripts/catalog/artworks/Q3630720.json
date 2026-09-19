@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait de l'artiste",
+  "artiste": "Paul Cézanne",
+  "annee": "1877",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20l%27artiste%2C%20par%20Paul%20C%C3%A9zanne%2C%20MNR228%2C%20Mus%C3%A9e%20d%27Orsay.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3630720",
+  "ville": "Paris",
+  "pays": "France"
+}

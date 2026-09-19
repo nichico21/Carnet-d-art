@@ -1,0 +1,20 @@
+{
+  "titre": "Chaumes de Cordeville",
+  "artiste": "Vincent van Gogh",
+  "annee": "1890",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Thatched%20Cottages%20at%20Cordeville%20-%20Google%20Art%20Project.jpg",
+  "technique": "pierre",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3661863",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Léal Souvenir",
+  "artiste": "Jan van Eyck",
+  "annee": "1432",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eyck%2C%20Jan%20van%20-%20Portrait%20of%20a%20Young%20Man%20%28Tymotheos%29%20-%20National%20Gallery%2C%20London.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1150782",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

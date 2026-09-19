@@ -1,0 +1,20 @@
+{
+  "titre": "Danseuses bleues",
+  "artiste": "Edgar Degas",
+  "annee": "1890",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20071.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17491198",
+  "ville": "Paris",
+  "pays": "France"
+}

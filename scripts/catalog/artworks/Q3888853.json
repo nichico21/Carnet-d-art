@@ -1,0 +1,20 @@
+{
+  "titre": "Paysage de l'Île-de-France",
+  "artiste": "Georges Seurat",
+  "annee": "1881",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Paysage%20d%27%C3%8Ele-de-France.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3888853",
+  "ville": "Paris",
+  "pays": "France"
+}

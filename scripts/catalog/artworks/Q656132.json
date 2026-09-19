@@ -1,0 +1,20 @@
+{
+  "titre": "Le Cercle de la rue Royale",
+  "artiste": "James Tissot",
+  "annee": "1868",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Tissot%20-%20The%20Circle%20of%20the%20Rue%20Royale%20-%20Google%20Art%20Project.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q656132",
+  "ville": "Paris",
+  "pays": "France"
+}

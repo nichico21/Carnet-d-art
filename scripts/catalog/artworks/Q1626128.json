@@ -1,0 +1,20 @@
+{
+  "titre": "Hommage à Delacroix",
+  "artiste": "Henri Fantin-Latour",
+  "annee": "1864",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hommage%20%C3%A0%20Delacroix%20-%20Henri%20Fantin-Latour.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1626128",
+  "ville": "Paris",
+  "pays": "France"
+}

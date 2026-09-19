@@ -1,0 +1,20 @@
+{
+  "titre": "Autoportrait au chevalet",
+  "artiste": "Gustave Caillebotte",
+  "annee": "1879",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/G.Caillebotte%20-%20Autoportrait%20au%20chevalet.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q15973382",
+  "ville": "Paris",
+  "pays": "France"
+}

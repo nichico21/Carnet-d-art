@@ -1,0 +1,20 @@
+{
+  "titre": "Bateaux de plaisance",
+  "artiste": "Claude Monet",
+  "annee": "1872",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Bateaux%20de%20plaisance%2C%20Argenteuil%2C%201872-1873.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17490850",
+  "ville": "Paris",
+  "pays": "France"
+}

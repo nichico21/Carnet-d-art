@@ -1,0 +1,20 @@
+{
+  "titre": "Nu bleu IV",
+  "artiste": "Henri Matisse",
+  "annee": "1952",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Matisse%2C%20Nu%20bleu%20IV%2C%20Nice%2C%201952%2C%20Mus%C3%A9e%20Matisse%20de%20Nice.jpg",
+  "technique": "papier",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1853880",
+  "ville": "Paris",
+  "pays": "France"
+}

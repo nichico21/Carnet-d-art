@@ -1,0 +1,20 @@
+{
+  "titre": "Les Parapluies",
+  "artiste": "Auguste Renoir",
+  "annee": "1881",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%2C%20The%20Umbrellas%2C%20ca.%201881-86.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1114571",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

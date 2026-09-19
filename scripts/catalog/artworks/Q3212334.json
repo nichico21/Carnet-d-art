@@ -1,0 +1,20 @@
+{
+  "titre": "La Rivière",
+  "artiste": "Aristide Maillol",
+  "annee": "1938",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Rivi%C3%A8re%20by%20Aristide%20Maillol%2C%20Paris%207%20October%202012.jpg",
+  "technique": "plomb",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3212334",
+  "ville": "Paris",
+  "pays": "France"
+}

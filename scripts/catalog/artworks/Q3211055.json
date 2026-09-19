@@ -1,0 +1,20 @@
+{
+  "titre": "La Nativité",
+  "artiste": "Piero della Francesca",
+  "annee": "1480",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20041.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3211055",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

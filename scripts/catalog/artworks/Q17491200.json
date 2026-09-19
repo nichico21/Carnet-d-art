@@ -1,0 +1,20 @@
+{
+  "titre": "Daphnis et Chloé",
+  "artiste": "François-Louis Français",
+  "annee": "1872",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois-Louis%20Fran%C3%A7ais-Paysage%20avec%20Daphnis%20et%20Chlo%C3%A9%20%281%29.jpg",
+  "technique": "toile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17491200",
+  "ville": "Paris",
+  "pays": "France"
+}

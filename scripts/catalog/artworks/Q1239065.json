@@ -1,0 +1,20 @@
+{
+  "titre": "Ecce Homo",
+  "artiste": "Andrea Mantegna",
+  "annee": "1500",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecce-homo%20Mantegna.jpg",
+  "technique": "tempera",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1239065",
+  "ville": "Paris",
+  "pays": "France"
+}

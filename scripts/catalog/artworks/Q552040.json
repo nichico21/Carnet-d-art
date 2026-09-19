@@ -1,0 +1,20 @@
+{
+  "titre": "Le Songe du chevalier",
+  "artiste": "Raphaël",
+  "annee": "1504",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanzio%20Raffaello%20-%20Visione%20del%20cavaliere%20%28circa%201504%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q552040",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

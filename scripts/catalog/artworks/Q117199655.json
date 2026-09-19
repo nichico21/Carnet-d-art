@@ -1,0 +1,20 @@
+{
+  "titre": "La Fuite en Égypte",
+  "artiste": "Sandro Botticelli",
+  "annee": "1510",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Huida%20a%20Egipto%2C%20Sandro%20Botticelli.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q117199655",
+  "ville": "Paris",
+  "pays": "France"
+}

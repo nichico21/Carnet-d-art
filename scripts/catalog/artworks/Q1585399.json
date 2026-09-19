@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait d'Isabelle Porcel",
+  "artiste": "Francisco de Goya",
+  "annee": "1800",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Do%C3%B1a%20Isabel%20de%20Porcel%20by%20Francisco%20Goya.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1585399",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

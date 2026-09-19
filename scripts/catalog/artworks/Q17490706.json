@@ -1,0 +1,20 @@
+{
+  "titre": "Apothéose de Delacroix",
+  "artiste": "Paul Cézanne",
+  "annee": "1890",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apoth%C3%A9ose%20de%20Delacroix%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17490706",
+  "ville": "Paris",
+  "pays": "France"
+}

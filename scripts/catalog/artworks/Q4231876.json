@@ -1,0 +1,20 @@
+{
+  "titre": "Un concert",
+  "artiste": "Lorenzo Costa",
+  "annee": "1490",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Costa%20-%20Un%20concerto%20%28National%20Gallery%2C%20London%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q4231876",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

@@ -7,7 +7,6 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Artwork } from '../types/artwork';
 import { colors } from '../theme/colors';
 import { StarRating } from './StarRating';
-import { ContentCard } from './ContentCard';
 import { CustomTabBar } from '../navigation/CustomTabBar';
 
 interface Props {
@@ -77,26 +76,6 @@ export function ArtworkDetail({
                 </View>
               </Section>
 
-              {artwork.contenusAssocies && artwork.contenusAssocies.length > 0 && (
-                <>
-                  <View style={styles.divider} />
-                  <Section
-                    title="Pour approfondir"
-                    action={<Text style={styles.link}>Voir tout</Text>}
-                  >
-                    <ScrollView
-                      horizontal
-                      showsHorizontalScrollIndicator={false}
-                      style={styles.contenusScroll}
-                    >
-                      {artwork.contenusAssocies.map((c) => (
-                        <ContentCard key={c.titre} contenu={c} />
-                      ))}
-                    </ScrollView>
-                  </Section>
-                </>
-              )}
-
               <View style={styles.promo}>
                 <Ionicons name="bag-outline" size={20} color={colors.accent} />
                 <View style={styles.promoTextBlock}>
@@ -140,26 +119,30 @@ function Hero({
   onToggleFavori: () => void;
 }) {
   const insets = useSafeAreaInsets();
-  const [echecImage, setEchecImage] = useState(false);
-  const gradientColors = artwork.couleursDominantes.map((c) => c.hex);
+  const [tentative, setTentative] = useState(0);
+  const [echecDefinitif, setEchecDefinitif] = useState(false);
   const scrimColors = ['transparent', 'rgba(0,0,0,0.75)'] as const;
+  const uri = artwork.imageUrl ? `${artwork.imageUrl}?width=1200` : undefined;
 
   return (
     <View style={styles.hero}>
-      {artwork.imageUrl && !echecImage ? (
+      {uri && !echecDefinitif ? (
         <Image
-          source={{ uri: artwork.imageUrl }}
+          key={tentative}
+          source={{ uri }}
           style={StyleSheet.absoluteFill}
           contentFit="cover"
-          onError={() => setEchecImage(true)}
+          cachePolicy="memory-disk"
+          onError={() => {
+            if (tentative < 2) {
+              setTimeout(() => setTentative((t) => t + 1), 1500 * (tentative + 1));
+            } else {
+              setEchecDefinitif(true);
+            }
+          }}
         />
       ) : (
-        <LinearGradient
-          colors={gradientColors.length > 1 ? (gradientColors as any) : [gradientColors[0], gradientColors[0]]}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 1, y: 1 }}
-          style={StyleSheet.absoluteFill}
-        />
+        <View style={[StyleSheet.absoluteFill, { backgroundColor: colors.border }]} />
       )}
       <LinearGradient colors={scrimColors} style={StyleSheet.absoluteFill} />
 

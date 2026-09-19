@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait d'homme",
+  "artiste": "Frans Hals",
+  "annee": "1660",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20-%20Portrait%20d%E2%80%99homme.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q16038699",
+  "ville": "Paris",
+  "pays": "France"
+}

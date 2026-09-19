@@ -1,0 +1,20 @@
+{
+  "titre": "Diane et Callisto",
+  "artiste": "Titien",
+  "annee": "1557",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20015%20%282%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q4161055",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

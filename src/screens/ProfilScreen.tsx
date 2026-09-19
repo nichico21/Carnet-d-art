@@ -4,8 +4,10 @@ import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { PROFIL_COURANT } from '../data/profile';
-import { ARTWORKS } from '../data/artworks';
+import { ARTWORKS } from '../data/artworks.generated';
 import { colors } from '../theme/colors';
+import { ArtworkCover } from '../components/ArtworkCover';
+
 
 const ONGLETS = ['Aperçu', 'Carnet', 'Expositions', 'Collections', 'Activité'];
 
@@ -129,12 +131,7 @@ export function ProfilScreen() {
                   return (
                     <View key={artworkId} style={styles.oeuvreCard}>
                       <View style={styles.oeuvreCover}>
-                        {oeuvre.couleursDominantes.map((c) => (
-                          <View
-                            key={c.hex}
-                            style={[styles.oeuvreSwatch, { backgroundColor: c.hex }]}
-                          />
-                        ))}
+                        <ArtworkCover artwork={oeuvre} />
                         <View style={styles.oeuvreHeart}>
                           <Ionicons name="heart-outline" size={14} color={colors.textPrimary} />
                         </View>
@@ -376,7 +373,6 @@ const styles = StyleSheet.create({
     marginRight: 12,
   },
   oeuvreCover: {
-    flexDirection: 'row',
     height: 110,
     borderRadius: 12,
     overflow: 'hidden',

@@ -1,0 +1,20 @@
+{
+  "titre": "Femme assoupie sur un lit",
+  "artiste": "Pierre Bonnard",
+  "annee": "1899",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Femme%20assoupie%20sur%20un%20lit%20-%20Pierre%20Bonnard%20-%20Mus%C3%A9e%20d%27Orsay%20RF%201977%2075.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3819310",
+  "ville": "Paris",
+  "pays": "France"
+}

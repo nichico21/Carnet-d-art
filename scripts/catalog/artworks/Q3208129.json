@@ -1,0 +1,20 @@
+{
+  "titre": "La Danse",
+  "artiste": "Jean-Baptiste Carpeaux",
+  "annee": "1865",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danse%20Carpeaux.jpg",
+  "technique": null,
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3208129",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait de l'artiste",
+  "artiste": "Edgar Degas",
+  "annee": "1854",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg",
+  "technique": "papier",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3630723",
+  "ville": "Paris",
+  "pays": "France"
+}

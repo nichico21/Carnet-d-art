@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { FlatList, Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
-import { ARTWORKS } from '../data/artworks';
+import { ARTWORKS } from '../data/artworks.generated';
 import { Artwork } from '../types/artwork';
 import { ArtworkCard } from '../components/ArtworkCard';
 import { ArtworkDetail } from '../components/ArtworkDetail';
@@ -49,6 +49,10 @@ export function CatalogueScreen() {
           renderItem={({ item }) => (
             <ArtworkCard artwork={item} onPress={() => setSelected(item)} />
           )}
+          initialNumToRender={5}
+  maxToRenderPerBatch={5}
+  windowSize={5}
+  removeClippedSubviews
         />
       )}
 

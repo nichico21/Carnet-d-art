@@ -1,0 +1,20 @@
+{
+  "titre": "Vue du canal Saint-Martin",
+  "artiste": "Alfred Sisley",
+  "annee": "1870",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sisley%2C%20St%20Martin%20Canal%201870.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3563746",
+  "ville": "Paris",
+  "pays": "France"
+}

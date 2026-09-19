@@ -1,0 +1,20 @@
+{
+  "titre": "Le Défilé",
+  "artiste": "Edgar Degas",
+  "annee": "1866",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20040.jpg",
+  "technique": "papier",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3663927",
+  "ville": "Paris",
+  "pays": "France"
+}

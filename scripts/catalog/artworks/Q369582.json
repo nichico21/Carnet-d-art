@@ -1,0 +1,20 @@
+{
+  "titre": "Maestà",
+  "artiste": "Masaccio",
+  "annee": "1426",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio.%20Madonna%20and%20Child.%201426.%20National%20Gallery%2C%20London.jpg",
+  "technique": "détrempe à l'œuf",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q369582",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

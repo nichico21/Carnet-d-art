@@ -1,0 +1,20 @@
+{
+  "titre": "Danse orientale",
+  "artiste": "Ernest Hébert",
+  "annee": "1846",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20danse%20orientale%20-%20H%C3%A9bert.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17491192",
+  "ville": "Paris",
+  "pays": "France"
+}

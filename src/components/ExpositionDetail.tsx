@@ -2,7 +2,7 @@ import React from 'react';
 import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { Exposition } from '../types/exposition';
-import { ARTWORKS } from '../data/artworks';
+import { ARTWORKS } from '../data/artworks.generated';
 import { colors } from '../theme/colors';
 import { StarRating } from './StarRating';
 import { ArtworkCover } from './ArtworkCover';

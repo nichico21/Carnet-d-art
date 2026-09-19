@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait d'un homme (autoportrait?)",
+  "artiste": "Jan van Eyck",
+  "annee": "1433",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q2392901",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

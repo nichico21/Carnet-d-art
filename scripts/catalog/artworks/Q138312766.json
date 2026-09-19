@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait de femme",
+  "artiste": "Giovanni Cariani",
+  "annee": "1535",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20muliebre%20di%20anonimo%20veneziano.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q138312766",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Les attributs des Sciences",
+  "artiste": "Jean Siméon Chardin",
+  "annee": "1731",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20-%20Les%20attributs%20des%20Sciences.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q138412291",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "La Bohémienne",
+  "artiste": "Cornelis Visscher",
+  "annee": "1656",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heidin%20Spondeo%20divitius%20pauper%20%28..%29%20verba%20dedissi%20%28titel%20op%20object%29%2C%20RP-P-H-H-1289.jpg",
+  "technique": null,
+  "lieuConservation": "Musée du Louvre",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q47534662",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait d'homme",
+  "artiste": "Antoine van Dyck",
+  "annee": "1620",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Dyck%20-%20Portrait%20of%20a%20Judge%2C%20Circa%201620.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q88483146",
+  "ville": "Paris",
+  "pays": "France"
+}

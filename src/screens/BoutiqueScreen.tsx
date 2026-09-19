@@ -3,7 +3,7 @@ import { SafeAreaView, ScrollView, StyleSheet, Text, TextInput, View } from 'rea
 import { Ionicons } from '@expo/vector-icons';
 import { useRoute, RouteProp } from '@react-navigation/native';
 import { DERNIERS_PRODUITS_VUS, IDEES_GOUTS, SELECTION_BOUTIQUE } from '../data/boutique';
-import { ARTWORKS } from '../data/artworks';
+import { ARTWORKS } from '../data/artworks.generated';
 import { ProductCard } from '../components/boutique/ProductCard';
 import { GoutCircle } from '../components/boutique/GoutCircle';
 import { colors } from '../theme/colors';

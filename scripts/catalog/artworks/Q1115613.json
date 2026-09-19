@@ -1,0 +1,20 @@
+{
+  "titre": "Madonna del prato",
+  "artiste": "Giovanni Bellini",
+  "annee": "1500",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellini%2C%20Giovanni%20-%20Madonna%20of%20the%20Meadow.jpeg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1115613",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Les Époux Arnolfini",
+  "artiste": "Jan van Eyck",
+  "annee": "1434",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Eyck%20-%20Arnolfini%20Portrait.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q220859",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

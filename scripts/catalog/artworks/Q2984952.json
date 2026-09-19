@@ -1,0 +1,20 @@
+{
+  "titre": "Combat de taureaux",
+  "artiste": "Édouard Manet",
+  "annee": "1865",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stierkampf%20%281865-1866%29%20Edouard%20Manet%20%28Mus%C3%A9e%20d%27Orsay%2C%20Paris%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q2984952",
+  "ville": "Paris",
+  "pays": "France"
+}

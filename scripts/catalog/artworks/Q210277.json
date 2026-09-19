@@ -1,0 +1,20 @@
+{
+  "titre": "La Musique aux Tuileries",
+  "artiste": "Édouard Manet",
+  "annee": "1862",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MANET%20-%20M%C3%BAsica%20en%20las%20Tuller%C3%ADas%20%28National%20Gallery%2C%20Londres%2C%201862%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q210277",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

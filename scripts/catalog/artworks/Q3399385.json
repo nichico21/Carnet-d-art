@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait d'Eugène Boch",
+  "artiste": "Vincent van Gogh",
+  "annee": "1888",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Eug%C3%A8ne%20Boch%20-%20Google%20Art%20Project.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3399385",
+  "ville": "Paris",
+  "pays": "France"
+}

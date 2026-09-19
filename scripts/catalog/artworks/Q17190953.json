@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait de Mademoiselle L.L.",
+  "artiste": "James Tissot",
+  "annee": "1864",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Tissot%20-%20Portrait%20de%20Mlle%20L.%20L%20-%20mus%C3%A9e%20d%27Orsay.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17190953",
+  "ville": "Paris",
+  "pays": "France"
+}

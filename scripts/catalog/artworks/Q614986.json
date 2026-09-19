@@ -1,0 +1,20 @@
+{
+  "titre": "Une moderne Olympia",
+  "artiste": "Paul Cézanne",
+  "annee": "1873",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Cezanne%2C%20A%20Modern%20Olympia%2C%20c.%201873-1874.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q614986",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Danse à la ville",
+  "artiste": "Auguste Renoir",
+  "annee": "1883",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Danse%20%C3%A0%20la%20ville%20%28Pierre-Auguste%20Renoir%29-WUS07474%20%28cropped%29.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3633456",
+  "ville": "Paris",
+  "pays": "France"
+}

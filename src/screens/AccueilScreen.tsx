@@ -2,16 +2,13 @@ import React, { useState } from 'react';
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
-import { ARTWORKS } from '../data/artworks';
-import {
-  EXPOSITIONS_A_VENIR,
-  NOUVEAUTES_IDS,
-  PARCE_QUE_VOUS_AIMEZ,
-  SELECTION_ACCUEIL_ID,
-} from '../data/accueil';
+import { ARTWORKS } from '../data/artworks.generated';
+import { EXPOSITIONS_A_VENIR, PARCE_QUE_VOUS_AIMEZ } from '../data/accueil';
 import { NouveauteCard } from '../components/accueil/NouveauteCard';
 import { ExpoAVenirCard } from '../components/accueil/ExpoAVenirCard';
 import { colors } from '../theme/colors';
+import { ArtworkCover } from '../components/ArtworkCover';
+
 
 const ONGLETS = ['Pour vous', 'Artistes', 'Mouvements', 'Thèmes'];
 
@@ -20,10 +17,9 @@ export function AccueilScreen() {
   const [onglet, setOnglet] = useState('Pour vous');
   const [favoriSelection, setFavoriSelection] = useState(false);
 
-  const selection = ARTWORKS.find((a) => a.id === SELECTION_ACCUEIL_ID)!;
-  const nouveautes = NOUVEAUTES_IDS.map((id) => ARTWORKS.find((a) => a.id === id)!).filter(
-    Boolean,
-  );
+  const artworksValides = ARTWORKS.filter((a) => a.statut === 'valide' && a.imageUrl);
+const selection = artworksValides[0] ?? ARTWORKS[0];
+const nouveautes = artworksValides.slice(1, 4);
 
   return (
     <SafeAreaView style={styles.container}>
@@ -55,9 +51,7 @@ export function AccueilScreen() {
             <Section title="Sélection pour vous" action="Pourquoi ces œuvres ?" />
             <View style={styles.heroCard}>
               <View style={styles.heroCover}>
-                {selection.couleursDominantes.map((c) => (
-                  <View key={c.hex} style={[styles.heroSwatch, { backgroundColor: c.hex }]} />
-                ))}
+                <ArtworkCover artwork={selection} />
                 <Pressable
                   style={styles.heroHeart}
                   onPress={() => setFavoriSelection((v) => !v)}
@@ -203,9 +197,7 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     overflow: 'hidden',
   },
-  heroSwatch: {
-    flex: 1,
-  },
+  
   heroHeart: {
     position: 'absolute',
     top: 10,

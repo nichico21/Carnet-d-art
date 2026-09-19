@@ -1,0 +1,20 @@
+{
+  "titre": "Hôpital Saint-Paul à Saint-Rémy-de-Provence",
+  "artiste": "Vincent van Gogh",
+  "annee": "1889",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospital%20in%20Saint-Remy.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3703013",
+  "ville": "Paris",
+  "pays": "France"
+}

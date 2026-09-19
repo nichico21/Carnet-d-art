@@ -3,6 +3,7 @@ import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { Artwork } from '../../types/artwork';
 import { colors } from '../../theme/colors';
+import { ArtworkCover } from '../ArtworkCover';
 
 export function NouveauteCard({ artwork }: { artwork: Artwork }) {
   const [favori, setFavori] = useState(false);
@@ -10,9 +11,7 @@ export function NouveauteCard({ artwork }: { artwork: Artwork }) {
   return (
     <View style={styles.card}>
       <View style={styles.cover}>
-        {artwork.couleursDominantes.map((c) => (
-          <View key={c.hex} style={[styles.swatch, { backgroundColor: c.hex }]} />
-        ))}
+        <ArtworkCover artwork={artwork} />
         <Pressable style={styles.heart} onPress={() => setFavori((v) => !v)} hitSlop={6}>
           <Ionicons
             name={favori ? 'heart' : 'heart-outline'}
@@ -38,7 +37,6 @@ const styles = StyleSheet.create({
     marginRight: 12,
   },
   cover: {
-    flexDirection: 'row',
     height: 90,
     borderRadius: 12,
     overflow: 'hidden',

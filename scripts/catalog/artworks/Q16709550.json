@@ -1,0 +1,20 @@
+{
+  "titre": "La Dame aux éventails",
+  "artiste": "Édouard Manet",
+  "annee": "1873",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Nina%20de%20Callais.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q16709550",
+  "ville": "Paris",
+  "pays": "France"
+}

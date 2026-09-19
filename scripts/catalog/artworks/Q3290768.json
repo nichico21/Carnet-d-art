@@ -1,0 +1,20 @@
+{
+  "titre": "Marguerite de Conflans",
+  "artiste": "Édouard Manet",
+  "annee": "1876",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustins%20-%20Marguerite%20de%20Conflans%20-%20%C3%89douard%20Manet%20D1986.1.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3290768",
+  "ville": "Paris",
+  "pays": "France"
+}

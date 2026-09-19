@@ -1,0 +1,20 @@
+{
+  "titre": "Les Oréades",
+  "artiste": "William Bouguereau",
+  "annee": "1902",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe%20Bouguereau%20-%20Les%20Or%C3%A9ades.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q16372213",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "En norvégienne",
+  "artiste": "Claude Monet",
+  "annee": "1887",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20In%20der%20Barke.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3821388",
+  "ville": "Paris",
+  "pays": "France"
+}

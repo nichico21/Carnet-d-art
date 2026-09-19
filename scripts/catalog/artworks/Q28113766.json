@@ -1,0 +1,20 @@
+{
+  "titre": "Stag Hunt",
+  "artiste": "Jan Wildens",
+  "annee": "1650",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20de%20Vos%20%5E%20Jan%20Wildens%20-%20Stag%20Hunt%20-%20259%20-%20Mauritshuis.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée du Louvre",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q28113766",
+  "ville": "Paris",
+  "pays": "France"
+}

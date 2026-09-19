@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait d’homme",
+  "artiste": "Antonello de Messine",
+  "annee": "1475",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%20-%20Portrait%20of%20a%20Man%20-%20National%20Gallery%20London.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3937397",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

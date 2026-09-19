@@ -1,0 +1,20 @@
+{
+  "titre": "Dans les blés",
+  "artiste": "Berthe Morisot",
+  "annee": "1875",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Dans%20les%20bl%C3%A9s.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17491182",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "Un coin de table",
+  "artiste": "Henri Fantin-Latour",
+  "annee": "1872",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Fantin-Latour%20-%20By%20the%20Table%20-%20Google%20Art%20Project.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q428985",
+  "ville": "Paris",
+  "pays": "France"
+}

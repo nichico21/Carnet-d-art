@@ -1,0 +1,20 @@
+{
+  "titre": "Frédéric Bazille peignant à son chevalet",
+  "artiste": "Auguste Renoir",
+  "annee": "1867",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Fr%C3%A9d%C3%A9ric%20Bazille.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3089617",
+  "ville": "Paris",
+  "pays": "France"
+}

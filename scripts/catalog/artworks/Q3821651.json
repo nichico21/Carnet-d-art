@@ -1,0 +1,20 @@
+{
+  "titre": "La Maison du docteur Gachet",
+  "artiste": "Paul Cézanne",
+  "annee": "1872",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Maison%20du%20Docteur%20Gachet%20%C3%A0%20Auvers%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3821651",
+  "ville": "Paris",
+  "pays": "France"
+}

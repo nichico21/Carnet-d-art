@@ -1,0 +1,20 @@
+{
+  "titre": "Dans la serre",
+  "artiste": "Albert Bartholomé",
+  "annee": "1881",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/In%20the%20Greenhouse%20Bartholom%C3%A9%201881.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17491178",
+  "ville": "Paris",
+  "pays": "France"
+}

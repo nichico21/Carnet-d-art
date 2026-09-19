@@ -1,0 +1,20 @@
+{
+  "titre": "La Dame au gant",
+  "artiste": "Carolus-Duran",
+  "annee": "1869",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolus-Duran%20Dame%20au%20gant.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q2105253",
+  "ville": "Paris",
+  "pays": "France"
+}

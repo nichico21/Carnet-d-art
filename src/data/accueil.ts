@@ -1,12 +1,4 @@
-export const SELECTION_ACCUEIL_ID = 'signac-baie-saint-tropez';
-
 export const PARCE_QUE_VOUS_AIMEZ = ['Vallotton', 'Paysages', 'Nabis', 'Lumière'];
-
-export const NOUVEAUTES_IDS = [
-  'klimt-portrait-ada',
-  'vangogh-champs-ble-auvers',
-  'hopper-room-new-york',
-];
 
 export interface ExpoAVenir {
   id: string;

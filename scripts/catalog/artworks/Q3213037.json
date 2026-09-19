@@ -1,0 +1,20 @@
+{
+  "titre": "La Table de cuisine",
+  "artiste": "Paul Cézanne",
+  "annee": "1888",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Table%20de%20cuisine%2C%20par%20Paul%20C%C3%A9zanne%2C%20mus%C3%A9e%20d%27Orsay%2C%20Yorck.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3213037",
+  "ville": "Paris",
+  "pays": "France"
+}

@@ -1,0 +1,20 @@
+{
+  "titre": "L'Énigme",
+  "artiste": "Gustave Doré",
+  "annee": "1871",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27Enigme%20de%20Gustave%20Dor%C3%A9.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3205326",
+  "ville": "Paris",
+  "pays": "France"
+}

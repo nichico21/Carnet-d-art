@@ -1,0 +1,20 @@
+{
+  "titre": "Les Débuts du modèle",
+  "artiste": "Jean-Honoré Fragonard",
+  "annee": "1769",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20modele.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "musée Jacquemart-André",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3232204",
+  "ville": "Paris",
+  "pays": "France"
+}

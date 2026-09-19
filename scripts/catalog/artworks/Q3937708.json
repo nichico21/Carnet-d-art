@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait de jeune homme",
+  "artiste": "Titien",
+  "annee": "1517",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%2C%20ritratto%20halifax.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3937708",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

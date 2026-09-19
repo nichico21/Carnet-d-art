@@ -1,0 +1,25 @@
+{
+  "champs": [
+    { "nom": "id", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "titre", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "artiste", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "annee", "type": "string", "obligatoire": false, "source": "collecte" },
+    { "nom": "image", "type": "url", "obligatoire": true, "source": "collecte" },
+    { "nom": "technique", "type": "string", "obligatoire": false, "source": "collecte" },
+    { "nom": "lieuConservation", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "ville", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "pays", "type": "string", "obligatoire": true, "source": "collecte" },
+
+    { "nom": "mouvement", "type": "vocabulaire", "vocabulaire": "mouvements", "obligatoire": true, "source": "curation" },
+    { "nom": "themes", "type": "vocabulaire_liste", "vocabulaire": "themes", "obligatoire": false, "source": "curation" },
+    { "nom": "description_formelle", "type": "texte_long", "obligatoire": true, "source": "curation" },
+    { "nom": "contexte_creation", "type": "texte_long", "obligatoire": false, "source": "curation" },
+    { "nom": "anecdote", "type": "texte_long", "obligatoire": false, "source": "curation" },
+    { "nom": "pourquoi_ca_compte", "type": "texte_long", "obligatoire": false, "source": "curation" },
+
+    { "nom": "localisationSuspecte", "type": "boolean", "obligatoire": true, "source": "collecte" },
+    { "nom": "contenuSensible", "type": "boolean", "obligatoire": true, "source": "collecte" },
+
+    { "nom": "statut", "type": "vocabulaire", "vocabulaire": "statuts", "obligatoire": true, "source": "systeme" }
+  ]
+}

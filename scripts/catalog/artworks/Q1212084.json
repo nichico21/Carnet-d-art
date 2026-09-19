@@ -1,0 +1,20 @@
+{
+  "titre": "Le Pont d'Argenteuil",
+  "artiste": "Claude Monet",
+  "annee": "1874",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Pont%20d%27Argenteuil%20-%20Claude%20Monet.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1212084",
+  "ville": "Paris",
+  "pays": "France"
+}

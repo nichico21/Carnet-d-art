@@ -1,0 +1,20 @@
+{
+  "titre": "Baigneurs",
+  "artiste": "Paul Cézanne",
+  "annee": "1899",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baigneurs%2C%20Paul%20C%C3%A9zanne%2C%201899-1900%2C%20mus%C3%A9e%20d%27Orsay.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3632883",
+  "ville": "Paris",
+  "pays": "France"
+}

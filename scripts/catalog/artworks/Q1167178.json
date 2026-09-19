@@ -1,0 +1,20 @@
+{
+  "titre": "L'Atelier du peintre",
+  "artiste": "Gustave Courbet",
+  "annee": "1850",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20LAtelier%20du%20peintre.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1167178",
+  "ville": "Paris",
+  "pays": "France"
+}

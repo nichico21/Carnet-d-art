@@ -1,0 +1,20 @@
+{
+  "titre": "La Naissance de Vénus",
+  "artiste": "Alexandre Cabanel",
+  "annee": "1863",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20The%20Birth%20of%20Venus%20-%20Google%20Art%20Project%202.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1212861",
+  "ville": "Paris",
+  "pays": "France"
+}

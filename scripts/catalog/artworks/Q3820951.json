@@ -1,0 +1,20 @@
+{
+  "titre": "La Madeleine",
+  "artiste": "Paul Cézanne",
+  "annee": "1869",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Magdalen%2C%20or%20Sorrow.JPG",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3820951",
+  "ville": "Paris",
+  "pays": "France"
+}

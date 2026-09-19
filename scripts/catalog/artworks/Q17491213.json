@@ -1,0 +1,20 @@
+{
+  "titre": "Le Bûcheron",
+  "artiste": "Ferdinand Hodler",
+  "annee": "1910",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernidand%20Hodler%20-%20The%20Woodcutter%20-%20Google%20Art%20Project.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17491213",
+  "ville": "Paris",
+  "pays": "France"
+}

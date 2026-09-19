@@ -1,0 +1,20 @@
+{
+  "titre": "Portrait de L'Arioste",
+  "artiste": "Titien",
+  "annee": "1510",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20a%20man%20with%20a%20quilted%20sleeve.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "National Gallery",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q1238886",
+  "ville": "Londres",
+  "pays": "Royaume-Uni"
+}

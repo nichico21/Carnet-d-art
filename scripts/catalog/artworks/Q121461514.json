@@ -1,0 +1,20 @@
+{
+  "titre": "Gérôme exécutant Les Gladiateurs. Monument à Gérôme",
+  "artiste": "Jean-Léon Gérôme",
+  "annee": "1878",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9r%C3%B4me%20gladiateur.JPG",
+  "technique": "bronze",
+  "lieuConservation": "Musée du Louvre",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q121461514",
+  "ville": "Paris",
+  "pays": "France"
+}

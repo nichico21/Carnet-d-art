@@ -1,0 +1,20 @@
+{
+  "titre": "Adam et Ève",
+  "artiste": "Émile Bernard",
+  "annee": "1888",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Bernard%20Adam%20et%20Eve%201888%20Mus%C3%A9e%20d%27Orsay%20Paris.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": true,
+  "contenuSensible": false,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q17490655",
+  "ville": "Paris",
+  "pays": "France"
+}

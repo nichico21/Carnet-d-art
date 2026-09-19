@@ -1,0 +1,20 @@
+{
+  "titre": "Poseuse de profil",
+  "artiste": "Georges Seurat",
+  "annee": "1887",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Modella%20di%20profilo.jpg",
+  "technique": "peinture à l'huile",
+  "lieuConservation": "Musée d'Orsay",
+  "localisationSuspecte": false,
+  "contenuSensible": true,
+  "mouvement": null,
+  "themes": [],
+  "description_formelle": null,
+  "contexte_creation": null,
+  "anecdote": null,
+  "pourquoi_ca_compte": null,
+  "statut": "brouillon",
+  "id": "Q3859806",
+  "ville": "Paris",
+  "pays": "France"
+}

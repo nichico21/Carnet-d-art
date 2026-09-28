@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { ProfilScreen } from '../screens/ProfilScreen';
-import { PlaceholderScreen } from '../screens/PlaceholderScreen';
+import { JeuxAccueilScreen } from '../screens/jeux/JeuxAccueilScreen';
 import { AccueilStack } from './AccueilStack';
 import { ExploreStack } from './ExploreStack';
 import { CarnetStack } from './CarnetStack';
@@ -10,8 +10,8 @@ import { CustomTabBar } from './CustomTabBar';
 export type RootTabParamList = {
   Accueil: undefined;
   Explorer: undefined;
-  Carte: undefined;
   Carnet: undefined;
+  Jeux: undefined;
   Profil: undefined;
 };
 
@@ -30,8 +30,8 @@ export function RootTabs() {
     >
       <Tab.Screen name="Accueil" component={AccueilStack} />
       <Tab.Screen name="Explorer" component={ExploreStack} />
-      <Tab.Screen name="Carte">{() => <PlaceholderScreen nom="Carte" />}</Tab.Screen>
       <Tab.Screen name="Carnet" component={CarnetStack} />
+      <Tab.Screen name="Jeux" component={JeuxAccueilScreen} />
       <Tab.Screen name="Profil" component={ProfilScreen} />
     </Tab.Navigator>
   );

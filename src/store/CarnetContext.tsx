@@ -1,7 +1,16 @@
 import React, { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { calculerSerie, jourISO } from '../games/progression';
 
 const STORAGE_KEY = '@carnet-d-art/carnet-v1';
+
+interface JeuxState {
+  xp: number;
+  parties: number;
+  serie: number;
+  dernierJourJoue: string | null;
+  meilleursScores: Record<string, number>;
+}
 
 interface CarnetState {
   notes: Record<string, number>;
@@ -9,6 +18,7 @@ interface CarnetState {
   expositionNotes: Record<string, number>;
   veilleEnregistres: Record<string, boolean>;
   veilleDerniereConsultationId: string | null;
+  jeux: JeuxState;
 }
 
 interface CarnetContextValue extends CarnetState {
@@ -18,9 +28,18 @@ interface CarnetContextValue extends CarnetState {
   setExpositionNote: (expositionId: string, note: number) => void;
   toggleVeilleEnregistre: (contenuId: string) => void;
   setVeilleDerniereConsultation: (contenuId: string) => void;
+  enregistrerPartie: (jeuId: string, score: number, xpGagne: number) => void;
 }
 
 const CarnetContext = createContext<CarnetContextValue | null>(null);
+
+const JEUX_PAR_DEFAUT: JeuxState = {
+  xp: 0,
+  parties: 0,
+  serie: 0,
+  dernierJourJoue: null,
+  meilleursScores: {},
+};
 
 export function CarnetProvider({ children }: { children: React.ReactNode }) {
   const [state, setState] = useState<CarnetState>({
@@ -29,6 +48,7 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
     expositionNotes: {},
     veilleEnregistres: {},
     veilleDerniereConsultationId: null,
+    jeux: JEUX_PAR_DEFAUT,
   });
   const [pret, setPret] = useState(false);
 
@@ -37,7 +57,11 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
       .then((raw) => {
         if (raw) {
           const parsed = JSON.parse(raw);
-          setState((prev) => ({ ...prev, ...parsed }));
+          setState((prev) => ({
+            ...prev,
+            ...parsed,
+            jeux: { ...prev.jeux, ...(parsed.jeux ?? {}) },
+          }));
         }
       })
       .finally(() => setPret(true));
@@ -67,10 +91,30 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
       toggleVeilleEnregistre: (contenuId) =>
         setState((prev) => ({
           ...prev,
-          veilleEnregistres: { ...prev.veilleEnregistres, [contenuId]: !prev.veilleEnregistres[contenuId] },
+          veilleEnregistres: {
+            ...prev.veilleEnregistres,
+            [contenuId]: !prev.veilleEnregistres[contenuId],
+          },
         })),
       setVeilleDerniereConsultation: (contenuId) =>
         setState((prev) => ({ ...prev, veilleDerniereConsultationId: contenuId })),
+      enregistrerPartie: (jeuId, score, xpGagne) =>
+        setState((prev) => {
+          const aujourdhui = jourISO();
+          return {
+            ...prev,
+            jeux: {
+              xp: prev.jeux.xp + xpGagne,
+              parties: prev.jeux.parties + 1,
+              serie: calculerSerie(prev.jeux.serie, prev.jeux.dernierJourJoue, aujourdhui),
+              dernierJourJoue: aujourdhui,
+              meilleursScores: {
+                ...prev.jeux.meilleursScores,
+                [jeuId]: Math.max(prev.jeux.meilleursScores[jeuId] ?? 0, score),
+              },
+            },
+          };
+        }),
     }),
     [state, pret],
   );

@@ -7,8 +7,8 @@ import { colors } from '../theme/colors';
 export const TABS = [
   { key: 'Accueil', label: 'Accueil', icon: 'home-outline' as const },
   { key: 'Explorer', label: 'Explorer', icon: 'search-outline' as const },
-  { key: 'Carte', label: 'Carte', icon: 'location-outline' as const },
   { key: 'Carnet', label: 'Carnet', icon: 'bookmark-outline' as const },
+  { key: 'Jeux', label: 'Jeux', icon: 'extension-puzzle-outline' as const },
   { key: 'Profil', label: 'Profil', icon: 'person-outline' as const },
 ];
 

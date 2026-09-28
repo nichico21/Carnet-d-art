@@ -1,0 +1,538 @@
+// Fichier généré automatiquement par scripts/build-veille-data.mjs
+// Ne pas éditer à la main — relancer le script après toute mise à jour du catalogue veille.
+
+import { ContenuVeille } from '../types/veille';
+
+export const CONTENUS_VEILLE: ContenuVeille[] = [
+  {
+    "id": "brancusi-les-metamorphoses-de-la-sculpture-regarder-le-docum",
+    "titre": "Brancusi : les métamorphoses de la sculpture - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/115033-000-A/brancusi-les-metamorphoses-de-la-sculpture/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/eLrRtK28A5aRx3qLJBDSq5/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "cain-de-fernand-cormon-exploration-des-sombres-origines-de-l",
+    "titre": "« Caïn » de Fernand Cormon : exploration des sombres origines de la conscience humaine",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/vu/cain-de-fernand-cormon-aux-origines-de-la-conscience-humaine/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/05/une-ajoutcormon-cain-bal_62609-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "comtes-dames-divinites-et-silex-quatre-expositions-pour-l-et",
+    "titre": "Comtes, dames, divinités et silex, quatre expositions pour l’été",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/comtes-dames-divinites-et-silex-quatre-expositions-pour-l-ete-5257173",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production/2023/11/d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/1400x1400_sc_le-cours-de-l-histoire.jpg",
+    "duree": "59 min",
+    "datePublication": "Fri, 31 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "dans-la-lumiere-du-moulin-de-la-galette-auguste-renoir-peint",
+    "titre": "Dans la lumière du Moulin de la Galette, Auguste Renoir peint le bonheur en mouvement",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/le-bal-du-moulin-de-la-galette-ou-la-melodie-du-bonheur-dauguste-renoir/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/03/une04.-auguste-renoir-bal-du-moulin-de-la-galette-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "diego-velazquez-ou-le-realisme-sauvage-regarder-le-documenta",
+    "titre": "Diego Velázquez ou le réalisme sauvage - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/054796-000-A/diego-velazquez-ou-le-realisme-sauvage/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/7evtS6oDSZgy9SsswANqDo/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "ete-1914-face-au-pire-se-marier-dans-l-urgence",
+    "titre": "Été 1914 : face au pire, se marier dans l’urgence",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-histoire/ete-1914-face-au-pire-se-marier-dans-l-urgence-3683747",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/08/c328320c-3ab1-4f00-9038-fbb1ae3aaae3/1400x1400_sc_fc-lefil-3000x3000-histoire.jpg",
+    "duree": "3 min",
+    "datePublication": "Thu, 03 Sep 2026 09:55:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "felix-vallotton-les-couleurs-du-desir-regarder-le-documentai",
+    "titre": "Félix Vallotton, les couleurs du désir - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/116820-000-A/felix-vallotton-les-couleurs-du-desir/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/kMzMLX2uVyBjQJUAMuLdf4/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "il-est-l-or-ruee-vers-l-histoire-l-or-sacre-des-incas-cuzco-",
+    "titre": "Il est l’or ! Ruée vers l’histoire : L’or sacré des Incas, Cuzco c'est beau !",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-or-sacre-des-incas-cuzco-c-est-beau-2406855",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/e683983f-c3bc-4aab-acd1-a85ccfe4a00c/1400x1400_sc_carre-il-est-l-or-ruee-vers-l-histoire.jpg",
+    "duree": "58 min",
+    "datePublication": "Tue, 21 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "il-est-l-or-ruee-vers-l-histoire-le-pactole-des-banques-cent",
+    "titre": "Il est l’or ! Ruée vers l’histoire : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/e683983f-c3bc-4aab-acd1-a85ccfe4a00c/1400x1400_sc_carre-il-est-l-or-ruee-vers-l-histoire.jpg",
+    "duree": "58 min",
+    "datePublication": "Thu, 23 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "jaune-rouge-bleu-de-kandinsky-decryptage-d-039-une-grande-sy",
+    "titre": "« Jaune-Rouge-Bleu » de Kandinsky : décryptage d&#039;une grande symphonie visuelle au cœur de l&#039;expo du LaM",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/jaune-rouge-bleu-la-grande-symphonie-visuelle-de-kandinsky/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/03/une47-000296-01-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "l-angelus-de-millet-decrypte-par-louvre-ravioli-une-notifica",
+    "titre": "« L’Angélus » de Millet décrypté par Louvre-Ravioli : une notification à l’humanité hors sol",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/vu/langelus-de-millet-une-notification-a-lhumanite-hors-sol/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/04/unejean-francois_millet_-_el_angelus_museo_de_orsay_1857-1859._oleo_sobre_lienzo_55.5_x_66_cm-1-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "la-dame-a-la-licorne-le-portrait-ideal-du-divin-raphael-vu-a",
+    "titre": "« La Dame à la licorne » : le portrait idéal du divin Raphaël vu à la loupe",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/la-dame-a-la-licorne-le-portrait-ideal-du-divin-raphael/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/04/unecapture-decran-2026-04-15-a-11.27.38-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "la-joconde-episode-2-25-du-podcast-histoires-de-peintures-pa",
+    "titre": "La Joconde : épisode 2/25 du podcast Histoires de peintures par Daniel Arasse | France Culture",
+    "type": "podcast",
+    "source": "France Culture — Histoires de peinture par Daniel Arasse",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/histoires-de-peintures-la-joconde-1818914",
+    "imageUrl": "https://www.radiofrance.fr/pikapi/images/a0e21b73-9a56-4b76-9797-f59845022289/1200x680",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "le-tableau-prefere-episode-1-25-du-podcast-histoires-de-pein",
+    "titre": "Le tableau préféré : épisode 1/25 du podcast Histoires de peintures par Daniel Arasse | France Culture",
+    "type": "podcast",
+    "source": "France Culture — Histoires de peinture par Daniel Arasse",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/le-tableau-prefere-7677048",
+    "imageUrl": "https://www.radiofrance.fr/pikapi/images/8a03d254-f988-408d-a6a9-2b8653cfe0a0/1200x680",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "plouf-vivre-avec-l-eau-on-se-fait-l-abysse-habiter-sous-les-",
+    "titre": "Plouf ! Vivre avec l’eau : On se fait l’abysse ? Habiter sous les mers",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/on-se-fait-l-abysse-habiter-sous-les-mers-5356381",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/ca7a6dd2-c971-44b2-9210-18d6097fad48/1400x1400_sc_carre-plouf-vivre-avec-l-eau.jpg",
+    "duree": "58 min",
+    "datePublication": "Thu, 30 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  }
+];
+
+export const DERNIERS_AJOUTS: ContenuVeille[] = [
+  {
+    "id": "brancusi-les-metamorphoses-de-la-sculpture-regarder-le-docum",
+    "titre": "Brancusi : les métamorphoses de la sculpture - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/115033-000-A/brancusi-les-metamorphoses-de-la-sculpture/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/eLrRtK28A5aRx3qLJBDSq5/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "cain-de-fernand-cormon-exploration-des-sombres-origines-de-l",
+    "titre": "« Caïn » de Fernand Cormon : exploration des sombres origines de la conscience humaine",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/vu/cain-de-fernand-cormon-aux-origines-de-la-conscience-humaine/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/05/une-ajoutcormon-cain-bal_62609-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "comtes-dames-divinites-et-silex-quatre-expositions-pour-l-et",
+    "titre": "Comtes, dames, divinités et silex, quatre expositions pour l’été",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/comtes-dames-divinites-et-silex-quatre-expositions-pour-l-ete-5257173",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production/2023/11/d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/1400x1400_sc_le-cours-de-l-histoire.jpg",
+    "duree": "59 min",
+    "datePublication": "Fri, 31 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "dans-la-lumiere-du-moulin-de-la-galette-auguste-renoir-peint",
+    "titre": "Dans la lumière du Moulin de la Galette, Auguste Renoir peint le bonheur en mouvement",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/le-bal-du-moulin-de-la-galette-ou-la-melodie-du-bonheur-dauguste-renoir/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/03/une04.-auguste-renoir-bal-du-moulin-de-la-galette-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "diego-velazquez-ou-le-realisme-sauvage-regarder-le-documenta",
+    "titre": "Diego Velázquez ou le réalisme sauvage - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/054796-000-A/diego-velazquez-ou-le-realisme-sauvage/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/7evtS6oDSZgy9SsswANqDo/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "ete-1914-face-au-pire-se-marier-dans-l-urgence",
+    "titre": "Été 1914 : face au pire, se marier dans l’urgence",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-histoire/ete-1914-face-au-pire-se-marier-dans-l-urgence-3683747",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/08/c328320c-3ab1-4f00-9038-fbb1ae3aaae3/1400x1400_sc_fc-lefil-3000x3000-histoire.jpg",
+    "duree": "3 min",
+    "datePublication": "Thu, 03 Sep 2026 09:55:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "felix-vallotton-les-couleurs-du-desir-regarder-le-documentai",
+    "titre": "Félix Vallotton, les couleurs du désir - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/116820-000-A/felix-vallotton-les-couleurs-du-desir/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/kMzMLX2uVyBjQJUAMuLdf4/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "il-est-l-or-ruee-vers-l-histoire-l-or-sacre-des-incas-cuzco-",
+    "titre": "Il est l’or ! Ruée vers l’histoire : L’or sacré des Incas, Cuzco c'est beau !",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-or-sacre-des-incas-cuzco-c-est-beau-2406855",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/e683983f-c3bc-4aab-acd1-a85ccfe4a00c/1400x1400_sc_carre-il-est-l-or-ruee-vers-l-histoire.jpg",
+    "duree": "58 min",
+    "datePublication": "Tue, 21 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "il-est-l-or-ruee-vers-l-histoire-le-pactole-des-banques-cent",
+    "titre": "Il est l’or ! Ruée vers l’histoire : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/e683983f-c3bc-4aab-acd1-a85ccfe4a00c/1400x1400_sc_carre-il-est-l-or-ruee-vers-l-histoire.jpg",
+    "duree": "58 min",
+    "datePublication": "Thu, 23 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "jaune-rouge-bleu-de-kandinsky-decryptage-d-039-une-grande-sy",
+    "titre": "« Jaune-Rouge-Bleu » de Kandinsky : décryptage d&#039;une grande symphonie visuelle au cœur de l&#039;expo du LaM",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/jaune-rouge-bleu-la-grande-symphonie-visuelle-de-kandinsky/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/03/une47-000296-01-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "l-angelus-de-millet-decrypte-par-louvre-ravioli-une-notifica",
+    "titre": "« L’Angélus » de Millet décrypté par Louvre-Ravioli : une notification à l’humanité hors sol",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/vu/langelus-de-millet-une-notification-a-lhumanite-hors-sol/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/04/unejean-francois_millet_-_el_angelus_museo_de_orsay_1857-1859._oleo_sobre_lienzo_55.5_x_66_cm-1-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "la-dame-a-la-licorne-le-portrait-ideal-du-divin-raphael-vu-a",
+    "titre": "« La Dame à la licorne » : le portrait idéal du divin Raphaël vu à la loupe",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/la-dame-a-la-licorne-le-portrait-ideal-du-divin-raphael/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/04/unecapture-decran-2026-04-15-a-11.27.38-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "la-joconde-episode-2-25-du-podcast-histoires-de-peintures-pa",
+    "titre": "La Joconde : épisode 2/25 du podcast Histoires de peintures par Daniel Arasse | France Culture",
+    "type": "podcast",
+    "source": "France Culture — Histoires de peinture par Daniel Arasse",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/histoires-de-peintures-la-joconde-1818914",
+    "imageUrl": "https://www.radiofrance.fr/pikapi/images/a0e21b73-9a56-4b76-9797-f59845022289/1200x680",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "le-tableau-prefere-episode-1-25-du-podcast-histoires-de-pein",
+    "titre": "Le tableau préféré : épisode 1/25 du podcast Histoires de peintures par Daniel Arasse | France Culture",
+    "type": "podcast",
+    "source": "France Culture — Histoires de peinture par Daniel Arasse",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/le-tableau-prefere-7677048",
+    "imageUrl": "https://www.radiofrance.fr/pikapi/images/8a03d254-f988-408d-a6a9-2b8653cfe0a0/1200x680",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "plouf-vivre-avec-l-eau-on-se-fait-l-abysse-habiter-sous-les-",
+    "titre": "Plouf ! Vivre avec l’eau : On se fait l’abysse ? Habiter sous les mers",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/on-se-fait-l-abysse-habiter-sous-les-mers-5356381",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/ca7a6dd2-c971-44b2-9210-18d6097fad48/1400x1400_sc_carre-plouf-vivre-avec-l-eau.jpg",
+    "duree": "58 min",
+    "datePublication": "Thu, 30 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  }
+];
+
+export const PLUS_CONSULTES: ContenuVeille[] = [
+  {
+    "id": "brancusi-les-metamorphoses-de-la-sculpture-regarder-le-docum",
+    "titre": "Brancusi : les métamorphoses de la sculpture - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/115033-000-A/brancusi-les-metamorphoses-de-la-sculpture/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/eLrRtK28A5aRx3qLJBDSq5/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "cain-de-fernand-cormon-exploration-des-sombres-origines-de-l",
+    "titre": "« Caïn » de Fernand Cormon : exploration des sombres origines de la conscience humaine",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/vu/cain-de-fernand-cormon-aux-origines-de-la-conscience-humaine/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/05/une-ajoutcormon-cain-bal_62609-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "comtes-dames-divinites-et-silex-quatre-expositions-pour-l-et",
+    "titre": "Comtes, dames, divinités et silex, quatre expositions pour l’été",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/comtes-dames-divinites-et-silex-quatre-expositions-pour-l-ete-5257173",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production/2023/11/d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/1400x1400_sc_le-cours-de-l-histoire.jpg",
+    "duree": "59 min",
+    "datePublication": "Fri, 31 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "dans-la-lumiere-du-moulin-de-la-galette-auguste-renoir-peint",
+    "titre": "Dans la lumière du Moulin de la Galette, Auguste Renoir peint le bonheur en mouvement",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/le-bal-du-moulin-de-la-galette-ou-la-melodie-du-bonheur-dauguste-renoir/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/03/une04.-auguste-renoir-bal-du-moulin-de-la-galette-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "diego-velazquez-ou-le-realisme-sauvage-regarder-le-documenta",
+    "titre": "Diego Velázquez ou le réalisme sauvage - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/054796-000-A/diego-velazquez-ou-le-realisme-sauvage/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/7evtS6oDSZgy9SsswANqDo/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "ete-1914-face-au-pire-se-marier-dans-l-urgence",
+    "titre": "Été 1914 : face au pire, se marier dans l’urgence",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-histoire/ete-1914-face-au-pire-se-marier-dans-l-urgence-3683747",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/08/c328320c-3ab1-4f00-9038-fbb1ae3aaae3/1400x1400_sc_fc-lefil-3000x3000-histoire.jpg",
+    "duree": "3 min",
+    "datePublication": "Thu, 03 Sep 2026 09:55:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "felix-vallotton-les-couleurs-du-desir-regarder-le-documentai",
+    "titre": "Félix Vallotton, les couleurs du désir - Regarder le documentaire complet | ARTE",
+    "type": "documentaire",
+    "source": "Arte",
+    "url": "https://www.arte.tv/fr/videos/116820-000-A/felix-vallotton-les-couleurs-du-desir/",
+    "imageUrl": "https://api-cdn.arte.tv/img/v2/image/kMzMLX2uVyBjQJUAMuLdf4/1920x1080?type=TEXT&watermark=true",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "il-est-l-or-ruee-vers-l-histoire-l-or-sacre-des-incas-cuzco-",
+    "titre": "Il est l’or ! Ruée vers l’histoire : L’or sacré des Incas, Cuzco c'est beau !",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-or-sacre-des-incas-cuzco-c-est-beau-2406855",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/e683983f-c3bc-4aab-acd1-a85ccfe4a00c/1400x1400_sc_carre-il-est-l-or-ruee-vers-l-histoire.jpg",
+    "duree": "58 min",
+    "datePublication": "Tue, 21 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "il-est-l-or-ruee-vers-l-histoire-le-pactole-des-banques-cent",
+    "titre": "Il est l’or ! Ruée vers l’histoire : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/e683983f-c3bc-4aab-acd1-a85ccfe4a00c/1400x1400_sc_carre-il-est-l-or-ruee-vers-l-histoire.jpg",
+    "duree": "58 min",
+    "datePublication": "Thu, 23 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "jaune-rouge-bleu-de-kandinsky-decryptage-d-039-une-grande-sy",
+    "titre": "« Jaune-Rouge-Bleu » de Kandinsky : décryptage d&#039;une grande symphonie visuelle au cœur de l&#039;expo du LaM",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/jaune-rouge-bleu-la-grande-symphonie-visuelle-de-kandinsky/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/03/une47-000296-01-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "l-angelus-de-millet-decrypte-par-louvre-ravioli-une-notifica",
+    "titre": "« L’Angélus » de Millet décrypté par Louvre-Ravioli : une notification à l’humanité hors sol",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/vu/langelus-de-millet-une-notification-a-lhumanite-hors-sol/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/04/unejean-francois_millet_-_el_angelus_museo_de_orsay_1857-1859._oleo_sobre_lienzo_55.5_x_66_cm-1-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "la-dame-a-la-licorne-le-portrait-ideal-du-divin-raphael-vu-a",
+    "titre": "« La Dame à la licorne » : le portrait idéal du divin Raphaël vu à la loupe",
+    "type": "article",
+    "source": "Beaux Arts Magazine",
+    "url": "https://www.beauxarts.com/grand-format/la-dame-a-la-licorne-le-portrait-ideal-du-divin-raphael/",
+    "imageUrl": "https://media.beauxarts.com/uploads/2026/04/unecapture-decran-2026-04-15-a-11.27.38-1300x975.jpg",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "la-joconde-episode-2-25-du-podcast-histoires-de-peintures-pa",
+    "titre": "La Joconde : épisode 2/25 du podcast Histoires de peintures par Daniel Arasse | France Culture",
+    "type": "podcast",
+    "source": "France Culture — Histoires de peinture par Daniel Arasse",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/histoires-de-peintures-la-joconde-1818914",
+    "imageUrl": "https://www.radiofrance.fr/pikapi/images/a0e21b73-9a56-4b76-9797-f59845022289/1200x680",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "le-tableau-prefere-episode-1-25-du-podcast-histoires-de-pein",
+    "titre": "Le tableau préféré : épisode 1/25 du podcast Histoires de peintures par Daniel Arasse | France Culture",
+    "type": "podcast",
+    "source": "France Culture — Histoires de peinture par Daniel Arasse",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/le-tableau-prefere-7677048",
+    "imageUrl": "https://www.radiofrance.fr/pikapi/images/8a03d254-f988-408d-a6a9-2b8653cfe0a0/1200x680",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  },
+  {
+    "id": "plouf-vivre-avec-l-eau-on-se-fait-l-abysse-habiter-sous-les-",
+    "titre": "Plouf ! Vivre avec l’eau : On se fait l’abysse ? Habiter sous les mers",
+    "type": "podcast",
+    "source": "France Culture — Le Cours de l'histoire",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/on-se-fait-l-abysse-habiter-sous-les-mers-5356381",
+    "imageUrl": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/06/ca7a6dd2-c971-44b2-9210-18d6097fad48/1400x1400_sc_carre-plouf-vivre-avec-l-eau.jpg",
+    "duree": "58 min",
+    "datePublication": "Thu, 30 Jul 2026 08:00:00 +0200",
+    "dateAjout": "2026-09-26",
+    "compteurConsultations": 0,
+    "statut": "brouillon"
+  }
+];

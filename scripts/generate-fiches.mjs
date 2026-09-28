@@ -20,6 +20,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.join(__dirname, 'output');
 const WORKSPACE_DIR = path.join(__dirname, '..', '0_workspace');
 
+function formaterDimensions(oeuvreBrute) {
+  if (!oeuvreBrute.hauteurCm || !oeuvreBrute.largeurCm) return null;
+  return `${oeuvreBrute.hauteurCm} × ${oeuvreBrute.largeurCm} cm`;
+}
+
 function creerFiche(oeuvreBrute) {
   return {
     id: oeuvreBrute.wikidataId,
@@ -27,6 +32,7 @@ function creerFiche(oeuvreBrute) {
     artiste: oeuvreBrute.artiste,
     annee: oeuvreBrute.annee,
     image: oeuvreBrute.image,
+    dimensions: formaterDimensions(oeuvreBrute),
     technique: oeuvreBrute.technique,
     lieuConservation: oeuvreBrute.lieuConservation,
     ville: oeuvreBrute.ville,

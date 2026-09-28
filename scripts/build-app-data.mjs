@@ -24,6 +24,7 @@ function versArtwork(fiche) {
     ...(fiche.annee ? { annee: fiche.annee } : {}),
     ...(fiche.image ? { imageUrl: fiche.image } : {}),
     ...(fiche.technique ? { technique: fiche.technique } : {}),
+    ...(fiche.dimensions ? { dimensions: fiche.dimensions } : {}),
     lieuConservation: fiche.lieuConservation,
     ville: fiche.ville,
     pays: fiche.pays,
@@ -49,12 +50,28 @@ function main() {
     .map((f) => JSON.parse(fs.readFileSync(path.join(ARTWORKS_DIR, f), 'utf-8')))
     .map(versArtwork);
 
+    const facettes = construireFacettes(artworks);
+
   const contenu = `// Fichier généré automatiquement par scripts/build-app-data.mjs
 // Ne pas éditer à la main — relancer le script après toute mise à jour du catalogue.
 
 import { Artwork } from '../types/artwork';
 
 export const ARTWORKS: Artwork[] = ${JSON.stringify(artworks, null, 2)};
+
+export interface FacetteValeur {
+  valeur: string;
+  nombre: number;
+}
+
+export const FACETTES = ${JSON.stringify(facettes, null, 2)} as {
+  artistes: FacetteValeur[];
+  musees: FacetteValeur[];
+  mouvements: FacetteValeur[];
+  genres: FacetteValeur[];
+  epoques: FacetteValeur[];
+};
+
 `;
 
   fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });
@@ -63,3 +80,33 @@ export const ARTWORKS: Artwork[] = ${JSON.stringify(artworks, null, 2)};
 }
 
 main();
+
+function construireFacettes(artworks) {
+  const compter = (valeurs) => {
+    const compte = new Map();
+    for (const v of valeurs) {
+      if (!v) continue;
+      compte.set(v, (compte.get(v) ?? 0) + 1);
+    }
+    return Array.from(compte.entries())
+      .map(([valeur, nombre]) => ({ valeur, nombre }))
+      .sort((a, b) => b.nombre - a.nombre);
+  };
+
+  const epoqueDe = (annee) => {
+    const n = parseInt(annee, 10);
+    if (!n || isNaN(n)) return null;
+    const siecle = Math.ceil(n / 100);
+    const chiffresRomains = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X',
+      'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI'];
+    return `${chiffresRomains[siecle] ?? siecle}e siècle`;
+  };
+
+  return {
+    artistes: compter(artworks.map((a) => a.artiste)),
+    musees: compter(artworks.map((a) => a.lieuConservation)),
+    mouvements: compter(artworks.map((a) => a.mouvement)),
+    genres: compter(artworks.flatMap((a) => a.themes ?? [])),
+    epoques: compter(artworks.map((a) => epoqueDe(a.annee)).filter(Boolean)),
+  };
+}

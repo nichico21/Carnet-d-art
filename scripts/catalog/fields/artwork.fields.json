@@ -6,6 +6,7 @@
     { "nom": "annee", "type": "string", "obligatoire": false, "source": "collecte" },
     { "nom": "image", "type": "url", "obligatoire": true, "source": "collecte" },
     { "nom": "technique", "type": "string", "obligatoire": false, "source": "collecte" },
+    { "nom": "dimensions", "type": "string", "obligatoire": false, "source": "collecte" },
     { "nom": "lieuConservation", "type": "string", "obligatoire": true, "source": "collecte" },
     { "nom": "ville", "type": "string", "obligatoire": true, "source": "collecte" },
     { "nom": "pays", "type": "string", "obligatoire": true, "source": "collecte" },

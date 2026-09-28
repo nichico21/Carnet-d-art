@@ -2,10 +2,13 @@ import React, { useMemo, useState } from 'react';
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
-import { DERNIERS_AJOUTS } from '../../data/veille';
-import { TypeContenuVeille } from '../../types/veille';
+import { DERNIERS_AJOUTS } from '../../data/veille.generated';
+import { TypeContenuVeille, ContenuVeille } from '../../types/veille';
 import { AjoutListItem } from '../../components/veille/AjoutListItem';
+import { ContenuDetail } from '../../components/veille/ContenuDetail';
+import { useCarnet } from '../../store/CarnetContext';
 import { colors } from '../../theme/colors';
+import { fonts } from '../../theme/typography';
 
 const FILTRES: { label: string; type: TypeContenuVeille | 'tous' }[] = [
   { label: 'Tous', type: 'tous' },
@@ -15,16 +18,38 @@ const FILTRES: { label: string; type: TypeContenuVeille | 'tous' }[] = [
   { label: 'Expos', type: 'expo' },
 ];
 
+/** Transforme une date ISO (dateAjout) en libellé de groupe lisible. */
+function libelleGroupe(dateAjoutISO: string): string {
+  const date = new Date(dateAjoutISO);
+  const aujourdhui = new Date();
+  const hier = new Date(aujourdhui);
+  hier.setDate(hier.getDate() - 1);
+
+  const memeJour = (a: Date, b: Date) =>
+    a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate();
+
+  if (memeJour(date, aujourdhui)) return "Aujourd'hui";
+  if (memeJour(date, hier)) return 'Hier';
+  return date.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' });
+}
+
 export function DerniersAjoutsScreen() {
   const navigation = useNavigation();
+  const { setVeilleDerniereConsultation } = useCarnet();
   const [filtre, setFiltre] = useState<TypeContenuVeille | 'tous'>('tous');
+  const [selectionne, setSelectionne] = useState<ContenuVeille | null>(null);
+
+  function ouvrir(contenu: ContenuVeille) {
+    setVeilleDerniereConsultation(contenu.id);
+    setSelectionne(contenu);
+  }
 
   const groupes = useMemo(() => {
     const items =
       filtre === 'tous' ? DERNIERS_AJOUTS : DERNIERS_AJOUTS.filter((c) => c.type === filtre);
     const parGroupe = new Map<string, typeof DERNIERS_AJOUTS>();
     for (const item of items) {
-      const cle = item.dateGroupe ?? '';
+      const cle = libelleGroupe(item.dateAjout);
       if (!parGroupe.has(cle)) parGroupe.set(cle, []);
       parGroupe.get(cle)!.push(item);
     }
@@ -57,27 +82,24 @@ export function DerniersAjoutsScreen() {
       </ScrollView>
 
       <ScrollView contentContainerStyle={styles.content} showsVerticalScrollIndicator={false}>
-        {groupes.length === 0 && (
-          <Text style={styles.vide}>Aucun contenu pour ce filtre.</Text>
-        )}
+        {groupes.length === 0 && <Text style={styles.vide}>Aucun contenu pour ce filtre.</Text>}
         {groupes.map(([groupe, items]) => (
           <View key={groupe} style={styles.groupe}>
-            {groupe.length > 0 && <Text style={styles.groupeTitre}>{groupe}</Text>}
+            <Text style={styles.groupeTitre}>{groupe}</Text>
             {items.map((c) => (
-              <AjoutListItem key={c.id} contenu={c} />
+              <AjoutListItem key={c.id} contenu={c} onPress={() => ouvrir(c)} />
             ))}
           </View>
         ))}
       </ScrollView>
+
+      <ContenuDetail contenu={selectionne} onClose={() => setSelectionne(null)} />
     </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: colors.background,
-  },
+  container: { flex: 1, backgroundColor: colors.background },
   header: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -85,55 +107,29 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     paddingTop: 8,
   },
-  titre: {
-    fontSize: 18,
-    fontWeight: '700',
-    color: colors.textPrimary,
-  },
-  filtresRow: {
-    marginTop: 16,
-    paddingLeft: 20,
-    flexGrow: 0,
-  },
+  titre: { fontFamily: fonts.display, fontSize: 24, color: colors.textPrimary },
+  filtresRow: { marginTop: 18, paddingLeft: 20, flexGrow: 0 },
   pill: {
     paddingHorizontal: 14,
-    paddingVertical: 7,
-    borderRadius: 999,
+    paddingVertical: 8,
+    borderRadius: 22,
     backgroundColor: colors.surface,
     borderWidth: 1,
     borderColor: colors.border,
     marginRight: 8,
   },
-  pillActive: {
-    backgroundColor: colors.accent,
-    borderColor: colors.accent,
-  },
-  pillText: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: colors.textSecondary,
-  },
-  pillTextActive: {
-    color: '#FFFFFF',
-  },
-  content: {
-    paddingHorizontal: 20,
-    paddingTop: 16,
-    paddingBottom: 24,
-  },
-  groupe: {
-    marginBottom: 12,
-  },
+  pillActive: { backgroundColor: colors.stone, borderColor: colors.stone },
+  pillText: { fontFamily: fonts.uiMedium, fontSize: 14, color: colors.textSecondary },
+  pillTextActive: { color: colors.textPrimary },
+  content: { paddingHorizontal: 20, paddingTop: 20, paddingBottom: 24 },
+  groupe: { marginBottom: 16 },
   groupeTitre: {
-    fontSize: 13,
-    fontWeight: '700',
+    fontFamily: fonts.uiSemiBold,
+    fontSize: 12,
     color: colors.textSecondary,
-    marginBottom: 4,
+    letterSpacing: 0.6,
+    textTransform: 'uppercase',
+    marginBottom: 8,
   },
-  vide: {
-    fontSize: 13,
-    color: colors.textSecondary,
-    textAlign: 'center',
-    marginTop: 40,
-  },
+  vide: { fontFamily: fonts.ui, fontSize: 13, color: colors.textSecondary, textAlign: 'center', marginTop: 40 },
 });

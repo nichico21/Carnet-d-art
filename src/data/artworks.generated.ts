@@ -6901,6 +6901,20 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q75387404",
+    "titre": "Couple à cheval",
+    "artiste": "Vassily Kandinsky",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20Kandinsky%20-%20Reitendes%20Paar%20-%20GMS%2026%20-%20Lenbachhaus.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Lenbachhaus",
+    "ville": "Munich",
+    "pays": "Allemagne",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q775407",
     "titre": "Le Balcon",
     "artiste": "Édouard Manet",
@@ -7111,3 +7125,955 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   }
 ];
+
+export interface FacetteValeur {
+  valeur: string;
+  nombre: number;
+}
+
+export const FACETTES = {
+  "artistes": [
+    {
+      "valeur": "Édouard Manet",
+      "nombre": 23
+    },
+    {
+      "valeur": "Edgar Degas",
+      "nombre": 19
+    },
+    {
+      "valeur": "Paul Cézanne",
+      "nombre": 19
+    },
+    {
+      "valeur": "Claude Monet",
+      "nombre": 18
+    },
+    {
+      "valeur": "Auguste Renoir",
+      "nombre": 13
+    },
+    {
+      "valeur": "Georges Seurat",
+      "nombre": 12
+    },
+    {
+      "valeur": "Titien",
+      "nombre": 12
+    },
+    {
+      "valeur": "Vincent van Gogh",
+      "nombre": 10
+    },
+    {
+      "valeur": "Alfred Sisley",
+      "nombre": 10
+    },
+    {
+      "valeur": "Giovanni Battista Moroni",
+      "nombre": 10
+    },
+    {
+      "valeur": "Frans Hals",
+      "nombre": 8
+    },
+    {
+      "valeur": "Alessandro Bonvicino",
+      "nombre": 8
+    },
+    {
+      "valeur": "Raphaël",
+      "nombre": 7
+    },
+    {
+      "valeur": "Antoine van Dyck",
+      "nombre": 7
+    },
+    {
+      "valeur": "William Turner",
+      "nombre": 6
+    },
+    {
+      "valeur": "Paul Véronèse",
+      "nombre": 6
+    },
+    {
+      "valeur": "John Everett Millais",
+      "nombre": 5
+    },
+    {
+      "valeur": "Diego Vélasquez",
+      "nombre": 5
+    },
+    {
+      "valeur": "Giovanni Bellini",
+      "nombre": 5
+    },
+    {
+      "valeur": "Rembrandt",
+      "nombre": 5
+    },
+    {
+      "valeur": "Sandro Botticelli",
+      "nombre": 5
+    },
+    {
+      "valeur": "Le Pérugin",
+      "nombre": 5
+    },
+    {
+      "valeur": "Andrea Mantegna",
+      "nombre": 5
+    },
+    {
+      "valeur": "Odilon Redon",
+      "nombre": 5
+    },
+    {
+      "valeur": "Gérard David",
+      "nombre": 5
+    },
+    {
+      "valeur": "Gustave Courbet",
+      "nombre": 4
+    },
+    {
+      "valeur": "Paul Gauguin",
+      "nombre": 4
+    },
+    {
+      "valeur": "Frédéric Bazille",
+      "nombre": 4
+    },
+    {
+      "valeur": "Pierre Bonnard",
+      "nombre": 4
+    },
+    {
+      "valeur": "Pierre Paul Rubens",
+      "nombre": 4
+    },
+    {
+      "valeur": "John Constable",
+      "nombre": 4
+    },
+    {
+      "valeur": "Jan van Eyck",
+      "nombre": 3
+    },
+    {
+      "valeur": "Hans Holbein le Jeune",
+      "nombre": 3
+    },
+    {
+      "valeur": "Frederic Leighton",
+      "nombre": 3
+    },
+    {
+      "valeur": "Jean Siméon Chardin",
+      "nombre": 3
+    },
+    {
+      "valeur": "Gustave Caillebotte",
+      "nombre": 3
+    },
+    {
+      "valeur": "Henri Fantin-Latour",
+      "nombre": 3
+    },
+    {
+      "valeur": "James Tissot",
+      "nombre": 3
+    },
+    {
+      "valeur": "Paolo Uccello",
+      "nombre": 3
+    },
+    {
+      "valeur": "Joachim Bueckelaer",
+      "nombre": 3
+    },
+    {
+      "valeur": "Maître de Delft",
+      "nombre": 3
+    },
+    {
+      "valeur": "Lorenzo Lotto",
+      "nombre": 3
+    },
+    {
+      "valeur": "Le Caravage",
+      "nombre": 3
+    },
+    {
+      "valeur": "Fra Filippo Lippi",
+      "nombre": 2
+    },
+    {
+      "valeur": "Michel-Ange Buronarroti",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean-Auguste-Dominique Ingres",
+      "nombre": 2
+    },
+    {
+      "valeur": "Annibale Carracci",
+      "nombre": 2
+    },
+    {
+      "valeur": "William Bouguereau",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean-François Millet",
+      "nombre": 2
+    },
+    {
+      "valeur": "Arthur Hughes",
+      "nombre": 2
+    },
+    {
+      "valeur": "Francisco de Goya",
+      "nombre": 2
+    },
+    {
+      "valeur": "Thomas Gainsborough",
+      "nombre": 2
+    },
+    {
+      "valeur": "Henri de Toulouse-Lautrec",
+      "nombre": 2
+    },
+    {
+      "valeur": "Canaletto",
+      "nombre": 2
+    },
+    {
+      "valeur": "Émile Bernard",
+      "nombre": 2
+    },
+    {
+      "valeur": "Édouard Vuillard",
+      "nombre": 2
+    },
+    {
+      "valeur": "Ernest Hébert",
+      "nombre": 2
+    },
+    {
+      "valeur": "Paul Sérusier",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean-Baptiste Carpeaux",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean-Louis Forain",
+      "nombre": 2
+    },
+    {
+      "valeur": "Maurice Denis",
+      "nombre": 2
+    },
+    {
+      "valeur": "Henry Scott Tuke",
+      "nombre": 2
+    },
+    {
+      "valeur": "Carel Fabritius",
+      "nombre": 2
+    },
+    {
+      "valeur": "Camille Corot",
+      "nombre": 2
+    },
+    {
+      "valeur": "Robert Campin",
+      "nombre": 2
+    },
+    {
+      "valeur": "Joshua Reynolds",
+      "nombre": 2
+    },
+    {
+      "valeur": "Altobello Melone",
+      "nombre": 2
+    },
+    {
+      "valeur": "Andrea Previtali",
+      "nombre": 2
+    },
+    {
+      "valeur": "Gaudenzio Ferrari",
+      "nombre": 2
+    },
+    {
+      "valeur": "Hans Baldung",
+      "nombre": 2
+    },
+    {
+      "valeur": "Nicolas Poussin",
+      "nombre": 2
+    },
+    {
+      "valeur": "Palma le Vieux",
+      "nombre": 2
+    },
+    {
+      "valeur": "Paolo Morando",
+      "nombre": 2
+    },
+    {
+      "valeur": "Le Tintoret",
+      "nombre": 2
+    },
+    {
+      "valeur": "Johannes Vermeer",
+      "nombre": 2
+    },
+    {
+      "valeur": "Dante Gabriel Rossetti",
+      "nombre": 2
+    },
+    {
+      "valeur": "John William Waterhouse",
+      "nombre": 2
+    },
+    {
+      "valeur": "Piero della Francesca",
+      "nombre": 2
+    },
+    {
+      "valeur": "Quentin Metsys",
+      "nombre": 2
+    },
+    {
+      "valeur": "Antonello de Messine",
+      "nombre": 2
+    },
+    {
+      "valeur": "Henri Rousseau",
+      "nombre": 2
+    },
+    {
+      "valeur": "Corneille de Lyon",
+      "nombre": 2
+    },
+    {
+      "valeur": "James Abbott McNeill Whistler",
+      "nombre": 2
+    },
+    {
+      "valeur": "Piero Pollaiuolo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Antonin Mercié",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/838fc844eb51a03b2a86dafbaf78ad64",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Baptiste Greuze",
+      "nombre": 1
+    },
+    {
+      "valeur": "Joseph Wright of Derby",
+      "nombre": 1
+    },
+    {
+      "valeur": "Franz Xaver Winterhalter",
+      "nombre": 1
+    },
+    {
+      "valeur": "Vittore Carpaccio",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/e166099110a4f7bba86479046cf284d3",
+      "nombre": 1
+    },
+    {
+      "valeur": "Adèle Romany",
+      "nombre": 1
+    },
+    {
+      "valeur": "Cima da Conegliano",
+      "nombre": 1
+    },
+    {
+      "valeur": "Andrea del Verrocchio",
+      "nombre": 1
+    },
+    {
+      "valeur": "Artiste inconnu",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alexandre Cabanel",
+      "nombre": 1
+    },
+    {
+      "valeur": "Paul Delaroche",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Léon Gérôme",
+      "nombre": 1
+    },
+    {
+      "valeur": "Louis-Michel van Loo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alesso Baldovinetti",
+      "nombre": 1
+    },
+    {
+      "valeur": "Fernand Cormon",
+      "nombre": 1
+    },
+    {
+      "valeur": "Théodore Chassériau",
+      "nombre": 1
+    },
+    {
+      "valeur": "Charles-François Daubigny",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eva Gonzalès",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/862092f0c63f728b7674c82eab8ada70",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giovanni Cariani",
+      "nombre": 1
+    },
+    {
+      "valeur": "Antonio Pollaiuolo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Bronzino",
+      "nombre": 1
+    },
+    {
+      "valeur": "Q155626 (à corriger)",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alfred Philippe Roll",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Marc Nattier",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/07f718c29caf0064631cf14e5c147a4d",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jules Bastien-Lepage",
+      "nombre": 1
+    },
+    {
+      "valeur": "William Maw Egley",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pontormo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Arent de Gelder",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pierre-Charles Comte",
+      "nombre": 1
+    },
+    {
+      "valeur": "Frans Post",
+      "nombre": 1
+    },
+    {
+      "valeur": "Camille-Félix Bellanger",
+      "nombre": 1
+    },
+    {
+      "valeur": "Louis-Maurice Boutet de Monvel",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri-Edmond Cross",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Lawrence Vail",
+      "nombre": 1
+    },
+    {
+      "valeur": "Marie-Auguste Flameng",
+      "nombre": 1
+    },
+    {
+      "valeur": "Ignacio Zuloaga",
+      "nombre": 1
+    },
+    {
+      "valeur": "Peder Severin Krøyer",
+      "nombre": 1
+    },
+    {
+      "valeur": "Constant Troyon",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alfred Dehodencq",
+      "nombre": 1
+    },
+    {
+      "valeur": "Ernest Meissonier",
+      "nombre": 1
+    },
+    {
+      "valeur": "Camille Pissarro",
+      "nombre": 1
+    },
+    {
+      "valeur": "Paul Signac",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albert Bartholomé",
+      "nombre": 1
+    },
+    {
+      "valeur": "Berthe Morisot",
+      "nombre": 1
+    },
+    {
+      "valeur": "François-Louis Français",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Paul Laurens",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albert André",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albert Maignan",
+      "nombre": 1
+    },
+    {
+      "valeur": "Ferdinand Hodler",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/ffbef093f41550ffa45b30c5b91a3156",
+      "nombre": 1
+    },
+    {
+      "valeur": "Sebastiano del Piombo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Floris Claesz van Dijck",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri Matisse",
+      "nombre": 1
+    },
+    {
+      "valeur": "Caspar David Friedrich",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gerrit Lundens",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gerard ter Borch",
+      "nombre": 1
+    },
+    {
+      "valeur": "Olivier van Deuren",
+      "nombre": 1
+    },
+    {
+      "valeur": "Adriaen Isenbrant",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albert Joseph Moore",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albrecht Altdorfer",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alphonse Legros",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/1fcae382ffabdcda1e6738005744853a",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/8b3097ee412143a68c0cdc2749e40541",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/463da082fa4ce7af90e2bec86aac8d4f",
+      "nombre": 1
+    },
+    {
+      "valeur": "Antonio Solario",
+      "nombre": 1
+    },
+    {
+      "valeur": "Augustus Wall Callcott",
+      "nombre": 1
+    },
+    {
+      "valeur": "Bartolomeo Veneto",
+      "nombre": 1
+    },
+    {
+      "valeur": "Benjamin West",
+      "nombre": 1
+    },
+    {
+      "valeur": "Bernardino da Asola",
+      "nombre": 1
+    },
+    {
+      "valeur": "Edward Burne-Jones",
+      "nombre": 1
+    },
+    {
+      "valeur": "Frank Bernard Dicksee",
+      "nombre": 1
+    },
+    {
+      "valeur": "Frederick Walker",
+      "nombre": 1
+    },
+    {
+      "valeur": "George Frederic Watts",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giovanni Gerolamo Savoldo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Hans von Aachen",
+      "nombre": 1
+    },
+    {
+      "valeur": "Hans Wertinger",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henry Wallis",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jacopo Bassano",
+      "nombre": 1
+    },
+    {
+      "valeur": "James Ward",
+      "nombre": 1
+    },
+    {
+      "valeur": "Nicolas Neufchâtel",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pâris Bordone",
+      "nombre": 1
+    },
+    {
+      "valeur": "Thomas Jones",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jan Mabuse",
+      "nombre": 1
+    },
+    {
+      "valeur": "William Blake",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jacob van Ruisdael",
+      "nombre": 1
+    },
+    {
+      "valeur": "Carolus-Duran",
+      "nombre": 1
+    },
+    {
+      "valeur": "Nélie Jacquemart",
+      "nombre": 1
+    },
+    {
+      "valeur": "Piero di Cosimo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Léonard de Vinci",
+      "nombre": 1
+    },
+    {
+      "valeur": "Le Greco",
+      "nombre": 1
+    },
+    {
+      "valeur": "Maître de la Madone André",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jérôme Bosch",
+      "nombre": 1
+    },
+    {
+      "valeur": "Lucas Cranach l'Ancien",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jan Wildens",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giovanni Francesco Romanelli",
+      "nombre": 1
+    },
+    {
+      "valeur": "Marià Fortuny",
+      "nombre": 1
+    },
+    {
+      "valeur": "George Stubbs",
+      "nombre": 1
+    },
+    {
+      "valeur": "Rogier van der Weyden",
+      "nombre": 1
+    },
+    {
+      "valeur": "Louis-Ernest Barrias",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gustave Doré",
+      "nombre": 1
+    },
+    {
+      "valeur": "Aristide Maillol",
+      "nombre": 1
+    },
+    {
+      "valeur": "Charles-François Marchal",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Burnand",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Honoré Fragonard",
+      "nombre": 1
+    },
+    {
+      "valeur": "Francesco Botticini",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gustave Moreau",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jacques-Louis David",
+      "nombre": 1
+    },
+    {
+      "valeur": "Auguste Rodin",
+      "nombre": 1
+    },
+    {
+      "valeur": "Masaccio",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pinturicchio",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/8a558f806cd9baaeb5c20bf4d190bbbe",
+      "nombre": 1
+    },
+    {
+      "valeur": "Rosso Fiorentino",
+      "nombre": 1
+    },
+    {
+      "valeur": "Parmigianino",
+      "nombre": 1
+    },
+    {
+      "valeur": "Élisabeth Vigée Le Brun",
+      "nombre": 1
+    },
+    {
+      "valeur": "William Hogarth",
+      "nombre": 1
+    },
+    {
+      "valeur": "Lorenzo Costa",
+      "nombre": 1
+    },
+    {
+      "valeur": "Hans Memling",
+      "nombre": 1
+    },
+    {
+      "valeur": "Valentin de Boulogne",
+      "nombre": 1
+    },
+    {
+      "valeur": "Edwin Landseer",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pieter Brueghel l'Ancien",
+      "nombre": 1
+    },
+    {
+      "valeur": "Louis Le Nain",
+      "nombre": 1
+    },
+    {
+      "valeur": "Cornelis Visscher",
+      "nombre": 1
+    },
+    {
+      "valeur": "Q314350 (à corriger)",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giambattista Tiepolo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Thomas Couture",
+      "nombre": 1
+    },
+    {
+      "valeur": "Carlo Crivelli",
+      "nombre": 1
+    },
+    {
+      "valeur": "Donatello",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pisanello",
+      "nombre": 1
+    },
+    {
+      "valeur": "Vassily Kandinsky",
+      "nombre": 1
+    },
+    {
+      "valeur": "Herbert Draper",
+      "nombre": 1
+    }
+  ],
+  "musees": [
+    {
+      "valeur": "National Gallery",
+      "nombre": 250
+    },
+    {
+      "valeur": "Musée d'Orsay",
+      "nombre": 206
+    },
+    {
+      "valeur": "musée Jacquemart-André",
+      "nombre": 44
+    },
+    {
+      "valeur": "Musée du Louvre",
+      "nombre": 7
+    },
+    {
+      "valeur": "Lenbachhaus",
+      "nombre": 1
+    }
+  ],
+  "mouvements": [
+    {
+      "valeur": "Non déterminé",
+      "nombre": 508
+    }
+  ],
+  "genres": [],
+  "epoques": [
+    {
+      "valeur": "XIXe siècle",
+      "nombre": 244
+    },
+    {
+      "valeur": "XVIe siècle",
+      "nombre": 107
+    },
+    {
+      "valeur": "XVe siècle",
+      "nombre": 52
+    },
+    {
+      "valeur": "XVIIe siècle",
+      "nombre": 51
+    },
+    {
+      "valeur": "XVIIIe siècle",
+      "nombre": 25
+    },
+    {
+      "valeur": "XXe siècle",
+      "nombre": 16
+    },
+    {
+      "valeur": "XIVe siècle",
+      "nombre": 2
+    },
+    {
+      "valeur": "XXIe siècle",
+      "nombre": 1
+    }
+  ]
+} as {
+  artistes: FacetteValeur[];
+  musees: FacetteValeur[];
+  mouvements: FacetteValeur[];
+  genres: FacetteValeur[];
+  epoques: FacetteValeur[];
+};
+

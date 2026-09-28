@@ -1,38 +1,44 @@
-import React from 'react';
-import { Linking, Pressable, StyleSheet, Text, View } from 'react-native';
-import { LinearGradient } from 'expo-linear-gradient';
+import React, { useState } from 'react';
+import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { Image } from 'expo-image';
 import { ContenuVeille, TYPE_VEILLE_COLORS, TYPE_VEILLE_LABELS } from '../../types/veille';
 import { colors } from '../../theme/colors';
+import { fonts } from '../../theme/typography';
+import { SourceLogo } from './SourceLogo';
 
-export function SelectionCard({ contenu }: { contenu: ContenuVeille }) {
-  const gradient =
-    contenu.couleurs.length > 1 ? contenu.couleurs : [contenu.couleurs[0], contenu.couleurs[0]];
+export function SelectionCard({ contenu, onPress }: { contenu: ContenuVeille; onPress: () => void }) {
+  const [echec, setEchec] = useState(false);
 
   return (
-    <Pressable
-      style={styles.card}
-      onPress={() => contenu.url && Linking.openURL(contenu.url)}
-    >
+    <Pressable style={styles.card} onPress={onPress}>
       <View style={styles.cover}>
-        <LinearGradient
-          colors={gradient as any}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 1, y: 1 }}
-          style={StyleSheet.absoluteFill}
-        />
+        {contenu.imageUrl && !echec ? (
+          <Image
+            source={{ uri: contenu.imageUrl }}
+            style={StyleSheet.absoluteFill}
+            contentFit="cover"
+            transition={150}
+            cachePolicy="memory-disk"
+            onError={() => setEchec(true)}
+          />
+        ) : (
+          <View style={[StyleSheet.absoluteFill, { backgroundColor: colors.border }]} />
+        )}
+        <View style={styles.scrim} />
         <View style={styles.badgeRow}>
-          <View
-            style={[styles.badge, { backgroundColor: TYPE_VEILLE_COLORS[contenu.type] }]}
-          >
+          <View style={[styles.badge, { backgroundColor: TYPE_VEILLE_COLORS[contenu.type] }]}>
             <Text style={styles.badgeText}>{TYPE_VEILLE_LABELS[contenu.type].toUpperCase()}</Text>
           </View>
-          <Text style={styles.duree}>{contenu.duree}</Text>
+          {contenu.duree && <Text style={styles.duree}>{contenu.duree}</Text>}
         </View>
       </View>
       <Text style={styles.titre} numberOfLines={2}>
         {contenu.titre}
       </Text>
-      <Text style={styles.source}>{contenu.source}</Text>
+      <View style={styles.sourceRow}>
+        <SourceLogo url={contenu.url} size={12} />
+        <Text style={styles.source}>{contenu.source}</Text>
+      </View>
     </Pressable>
   );
 }
@@ -47,6 +53,10 @@ const styles = StyleSheet.create({
     borderRadius: 14,
     overflow: 'hidden',
     justifyContent: 'flex-end',
+  },
+  scrim: {
+    ...StyleSheet.absoluteFill,
+    backgroundColor: 'rgba(0,0,0,0.25)',
   },
   badgeRow: {
     flexDirection: 'row',
@@ -70,15 +80,7 @@ const styles = StyleSheet.create({
     color: '#FFFFFF',
     fontWeight: '600',
   },
-  titre: {
-    fontSize: 13,
-    fontWeight: '600',
-    color: colors.textPrimary,
-    marginTop: 8,
-  },
-  source: {
-    fontSize: 11,
-    color: colors.textSecondary,
-    marginTop: 2,
-  },
+  titre: { fontFamily: fonts.display, fontSize: 20, color: colors.textPrimary, marginTop: 8 },
+  sourceRow: { flexDirection: 'row', alignItems: 'center', gap: 5, marginTop: 2 },
+  source: { fontFamily: fonts.ui, fontSize: 12, color: colors.textSecondary },
 });

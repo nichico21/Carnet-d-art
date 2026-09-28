@@ -1,0 +1,19 @@
+{
+  "champs": [
+    { "nom": "id", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "titre", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "type", "type": "vocabulaire", "vocabulaire": "types_contenu", "obligatoire": true, "source": "collecte" },
+    { "nom": "source", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "url", "type": "url", "obligatoire": true, "source": "collecte" },
+    { "nom": "imageUrl", "type": "url", "obligatoire": false, "source": "collecte" },
+    { "nom": "duree", "type": "string", "obligatoire": false, "source": "collecte" },
+    { "nom": "datePublication", "type": "string", "obligatoire": false, "source": "collecte" },
+    { "nom": "dateAjout", "type": "string", "obligatoire": true, "source": "systeme" },
+    { "nom": "compteurConsultations", "type": "number", "obligatoire": true, "source": "systeme" },
+    { "nom": "themesLies", "type": "vocabulaire_liste", "vocabulaire": "themes", "obligatoire": false, "source": "curation" },
+    { "nom": "statut", "type": "vocabulaire", "vocabulaire": "statuts", "obligatoire": true, "source": "systeme" },
+    { "nom": "description", "type": "texte_long", "obligatoire": false, "source": "curation" },
+{ "nom": "motsCles", "type": "liste_libre", "obligatoire": false, "source": "curation" },
+{ "nom": "oeuvresLiees", "type": "liste_libre", "obligatoire": false, "source": "curation" }
+  ]
+}

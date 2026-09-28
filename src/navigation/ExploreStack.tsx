@@ -14,7 +14,12 @@ const Stack = createNativeStackNavigator<ExploreStackParamList>();
 
 export function ExploreStack() {
   return (
-    <Stack.Navigator screenOptions={{ headerShown: false }}>
+    <Stack.Navigator
+      screenOptions={{
+        headerShown: false,
+        animation: 'slide_from_right',
+      }}
+    >
       <Stack.Screen name="VeilleAccueil" component={VeilleAccueilScreen} />
       <Stack.Screen name="DerniersAjouts" component={DerniersAjoutsScreen} />
       <Stack.Screen name="PlusConsultes" component={PlusConsultesScreen} />

@@ -16,17 +16,22 @@ export const TYPE_VEILLE_COLORS: Record<TypeContenuVeille, string> = {
   expo: '#D97A34',
 };
 
+export type StatutVeille = 'brouillon' | 'valide';
+
 export interface ContenuVeille {
   id: string;
-  type: TypeContenuVeille;
   titre: string;
+  type: TypeContenuVeille;
   source: string;
-  duree: string;
-  couleurs: string[];
-  /** Regroupement chronologique pour l'écran "Derniers ajouts" */
-  dateGroupe?: string;
-  /** Compteur d'audience pour l'écran "Les plus consultés" */
-  audience?: string;
-  /** Lien vers la source d'origine (ouvert dans le navigateur) */
-  url?: string;
+  url: string;
+  imageUrl?: string;
+  duree?: string;
+  datePublication?: string;
+  dateAjout: string;
+  compteurConsultations: number;
+  themesLies?: string[];
+  description?: string;
+  motsCles?: string[];
+  oeuvresLiees?: string[];
+  statut?: StatutVeille;
 }

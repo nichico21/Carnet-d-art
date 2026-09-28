@@ -7,6 +7,8 @@ interface CarnetState {
   notes: Record<string, number>;
   favoris: Record<string, boolean>;
   expositionNotes: Record<string, number>;
+  veilleEnregistres: Record<string, boolean>;
+  veilleDerniereConsultationId: string | null;
 }
 
 interface CarnetContextValue extends CarnetState {
@@ -14,6 +16,8 @@ interface CarnetContextValue extends CarnetState {
   setNote: (artworkId: string, note: number) => void;
   toggleFavori: (artworkId: string) => void;
   setExpositionNote: (expositionId: string, note: number) => void;
+  toggleVeilleEnregistre: (contenuId: string) => void;
+  setVeilleDerniereConsultation: (contenuId: string) => void;
 }
 
 const CarnetContext = createContext<CarnetContextValue | null>(null);
@@ -23,6 +27,8 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
     notes: {},
     favoris: {},
     expositionNotes: {},
+    veilleEnregistres: {},
+    veilleDerniereConsultationId: null,
   });
   const [pret, setPret] = useState(false);
 
@@ -58,6 +64,13 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
           ...prev,
           expositionNotes: { ...prev.expositionNotes, [expositionId]: note },
         })),
+      toggleVeilleEnregistre: (contenuId) =>
+        setState((prev) => ({
+          ...prev,
+          veilleEnregistres: { ...prev.veilleEnregistres, [contenuId]: !prev.veilleEnregistres[contenuId] },
+        })),
+      setVeilleDerniereConsultation: (contenuId) =>
+        setState((prev) => ({ ...prev, veilleDerniereConsultationId: contenuId })),
     }),
     [state, pret],
   );

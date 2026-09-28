@@ -1,0 +1,36 @@
+[
+  {
+    "wikidataId": "Q75387404",
+    "titre": "Couple à cheval",
+    "artiste": "Vassily Kandinsky",
+    "annee": "1906",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20Kandinsky%20-%20Reitendes%20Paar%20-%20GMS%2026%20-%20Lenbachhaus.jpg",
+    "technique": "peinture à l'huile",
+    "hauteurCm": 55,
+    "largeurCm": 50.5,
+    "genreWikidata": null,
+    "notoriete": 4,
+    "lieuConservation": "Lenbachhaus",
+    "ville": "À compléter",
+    "pays": "À compléter",
+    "localisationSuspecte": false,
+    "contenuSensible": false
+  },
+  {
+    "wikidataId": "Q75387404",
+    "titre": "Couple à cheval",
+    "artiste": "Vassily Kandinsky",
+    "annee": "1906",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20Kandinsky%20-%20Reitendes%20Paar%20-%20GMS%2026%20-%20Lenbachhaus.jpg",
+    "technique": "toile",
+    "hauteurCm": 55,
+    "largeurCm": 50.5,
+    "genreWikidata": null,
+    "notoriete": 4,
+    "lieuConservation": "Lenbachhaus",
+    "ville": "À compléter",
+    "pays": "À compléter",
+    "localisationSuspecte": false,
+    "contenuSensible": false
+  }
+]

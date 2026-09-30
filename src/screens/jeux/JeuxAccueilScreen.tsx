@@ -1,6 +1,8 @@
 import React, { useMemo, useState } from 'react';
 import { Dimensions, Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import { useNavigation } from '@react-navigation/native';
+import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { ARTWORKS } from '../../data/artworks.generated';
 import { ArtworkCover } from '../../components/ArtworkCover';
 import { CATEGORIES, JEUX } from '../../data/jeux';
@@ -10,21 +12,26 @@ import { useCarnet } from '../../store/CarnetContext';
 import { jourISO, niveauDepuisXp, serieAffichee, titreNiveau } from '../../games/progression';
 import { colors } from '../../theme/colors';
 import { fonts } from '../../theme/typography';
+import { JeuxStackParamList } from '../../navigation/JeuxStack';
 
 const { width: LARGEUR_ECRAN } = Dimensions.get('window');
 const MARGE = 20;
 const ECART = 12;
 const LARGEUR_CARTE = (LARGEUR_ECRAN - MARGE * 2 - ECART) / 2;
 
+// Un jeu de navigable une fois construit : id du jeu -> écran du JeuxStack.
+const ECRAN_PAR_JEU: Partial<Record<string, keyof JeuxStackParamList>> = {
+  'qui-a-peint': 'QuiAPeint',
+};
+
 export function JeuxAccueilScreen() {
+  const navigation = useNavigation<NativeStackNavigationProp<JeuxStackParamList>>();
   const { jeux } = useCarnet();
   const [categorie, setCategorie] = useState<CategorieJeu | null>(null);
 
   const serie = serieAffichee(jeux.serie, jeux.dernierJourJoue, jourISO());
   const { niveau, xpDansNiveau, xpPourSuivant } = niveauDepuisXp(jeux.xp);
 
-  // Couvertures réelles, choisies de façon stable (mêmes images à chaque ouverture,
-  // donc servies par le cache). Les œuvres sensibles sont exclues.
   const { couvertures, hero } = useMemo(() => {
     const eligibles = ARTWORKS.filter((a) => a.imageUrl && !a.contenuSensible).sort((x, y) =>
       x.id.localeCompare(y.id),
@@ -39,6 +46,11 @@ export function JeuxAccueilScreen() {
   const jeuxAffiches = JEUX.map((jeu, i) => ({ jeu, cover: couvertures[i] })).filter(
     ({ jeu }) => !categorie || jeu.categorie === categorie,
   );
+
+  function ouvrir(jeu: JeuDef) {
+    const ecran = ECRAN_PAR_JEU[jeu.id];
+    if (ecran) navigation.navigate(ecran);
+  }
 
   return (
     <SafeAreaView style={styles.container}>
@@ -101,9 +113,15 @@ export function JeuxAccueilScreen() {
           )}
         </View>
         <View style={styles.grille}>
-          {jeuxAffiches.map(({ jeu, cover }) => (
-            <CarteJeu key={jeu.id} jeu={jeu} cover={cover} meilleur={jeux.meilleursScores[jeu.id]} />
-          ))}
+          {jeuxAffiches.map(({ jeu, cover }) =>
+            jeu.disponible ? (
+              <Pressable key={jeu.id} onPress={() => ouvrir(jeu)}>
+                <CarteJeu jeu={jeu} cover={cover} meilleur={jeux.meilleursScores[jeu.id]} />
+              </Pressable>
+            ) : (
+              <CarteJeu key={jeu.id} jeu={jeu} cover={cover} meilleur={jeux.meilleursScores[jeu.id]} />
+            ),
+          )}
         </View>
 
         <Text style={styles.sectionTitre}>Votre progression</Text>
@@ -233,7 +251,7 @@ const styles = StyleSheet.create({
     borderRadius: 14,
     overflow: 'hidden',
     marginTop: 18,
-    minHeight: 190,
+    height: 190,
   },
   heroTexte: { flex: 1, padding: 18, justifyContent: 'center' },
   heroKicker: { fontFamily: fonts.uiSemiBold, fontSize: 10, letterSpacing: 0.8, color: colors.stone },

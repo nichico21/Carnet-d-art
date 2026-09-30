@@ -1,29 +1,20 @@
 import React, { useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Image } from 'expo-image';
-import { Artwork } from '../types/artwork';
-import { colors } from '../theme/colors';
+import { colors } from '../../theme/colors';
 
-/**
- * Couverture d'une œuvre : la vraie image, redimensionnée en vignette
- * légère par défaut. "contentFit" reste "cover" (remplit le cadre, quitte
- * à recadrer) sauf demande explicite de "contain" (l'image entière est
- * visible, quitte à laisser un peu de fond de part et d'autre).
- * En cas d'échec (429, réseau...), jusqu'à 2 nouvelles tentatives avec un
- * délai croissant avant de basculer sur un aplat neutre en repli.
- */
-export function ArtworkCover({
-  artwork,
-  width = 500,
+export function ProductCover({
+  imageUrl,
+  width = 400,
   contentFit = 'cover',
 }: {
-  artwork: Artwork;
+  imageUrl?: string;
   width?: number;
   contentFit?: 'cover' | 'contain';
 }) {
   const [tentative, setTentative] = useState(0);
   const [echecDefinitif, setEchecDefinitif] = useState(false);
-  const uri = artwork.imageUrl ? `${artwork.imageUrl}?width=${width}` : undefined;
+  const uri = imageUrl ? `${imageUrl}?width=${width}` : undefined;
 
   if (uri && !echecDefinitif) {
     return (
@@ -49,12 +40,6 @@ export function ArtworkCover({
 }
 
 const styles = StyleSheet.create({
-  image: {
-    width: '100%',
-    height: '100%',
-  },
-  repli: {
-    flex: 1,
-    backgroundColor: colors.border,
-  },
+  image: { width: '100%', height: '100%' },
+  repli: { flex: 1, backgroundColor: colors.border },
 });

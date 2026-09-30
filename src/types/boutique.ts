@@ -1,22 +1,16 @@
-export type TypeProduit = 'livre' | 'affiche' | 'textile' | 'mug' | 'carnet' | 'puzzle';
-
-export const ICONE_PRODUIT: Record<TypeProduit, string> = {
-  livre: 'library-outline',
-  affiche: 'image-outline',
-  textile: 'bag-outline',
-  mug: 'cafe-outline',
-  carnet: 'book-outline',
-  puzzle: 'grid-outline',
-};
+export type CategorieBoutiqueId = 'reproductions' | 'livres' | 'objets' | 'deco' | 'vetements' | 'cadeaux';
 
 export interface Produit {
   id: string;
-  type: TypeProduit;
   titre: string;
   sousTitre?: string;
-  categorie: string;
+  categorie: CategorieBoutiqueId;
+  sousCategorie: string;
   prix: number;
-  couleur: string;
+  imageUrl?: string;
+  url?: string;
+  offres?: OffreVendeur[];
+  oeuvreLieeId?: string;
 }
 
 export interface IdeeGout {
@@ -25,3 +19,11 @@ export interface IdeeGout {
   nombreProduits: number;
   couleur: string;
 }
+
+export interface OffreVendeur {
+  source: string;
+  url: string;
+  prix: number;
+  dateReleve: string;
+}
+

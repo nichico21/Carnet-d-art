@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { IdeeGout } from '../../types/boutique';
 import { colors } from '../../theme/colors';
+import { fonts } from '../../theme/typography';
 
 export function GoutCircle({ idee }: { idee: IdeeGout }) {
   return (
@@ -19,27 +20,8 @@ export function GoutCircle({ idee }: { idee: IdeeGout }) {
 }
 
 const styles = StyleSheet.create({
-  item: {
-    width: 90,
-    marginRight: 12,
-    alignItems: 'center',
-  },
-  cercle: {
-    width: 64,
-    height: 64,
-    borderRadius: 32,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  label: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: colors.textPrimary,
-    marginTop: 6,
-  },
-  nombre: {
-    fontSize: 10,
-    color: colors.textSecondary,
-    marginTop: 1,
-  },
+  item: { width: 90, alignItems: 'center' },
+  cercle: { width: 64, height: 64, borderRadius: 32, alignItems: 'center', justifyContent: 'center' },
+  label: { fontFamily: fonts.uiSemiBold, fontSize: 12, color: colors.textPrimary, marginTop: 6 },
+  nombre: { fontFamily: fonts.ui, fontSize: 10, color: colors.textSecondary, marginTop: 1 },
 });

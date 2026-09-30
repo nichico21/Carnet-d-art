@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { ProfilScreen } from '../screens/ProfilScreen';
-import { JeuxAccueilScreen } from '../screens/jeux/JeuxAccueilScreen';
+import { JeuxStack } from './JeuxStack';
 import { AccueilStack } from './AccueilStack';
 import { ExploreStack } from './ExploreStack';
 import { CarnetStack } from './CarnetStack';
@@ -31,7 +31,7 @@ export function RootTabs() {
       <Tab.Screen name="Accueil" component={AccueilStack} />
       <Tab.Screen name="Explorer" component={ExploreStack} />
       <Tab.Screen name="Carnet" component={CarnetStack} />
-      <Tab.Screen name="Jeux" component={JeuxAccueilScreen} />
+      <Tab.Screen name="Jeux" component={JeuxStack} />
       <Tab.Screen name="Profil" component={ProfilScreen} />
     </Tab.Navigator>
   );

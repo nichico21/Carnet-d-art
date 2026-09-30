@@ -1,0 +1,15 @@
+{
+  "champs": [
+    { "nom": "id", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "titre", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "categorie", "type": "vocabulaire", "vocabulaire": "categories_boutique", "obligatoire": true, "source": "curation" },
+    { "nom": "sousCategorie", "type": "string", "obligatoire": true, "source": "curation" },
+    { "nom": "prix", "type": "number", "obligatoire": false, "source": "collecte" },
+    { "nom": "imageUrl", "type": "url", "obligatoire": false, "source": "collecte" },
+    { "nom": "url", "type": "url", "obligatoire": true, "source": "collecte" },
+    { "nom": "source", "type": "string", "obligatoire": true, "source": "collecte" },
+    { "nom": "dateReleve", "type": "string", "obligatoire": true, "source": "systeme" },
+    { "nom": "oeuvreLieeId", "type": "string", "obligatoire": false, "source": "curation" },
+    { "nom": "statut", "type": "vocabulaire", "vocabulaire": "statuts", "obligatoire": true, "source": "systeme" }
+  ]
+}

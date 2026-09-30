@@ -1,21 +1,32 @@
 import React, { useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { ICONE_PRODUIT, Produit } from '../../types/boutique';
+import { Produit } from '../../types/boutique';
+import { ProductCover } from './ProductCover';
 import { colors } from '../../theme/colors';
+import { fonts } from '../../theme/typography';
 
-export function ProductCard({ produit }: { produit: Produit }) {
+export function ProductCard({
+  produit,
+  onPress,
+  largeur = 140,
+}: {
+  produit: Produit;
+  onPress?: () => void;
+  largeur?: number;
+}) {
   const [favori, setFavori] = useState(false);
+  const hauteurCover = Math.round(largeur * 0.9);
 
   return (
-    <View style={styles.card}>
-      <View style={[styles.cover, { backgroundColor: produit.couleur }]}>
-        <Ionicons name={ICONE_PRODUIT[produit.type] as any} size={30} color="rgba(255,255,255,0.9)" />
+    <Pressable style={[styles.card, { width: largeur }]} onPress={onPress}>
+      <View style={[styles.cover, { height: hauteurCover }]}>
+        <ProductCover imageUrl={produit.imageUrl} width={Math.round(largeur * 2)} />
         <Pressable style={styles.heart} onPress={() => setFavori((v) => !v)} hitSlop={6}>
           <Ionicons
             name={favori ? 'heart' : 'heart-outline'}
             size={15}
-            color={favori ? colors.negative : colors.textPrimary}
+            color={favori ? colors.accent : colors.textPrimary}
           />
         </Pressable>
       </View>
@@ -27,25 +38,17 @@ export function ProductCard({ produit }: { produit: Produit }) {
           {produit.sousTitre}
         </Text>
       )}
-      <Text style={styles.categorie} numberOfLines={1}>
-        {produit.categorie}
+      <Text style={styles.sousCategorie} numberOfLines={1}>
+        {produit.sousCategorie}
       </Text>
       <Text style={styles.prix}>{produit.prix.toFixed(2).replace('.', ',')} €</Text>
-    </View>
+    </Pressable>
   );
 }
 
 const styles = StyleSheet.create({
-  card: {
-    width: 140,
-    marginRight: 12,
-  },
-  cover: {
-    height: 120,
-    borderRadius: 14,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
+  card: {},
+  cover: { borderRadius: 12, overflow: 'hidden' },
   heart: {
     position: 'absolute',
     top: 8,
@@ -53,30 +56,12 @@ const styles = StyleSheet.create({
     width: 26,
     height: 26,
     borderRadius: 13,
-    backgroundColor: 'rgba(255,255,255,0.9)',
+    backgroundColor: 'rgba(252,251,248,0.92)',
     alignItems: 'center',
     justifyContent: 'center',
   },
-  titre: {
-    fontSize: 13,
-    fontWeight: '700',
-    color: colors.textPrimary,
-    marginTop: 8,
-  },
-  sousTitre: {
-    fontSize: 12,
-    color: colors.textPrimary,
-    marginTop: 1,
-  },
-  categorie: {
-    fontSize: 11,
-    color: colors.textSecondary,
-    marginTop: 2,
-  },
-  prix: {
-    fontSize: 13,
-    fontWeight: '700',
-    color: colors.textPrimary,
-    marginTop: 4,
-  },
+  titre: { fontFamily: fonts.display, fontSize: 16, color: colors.textPrimary, marginTop: 8 },
+  sousTitre: { fontFamily: fonts.ui, fontSize: 12, color: colors.textPrimary, marginTop: 1 },
+  sousCategorie: { fontFamily: fonts.ui, fontSize: 11, color: colors.textSecondary, marginTop: 2 },
+  prix: { fontFamily: fonts.uiSemiBold, fontSize: 13, color: colors.textPrimary, marginTop: 4 },
 });

@@ -42,7 +42,7 @@ export const JEUX: JeuDef[] = [
     titre: 'Qui a peint ?',
     description: "Devinez l'artiste de l'œuvre proposée.",
     categorie: 'culture',
-    disponible: false,
+    disponible: true,
   },
   {
     id: 'intrus',

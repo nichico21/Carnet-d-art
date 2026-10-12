@@ -60,7 +60,7 @@ async function resoudreListeMusees() {
 // Nombre brut de lignes demandées à Wikidata (avant déduplication ;
 // avec les OPTIONAL sur matériau/genre, une même œuvre peut apparaître
 // plusieurs fois, donc on vise large).
-const LIGNES_BRUTES_PAR_MUSEE = 800;
+const LIGNES_BRUTES_PAR_MUSEE = 1600;
 
 // Nombre d'œuvres uniques conservées par musée après tri par notoriété.
 const OEUVRES_RETENUES_PAR_MUSEE = 250;

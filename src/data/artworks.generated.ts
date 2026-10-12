@@ -5,6 +5,21 @@ import { Artwork } from '../types/artwork';
 
 export const ARTWORKS: Artwork[] = [
   {
+    "id": "Q10271033",
+    "titre": "Église de Vétheuil",
+    "artiste": "Claude Monet",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eglise%20de%20V%C3%A9theuil.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.5 × 50.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1028282",
     "titre": "Apollon et Daphné",
     "artiste": "Piero Pollaiuolo",
@@ -413,6 +428,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q11702934",
+    "titre": "Madame Georges Charpentier",
+    "artiste": "Auguste Renoir",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Madame%20Charpentier%20-%2001.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46.5 × 38 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q117193762",
     "titre": "Vierge à l'Enfant",
     "artiste": "Cima da Conegliano",
@@ -503,6 +533,66 @@ export const ARTWORKS: Artwork[] = [
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Triomphe%20d%27%C3%86milius%20Paulus%20avec%20le%20triomphe%20de%20l%27Amour.png",
     "technique": "tempera",
     "lieuConservation": "musée Jacquemart-André",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q11826275",
+    "titre": "La Méridienne",
+    "artiste": "Vincent van Gogh",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20siesta%20%28after%20Millet%29%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 91 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q11826533",
+    "titre": "Coin d'atelier",
+    "artiste": "Claude Monet",
+    "annee": "1861",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coint%20d%27atelier.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "180 × 130 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q11918682",
+    "titre": "Le Cheval blanc",
+    "artiste": "Paul Gauguin",
+    "annee": "1898",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20The%20White%20Horse%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "140 × 91.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q12015473",
+    "titre": "Le Lit",
+    "artiste": "Henri de Toulouse-Lautrec",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lautrec%20in%20bed%201893.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 70.5 cm",
+    "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
     "mouvement": "Non déterminé",
@@ -601,6 +691,21 @@ export const ARTWORKS: Artwork[] = [
     "annee": "1890",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20Church%20in%20Auvers-sur-Oise%2C%20View%20from%20the%20Chevet%20-%20Google%20Art%20Project.jpg",
     "technique": "peinture à l'huile",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q12142552",
+    "titre": "Pierre Auguste Renoir",
+    "artiste": "Frédéric Bazille",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A9d%C3%A9ric%20Bazille%20-%20Renoir.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61.2 × 50 cm",
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
@@ -779,6 +884,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q12878041",
+    "titre": "Jason",
+    "artiste": "Gustave Moreau",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moreau%20-%20Jason%20et%20M%C3%A9d%C3%A9e.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "204 × 115.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q12878468",
     "titre": "Caïn",
     "artiste": "Fernand Cormon",
@@ -945,6 +1065,36 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q14127232",
+    "titre": "Labourage nivernais",
+    "artiste": "Rosa Bonheur",
+    "annee": "1849",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Ploughing%20in%20Nevers%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1.33 × 2.6 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q14159615",
+    "titre": "Portrait d'Irma Brunner",
+    "artiste": "Édouard Manet",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20La%20Viennoise%20Irma%20Brunner.jpg",
+    "technique": "pastel",
+    "dimensions": "530 × 440 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1422666",
     "titre": "Vairumati",
     "artiste": "Paul Gauguin",
@@ -1001,6 +1151,52 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q14734192",
+    "titre": "Soleil couchant à Ivry",
+    "artiste": "Armand Guillaumin",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Armand%20Guillaumin%20-%20Soleil%20couchant%20%C3%A0%20Ivry.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 81 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q14855249",
+    "titre": "Rolla",
+    "artiste": "Henri Gervex",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Gervex%20-%20Rolla%2003.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "176.2 × 221.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q14900433",
+    "titre": "1814, La Campagne de France",
+    "artiste": "Ernest Meissonier",
+    "annee": "1862",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis-Ernest%20Meissonier-Campagne%20de%20France.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "51.5 × 76.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1523473",
     "titre": "Amour d'avril",
     "artiste": "Arthur Hughes",
@@ -1044,6 +1240,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q15526285",
+    "titre": "Henri Cordier",
+    "artiste": "Gustave Caillebotte",
+    "annee": "1883",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Caillebotte%20-%20Henri%20Cordier%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 82 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1560719",
     "titre": "Œillet, Lys, Lys, Rose",
     "artiste": "Q155626 (à corriger)",
@@ -1058,6 +1269,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q15709560",
+    "titre": "Le Rêve",
+    "artiste": "Édouard Detaille",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Detaille%20-%20The%20Dream%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "300 × 400 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1585399",
     "titre": "Portrait d'Isabelle Porcel",
     "artiste": "Francisco de Goya",
@@ -1067,6 +1293,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q15874391",
+    "titre": "L'Excommunication de Robert le Pieux",
+    "artiste": "Jean-Paul Laurens",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Excommunication%20de%20Robert%20le%20Pieux-Jean-Paul%20Laurens-IMG%208140.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "130 × 218 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q15875216",
+    "titre": "Fernand Halphen enfant",
+    "artiste": "Auguste Renoir",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Fernand%20Halphen%20as%20a%20Boy%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46.2 × 38.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -1479,6 +1735,51 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q17353200",
+    "titre": "Réception du Grand Condé à Versailles",
+    "artiste": "Jean-Léon Gérôme",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Geromeconde.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "96.5 × 139.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17353205",
+    "titre": "La Source",
+    "artiste": "Gustave Courbet",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20The%20Source%20-%20WGA05506.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "128 × 97 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17434855",
+    "titre": "Ugolin entouré de ses quatre enfants",
+    "artiste": "Jean-Baptiste Carpeaux",
+    "annee": "1862",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ugolino%20Carpeaux%20Petit%20Palais%20PPSO1573.jpg",
+    "technique": "bronze",
+    "dimensions": "194 × 148 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q17435911",
     "titre": "Eton College",
     "artiste": "Canaletto",
@@ -1488,6 +1789,52 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17436678",
+    "titre": "La Cathédrale de Rouen, le Portail, Temps gris",
+    "artiste": "Claude Monet",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Cathedral%20in%20Rouen.%20The%20portal%2C%20Grey%20Weather%20-%20Google%20Art%20Project.jpg",
+    "technique": "toile",
+    "dimensions": "100.2 × 65.4 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17450435",
+    "titre": "La Chaste Suzanne",
+    "artiste": "Jean-Jacques Henner",
+    "annee": "1864",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Chaste%20Suzanne%2C%20par%20Jean-Jacques%20Henner.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "185 × 130 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490623",
+    "titre": "À la sortie de l'exposition Manet aux Tuileries",
+    "artiste": "Albert André",
+    "annee": "1932",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ANDRE%20Albert%201932%20Exposition%20Manet%2Csortie%20des%20Tuileries.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -1513,6 +1860,216 @@ export const ARTWORKS: Artwork[] = [
     "annee": "1888",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Bernard%20Adam%20et%20Eve%201888%20Mus%C3%A9e%20d%27Orsay%20Paris.jpg",
     "technique": "peinture à l'huile",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490657",
+    "titre": "Adolphe Crémieux",
+    "artiste": "Jean-Jules-Antoine Lecomte du Nouÿ",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Cr%C3%A9mieux%20by%20Lecomte%20du%20Nouy.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "121 × 101 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490658",
+    "titre": "Adolphe Franck",
+    "artiste": "Jules Bastien-Lepage",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Franck%2C%20French%20philosopher%20%281878%29%20-%20Jules%20Bastien-Lepage.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 48.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490659",
+    "titre": "Jean Lucien Adolphe Jullien",
+    "artiste": "Henri Fantin-Latour",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Lucien-Adolphe%20Jullien%20by%20Henri%20Fantin-Latour.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "160 × 150 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490661",
+    "titre": "Agar et Ismaël",
+    "artiste": "Jean-Charles Cazin",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Agar%20et%20Ismael%20par%20Jean-Charles%20Cazin.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "252 × 202 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490666",
+    "titre": "Alexandre Millerand",
+    "artiste": "Marcel Baschet",
+    "annee": "1921",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Millerand%20par%20Marcel%20Baschet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "138 × 105.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490669",
+    "titre": "Louis-Alfred Natanson",
+    "artiste": "Q123740 (à corriger)",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Vallotton%20Alfred-Athis%20Natanson.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81.5 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490672",
+    "titre": "Alfred Beurdeley",
+    "artiste": "Anders Zorn",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20-%20Alfred%20Beurdeley%201906.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "116 × 89.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490673",
+    "titre": "Alfred Chauchard",
+    "artiste": "Jean-Joseph Benjamin-Constant",
+    "annee": "1896",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Chauchard.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "130.5 × 97 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490676",
+    "titre": "Aline Maréchal",
+    "artiste": "Georges Lemmen",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lemmen1.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60 × 51 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490677",
+    "titre": "Allée de la Tour-du-Jongleur et Maison de M. Musy, Louveciennes",
+    "artiste": "Camille Pissarro",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Paysage%2C%20Louveciennes%2C%20dit%20autrefois%20Paysage%2C%20Pontoise%2C%201875%20vers.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "52 × 81 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490685",
+    "titre": "André Benjamin-Constant",
+    "artiste": "Jean-Joseph Benjamin-Constant",
+    "annee": "1895",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20mon%20fils%20Andr%C3%A9%20%28Benjamin-Constant%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "117 × 86.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490688",
+    "titre": "André Gide",
+    "artiste": "Paul Albert Laurens",
+    "annee": "1924",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gide%20by%20Laurens.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 50 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490689",
+    "titre": "André-Charles Coppier",
+    "artiste": "Albert Besnard",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9-Charles%20Coppier.gif",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 50 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490691",
+    "titre": "Angelina",
+    "artiste": "Édouard Manet",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Angelina.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92 × 73.5 cm",
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
@@ -1650,6 +2207,262 @@ export const ARTWORKS: Artwork[] = [
     "annee": "1901",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Trees%20on%20a%20yellow%20Background%20-%20Google%20Art%20Project.jpg",
     "technique": "pastel",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490740",
+    "titre": "Argenteuil",
+    "artiste": "Claude Monet",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Argenteuil%20-%201872%20-%20Mus%C3%A9e%20d%27Orsay.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "50 × 65.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490742",
+    "titre": "Aristide Maillol",
+    "artiste": "József Rippl-Rónai",
+    "annee": "1899",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rippl-R%C3%B3nai%20Aristide%20Maillol%201899.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "100 × 76 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490745",
+    "titre": "Arlequin et Colombine",
+    "artiste": "Edgar Degas",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Arlequin%20et%20Colombine%2C%20Entre%201886%20et%201890.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "32.4 × 23.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490746",
+    "titre": "Armand Fallières",
+    "artiste": "Léon Bonnat",
+    "annee": "1907",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Armand%20Falli%C3%A8res%20%28Bonnat%201907%29.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "143 × 114.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490788",
+    "titre": "Autoportrait",
+    "artiste": "Q123740 (à corriger)",
+    "annee": "1897",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%2C%20par%20F%C3%A9lix%20Vallotton.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "58.9 × 47.9 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490789",
+    "titre": "Autoportrait",
+    "artiste": "Henri Matisse",
+    "annee": "1918",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Matisse%2C%201918%2C%20Portrait%20du%20peintre%20%28Autoportrait%2C%20Self-portrait%29%2C%20oil%20on%20canvas%2C%2065%20x%2054%20cm%2C%20Matisse%20Museum%20%28Le%20Cateau%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 54 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490790",
+    "titre": "Autoportrait à 17 ans à son arrivée à Paris",
+    "artiste": "Ernest Hébert",
+    "annee": "1833",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20H%C3%A9bert%20autoportrait.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "53 × 45 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490792",
+    "titre": "Autoportrait en buste",
+    "artiste": "Odilon Redon",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20Autoportrait%2C%201877%20vers.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 49.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490794",
+    "titre": "Autoportrait symbolique",
+    "artiste": "Émile Bernard",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Bernard%20-%20Symbolic%20Self-Portrait%20%28Autoportrait%20symbolique%29%201891.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81 × 60 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490795",
+    "titre": "Autoportrait, étude de visage",
+    "artiste": "Édouard Vuillard",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/143%20Edouard%20Vuillard%20Autoportrait%2C%20%C3%A9tude%20de%20visage.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "24.5 × 19.1 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490801",
+    "titre": "Avant l'opération",
+    "artiste": "Henri Gervex",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gervex%20The%20operation.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "242 × 188 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490808",
+    "titre": "bac à la Varenne-Saint-Hilaire",
+    "artiste": "Camille Pissarro",
+    "annee": "1864",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20pissarro%2C%20traghetto%20a%20varenne-saint-hilaire%2C%201864.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "27 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490813",
+    "titre": "Baigneurs",
+    "artiste": "Paul Cézanne",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne-Baigneurs-MBA-Lyon.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "22 × 32 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490814",
+    "titre": "Baigneurs sur la plage de Trouville",
+    "artiste": "Eugène Boudin",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boudin%20BathersTrouville%201869.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "30.5 × 48.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490821",
+    "titre": "Baigneuses",
+    "artiste": "Henri Fantin-Latour",
+    "annee": "1898",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Fantin-Latour%20%281836-1904%29%20-%20Vier%20Frauen%20nach%20dem%20Bade%20im%20Freien%20-%202846%20-%20F%C3%BChrermuseum.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "53 × 64 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490823",
+    "titre": "Baigneuses",
+    "artiste": "Paul Cézanne",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne-Baigneuses-Aix.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "29 × 45 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490824",
+    "titre": "Baigneuses à la vache rouge",
+    "artiste": "Émile Bernard",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Bernard%20-%20Baigneuses%20%C3%A0%20la%20vache%20rouge.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92 × 73 cm",
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
@@ -1798,6 +2611,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q17490859",
+    "titre": "Bercy en décembre",
+    "artiste": "Antoine Guillemet",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Guillemet%20-%20Bercy%20en%20d%C3%A9cembre.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "140 × 250 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q17490865",
     "titre": "Berthe Morisot à l'éventail",
     "artiste": "Édouard Manet",
@@ -1929,6 +2757,979 @@ export const ARTWORKS: Artwork[] = [
     "annee": "1889",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20signac%2C%20argini%20di%20fiume%2C%20la%20senna%20a%20herblay%2C%201889%2C%2002.JPG",
     "technique": "peinture à l'huile",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490912",
+    "titre": "Botte d'ail et pot d'étain",
+    "artiste": "Meyer de Haan",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meyer%20de%20Haan%20-%20Botte%20d%27ail%20et%20pot%20d%27%C3%A9tain.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "32 × 40 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490915",
+    "titre": "Bouquet de fleurs au mimosa",
+    "artiste": "Odilon Redon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20Bouquet%20de%20fleurs%20au%20mimosa%2C%20RF%201961-5%20%3B%20Bx%20D%201961%2012%2035.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "45 × 33 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490916",
+    "titre": "Bouquet au dahlia jaune",
+    "artiste": "Paul Cézanne",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouquet%20au%20dahlia%20jaune%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%20718.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 64 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490917",
+    "titre": "Bouquet au petit Delft",
+    "artiste": "Paul Cézanne",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouquet%20au%20petit%20Delft%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "41 × 27 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490920",
+    "titre": "Bouquet d'anémones blanches",
+    "artiste": "Édouard Vuillard",
+    "annee": "1909",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Le%20bouquet%20d%27an%C3%A9mones%2C%20vers%201912.jpg",
+    "technique": "papier",
+    "dimensions": "46 × 56 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490923",
+    "titre": "Bouquet de mimosa",
+    "artiste": "George-Daniel de Monfreid",
+    "annee": "1910",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rigaud41%2CMimosa%20Monfreid.jpg",
+    "technique": "papier",
+    "dimensions": "97 × 70.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490926",
+    "titre": "Bouquet de roses",
+    "artiste": "Auguste Renoir",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Bouquet%20de%20roses%2C%20RF%201948.14.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "36 × 32 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490929",
+    "titre": "Bouquet de zinnias",
+    "artiste": "Louis Pastour",
+    "annee": "1931",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouquet%20de%20Zinnias%20-%20Louis%20Pastour.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "41 × 33 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490931",
+    "titre": "\"Bouzina, fin d'été\" ou \"Paysage marocain\"",
+    "artiste": "Henri Villain",
+    "annee": "1917",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouzina%2C%20fin%20d%27%C3%A9t%C3%A9%20d%27Henri%20Villain%20mus%C3%A9e%20d%27Orsay%20Paris%20France.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "48 × 61 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490935",
+    "titre": "Branche de pivoines blanches et sécateur",
+    "artiste": "Édouard Manet",
+    "annee": "1864",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20069.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "31.8 × 46.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490936",
+    "titre": "Branche de pommier en fleurs",
+    "artiste": "Gustave Courbet",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20Branche%20de%20pommier%20en%20fleurs%20dit%20aussi%20Fleurs%20de%20cerisiers%2C%2099-018548.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "32.2 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490937",
+    "titre": "brasserie de campagne à Brannenbourg",
+    "artiste": "Max Liebermann",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Liebermann%20Country%20Tavern%20at%20Brunnenburg.jpeg",
+    "technique": "peinture à l'huile",
+    "dimensions": "70 × 100.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490940",
+    "titre": "Bretonne donnant à manger aux cochons",
+    "artiste": "Paul Sérusier",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bretonne%20donnant%20%C3%A0%20manger%20aux%20cochons%2C%20par%20Paul%20S%C3%A9rusier.jpg",
+    "technique": "tempera",
+    "dimensions": "46 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490941",
+    "titre": "La Ronde bretonne",
+    "artiste": "Émile Bernard",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Ronde%20bretonne%2C%20par%20%C3%89mile%20Bernard.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81 × 54 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490942",
+    "titre": "Bretonnes sous la tonnelle",
+    "artiste": "Maurice Denis",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bretonnes%20sous%20la%20tonnelle-Maurice%20Denis-IMG%208189.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "50 × 60 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490955",
+    "titre": "Camélias dans un vase",
+    "artiste": "Eugène Baudin",
+    "annee": "1901",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Baudin%2C%20Cam%C3%A9lias%20dans%20un%20vase%2C%201901.%20Huile%20sur%20toile.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "47 × 39 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490962",
+    "titre": "Canal du Loing",
+    "artiste": "Alfred Sisley",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20du%20Loing%20%281884%29%20by%20Alfred%20Sisley.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38.5 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490968",
+    "titre": "Cariatides",
+    "artiste": "Auguste Renoir",
+    "annee": "1909",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Cariatides.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "130 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490973",
+    "titre": "Carpeaux",
+    "artiste": "Albert Maignan",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amiens%20%28Somme%29%20-%20Mus%C3%A9e%20de%20Picardie%20-%20%22Carpeaux%22%20%28Albert%20Maignan%2C%201845-1908%29.jpg",
+    "dimensions": "350 × 445 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490974",
+    "titre": "Carrefour de la rue Rémy à Auvers-sur-Oise",
+    "artiste": "Paul Cézanne",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrefour%20de%20la%20rue%20R%C3%A9my%20%C3%A0%20Auvers-sur-Oise%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%2064.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38 × 45.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490977",
+    "titre": "Carrière de pierres meulières à Igny",
+    "artiste": "Antoine Chintreuil",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Chintreuil%2C%20%22Carri%C3%A8re%20de%20pierres%20meuli%C3%A8res%20%C3%A0%20Igny%22%2C%20185..%20Huile%20sur%20toile%20sans%20cadre.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "32.5 × 46.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490979",
+    "titre": "Carton de vitrail",
+    "artiste": "Odilon Redon",
+    "annee": "1911",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20VITRAIL%2C%20RF%201984%2063.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "143.5 × 62.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490984",
+    "titre": "Ce que l'on appelle le vagabondage",
+    "artiste": "Alfred Stevens",
+    "annee": "1854",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Stevens%20What%20is%20Called%20Vagrancy.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "131 × 164.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490987",
+    "titre": "Chalands sur la Seine",
+    "artiste": "Auguste Renoir",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Chalands%20sur%20la%20Seine.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "47 × 64 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490990",
+    "titre": "champ de bananiers",
+    "artiste": "Auguste Renoir",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Field%20of%20Banana%20Trees%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "510 × 630 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490991",
+    "titre": "Champ de coquelicots, environs de Giverny",
+    "artiste": "Claude Monet",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Champ%20de%20coquelicots%20%3B%20environs%20de%20Giverny%2C%201885.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "66 × 81.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490992",
+    "titre": "Champs de tulipes en Hollande",
+    "artiste": "Claude Monet",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Champs%20de%20Tulipes%20de%20Claude%20Monet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.5 × 81.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17490998",
+    "titre": "Charge de l'artillerie de la garde impériale à Traktir en Crimée, le 16 août 1855",
+    "artiste": "Adolf Schreyer",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Schreyer%20-%20Charge%20de%20l%27artillerie%20de%20la%20Garde%20Imp%C3%A9riale%20%C3%A0%20Traktir%20-%20Orsay%20RF%20440.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "202 × 429 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491001",
+    "titre": "Charles Cottet",
+    "artiste": "René Ménard",
+    "annee": "1896",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Menard%20charles%20cottet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 83.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491003",
+    "titre": "Charles Garnier",
+    "artiste": "Paul Baudry",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Garnier%201868%20by%20Paul%20Baudry%201828%201886%20edit.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "103 × 81 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491007",
+    "titre": "Charles Milcendeau",
+    "artiste": "Henri Evenepoel",
+    "annee": "1899",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Milcendeau%20par%20Henri%20Evenepoel.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "120 × 73 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491008",
+    "titre": "Charles-Louis de Saulces de Freycinet",
+    "artiste": "Gabriel Ferrier",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CharlesdeFreycinet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "146.5 × 87 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491009",
+    "titre": "Charlotte Dubourg",
+    "artiste": "Henri Fantin-Latour",
+    "annee": "1882",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Fantin-Latour%20-%20Portrait%20of%20Mlle%20C.%20D%2C%201882.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "117 × 92 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491011",
+    "titre": "Chasse au faucon en Algérie : la curée",
+    "artiste": "Eugène Fromentin",
+    "annee": "1863",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20fromentin%2C%20caccia%20al%20falcone%20in%20algeria%2C%20la%20corsa%2C%201863.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "162.5 × 118 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491013",
+    "titre": "Chasse au tigre",
+    "artiste": "Eugène Delacroix",
+    "annee": "1854",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Chasse%20au%20tigre%20%281854%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 92.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491014",
+    "titre": "Chasse aux papillons",
+    "artiste": "Berthe Morisot",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20Chasse%20aux%20papillons.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 56 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491016",
+    "titre": "Chasse-marée à l'ancre",
+    "artiste": "Claude Monet",
+    "annee": "1871",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chasse-mar%C3%A9e%20%C3%A0%20l%27ancre%20-%20Claude%20Monet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "78 × 75 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491017",
+    "titre": "Chasseurs dans la neige",
+    "artiste": "Gustave Courbet",
+    "annee": "1864",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20Les%20Braconniers%20dans%20la%20neige%2C%201867%2C%20MNR%20176.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 81 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491018",
+    "titre": "Chat sur un fauteuil",
+    "artiste": "Théophile Alexandre Steinlen",
+    "annee": "1902",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9ophile%20Alexandre%20Steinlen%20-%20Chat%20sur%20un%20fauteuil%20-%20Piscine%20Roubaix.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491020",
+    "titre": "Châtaigniers à Louveciennes",
+    "artiste": "Camille Pissarro",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Ch%C3%A2taigniers%20%C3%A0%20Louveciennes%20-%201879.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "40 × 54 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491029",
+    "titre": "Chaumières à Berneval",
+    "artiste": "Auguste Renoir",
+    "annee": "1897",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Chaumi%C3%A8res%20aux%20environs%20de%20Berneval%2C%201897.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "40.5 × 32.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491031",
+    "titre": "Chefs de tribus arabes se défiant au combat singulier, sous les remparts d'une ville",
+    "artiste": "Théodore Chassériau",
+    "annee": "1852",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chass%C3%A9riau%20-%20Chefs%20de%20tribus%20arabes%20se%20d%C3%A9fiant%20au%20combat%20singulier%2C%20sous%20les%20remparts%20d%27une%20ville%2C%201852%2C%20RF%202186%2C%20Mus%C3%A9e%20d%27Orsay%2C%20Paris.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "90.2 × 117.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491032",
+    "titre": "Chemin creux, effet de neige",
+    "artiste": "Armand Guillaumin",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Armand%20Guillaumin%20001.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "66 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491040",
+    "titre": "chemin montant à travers champs. Côte des Grouettes. Pontoise",
+    "artiste": "Camille Pissarro",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Chemin%20montant%20%C3%A0%20travers%20champs.%20Cote%20des%20Grouettes%2C%20Pontoise%2C%201879.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491044",
+    "titre": "Chemin sous bois, en été",
+    "artiste": "Camille Pissarro",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Chemin%20sous%20bois%2C%20en%20%C3%A9t%C3%A9%2C%201877.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81 × 65.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491064",
+    "titre": "Chrysanthèmes",
+    "artiste": "Claude Monet",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20051.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54.5 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491074",
+    "titre": "Baigneurs",
+    "artiste": "Paul Cézanne",
+    "annee": "1902",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20Cinq%20baigneurs%20Orsay.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "42 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491076",
+    "titre": "Clair de lune",
+    "artiste": "Q123740 (à corriger)",
+    "annee": "1895",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Vallotton%2C%201895c%20-%20Clair%20de%20lune.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "27 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491080",
+    "titre": "Clair de lune sur la rivière",
+    "artiste": "Lovell Birge Harrison",
+    "annee": "1919",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Birge-Harrison-Clair-de-lune-Musee-Orsay.jpeg",
+    "technique": "peinture à l'huile",
+    "dimensions": "71 × 64 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491083",
+    "titre": "Clara",
+    "artiste": "Thomas Eakins",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eakins%2C%20Clara%20%28Clara%20J%20Mather%29%20c1900.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 51 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491084",
+    "titre": "Claude Bernheim de Villers",
+    "artiste": "Édouard Vuillard",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Portrait%20de%20Claude%20Bernheim%20de%20Villers%2C%201905-1906.jpg",
+    "technique": "papier",
+    "dimensions": "68.4 × 96.8 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491085",
+    "titre": "Claude Debussy",
+    "artiste": "Marcel Baschet",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Debussy%2C%20portrait%20by%20Marcel%20Baschet%20%281884%29.jpg",
+    "technique": "acajou",
+    "dimensions": "25 × 21.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491086",
+    "titre": "Coco lisant",
+    "artiste": "Auguste Renoir",
+    "annee": "1905",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Coco%20lisant%2C%201905.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "27.5 × 39.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491090",
+    "titre": "Coin de jardin à l'Hermitage. Pontoise",
+    "artiste": "Camille Pissarro",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20de%20jardin%20%C3%A0%20l%27Hermitage.%20Pontoise%20-%20Sans%20cadre.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491091",
+    "titre": "Coin de salle à manger au Cannet",
+    "artiste": "Pierre Bonnard",
+    "annee": "1932",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Corner-of-the-dining-room.jpg%21HalfHD.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81 × 90 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491092",
+    "titre": "Coin de table",
+    "artiste": "Pierre Bonnard",
+    "annee": "1935",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20Still%20LIfe%20with%20Mask.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "63 × 63 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491093",
+    "titre": "Coin du parc, Amfreville",
+    "artiste": "Édouard Vuillard",
+    "annee": "1907",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Une%20all%C3%A9e%20au%20bois%20de%20Boulogne%2C%20vers%201935.jpg",
+    "technique": "papier",
+    "dimensions": "59 × 45 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491095",
+    "titre": "colline de Saint-Loup",
+    "artiste": "Paul Guigou",
+    "annee": "1860",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20Les%20collines%20de%20Saint-Loup%201856%20-%20Paul%20Camille%20Guigou.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "27.5 × 39.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491097",
+    "titre": "Colonna Romano",
+    "artiste": "Auguste Renoir",
+    "annee": "1913",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Colonna%20Romano%2C%20vers%201913.gif",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.2 × 54.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491102",
+    "titre": "Comédie humaine",
+    "artiste": "Jean-Louis Hamon",
+    "annee": "1852",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis%20Hamon%20-%20La%20Com%C3%A9die%20humaine.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "140 × 315 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491105",
+    "titre": "Compassion !",
+    "artiste": "William Bouguereau",
+    "annee": "1897",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20Compassion%20%281897%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "2.61 × 1.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491106",
+    "titre": "Composition",
+    "artiste": "Charles Maurin",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Composition-Charles%20Maurin-Orsay.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "56 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491165",
+    "titre": "Dahlias dans un grand vase de Delft",
+    "artiste": "Paul Cézanne",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Dahlias%20dans%20un%20grand%20vase%20de%20Delft.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 73 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491169",
+    "titre": "Dalou, sa femme et sa fille",
+    "artiste": "Lawrence Alma-Tadema",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Alma-Tadema%20Dalou%2C%20sa%20femme%20et%20sa%20fille%20en%201876.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "0.61 × 0.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491175",
+    "titre": "Dans la forêt",
+    "artiste": "Pascal Dagnan-Bouveret",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Dagnan-Bouveret-Dans%20la%20for%C3%AAt-Mus%C3%A9e%20des%20beaux-arts%20de%20Nancy.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "154 × 122 cm",
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
@@ -2174,12 +3975,1603 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q17491276",
+    "titre": "Édouard Manet",
+    "artiste": "Carolus-Duran",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolus-Duran%20-%20Portrait%20%C3%89douard%20Manet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 54 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491277",
+    "titre": "Portrait d'Édouard Pailleron",
+    "artiste": "Q155626 (à corriger)",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Edouard%20Pailleron%20-%20DO%201986%2017%20-%20Mus%C3%A9e%20d%27Orsay.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "138.5 × 96 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491279",
+    "titre": "Effet de neige à Éragny",
+    "artiste": "Camille Pissarro",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Effet%20de%20neige%20%C3%A0%20%C3%89ragny%20%28Pissarro%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73.5 × 92.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491280",
+    "titre": "Effet de neige à Vétheuil",
+    "artiste": "Claude Monet",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Effet%20de%20neige%20%C3%A0%20V%C3%A9theul.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "52.5 × 71 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491281",
+    "titre": "Effet de vent, série des peupliers",
+    "artiste": "Claude Monet",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Poplars%20%28Wind%20effect%29.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "100 × 73.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491290",
+    "titre": "Éléphants d'Afrique",
+    "artiste": "Charles de Tournemine",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephants%20d%20Afrique-Charles-Emile%20de%20Tournemine-IMG%208136.JPG",
+    "technique": "toile",
+    "dimensions": "88 × 178 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491297",
+    "titre": "Émile Bastien-Lepage",
+    "artiste": "Jules Bastien-Lepage",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Bastien-Lepage%20par%20Jules%20Bastien-Lepage.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "33 × 25 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491298",
+    "titre": "Émile Loubet",
+    "artiste": "Fernand Cormon",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Loubet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "116 × 96 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q17491308",
     "titre": "En correctionnelle",
     "artiste": "Jean-Louis Forain",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/En%20Correctionelle%2C%20Gem%C3%A4lde%20von%20Jean-Louis%20Forain%2C%20Mus%C3%A9e%20de%20l%27Ardenne%20-%201908%20%28cropped%29.jpg",
     "technique": "peinture à l'huile",
     "lieuConservation": "Musée du Louvre",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491370",
+    "titre": "Étude de femme nue",
+    "artiste": "Théo Van Rysselberghe",
+    "annee": "1913",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9o%20van%20Rysselberghe%20-%20Study%20of%20a%20female%20nude.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.5 × 100 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491384",
+    "titre": "Évariste de Valernes",
+    "artiste": "Edgar Degas",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Degas%20Evariste%20de%20Valernes%201868%20Musee%20dOrsay.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "59.5 × 46.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491385",
+    "titre": "Ève",
+    "artiste": "Odilon Redon",
+    "annee": "1904",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eve-Odilon%20Redon-IMG%208240.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 47 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491783",
+    "titre": "Jeune Femme nue en buste",
+    "artiste": "Auguste Renoir",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Jeune%20femme%20nue%20en%20buste%2C%20vers%201886.gif",
+    "technique": "peinture à l'huile",
+    "dimensions": "35 × 27 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491784",
+    "titre": "Jeune Femme se poudrant",
+    "artiste": "Berthe Morisot",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeune%20Femme%20se%20poudrant%2C%20par%20Berthe%20Morisot.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 39 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491790",
+    "titre": "Jeune Fille assise",
+    "artiste": "Auguste Renoir",
+    "annee": "1909",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Jeune%20fille%20assise%2C%201909.gif",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.4 × 55.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491791",
+    "titre": "Jeune Fille au chien",
+    "artiste": "Edmond Aman-Jean",
+    "annee": "1913",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edmond%20Aman-Jean%20-%20Jeune%20fille%20au%20chien%2002.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "130 × 97 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491792",
+    "titre": "Jeune Fille au jardin",
+    "artiste": "Mary Cassatt",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Girl%20in%20the%20Garden%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.5 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491797",
+    "titre": "Jeune Fille de Bou-Saâda",
+    "artiste": "Étienne Dinet",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeune%20fille%20de%20Bou-Sa%C3%A2da%20par%20Etienne%20Dinet%20en%201892.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "23 × 15.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491799",
+    "titre": "Jeune Fille lisant",
+    "artiste": "René-Xavier Prinet",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9-Xavier%20Prinet%20-%20Jeune%20Fille%20lisant%20-%20Piscine%20Roubaix.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60 × 60 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491804",
+    "titre": "Jeune Mère et ses enfants dans un salon",
+    "artiste": "Gustave Léonard de Jonghe",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20L%C3%A9onard%20de%20Jonghe%20-%20Jeune%20m%C3%A8re%20et%20ses%20enfants%20dans%20un%20salon.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "40 × 32 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491805",
+    "titre": "Jeune Noir à l'épée",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeune%20noir%20a%20l%20epee-Pierre%20Puvis%20de%20Chavannes-IMG%208127.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "105 × 73 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491807",
+    "titre": "Jeunes Femmes au bord de la mer",
+    "artiste": "Eugène Humbert",
+    "annee": "1857",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JEUNES%20FEMMES%20AU%20BORD%20DE%20LA%20MER%20Jules%20Eug%C3%A8ne%20HUMBERT.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "80 × 150.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491810",
+    "titre": "Jeunes Filles au bord de la mer",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Puvis%20de%20Chavannes%20-%20Young%20Girls%20by%20the%20Seaside%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "205.4 × 156 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491812",
+    "titre": "Un combat de coqs",
+    "artiste": "Jean-Léon Gérôme",
+    "annee": "1846",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Young%20Greeks%20Attending%20a%20Cock%20Fight%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "143 × 204 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491814",
+    "titre": "Job",
+    "artiste": "Léon Bonnat",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Bonnat%20-%20Job.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "161 × 129 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491816",
+    "titre": "José-Maria de Heredia",
+    "artiste": "Émile Lévy",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9-Maria%20de%20Heredia.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "53.3 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491817",
+    "titre": "Joseph Dreyfus",
+    "artiste": "Léon Bonnat",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bonnat18.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "70 × 56 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491821",
+    "titre": "Joueurs de flûte au bivouac",
+    "artiste": "Gustave Guillaumet",
+    "annee": "1866",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Les%20Joueurs%20de%20Fl%C3%BBte%20au%20Bivouac%2C%20Alg%C3%A9rie%201866.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "100 × 160 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491825",
+    "titre": "Jour d'été, portrait de mes enfants",
+    "artiste": "Lucien Simon",
+    "annee": "1905",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucien%20Simon%2C%201905%20-%20Portrait%20de%20mes%20enfants.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "141.5 × 157 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491962",
+    "titre": "La Femme à la potiche",
+    "artiste": "Edgar Degas",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20063.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 54 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491964",
+    "titre": "La Femme à l'éventail",
+    "artiste": "Abel Faivre",
+    "annee": "1901",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Faivre%20-%20La%20femme%20%C3%A0%20l%27%C3%A9ventail%2001.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "115 × 82 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491965",
+    "titre": "La Femme à l'ombrelle",
+    "artiste": "Aristide Maillol",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Femme%20%C3%A0%20l%27ombrelle%2C%20par%20Aristide%20Maillol.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "190.5 × 149.6 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491966",
+    "titre": "La Femme au chat",
+    "artiste": "Pierre Bonnard",
+    "annee": "1912",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20Woman%20with%20a%20Cat%201912.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "78 × 77.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491969",
+    "titre": "La Femme aux gants",
+    "artiste": "Henri de Toulouse-Lautrec",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20toulouse-laurtrec%2C%20la%20donna%20coi%20guanti%2C%201890%2C%2001.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 40 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491972",
+    "titre": "La Femme étranglée",
+    "artiste": "Paul Cézanne",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Femme%20%C3%A9trangl%C3%A9e%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%20636.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "31.2 × 24.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491976",
+    "titre": "La Fenaison en Bretagne (recto) ; Bouquet de fleurs devant une fenêtre ouverte sur la mer (verso)",
+    "artiste": "Paul Gauguin",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20La%20fenaison%20en%20Bretagne.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 92 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491979",
+    "titre": "La Fiancée de Bélus",
+    "artiste": "Henri-Paul Motte",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Motte%20-%20La%20fianc%C3%A9e%20de%20B%C3%A9lus%20%281885%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "178 × 122 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491981",
+    "titre": "La Fileuse aux anémones",
+    "artiste": "Paul Sérusier",
+    "annee": "1922",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Fileuse%20aux%20an%C3%A9mones%2C%20par%20Paul%20S%C3%A9rusier.jpg",
+    "technique": "tempera",
+    "dimensions": "71 × 42 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491982",
+    "titre": "La Fileuse, chevrière auvergnate",
+    "artiste": "Jean-François Millet",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20fileuse%2C%20chevri%C3%A8re%20auvergnate.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.5 × 73.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491993",
+    "titre": "La Folle",
+    "artiste": "Pierre Georges Jeanniot",
+    "annee": "1899",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Georges%20Jeanniot%20-%20La%20folle%2002.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "74 × 95 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491994",
+    "titre": "La Fontaine en cuivre : intérieur de cuisine",
+    "artiste": "François Bonvin",
+    "annee": "1861",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Fontaine%20en%20cuivre%3B%20INTERIEUR%20DE%20CUISINE%2C%20DIT%20SERVANTE%20TIRANT%20DE%20L%27EAU.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73.5 × 61 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491997",
+    "titre": "La Forge à Marly-le-Roi",
+    "artiste": "Alfred Sisley",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sisley%20-%20Forge-At-Marly-Le-Roi.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55 × 73 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17491999",
+    "titre": "La Fortune et le jeune enfant",
+    "artiste": "Paul Baudry",
+    "annee": "1857",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baudry%20La%20fortune%20et%20le%20jeune%20enfant.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "193.5 × 146 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492000",
+    "titre": "La Fuite des nymphes",
+    "artiste": "Henri-Edmond Cross",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20fuite%20des%20nymphes.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 92 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492002",
+    "titre": "La Gare d'Argenteuil",
+    "artiste": "Claude Monet",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Wildenstein%201996%2C%20242.png",
+    "technique": "peinture à l'huile",
+    "dimensions": "48 × 72 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492009",
+    "titre": "La Grammaire",
+    "artiste": "Paul Sérusier",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Grammaire%2C%20par%20Paul%20S%C3%A9rusier.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "72 × 92 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492050",
+    "titre": "La Madeleine chez le Pharisien",
+    "artiste": "Jean Béraud",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Beraud%20Simon%20the%20Pharisee.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "104 × 131 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492055",
+    "titre": "La Maison de la folie à Éragny",
+    "artiste": "Camille Pissarro",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20La%20Maison%20de%20la%20folie%20%C3%A0%20Eragny%20%281885%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 60.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492057",
+    "titre": "La Maison de Mallarmé à Valvins",
+    "artiste": "Édouard Vuillard",
+    "annee": "1896",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20La%20Maison%20de%20Mallarm%C3%A9%20%C3%A0%20Valvins%2C%201896.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "21.5 × 19.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492063",
+    "titre": "La Mal'aria",
+    "artiste": "Ernest Hébert",
+    "annee": "1848",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20H%C3%A9bert%20-%20The%20Mal%27aria%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "135 × 193 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492069",
+    "titre": "La Mare à Peyrelebade",
+    "artiste": "Odilon Redon",
+    "annee": "1897",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20LA%20MARE%20A%20PEYRELEBADE%2C%20RF%201984%2069.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "25.2 × 34 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492071",
+    "titre": "La Mare au clair de lune, la Bonneville",
+    "artiste": "Charles-François Daubigny",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles-Fran%C3%A7ois%20Daubigny%20-%20La%20Mare%20au%20clair%20de%20lune%2002.jpg",
+    "technique": "acajou",
+    "dimensions": "59 × 38 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492077",
+    "titre": "La Mare aux chênes",
+    "artiste": "Jules Dupré",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Mare%20aux%20chenes-Jules%20Dupre-IMG%208353.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "101 × 84.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492086",
+    "titre": "La Marquise d'Hervey Saint-Denys en Diane",
+    "artiste": "Raimundo de Madrazo y Garreta",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raimundo%20Madrazo%20-%20Marquise%20d%27Hervey%20Saint-Denys.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "129 × 85 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492087",
+    "titre": "La Marquise d'Hervey Saint-Denys, assise",
+    "artiste": "Raimundo de Madrazo y Garreta",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raimundo%20Madrazo%20-%20PORTRAIT%20DE%20LA%20MARQUISE%20D%27HERVEY%2C%20ASSISE.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "194 × 121 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492088",
+    "titre": "La Marquise Feydeau de Brou",
+    "artiste": "Léon Bonnat",
+    "annee": "1902",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20la%20marquise%20Feydeau%20de%20Brou.%2073x60cm.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 60 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492093",
+    "titre": "La Meilleure part",
+    "artiste": "Maurice Denis",
+    "annee": "1920",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20Denis%20la%20meilleure%20part%201507177.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "116 × 135 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492101",
+    "titre": "La Mer orageuse",
+    "artiste": "Gustave Courbet",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Mer%20orageuse%20-%20Gustave%20Courbet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "117 × 160.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492113",
+    "titre": "La Modiste",
+    "artiste": "Alexandre Charpentier",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20charpentier%2C%20la%20modista%2C%201893-96%20ca.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "145 × 97 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492114",
+    "titre": "La Moisson",
+    "artiste": "Émile Bernard",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Bernard%20La%20Moisson%201888.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "56.4 × 45.1 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492117",
+    "titre": "La Mort de Bara",
+    "artiste": "Jean-Joseph Weerts",
+    "annee": "1883",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mort%20de%20Bara%20-%20Jean-Joseph%20Weerts.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "350 × 250 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492121",
+    "titre": "La Mort d'une sœur de charité",
+    "artiste": "Isidore Pils",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustins%20-%20La%20mort%20d%27une%20soeur%20de%20charit%C3%A9%2C%201850%20-%20Isidore%20Pils%20Inv.%20R.F.%201986-82.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "241 × 305 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492143",
+    "titre": "La Paye des moissonneurs",
+    "artiste": "Léon Augustin Lhermitte",
+    "annee": "1882",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20paye%20des%20moissonneurs%20L%C3%A9on%20Augustin%20Lhermitte.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "215 × 272 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492156",
+    "titre": "La Place de Fère-en-Tardenois",
+    "artiste": "Étienne Moreau-Nélaton",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Etienne%20Moreau-N%C3%A9laton%20-%20La%20place%20de%20Fere-en-Tardenois.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492157",
+    "titre": "La Place des Pyramides",
+    "artiste": "Giuseppe De Nittis",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Place%20des%20Pyramides%2C%20Paris%20%281875%29%2C%20by%20Giuseppe%20De%20Nittis.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.3 × 75 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492161",
+    "titre": "La Place Vintimille",
+    "artiste": "Édouard Vuillard",
+    "annee": "1910",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20La%20Place%20Vintimille%2C%20vers%201907.jpg",
+    "technique": "pastel",
+    "dimensions": "50 × 45 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492163",
+    "titre": "La Plage",
+    "artiste": "Virginie Demont-Breton",
+    "annee": "1883",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Demont-Breton-la-plage.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "190 × 348 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492168",
+    "titre": "La Plage de Trouville",
+    "artiste": "Eugène Boudin",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Plage%20de%20Trouville%20-%20Boudin%20-%20MNR%20197.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "30 × 48 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492170",
+    "titre": "La Plage de Trouville",
+    "artiste": "Eugène Boudin",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A9ne%20boudin%2C%20la%20spiaggia%20di%20trouville%2C%201867.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "31 × 48 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492171",
+    "titre": "La Plage de Trouville",
+    "artiste": "Eugène Boudin",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Boudin%20-%20The%20Beach%20at%20Trouville%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "265 × 405 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492172",
+    "titre": "La Plage de Villers",
+    "artiste": "Antoine Guillemet",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20GUILLEMET%20%27La%20plage%20de%20Villers%27%2C%20c.%201912.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 54 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492319",
+    "titre": "La Seine à Vétheuil",
+    "artiste": "Claude Monet",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20LA%20SEINE%20A%20VETHEUIL%2C%201879%20entre%20%3B%201882%20et.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "43.5 × 70.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492321",
+    "titre": "La Seine à Vétheuil, effet de soleil après la pluie",
+    "artiste": "Claude Monet",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Vetheuil%2C%20vu%20de%20Lavacourt%2C%201879.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60.5 × 81.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492323",
+    "titre": "La Seine et le Louvre",
+    "artiste": "Camille Pissarro",
+    "annee": "1903",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20pissarro%2C%20la%20senna%20e%20il%20louvre%2C%201903.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492331",
+    "titre": "La Seine, vue des coteaux de By",
+    "artiste": "Alfred Sisley",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Seine%20vue%20des%20coteaux%20de%20By%20%28Mus%C3%A9e%20des%20Beaux-Arts%20d%27Angers%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38.3 × 55.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492333",
+    "titre": "La Seine, vue des hauteurs de Chantemesle",
+    "artiste": "Claude Monet",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20the-seine-seen-from-the-heights-chantemesle.jpg",
+    "technique": "bois",
+    "dimensions": "14.4 × 22.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492338",
+    "titre": "La Soirée sous la lampe",
+    "artiste": "Pierre Bonnard",
+    "annee": "1921",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20Evening%20by%20the%20Lamp.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73.5 × 88.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492343",
+    "titre": "La Solitude",
+    "artiste": "Thomas Alexander Harrison",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison%20solitude.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "105 × 171.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492345",
+    "titre": "La Sorcière au chat noir",
+    "artiste": "Paul-Élie Ranson",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranson%20-%20La%20Sorci%C3%A8re%20au%20chat%20noir%2001.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "90 × 72 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492350",
+    "titre": "La Soupe du matin",
+    "artiste": "Norbert Gœneutte",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Norbert%20G%C5%93neutte%20-%20La%20soupe%20du%20matin.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "115 × 165 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492360",
+    "titre": "La Symphonie pastorale",
+    "artiste": "Pierre Bonnard",
+    "annee": "1918",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Symphonie%20pastorale%2C%20par%20Pierre%20Bonnard.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "130 × 160 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492363",
+    "titre": "La Table",
+    "artiste": "Henri Le Sidaner",
+    "annee": "1901",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Le%20Sidaner%20-%20La%20Table%2002.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 70 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492369",
+    "titre": "La Table de toilette",
+    "artiste": "Pierre Bonnard",
+    "annee": "1908",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%2C%201908%20-%20La%20table%20de%20toilette.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "52.4 × 45.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492382",
+    "titre": "La Terrasse au bord de la Seine à Melun",
+    "artiste": "Henri Rouart",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rouart%20-%20Terrace%20on%20the%20Banks%20of%20the%20Seine%20at%20Melun.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492394",
+    "titre": "La Toilette",
+    "artiste": "Pierre Bonnard",
+    "annee": "1914",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%2C%201914%2B1921%20-%20La%20Toilette%20rose.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "119.5 × 79 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492402",
+    "titre": "La Toilette",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1883",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Toilette-Pierre%20Puvis%20de%20Chavannes-IMG%208262.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "74.5 × 62.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492885",
+    "titre": "Le Corsage rouge",
+    "artiste": "Pierre Bonnard",
+    "annee": "1925",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Corsage%20rouge.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "50.3 × 52.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492894",
+    "titre": "Le Défilé",
+    "artiste": "Jean Béraud",
+    "annee": "1905",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9raud%20-%20Le%20d%C3%A9fil%C3%A9%2C%201905.jpg",
+    "technique": "bois",
+    "dimensions": "72.5 × 90.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492896",
+    "titre": "Le Déjeuner",
+    "artiste": "Édouard Vuillard",
+    "annee": "1903",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20vuillard%2C%20la%20colazione%2C%201903.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "57.2 × 59.8 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492904",
+    "titre": "Le Déjeuner sur l'herbe, Partie gauche",
+    "artiste": "Claude Monet",
+    "annee": "1866",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20D%C3%A9jeuner%20sur%20l%27herbe%2C%20partie%20gauche.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "418 × 150 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492906",
+    "titre": "Le Démolisseur",
+    "artiste": "Paul Signac",
+    "annee": "1897",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20signac%2C%20il%20demolitore%2C%201897-1899%2C%2001.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "251 × 150.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492912",
+    "titre": "Le Dernier Jour de Corinthe",
+    "artiste": "Tony Robert-Fleury",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert-fleury-Le%20Dernier%20Jour%20de%20Corinthe.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "401 × 602 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492914",
+    "titre": "Le Dessert",
+    "artiste": "Henri Le Sidaner",
+    "annee": "1904",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Baron-Martin%2C%20Le%20dessert%2C%20Le%20Sidaner.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "80.5 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492918",
+    "titre": "Le Dîner, effet de lampe",
+    "artiste": "Q123740 (à corriger)",
+    "annee": "1899",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20vallotton%2C%20la%20cena%2C%20effetto%20di%20lampada%2C%201899.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "58 × 90 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492920",
+    "titre": "Le Docteur George Viau dans son cabinet dentaire",
+    "artiste": "Édouard Vuillard",
+    "annee": "1914",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20vuillard%2C%20il%20dottor%20georges%20viau%20nel%20suo%20gabinetto%20dentistico%20%28george%20viau%20che%20cura%20annette%20roussel%29%2C%201914%2C%2001.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "107.7 × 137.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492922",
+    "titre": "Le Docteur Louis Viau",
+    "artiste": "Édouard Vuillard",
+    "annee": "1937",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Le%20Docteur%20Louis%20Viau%20dans%20son%20cabinet%20dentaire%2C%201937.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "88 × 81.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492924",
+    "titre": "Le Docteur Paul Gachet",
+    "artiste": "Norbert Gœneutte",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Norbert%20G%C5%93neutte%20-%20Le%20Docteur%20Paul%20Gachet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "35 × 27 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492935",
+    "titre": "Le Fienaroles de San Germano",
+    "artiste": "Ernest Hébert",
+    "annee": "1857",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20hay%20harvesters%20of%20San%20Germano%20%281850s%29%20-%20Ernest%20H%C3%A9bert.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "50.5 × 75 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492951",
+    "titre": "Le Garçon au chat",
+    "artiste": "Auguste Renoir",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Gar%C3%A7on%20au%20chat.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "123 × 66 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492954",
+    "titre": "Le Givre",
+    "artiste": "Claude Monet",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%20Le%20Givre%20%281880%2C%20from%20C2RMF%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60.5 × 99.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492959",
+    "titre": "Le Gour de Conche",
+    "artiste": "Gustave Courbet",
+    "annee": "1864",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet-Le%20Gour%20de%20Conche.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "74 × 60 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492962",
+    "titre": "Le Goûter des cueilleuses d'œillettes",
+    "artiste": "Désiré François Laugée",
+    "annee": "1859",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20go%C3%BBter%20des%20cueillettes%20d%E2%80%99oeillettes%201859.jpg",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492964",
+    "titre": "Le Goûter sur l'herbe",
+    "artiste": "Henri Lebasque",
+    "annee": "1903",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20lebasque%2C%20picnic%20sull%27erba%2C%201907.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "124 × 141 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492966",
+    "titre": "Le Grand duc Alexis de Russie",
+    "artiste": "Constantin Makovski",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Alexandrovich%20by%20K.Makovskiy%20%28Orsay%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "155 × 102 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492968",
+    "titre": "Le Grand duc Michel",
+    "artiste": "Ilia Répine",
+    "annee": "1904",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Aleksandrovich%20by%20Repin.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "70 × 58.4 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492969",
+    "titre": "Le Grand jardin",
+    "artiste": "Pierre Bonnard",
+    "annee": "1895",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bonnard%20The%20Large%20Garden.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "168 × 221 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17492974",
+    "titre": "Le Grand-père",
+    "artiste": "Pascal Dagnan-Bouveret",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20grandpa%20of%20the%20artist%20%281877%29%2C%20by%20Pascal%20Dagnan-Bouveret.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "33 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
     "mouvement": "Non déterminé",
@@ -4019,6 +7411,51 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q2381272",
+    "titre": "Camille sur son lit de mort",
+    "artiste": "Claude Monet",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Camille%20Monet%20sur%20son%20lit%20de%20mort.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "90 × 68 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2381965",
+    "titre": "Passerelle d'Argenteuil",
+    "artiste": "Alfred Sisley",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sisley%2C%20Alfred%20-%20Passerelle%20d%27Argenteuil.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38 × 60 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2385427",
+    "titre": "Femme à l'ombrelle tournée vers la droite",
+    "artiste": "Claude Monet",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Femme%20%C3%A0%20l%27ombrelle%20tourn%C3%A9e%20vers%20la%20droite%20-%20Claude%20Monnet%20-%20Mus%C3%A9e%20d%27Orsay%20RF%202620.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "131 × 88 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q2392901",
     "titre": "Portrait d'un homme (autoportrait?)",
     "artiste": "Jan van Eyck",
@@ -4089,6 +7526,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q2481954",
+    "titre": "Sur la plage",
+    "artiste": "Édouard Manet",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20On%20the%20Beach%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "600 × 735 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q2503581",
     "titre": "La Madone Aldobrandini",
     "artiste": "Raphaël",
@@ -4131,6 +7583,51 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q2529703",
+    "titre": "Émile Zola",
+    "artiste": "Édouard Manet",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Emile%20Zola.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "146.5 × 114 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2568551",
+    "titre": "La Danse",
+    "artiste": "William Bouguereau",
+    "annee": "1856",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20The%20Dance%20%281856%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "366 × 181 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2571560",
+    "titre": "L'Angélus",
+    "artiste": "Jean-François Millet",
+    "annee": "1858",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN-FRAN%C3%87OIS%20MILLET%20-%20El%20%C3%81ngelus%20%28Museo%20de%20Orsay%2C%201857-1859.%20%C3%93leo%20sobre%20lienzo%2C%2055.5%20x%2066%20cm%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55.5 × 66 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q257580",
     "titre": "Le Dernier Voyage du Téméraire",
     "artiste": "William Turner",
@@ -4154,6 +7651,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2622172",
+    "titre": "La Famille Bellelli",
+    "artiste": "Edgar Degas",
+    "annee": "1858",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Bellelli%20Family%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "200 × 253 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -4198,6 +7710,37 @@ export const ARTWORKS: Artwork[] = [
     "pays": "Royaume-Uni",
     "mouvement": "Non déterminé",
     "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2656755",
+    "titre": "Achille Emperaire",
+    "artiste": "Paul Cézanne",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Achille%20Emperaire%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "200 × 122 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2665048",
+    "titre": "Dante et Virgille en Enfer",
+    "artiste": "William Bouguereau",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Bouguereau%20-%20Dante%20and%20Virgile%20-%20Google%20Art%20Project%202.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "280.5 × 225.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
     "statut": "brouillon"
   },
   {
@@ -4313,6 +7856,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q2734892",
+    "titre": "Femmes au jardin",
+    "artiste": "Claude Monet",
+    "annee": "1866",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20024.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "255 × 205 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q275349",
     "titre": "Vénus à son miroir",
     "artiste": "Diego Vélasquez",
@@ -4349,6 +7907,96 @@ export const ARTWORKS: Artwork[] = [
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20de%20Vos%20%5E%20Jan%20Wildens%20-%20Stag%20Hunt%20-%20259%20-%20Mauritshuis.jpg",
     "technique": "peinture à l'huile",
     "lieuConservation": "Musée du Louvre",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2838937",
+    "titre": "Allée de peupliers aux environs de Moret-sur-Loing",
+    "artiste": "Alfred Sisley",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/All%C3%A9e%20de%20peupliers%20aux%20environs%20de%20Moret-sur-Loing.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 81 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2842418",
+    "titre": "Ambroise Vollard",
+    "artiste": "Pierre Bonnard",
+    "annee": "1904",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambroise%20Vollard%2C%20par%20Pierre%20Bonnard.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "30 × 40.2 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2843906",
+    "titre": "Les Toits rouges, coin de village, effet d'hiver",
+    "artiste": "Camille Pissarro",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20011.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2872715",
+    "titre": "Autoportrait",
+    "artiste": "Claude Monet",
+    "annee": "1917",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet-Portrait%20de%20l%27artiste-1917.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "70 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2872722",
+    "titre": "Autoportrait au chapeau",
+    "artiste": "Paul Gauguin",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20111.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "460 × 380 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2873059",
+    "titre": "Autour du piano",
+    "artiste": "Henri Fantin-Latour",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20fantin-latour%2C%20attorno%20al%20piano%2C%201885%20-%20frameless.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "160 × 222 cm",
+    "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
     "mouvement": "Non déterminé",
@@ -5766,6 +9414,202 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3821663",
+    "titre": "La Maison du pendu",
+    "artiste": "Paul Cézanne",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Maison%20du%20pendu%2C%20Auvers-sur-Oise%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%2081.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55.5 × 66.3 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3821820",
+    "titre": "La Classe de danse",
+    "artiste": "Edgar Degas",
+    "annee": "1871",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Ballet%20Class%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "85 × 75 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3822843",
+    "titre": "La Liseuse",
+    "artiste": "Auguste Renoir",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20067.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46.5 × 38.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3823757",
+    "titre": "Le Pédicure",
+    "artiste": "Edgar Degas",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Fu%C3%9Fpflege.jpg",
+    "technique": "papier",
+    "dimensions": "61 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3824626",
+    "titre": "La Toilette : femme se peignant",
+    "artiste": "Auguste Renoir",
+    "annee": "1907",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20032.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55 × 46.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3824633",
+    "titre": "La Toilette",
+    "artiste": "Henri de Toulouse-Lautrec",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Rousse%20%28La%20Toilette%29%20-%201889%20-%20Henri%20de%20Toulouse-Lautrec%20-%20Mus%C3%A9e%20d%27Orsay%2C%20Paris.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "670 × 540 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3828534",
+    "titre": "Régate à Argenteuil",
+    "artiste": "Claude Monet",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20047.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60 × 100 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3828749",
+    "titre": "Les Fraises",
+    "artiste": "Auguste Renoir",
+    "annee": "1908",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Les%20Fraises.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "20 × 43 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3829104",
+    "titre": "Repasseuses",
+    "artiste": "Edgar Degas",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Repasseuses%20-%20Mus%C3%A9e%20d%27Orsay.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "76 × 81.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3832504",
+    "titre": "Lisière de bois au printemps",
+    "artiste": "Georges Seurat",
+    "annee": "1882",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisi%C3%A8re%20de%20bois%20au%20printemps%2C%20Georges%20Seurat%2C%20vers%201882-1883%20%2816411914023%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "16.5 × 26 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3835893",
+    "titre": "Le Bassin aux nymphéas, Harmonie rose",
+    "artiste": "Claude Monet",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bassin%20aux%20nymph%C3%A9as%2C%20harmonie%20rose%20-%20Claude%20Monet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "90 × 100.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3837030",
+    "titre": "Lorenzo Pagans et Auguste de Gas",
+    "artiste": "Edgar Degas",
+    "annee": "1871",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Lorenzo%20Pagans%20and%20Auguste%20de%20Gas%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54.5 × 39.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3842241",
+    "titre": "Madame Jeantaud au miroir",
+    "artiste": "Edgar Degas",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Mrs%20Jeantaud%20in%20the%20Mirror%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "700 × 840 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3842434",
     "titre": "Vierge à l'Enfant avec trois saints",
     "artiste": "Andrea Mantegna",
@@ -5791,6 +9635,67 @@ export const ARTWORKS: Artwork[] = [
     "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3847052",
+    "titre": "Mademoiselle Gachet dans son jardin à Auvers-sur-Oise",
+    "artiste": "Vincent van Gogh",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marguerite%20Gachet%20in%20the%20Garden.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 55 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3847862",
+    "titre": "Mademoiselle Dihau au piano",
+    "artiste": "Edgar Degas",
+    "annee": "1869",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%28Albi%29%20Mademoiselle%20Dihau%20au%20Piano%20-%20Edgar%20Degas%20-%20Mus%C3%A9e%20d%27Orsay%2C%20Paris.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "45 × 32.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3853687",
+    "titre": "Moyenne distance, gauche, deux personnages. Étude pour la Grande-Jatte",
+    "artiste": "Georges Seurat",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Etude%20pur-un-dimanche-apr%C3%A8s-midi-%C3%A0-l-%C3%AEle-de-la-grande-jatte-1884%20PC%20117.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "15.5 × 25 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3859804",
+    "titre": "Poseuse debout, de face",
+    "artiste": "Georges Seurat",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poseuse%20debout%2C%20de%20face%2C%20%C3%A9tude%20pour%20Les%20Poseuses%20%28ca.%201887%29%20Georges%20Seurat%20%28Mus%C3%A9e%20d%27Orsay%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "26 × 15.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
     "statut": "brouillon"
   },
   {
@@ -6050,6 +9955,36 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3924416",
+    "titre": "Répétition d'un ballet sur la scène",
+    "artiste": "Edgar Degas",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ballet%20Rehearsal%20on%20Stage%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 81.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3933507",
+    "titre": "Restaurant de la Sirène à Asnières",
+    "artiste": "Vincent van Gogh",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Das%20Restaurant%20de%20la%20Sir%C3%A9ne%20in%20Asni%C3%A9res.jpeg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 65 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3936368",
     "titre": "Le Repos pendant la fuite en Égypte",
     "artiste": "Titien",
@@ -6064,6 +9999,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3936373",
+    "titre": "Lilas, Temps gris",
+    "artiste": "Claude Monet",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Lilas%2C%20temps%20gris%2C%201872-73.gif",
+    "technique": "peinture à l'huile",
+    "dimensions": "0.502 × 0.652 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3937370",
     "titre": "Le Retour d'Ulysse",
     "artiste": "Pinturicchio",
@@ -6073,6 +10023,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3937379",
+    "titre": "Portraits à la Bourse",
+    "artiste": "Edgar Degas",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Portraits%20at%20the%20Stock%20Exchange%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1000 × 820 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6106,6 +10071,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3937455",
+    "titre": "Alphonsine Fournaise",
+    "artiste": "Auguste Renoir",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alphonsine%20Fournaise%20%28Pierre-Auguste%20Renoir%29-WUS07484%20%28cropped%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "730 × 930 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3937481",
     "titre": "Portrait équestre de Charles Ier",
     "artiste": "Antoine van Dyck",
@@ -6115,6 +10095,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3937498",
+    "titre": "Claude Monet",
+    "artiste": "Auguste Renoir",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Claude%20Monet.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "84 × 60.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3937499",
+    "titre": "Charles Le Cœur",
+    "artiste": "Auguste Renoir",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Charles%20Le%20C%C5%93ur.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "42 × 29 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6204,6 +10214,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3937564",
+    "titre": "Hilaire de Gas",
+    "artiste": "Edgar Degas",
+    "annee": "1857",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Hilaire%20de%20Gas.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "53 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3937593",
     "titre": "Lord John Stuart et son frère, lord Bernard Stuart",
     "artiste": "Antoine van Dyck",
@@ -6213,6 +10238,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3937662",
+    "titre": "Portrait de Stéphane Mallarmé",
+    "artiste": "Auguste Renoir",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20St%C3%A9phane%20Mallarm%C3%A9.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "50 × 40 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3937675",
+    "titre": "Portrait de William Sisley",
+    "artiste": "Auguste Renoir",
+    "annee": "1864",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20William%20Sisley.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81.5 × 65.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6259,6 +10314,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3937721",
+    "titre": "Portrait de jeune femme",
+    "artiste": "Edgar Degas",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20055.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "27 × 22 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3937763",
     "titre": "Portrait of a Collector",
     "artiste": "Parmigianino",
@@ -6286,6 +10356,126 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3941966",
+    "titre": "Ruines à Grandcamp",
+    "artiste": "Georges Seurat",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Ruines%20%C3%A0%20Grandcamp.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "15.7 × 25 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3955081",
+    "titre": "Sémiramis construisant Babylone",
+    "artiste": "Edgar Degas",
+    "annee": "1861",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Semiramis%20building%20Babylon.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "151.5 × 258 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3955422",
+    "titre": "Le Chemin de la Machine, Louveciennes",
+    "artiste": "Alfred Sisley",
+    "annee": "1873",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20071.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54.5 × 75 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3955440",
+    "titre": "Allée en forêt, Barbizon",
+    "artiste": "Georges Seurat",
+    "annee": "1883",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alley%20in%20the%20Forest%20Barbizon%20%28All%C3%A9e%20en%20for%C3%AAt%2C%20Barbizon%29%20by%20Georges%20Seurat.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "16 × 25 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3976298",
+    "titre": "Le Cirque",
+    "artiste": "Georges Seurat",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20065.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3983137",
+    "titre": "Tempête, côtes de Belle-Ile",
+    "artiste": "Claude Monet",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Temp%C3%AAte%2C%20c%C3%B4tes%20de%20Belle-%C3%8Ele%20-%20Claude.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.4 × 81.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3983798",
+    "titre": "La Tentation de saint Antoine",
+    "artiste": "Paul Cézanne",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Tentation%20de%20saint%20Antoine%2C%20par%20Paul%20C%C3%A9zanne%2C%20Mus%C3%A9e%20d%27Orsay.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "47 × 56 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3985182",
+    "titre": "Portrait dit de Margot",
+    "artiste": "Auguste Renoir",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Portrait%20dit%20de%20Margot.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46.5 × 38 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q4012247",
     "titre": "La Villa Malte à Rome",
     "artiste": "Frederic Leighton",
@@ -6295,6 +10485,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q4024897",
+    "titre": "Sucrier, poires et tasse bleue",
+    "artiste": "Paul Cézanne",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sucrier%2C%20poires%20et%20tasse%20bleue%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "30 × 41 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6441,6 +10646,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q4429116",
+    "titre": "La Pie",
+    "artiste": "Claude Monet",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Magpie%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "890 × 1300 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q4473607",
     "titre": "Christ contemplé par l’âme chrétienne",
     "artiste": "Diego Vélasquez",
@@ -6552,6 +10772,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q4896868",
+    "titre": "La Belle Angèle",
+    "artiste": "Paul Gauguin",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20La%20Belle%20Ang%C3%A8le%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92 × 73 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q5164607",
     "titre": "Consultation de l'Oracle",
     "artiste": "John William Waterhouse",
@@ -6561,6 +10796,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q5220825",
+    "titre": "La Blanchisseuse",
+    "artiste": "Honoré Daumier",
+    "annee": "1863",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20016.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "49 × 35.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q5287337",
+    "titre": "Dans le jardin du docteur Paul Gachet",
+    "artiste": "Vincent van Gogh",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Doctor%20Gachet%27s%20Garden%20in%20Auvers.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 52 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6648,6 +10913,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q5665712",
+    "titre": "Consummatum est",
+    "artiste": "Jean-Léon Gérôme",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20Consummatum%20est.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "82 × 144.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q570163",
     "titre": "La Femme adultère",
     "artiste": "Rembrandt",
@@ -6662,12 +10942,57 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q5745603",
+    "titre": "Paysannes bretonnes",
+    "artiste": "Paul Gauguin",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20016.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "66.5 × 92.7 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q5753517",
+    "titre": "Course de gentlemen. Avant le départ",
+    "artiste": "Edgar Degas",
+    "annee": "1862",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20036.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "48 × 61 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q582428",
     "titre": "Héraklès archer",
     "artiste": "Q314350 (à corriger)",
     "annee": "1909",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Herakles%20the%20Archer%20-%20MET%20-%2024.232.jpg",
     "technique": "bronze",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q5849763",
+    "titre": "Village breton sous la neige",
+    "artiste": "Paul Gauguin",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20-%20Bretonisches%20Dorf%20im%20Schnee%20-1894-95.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "62 × 87 cm",
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
@@ -6699,6 +11024,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q5966403",
+    "titre": "Le Berceau",
+    "artiste": "Berthe Morisot",
+    "annee": "1872",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Le%20berceau.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "56 × 46.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q5966448",
+    "titre": "La Danse des nymphes",
+    "artiste": "Camille Corot",
+    "annee": "1860",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Corot%20-%20La%20Danse%20des%20nymphes%2C%20RF%201783.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "48 × 77 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6788,6 +11143,22 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q6251620",
+    "titre": "Les Baigneuses",
+    "artiste": "Auguste Renoir",
+    "annee": "1918",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%20-%20The%20Bathers%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1100 × 1600 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
     "id": "Q636001",
     "titre": "Les Romains de la décadence",
     "artiste": "Thomas Couture",
@@ -6810,6 +11181,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q6508106",
+    "titre": "Le Ruisseau noir",
+    "artiste": "Gustave Courbet",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20023.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "93.5 × 131.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -6886,6 +11272,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q7232274",
+    "titre": "Portrait de Gustave Geffroy",
+    "artiste": "Paul Cézanne",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Geffroy%20-%20Paul%20C%C3%A9zanne.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "110 × 89 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q737062",
     "titre": "Olympia",
     "artiste": "Édouard Manet",
@@ -6938,6 +11339,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q8187529",
+    "titre": "Un atelier aux Batignolles",
+    "artiste": "Henri Fantin-Latour",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Fantin-Latour%20-%20A%20Studio%20at%20Les%20Batignolles%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "2040 × 2730 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q8192229",
+    "titre": "La Moisson",
+    "artiste": "Camille Pissarro",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Moisson%20%281876%29%20-%20Camille%20Pissarro%20%28Mus%C3%A9e%20d%27Orsay%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 92.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -7027,12 +11458,72 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q9162690",
+    "titre": "Portrait de l'artiste au Christ jaune",
+    "artiste": "Paul Gauguin",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Portrait%20of%20the%20Artist%20with%20the%20Yellow%20Christ%20%281890-91%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38 × 46 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q9171012",
+    "titre": "Le Pauvre Pêcheur",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Puvis%20de%20Chavannes%20-%20The%20Poor%20Fisherman%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "154.7 × 192.5 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q9183696",
+    "titre": "Le Vase bleu",
+    "artiste": "Paul Cézanne",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Vase%20bleu%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 51 cm",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q930535",
     "titre": "Femmes de Tahiti",
     "artiste": "Paul Gauguin",
     "annee": "1890",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20056.jpg",
     "technique": "peinture à l'huile",
+    "lieuConservation": "Musée d'Orsay",
+    "ville": "Paris",
+    "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q9332868",
+    "titre": "La Salle de danse à Arles",
+    "artiste": "Vincent van Gogh",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Tanzsaal%20in%20Arles.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 85.5 cm",
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
@@ -7134,39 +11625,63 @@ export interface FacetteValeur {
 export const FACETTES = {
   "artistes": [
     {
-      "valeur": "Édouard Manet",
-      "nombre": 23
-    },
-    {
-      "valeur": "Edgar Degas",
-      "nombre": 19
-    },
-    {
-      "valeur": "Paul Cézanne",
-      "nombre": 19
-    },
-    {
       "valeur": "Claude Monet",
-      "nombre": 18
+      "nombre": 43
     },
     {
       "valeur": "Auguste Renoir",
-      "nombre": 13
+      "nombre": 35
+    },
+    {
+      "valeur": "Edgar Degas",
+      "nombre": 35
+    },
+    {
+      "valeur": "Paul Cézanne",
+      "nombre": 33
+    },
+    {
+      "valeur": "Édouard Manet",
+      "nombre": 28
     },
     {
       "valeur": "Georges Seurat",
-      "nombre": 12
+      "nombre": 18
+    },
+    {
+      "valeur": "Alfred Sisley",
+      "nombre": 16
+    },
+    {
+      "valeur": "Vincent van Gogh",
+      "nombre": 15
+    },
+    {
+      "valeur": "Pierre Bonnard",
+      "nombre": 14
     },
     {
       "valeur": "Titien",
       "nombre": 12
     },
     {
-      "valeur": "Vincent van Gogh",
+      "valeur": "Camille Pissarro",
+      "nombre": 12
+    },
+    {
+      "valeur": "Paul Gauguin",
+      "nombre": 11
+    },
+    {
+      "valeur": "Édouard Vuillard",
+      "nombre": 11
+    },
+    {
+      "valeur": "Gustave Courbet",
       "nombre": 10
     },
     {
-      "valeur": "Alfred Sisley",
+      "valeur": "Odilon Redon",
       "nombre": 10
     },
     {
@@ -7175,6 +11690,10 @@ export const FACETTES = {
     },
     {
       "valeur": "Frans Hals",
+      "nombre": 8
+    },
+    {
+      "valeur": "Henri Fantin-Latour",
       "nombre": 8
     },
     {
@@ -7191,6 +11710,10 @@ export const FACETTES = {
     },
     {
       "valeur": "William Turner",
+      "nombre": 6
+    },
+    {
+      "valeur": "Émile Bernard",
       "nombre": 6
     },
     {
@@ -7222,11 +11745,27 @@ export const FACETTES = {
       "nombre": 5
     },
     {
+      "valeur": "Henri de Toulouse-Lautrec",
+      "nombre": 5
+    },
+    {
+      "valeur": "Frédéric Bazille",
+      "nombre": 5
+    },
+    {
       "valeur": "Andrea Mantegna",
       "nombre": 5
     },
     {
-      "valeur": "Odilon Redon",
+      "valeur": "William Bouguereau",
+      "nombre": 5
+    },
+    {
+      "valeur": "Ernest Hébert",
+      "nombre": 5
+    },
+    {
+      "valeur": "Paul Sérusier",
       "nombre": 5
     },
     {
@@ -7234,19 +11773,39 @@ export const FACETTES = {
       "nombre": 5
     },
     {
-      "valeur": "Gustave Courbet",
+      "valeur": "Jean-Léon Gérôme",
       "nombre": 4
     },
     {
-      "valeur": "Paul Gauguin",
+      "valeur": "Jean-François Millet",
       "nombre": 4
     },
     {
-      "valeur": "Frédéric Bazille",
+      "valeur": "Gustave Caillebotte",
       "nombre": 4
     },
     {
-      "valeur": "Pierre Bonnard",
+      "valeur": "Q123740 (à corriger)",
+      "nombre": 4
+    },
+    {
+      "valeur": "Léon Bonnat",
+      "nombre": 4
+    },
+    {
+      "valeur": "Eugène Boudin",
+      "nombre": 4
+    },
+    {
+      "valeur": "Maurice Denis",
+      "nombre": 4
+    },
+    {
+      "valeur": "Berthe Morisot",
+      "nombre": 4
+    },
+    {
+      "valeur": "Pierre Puvis de Chavannes",
       "nombre": 4
     },
     {
@@ -7274,15 +11833,19 @@ export const FACETTES = {
       "nombre": 3
     },
     {
-      "valeur": "Gustave Caillebotte",
-      "nombre": 3
-    },
-    {
-      "valeur": "Henri Fantin-Latour",
+      "valeur": "Jules Bastien-Lepage",
       "nombre": 3
     },
     {
       "valeur": "James Tissot",
+      "nombre": 3
+    },
+    {
+      "valeur": "Jean-Baptiste Carpeaux",
+      "nombre": 3
+    },
+    {
+      "valeur": "Camille Corot",
       "nombre": 3
     },
     {
@@ -7322,11 +11885,31 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "William Bouguereau",
+      "valeur": "Gustave Moreau",
       "nombre": 2
     },
     {
-      "valeur": "Jean-François Millet",
+      "valeur": "Fernand Cormon",
+      "nombre": 2
+    },
+    {
+      "valeur": "Théodore Chassériau",
+      "nombre": 2
+    },
+    {
+      "valeur": "Charles-François Daubigny",
+      "nombre": 2
+    },
+    {
+      "valeur": "Armand Guillaumin",
+      "nombre": 2
+    },
+    {
+      "valeur": "Henri Gervex",
+      "nombre": 2
+    },
+    {
+      "valeur": "Ernest Meissonier",
       "nombre": 2
     },
     {
@@ -7334,7 +11917,15 @@ export const FACETTES = {
       "nombre": 2
     },
     {
+      "valeur": "Q155626 (à corriger)",
+      "nombre": 2
+    },
+    {
       "valeur": "Francisco de Goya",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean-Paul Laurens",
       "nombre": 2
     },
     {
@@ -7342,31 +11933,47 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Henri de Toulouse-Lautrec",
-      "nombre": 2
-    },
-    {
       "valeur": "Canaletto",
       "nombre": 2
     },
     {
-      "valeur": "Émile Bernard",
+      "valeur": "Albert André",
       "nombre": 2
     },
     {
-      "valeur": "Édouard Vuillard",
+      "valeur": "Marcel Baschet",
       "nombre": 2
     },
     {
-      "valeur": "Ernest Hébert",
+      "valeur": "Jean-Joseph Benjamin-Constant",
       "nombre": 2
     },
     {
-      "valeur": "Paul Sérusier",
+      "valeur": "Henri-Edmond Cross",
       "nombre": 2
     },
     {
-      "valeur": "Jean-Baptiste Carpeaux",
+      "valeur": "Henri Matisse",
+      "nombre": 2
+    },
+    {
+      "valeur": "Antoine Guillemet",
+      "nombre": 2
+    },
+    {
+      "valeur": "Paul Signac",
+      "nombre": 2
+    },
+    {
+      "valeur": "Albert Maignan",
+      "nombre": 2
+    },
+    {
+      "valeur": "Paul Baudry",
+      "nombre": 2
+    },
+    {
+      "valeur": "Pascal Dagnan-Bouveret",
       "nombre": 2
     },
     {
@@ -7374,7 +11981,27 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Maurice Denis",
+      "valeur": "Carolus-Duran",
+      "nombre": 2
+    },
+    {
+      "valeur": "Aristide Maillol",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean Béraud",
+      "nombre": 2
+    },
+    {
+      "valeur": "Raimundo de Madrazo y Garreta",
+      "nombre": 2
+    },
+    {
+      "valeur": "Norbert Gœneutte",
+      "nombre": 2
+    },
+    {
+      "valeur": "Henri Le Sidaner",
       "nombre": 2
     },
     {
@@ -7383,10 +12010,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Carel Fabritius",
-      "nombre": 2
-    },
-    {
-      "valeur": "Camille Corot",
       "nombre": 2
     },
     {
@@ -7522,27 +12145,11 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Jean-Léon Gérôme",
-      "nombre": 1
-    },
-    {
       "valeur": "Louis-Michel van Loo",
       "nombre": 1
     },
     {
       "valeur": "Alesso Baldovinetti",
-      "nombre": 1
-    },
-    {
-      "valeur": "Fernand Cormon",
-      "nombre": 1
-    },
-    {
-      "valeur": "Théodore Chassériau",
-      "nombre": 1
-    },
-    {
-      "valeur": "Charles-François Daubigny",
       "nombre": 1
     },
     {
@@ -7562,11 +12169,15 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Rosa Bonheur",
+      "nombre": 1
+    },
+    {
       "valeur": "Bronzino",
       "nombre": 1
     },
     {
-      "valeur": "Q155626 (à corriger)",
+      "valeur": "Édouard Detaille",
       "nombre": 1
     },
     {
@@ -7579,10 +12190,6 @@ export const FACETTES = {
     },
     {
       "valeur": "http://www.wikidata.org/.well-known/genid/07f718c29caf0064631cf14e5c147a4d",
-      "nombre": 1
-    },
-    {
-      "valeur": "Jules Bastien-Lepage",
       "nombre": 1
     },
     {
@@ -7606,7 +12213,35 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Jean-Jacques Henner",
+      "nombre": 1
+    },
+    {
       "valeur": "Camille-Félix Bellanger",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Jules-Antoine Lecomte du Nouÿ",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Charles Cazin",
+      "nombre": 1
+    },
+    {
+      "valeur": "Anders Zorn",
+      "nombre": 1
+    },
+    {
+      "valeur": "Georges Lemmen",
+      "nombre": 1
+    },
+    {
+      "valeur": "Paul Albert Laurens",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albert Besnard",
       "nombre": 1
     },
     {
@@ -7614,7 +12249,7 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Henri-Edmond Cross",
+      "valeur": "József Rippl-Rónai",
       "nombre": 1
     },
     {
@@ -7642,15 +12277,87 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Ernest Meissonier",
+      "valeur": "Meyer de Haan",
       "nombre": 1
     },
     {
-      "valeur": "Camille Pissarro",
+      "valeur": "George-Daniel de Monfreid",
       "nombre": 1
     },
     {
-      "valeur": "Paul Signac",
+      "valeur": "Louis Pastour",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri Villain",
+      "nombre": 1
+    },
+    {
+      "valeur": "Max Liebermann",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Baudin",
+      "nombre": 1
+    },
+    {
+      "valeur": "Antoine Chintreuil",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alfred Stevens",
+      "nombre": 1
+    },
+    {
+      "valeur": "Adolf Schreyer",
+      "nombre": 1
+    },
+    {
+      "valeur": "René Ménard",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri Evenepoel",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gabriel Ferrier",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Fromentin",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Delacroix",
+      "nombre": 1
+    },
+    {
+      "valeur": "Théophile Alexandre Steinlen",
+      "nombre": 1
+    },
+    {
+      "valeur": "Lovell Birge Harrison",
+      "nombre": 1
+    },
+    {
+      "valeur": "Thomas Eakins",
+      "nombre": 1
+    },
+    {
+      "valeur": "Paul Guigou",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Louis Hamon",
+      "nombre": 1
+    },
+    {
+      "valeur": "Charles Maurin",
+      "nombre": 1
+    },
+    {
+      "valeur": "Lawrence Alma-Tadema",
       "nombre": 1
     },
     {
@@ -7658,27 +12365,135 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Berthe Morisot",
-      "nombre": 1
-    },
-    {
       "valeur": "François-Louis Français",
       "nombre": 1
     },
     {
-      "valeur": "Jean-Paul Laurens",
-      "nombre": 1
-    },
-    {
-      "valeur": "Albert André",
-      "nombre": 1
-    },
-    {
-      "valeur": "Albert Maignan",
-      "nombre": 1
-    },
-    {
       "valeur": "Ferdinand Hodler",
+      "nombre": 1
+    },
+    {
+      "valeur": "Charles de Tournemine",
+      "nombre": 1
+    },
+    {
+      "valeur": "Théo Van Rysselberghe",
+      "nombre": 1
+    },
+    {
+      "valeur": "Edmond Aman-Jean",
+      "nombre": 1
+    },
+    {
+      "valeur": "Mary Cassatt",
+      "nombre": 1
+    },
+    {
+      "valeur": "Étienne Dinet",
+      "nombre": 1
+    },
+    {
+      "valeur": "René-Xavier Prinet",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gustave Léonard de Jonghe",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Humbert",
+      "nombre": 1
+    },
+    {
+      "valeur": "Émile Lévy",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gustave Guillaumet",
+      "nombre": 1
+    },
+    {
+      "valeur": "Lucien Simon",
+      "nombre": 1
+    },
+    {
+      "valeur": "Abel Faivre",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri-Paul Motte",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pierre Georges Jeanniot",
+      "nombre": 1
+    },
+    {
+      "valeur": "François Bonvin",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jules Dupré",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alexandre Charpentier",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jean-Joseph Weerts",
+      "nombre": 1
+    },
+    {
+      "valeur": "Isidore Pils",
+      "nombre": 1
+    },
+    {
+      "valeur": "Léon Augustin Lhermitte",
+      "nombre": 1
+    },
+    {
+      "valeur": "Étienne Moreau-Nélaton",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giuseppe De Nittis",
+      "nombre": 1
+    },
+    {
+      "valeur": "Virginie Demont-Breton",
+      "nombre": 1
+    },
+    {
+      "valeur": "Thomas Alexander Harrison",
+      "nombre": 1
+    },
+    {
+      "valeur": "Paul-Élie Ranson",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri Rouart",
+      "nombre": 1
+    },
+    {
+      "valeur": "Tony Robert-Fleury",
+      "nombre": 1
+    },
+    {
+      "valeur": "Désiré François Laugée",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henri Lebasque",
+      "nombre": 1
+    },
+    {
+      "valeur": "Constantin Makovski",
+      "nombre": 1
+    },
+    {
+      "valeur": "Ilia Répine",
       "nombre": 1
     },
     {
@@ -7691,10 +12506,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Floris Claesz van Dijck",
-      "nombre": 1
-    },
-    {
-      "valeur": "Henri Matisse",
       "nombre": 1
     },
     {
@@ -7826,10 +12637,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Carolus-Duran",
-      "nombre": 1
-    },
-    {
       "valeur": "Nélie Jacquemart",
       "nombre": 1
     },
@@ -7886,10 +12693,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Aristide Maillol",
-      "nombre": 1
-    },
-    {
       "valeur": "Charles-François Marchal",
       "nombre": 1
     },
@@ -7903,10 +12706,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Francesco Botticini",
-      "nombre": 1
-    },
-    {
-      "valeur": "Gustave Moreau",
       "nombre": 1
     },
     {
@@ -7974,6 +12773,10 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Honoré Daumier",
+      "nombre": 1
+    },
+    {
       "valeur": "Q314350 (à corriger)",
       "nombre": 1
     },
@@ -8008,12 +12811,12 @@ export const FACETTES = {
   ],
   "musees": [
     {
-      "valeur": "National Gallery",
-      "nombre": 250
+      "valeur": "Musée d'Orsay",
+      "nombre": 505
     },
     {
-      "valeur": "Musée d'Orsay",
-      "nombre": 206
+      "valeur": "National Gallery",
+      "nombre": 250
     },
     {
       "valeur": "musée Jacquemart-André",
@@ -8031,18 +12834,22 @@ export const FACETTES = {
   "mouvements": [
     {
       "valeur": "Non déterminé",
-      "nombre": 508
+      "nombre": 807
     }
   ],
   "genres": [],
   "epoques": [
     {
       "valeur": "XIXe siècle",
-      "nombre": 244
+      "nombre": 483
     },
     {
       "valeur": "XVIe siècle",
       "nombre": 107
+    },
+    {
+      "valeur": "XXe siècle",
+      "nombre": 71
     },
     {
       "valeur": "XVe siècle",
@@ -8055,10 +12862,6 @@ export const FACETTES = {
     {
       "valeur": "XVIIIe siècle",
       "nombre": 25
-    },
-    {
-      "valeur": "XXe siècle",
-      "nombre": 16
     },
     {
       "valeur": "XIVe siècle",

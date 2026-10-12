@@ -27,7 +27,7 @@ export const PRODUITS_REELS: Produit[] = [
     "categorie": "deco",
     "sousCategorie": "Objets décoratifs",
     "prix": 14.99,
-    "imageUrl": "https://tokyo-design-studio.com/images/product_images/info_images/33729-M1.jpg",
+    "imageUrl": "https://tokyo-design-studio.com/images/product_images/info_images/337291.jpg",
     "url": "https://tokyo-design-studio.com/en/tds-tayo-bowl-hokusai-white-blue-o-12-6-x-7-cm-item-no-33729.html",
     "offres": [
       {
@@ -44,6 +44,7 @@ export const PRODUITS_REELS: Produit[] = [
     "categorie": "livres",
     "sousCategorie": "Catalogues d'exposition",
     "prix": 45,
+    "imageUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/c8/43/50/5260232/1540-0/tsp20191018073242/Felix-vallotton-au-grand-palais.jpg",
     "url": "https://www.fnac.com/a6108338/Collectif-Felix-vallotton-au-grand-palais",
     "offres": [
       {
@@ -51,6 +52,23 @@ export const PRODUITS_REELS: Produit[] = [
         "url": "https://www.fnac.com/a6108338/Collectif-Felix-vallotton-au-grand-palais",
         "prix": 45,
         "dateReleve": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "id": "roman-jeune-fille-perle-chevalier",
+    "titre": "La jeune fille à la perle",
+    "categorie": "livres",
+    "sousCategorie": "Romans",
+    "prix": 9.5,
+    "imageUrl": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/d2/5e/13/1269458/1540-1/tsp20260718074051/La-jeune-fille-a-la-perle.jpg",
+    "url": "https://www.fnac.com/a1269458/Tracy-Chevalier-La-jeune-fille-a-la-perle",
+    "offres": [
+      {
+        "source": "Fnac",
+        "url": "https://www.fnac.com/a1269458/Tracy-Chevalier-La-jeune-fille-a-la-perle",
+        "prix": 9.5,
+        "dateReleve": "2026-10-01"
       }
     ]
   }

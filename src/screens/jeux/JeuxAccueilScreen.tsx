@@ -22,6 +22,7 @@ const LARGEUR_CARTE = (LARGEUR_ECRAN - MARGE * 2 - ECART) / 2;
 // Un jeu de navigable une fois construit : id du jeu -> écran du JeuxStack.
 const ECRAN_PAR_JEU: Partial<Record<string, keyof JeuxStackParamList>> = {
   'qui-a-peint': 'QuiAPeint',
+  'ordre': 'Ordre',
 };
 
 export function JeuxAccueilScreen() {

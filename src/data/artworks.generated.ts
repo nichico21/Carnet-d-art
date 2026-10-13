@@ -34,6 +34,66 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q10346982",
+    "titre": "Rocks at Port-Goulphar, Belle-Île",
+    "artiste": "Claude Monet",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paysage%20%C3%A0%20Port-Goulphar.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "66 × 81.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q10366854",
+    "titre": "The Holy Family with Saint Elizabeth and Saint John",
+    "artiste": "Pierre Paul Rubens",
+    "annee": "1615",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20The%20Holy%20Family%20with%20Saints%20Elizabeth%20and%20John%20the%20Baptist%20-%201967.229%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "114.5 × 91.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q10368659",
+    "titre": "Le Saut du Lapin",
+    "artiste": "Amadeo de Souza-Cardoso",
+    "annee": "1911",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amadeo%20de%20Souza%20Cardoso%20-%20The%20Leap%20of%20the%20Rabbit%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "499 × 608 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q1044742",
+    "titre": "Un dimanche après-midi à l'Île de la Grande Jatte",
+    "artiste": "Georges Seurat",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Sunday%20on%20La%20Grande%20Jatte%2C%20Georges%20Seurat%2C%201884.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "207.5 × 308.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1056007",
     "titre": "Annonciation",
     "artiste": "Fra Filippo Lippi",
@@ -73,6 +133,22 @@ export const ARTWORKS: Artwork[] = [
     "pays": "France",
     "mouvement": "Non déterminé",
     "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q10871494",
+    "titre": "Les Deux Baigneuses",
+    "artiste": "William Bouguereau",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Adolphe%20Bouguereau%20-%20The%20Bathers%20-%201901.458%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "200.7 × 128.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
     "statut": "brouillon"
   },
   {
@@ -565,6 +641,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q11837891",
+    "titre": "L'Assomption de la Vierge",
+    "artiste": "Le Greco",
+    "annee": "1577",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Domenikos%20Theotok%C3%B3poulos%2C%20called%20El%20Greco%20-%20The%20Assumption%20of%20the%20Virgin%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "4032 × 2118 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -1137,6 +1228,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q1452762",
+    "titre": "Rue de Paris, temps de pluie",
+    "artiste": "Gustave Caillebotte",
+    "annee": "1877",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Caillebotte%20-%20Paris%20Street%2C%20Rainy%20Day%20-%201964.336%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "2122 × 2762 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1464531",
     "titre": "La Nuit étoilée",
     "artiste": "Vincent van Gogh",
@@ -1192,6 +1298,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q14911808",
+    "titre": "Le Vieil Homme à la chaîne d'or",
+    "artiste": "Rembrandt",
+    "annee": "1631",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20-%20Old%20Man%20with%20a%20Gold%20Chain%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "831 × 757 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -1264,6 +1385,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q15615053",
+    "titre": "Le Comte Amédée-David de Pastoret",
+    "artiste": "Jean-Auguste-Dominique Ingres",
+    "annee": "1823",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Auguste%20Dominique%20Ingres%20-%20Am%C3%A9d%C3%A9e-David%2C%20the%20Comte%20de%20Pastoret%20-%201971.452%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "103 × 83.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -1553,6 +1689,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q16536566",
+    "titre": "The Feast in the House of Simon",
+    "artiste": "Le Greco",
+    "annee": "1600",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Repas%20chez%20Simon.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "143.3 × 100.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q16547914",
     "titre": "Roses dans un vase",
     "artiste": "Auguste Renoir",
@@ -1623,6 +1774,19 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q17004235",
+    "titre": "Le Faune",
+    "artiste": "Shaun Greenhalgh",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ForgedFaun.jpg",
+    "technique": "céramique",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q17017753",
     "titre": "Omnibus Life in London",
     "artiste": "William Maw Egley",
@@ -1660,6 +1824,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17152781",
+    "titre": "Le reniement de saint Pierre",
+    "artiste": "Hendrick ter Brugghen",
+    "annee": "1628",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hendrick%20Terbrugghen%20-%20The%20Denial%20of%20Saint%20Peter%20-%201969.3%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "132.3 × 178 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -1716,6 +1895,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17318501",
+    "titre": "La Chasse au lion",
+    "artiste": "Eugène Delacroix",
+    "annee": "1861",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Lion%20Hunt%20-%201922.404%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "76.5 × 98.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -5649,6 +5843,22 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q17594752",
+    "titre": "Odalisque",
+    "artiste": "Jules Lefebvre",
+    "annee": "1874",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odalisque%20by%20Jules%20Lefebvre%20%281874%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "102.4 × 200.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1759759",
     "titre": "portrait du doge Leonardo Loredan",
     "artiste": "Giovanni Bellini",
@@ -5677,6 +5887,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q17638206",
+    "titre": "Nature morte avec un panier de fruits et une botte d'asperges",
+    "artiste": "Louise Moillon",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Moillon%20-%20Still%20Life%20with%20a%20Basket%20of%20Fruit%20and%20a%20Bunch%20of%20Asparagus%20-%201948.78%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "bois",
+    "dimensions": "53.3 × 71.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q17651293",
     "titre": "The Dead Christ Mourned ('The Three Maries')",
     "artiste": "Annibale Carracci",
@@ -5700,6 +5925,51 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17818220",
+    "titre": "portrait d'une femme inconnue",
+    "artiste": "Frans Hals",
+    "annee": "1627",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20-%20Portrait%20of%20a%20Lady%20-%201954.287%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "87 × 67 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17818339",
+    "titre": "Jeune violist",
+    "artiste": "Frans Hals",
+    "annee": "1628",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20088%20WGA%20version.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "18.4 × 18.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q17818491",
+    "titre": "Jeune chanteuse",
+    "artiste": "Frans Hals",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hals%2C%20Frans%20-%20Singing%20Girl%20-%201626-30.png",
+    "technique": "peinture à l'huile",
+    "dimensions": "18.2 × 18.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -5789,6 +6059,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q18009990",
+    "titre": "Portrait d'homme",
+    "artiste": "Frans Hals",
+    "annee": "1644",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20Portrait%20of%20an%20Artist%20-%201894.1023%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "82.6 × 64.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q18010861",
     "titre": "Portrait de famille dans un paysage",
     "artiste": "Frans Hals",
@@ -5831,6 +6116,51 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q18177375",
+    "titre": "Gênes, vue de la promenade Acqua Sola",
+    "artiste": "Camille Corot",
+    "annee": "1834",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20-%20Vue%20de%20G%C3%AAnes%20%281834%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "29.5 × 41.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18177376",
+    "titre": "Eurydice blessée",
+    "artiste": "Camille Corot",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Camille%20Corot%20-%20Wounded%20Eurydice%20-%201894.1042%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55.9 × 41.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18177384",
+    "titre": "La Lecture interrompue",
+    "artiste": "Camille Corot",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Camille%20Corot%20-%20Interrupted%20Reading%20-%201922.410%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.5 × 65.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q18178091",
     "titre": "Monsieur Pivot à cheval",
     "artiste": "Camille Corot",
@@ -5859,6 +6189,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q18195700",
+    "titre": "The Family Concert",
+    "artiste": "Jan Steen",
+    "annee": "1666",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20-%20The%20Family%20Concert%20-%201891.65%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "86.6 × 101 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q18210290",
     "titre": "Autoportrait avec bonnet de fourrure et cuirasse",
     "artiste": "Carel Fabritius",
@@ -5868,6 +6213,216 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338436",
+    "titre": "Le chevalier turc et les lansquenets",
+    "artiste": "Albrecht Dürer",
+    "annee": "1495",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20Five%20Soldiers%20and%20a%20Turk%20on%20Horseback%2C%201495-1496%2C%20NGA%206573.jpg",
+    "technique": "encre",
+    "dimensions": "13.2 × 14.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338438",
+    "titre": "Un Cuisinier et son Épouse",
+    "artiste": "Albrecht Dürer",
+    "annee": "1496",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20The%20Cook%20and%20His%20Wife%2C%20c.%201496-1497%2C%20NGA%2030838.jpg",
+    "technique": "papier",
+    "dimensions": "10.8 × 7.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338443",
+    "titre": "La Famille du Satyre",
+    "artiste": "Albrecht Dürer",
+    "annee": "1505",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Satyr%27s%20Family%20%28NGA%201943.3.3562%29.jpg",
+    "technique": "papier vergé",
+    "dimensions": "11.6 × 7.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338444",
+    "titre": "Le petit cheval",
+    "artiste": "Albrecht Dürer",
+    "annee": "1505",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20The%20Small%20Horse%20-%201958.112%20-%20Cleveland%20Museum%20of%20Art.jpg",
+    "technique": "papier vergé",
+    "dimensions": "16.4 × 10.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338466",
+    "titre": "Suaire affiché par deux anges",
+    "artiste": "Albrecht Dürer",
+    "annee": "1513",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Sudarium%20Displayed%20by%20Two%20Angels%20-%201974.19%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "technique": "papier vergé",
+    "dimensions": "10 × 13.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338487",
+    "titre": "Frédéric le Sage",
+    "artiste": "Albrecht Dürer",
+    "annee": "1524",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20Frederick%20the%20Wise%2C%20Elector%20of%20Saxony%2C%201524%2C%20NGA%206669.jpg",
+    "technique": "papier",
+    "dimensions": "19.2 × 12.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338502",
+    "titre": "Demoiselle à cheval et lansquenet",
+    "artiste": "Albrecht Dürer",
+    "annee": "1497",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20Lady%20on%20Horseback%20and%20the%20Lansquenet%2C%20c.%201497%2C%20NGA%206581.jpg",
+    "technique": "papier fait main",
+    "dimensions": "10.8 × 7.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338506",
+    "titre": "La Vierge à l'Enfant avec un singe",
+    "artiste": "Albrecht Dürer",
+    "annee": "1498",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201964.29.jpg",
+    "technique": "encre",
+    "dimensions": "19.1 × 12.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338507",
+    "titre": "La Tentation du paresseux",
+    "artiste": "Albrecht Dürer",
+    "annee": "1498",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20The%20Dream%20of%20the%20Doctor%20%28Temptation%20of%20the%20Idler%29%2C%201498-1499%2C%20NGA%206599.jpg",
+    "technique": "papier",
+    "dimensions": "18.8 × 12 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338508",
+    "titre": "Hercule",
+    "artiste": "Albrecht Dürer",
+    "annee": "1498",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Hercules%20%28NGA%201943.3.3482%29.jpg",
+    "technique": "papier vergé",
+    "dimensions": "32.5 × 22.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338526",
+    "titre": "La Face de Jésus-Christ",
+    "artiste": "Albrecht Dürer",
+    "annee": "1516",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Engel%20met%20de%20Zweetdoek%20-%201826%20-%20Rijksmuseum%20Twenthe.jpg",
+    "technique": "papier",
+    "dimensions": "18.5 × 13.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338528",
+    "titre": "Homme despéré",
+    "artiste": "Albrecht Dürer",
+    "annee": "1514",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20%28German%2C%201471-1528%29%20-%20Group%20of%20Five%20Figures%20-%201938.384%20-%20Cleveland%20Museum%20of%20Art.jpg",
+    "technique": "papier",
+    "dimensions": "19.1 × 13.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18338548",
+    "titre": "Frontispice",
+    "artiste": "Albrecht Dürer",
+    "annee": "1511",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Christus%20als%20Man%20van%20Smarten%2C%20bespot%20door%20een%20soldaat%20Passio%20domini%20nostri%20Jesu%20%28..%29%20%28titel%20op%20object%29%20De%20grote%20Passie%20%28serietitel%29%2C%20RP-P-OB-1293.jpg",
+    "technique": "papier",
+    "dimensions": "38.5 × 26.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18339715",
+    "titre": "Saint Jérôme dans sa cellule",
+    "artiste": "Albrecht Dürer",
+    "annee": "1511",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20St.%20Jerome%20in%20His%20Cell%20-%201934.345%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "technique": "papier",
+    "dimensions": "23.6 × 16.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -5980,6 +6535,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18577996",
+    "titre": "Crucifix du Maestro del Bigallo",
+    "artiste": "Maître du Bigallo",
+    "annee": "1250",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maestro%20del%20bigallo%2C%20crocifisso%2C%20chicago%20art%20institute.jpg",
+    "technique": "or",
+    "dimensions": "191 × 127.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18602465",
+    "titre": "statue de la Vierge dans les montagnes",
+    "artiste": "Caspar David Friedrich",
+    "annee": "1804",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Statue%20of%20the%20Madonna%20in%20the%20Mountains%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "24.4 × 38.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -7035,6 +7620,51 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q18709542",
+    "titre": "Paysage avec deux peupliers",
+    "artiste": "Vassily Kandinsky",
+    "annee": "1912",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Kandinsky%20-%20Landscape%20with%20Two%20Poplars%20-%201931.508%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "78.8 × 100.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18710675",
+    "titre": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+    "artiste": "Piet Mondrian",
+    "annee": "1921",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondrian%20-%20Lozenge%20Composition%20with%20Yellow%2C%20Black%2C%20Blue%2C%20Red%2C%20and%20Gray%20-%201957.307%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60.1 × 60.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18713076",
+    "titre": "La Chambre à Coucher",
+    "artiste": "Vincent van Gogh",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20Bedroom%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73.6 × 92.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1884998",
     "titre": "Portrait de l'artiste au fond rose",
     "artiste": "Paul Cézanne",
@@ -7044,6 +7674,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q18891063",
+    "titre": "La Fille près de la fenêtre",
+    "artiste": "Edvard Munch",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20The%20Girl%20by%20the%20Window%20-%202000.50%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "96.5 × 65.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -7063,6 +7708,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q19018655",
+    "titre": "Champs-de-Mars, La Tour rouge",
+    "artiste": "Robert Delaunay",
+    "annee": "1911",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Delaunay%20ChampDeMars.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "160.7 × 128.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1910985",
     "titre": "Un mur à Naples",
     "artiste": "Thomas Jones",
@@ -7071,6 +7731,35 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19208943",
+    "titre": "Les Cantilènes",
+    "artiste": "Émile Bernard",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Old%20Woman%20from%20Berkeley%20MET%20DP853599.jpg",
+    "technique": "papier",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19326212",
+    "titre": "Le joueur au Rommelpot",
+    "artiste": "Judith Leyster",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20The%20Rommel-Pot%20Player%20-%201947.78%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38 × 31 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -7090,6 +7779,35 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q19636500",
+    "titre": "Combat du Giaour et Hassan",
+    "artiste": "Eugène Delacroix",
+    "annee": "1826",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Combat%20du%20Giaour%20et%20Hassan%20%281826%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "59.6 × 73.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19681547",
+    "titre": "View of Pirna, from Sonnestein Castle",
+    "artiste": "Bernardo Bellotto",
+    "annee": "1755",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20View%20of%20Pirna%20with%20the%20Fortress%20of%20Sonnenstein%20-%201961.44%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q1984131",
     "titre": "Saint Georges et le Dragon",
     "artiste": "Le Tintoret",
@@ -7099,6 +7817,81 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19861832",
+    "titre": "Portrait d'une femme",
+    "artiste": "Jean-Léon Gérôme",
+    "annee": "1851",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Portrait%20of%20a%20Woman%20-%201964.338%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.6 × 73.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19894296",
+    "titre": "Merahi metua no Tehamana",
+    "artiste": "Paul Gauguin",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20The%20Ancestors%20of%20Tehamana%20OR%20Tehamana%20Has%20Many%20Parents%20%28Merahi%20metua%20no%20Tehamana%29%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "76.3 × 54.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19900709",
+    "titre": "Vue lointaine des chutes du Niagara",
+    "artiste": "Thomas Cole",
+    "annee": "1830",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Distant%20View%20of%20Niagara%20Falls%201830%20Thomas%20Cole.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "47.9 × 60.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19900717",
+    "titre": "Paysage de Nouvelle Angleterre",
+    "artiste": "Thomas Cole",
+    "annee": "1839",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20New%20England%20Scenery%20-%201900.558%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "57.1 × 46.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q19900812",
+    "titre": "The Mountain Brook",
+    "artiste": "Albert Bierstadt",
+    "annee": "1863",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Mountain%20Brook%20-%201997.365%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "111.8 × 91.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -7126,6 +7919,2373 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20087471",
+    "titre": "La Résurrection",
+    "artiste": "Cecco del Caravaggio",
+    "annee": "1619",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Buoneri%2C%20called%20Cecco%20del%20Caravaggio%20-%20The%20Resurrection%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "3391 × 1995 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20087513",
+    "titre": "The Captive Slave",
+    "artiste": "John Simpson",
+    "annee": "1827",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Philip%20Simpson%20-%20The%20Captive%20Slave%20-%202008.188%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "128.2 × 102 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20088061",
+    "titre": "Le Crystal Palace, Londres",
+    "artiste": "Camille Pissarro",
+    "annee": "1871",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Crystal%20Palace%2C%20Londres.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "47.2 × 73.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20202175",
+    "titre": "Vue du Cotopaxi",
+    "artiste": "Frederic Edwin Church",
+    "annee": "1857",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20View%20of%20Cotopaxi%20-%201919.753%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "62.2 × 92.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20260908",
+    "titre": "Peinture au centre vert",
+    "artiste": "Vassily Kandinsky",
+    "annee": "1913",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Kandinsky%20-%20Painting%20with%20Green%20Center%20-%201931.510%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "108.9 × 118.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261032",
+    "titre": "Valley of Aosta: Snowstorm, Avalanche, and Thunderstorm",
+    "artiste": "William Turner",
+    "annee": "1836",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Valley%20of%20Aosta%2C%20Snowstorm%2C%20Avalanche%2C%20and%20Thunderstorm%20-%201947.513%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.2 × 123 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261105",
+    "titre": "Anna Maria Dashwood, later Marchioness of Ely",
+    "artiste": "Thomas Lawrence",
+    "annee": "1805",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Thomas%20Lawrence%20-%20Anna%20Maria%20Dashwood%2C%20later%20Marchioness%20of%20Ely%20-%201951.199%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "30.75 × 24.75 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261126",
+    "titre": "A Roadside Tavern",
+    "artiste": "Johan Barthold Jongkind",
+    "annee": "1863",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Barthold%20Jongkind%20-%20A%20Roadside%20Tavern%20-%201963.836%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "33.5 × 46.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261171",
+    "titre": "Monsieur Tortoni",
+    "artiste": "François Gérard",
+    "annee": "1820",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baron%20Fran%C3%A7ois%20Pascal%20Simon%20G%C3%A9rard%20-%20Monsieur%20Tortoni%20-%201961.886%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92 × 72.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261179",
+    "titre": "Portrait of a Musician",
+    "artiste": "Alessandro Longhi",
+    "annee": "1747",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Longhi%20-%20Portrait%20of%20a%20Musician%20-%201962.76%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "144.5 × 104.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261191",
+    "titre": "On the Bank of the Seine at Portejoie",
+    "artiste": "Charles-François Daubigny",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Fran%C3%A7ois%20Daubigny%20-%20On%20the%20Bank%20of%20the%20Seine%20at%20Portejoie%20-%201979.1281%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "38.1 × 67 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261207",
+    "titre": "Two Washerwomen Crossing a Small Park in Paris",
+    "artiste": "Jean-François Raffaëlli",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Rafa%C3%ABlli%20-%20Two%20Washerwomen%20Crossing%20a%20Small%20Park%20in%20Paris%20-%201985.262%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "59.2 × 81 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261224",
+    "titre": "Still Life with Flowers",
+    "artiste": "Odilon Redon",
+    "annee": "1905",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Still%20Life%20with%20Flowers%20-%201988.141.22%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.7 × 65.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261297",
+    "titre": "Fête de Saint Marc, Venise",
+    "artiste": "Félix Ziem",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Ziem%20-%20F%C3%AAte%20de%20Saint%20Marc%2C%20Venise%20-%201983.383%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "69 × 107.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261316",
+    "titre": "Fisherman's Cottage",
+    "artiste": "Harald Sohlberg",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fisherman%27s%20cottage%20sohlberg.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "109 × 94 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261356",
+    "titre": "The Death of St. Peter Martyr",
+    "artiste": "Giovanni Gerolamo Savoldo",
+    "annee": "1532",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Girolamo%20Savoldo%20-%20The%20Death%20of%20St.%20Peter%20Martyr%20-%202001.330%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "115.3 × 141 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261379",
+    "titre": "Appel des dernières victimes de la Terreur",
+    "artiste": "Charles Müller",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Louis-Lucien%20Muller%20-%20The%20Roll%20Call%20of%20the%20Last%20Victims%20of%20the%20Terror%20-%20RofO37672.4%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261407",
+    "titre": "The Adoration of the Eucharist",
+    "artiste": "Pierre Paul Rubens",
+    "annee": "1626",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20The%20Adoration%20of%20the%20Eucharist%20-%201937.1012%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "31.5 × 32 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261428",
+    "titre": "The Fisherman's Family",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Puvis%20de%20Chavannes%20-%20The%20Fisherman%27s%20Family%20-%201915.227%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "82.5 × 71.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261490",
+    "titre": "Table at a Café",
+    "artiste": "Juan Gris",
+    "annee": "1912",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Gris%20-%20Table%20at%20a%20Caf%C3%A9%20%281912%29.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261512",
+    "titre": "Hampstead, Stormy Sky",
+    "artiste": "John Constable",
+    "annee": "1814",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Hampstead%2C%20Stormy%20Sky%20-%201974.387%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46 × 61 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261533",
+    "titre": "An Italian Comedy in Verona",
+    "artiste": "Marco Marcola",
+    "annee": "1772",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Marcola%20-%20An%20Italian%20Comedy%20in%20Verona%20-%201922.4790%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261585",
+    "titre": "An Old Man in a Fur Cap",
+    "artiste": "Karel van der Pluym",
+    "annee": "1650",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karel%20van%20der%20Pluym%20-%20An%20Old%20Man%20in%20a%20Fur%20Cap%20-%201988.265%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "71.3 × 54.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261610",
+    "titre": "Afternoon Tea",
+    "artiste": "Jean-François Raffaëlli",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Rafa%C3%ABlli%20-%20Afternoon%20Tea%20-%202013.1051%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "34.9 × 28.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261697",
+    "titre": "Arcadian Landscape with Figures",
+    "artiste": "Alessandro Magnasco",
+    "annee": "1700",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Magnasco%20-%20Arcadian%20Landscape%20with%20Figures%20-%201929.915%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20261749",
+    "titre": "A Lady",
+    "artiste": "Johann Friedrich August Tischbein",
+    "annee": "1770",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Friedrich%20August%20Tischbein%20-%20A%20Lady%20-%201961.1151%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 50 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262034",
+    "titre": "Paysage",
+    "artiste": "Camille Corot",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Camille%20Corot%20-%20Landscape%20-%201894.1041%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "33 × 55 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262120",
+    "titre": "The Hollow Road",
+    "artiste": "Cornelis Huysmans",
+    "annee": "1696",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Huysmans%20-%20The%20Hollow%20Road%20-%201933.1084%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "25.4 × 31.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262161",
+    "titre": "The Raising of Lazarus",
+    "artiste": "http://www.wikidata.org/.well-known/genid/9515f43906a97bf96f9ddc8fa784b8b9",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Rembrandt%20Harmenszoon%20van%20Rijn%20-%20The%20Raising%20of%20Lazarus%20-%201970.1010%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "43.5 × 36.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262228",
+    "titre": "Rape of the Sabines",
+    "artiste": "http://www.wikidata.org/.well-known/genid/b943d8a486bc04897694823ea4783f13",
+    "annee": "1760",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Angeli%20-%20Rape%20of%20the%20Sabines%20-%201945.288%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "255.5 × 290.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262241",
+    "titre": "Mill of Pont Maupuit",
+    "artiste": "Armand Guillaumin",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Armand%20Guillaumin%20-%20Mill%20of%20Pont%20Maupuit%20-%201933.1123%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "63.5 × 80 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262255",
+    "titre": "Portrait de femme",
+    "artiste": "Charles Cottet",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Cottet%20-%20Portrait%20of%20a%20Woman%20-%201921.82%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "57.8 × 48.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262293",
+    "titre": "Nude",
+    "artiste": "Q123740 (à corriger)",
+    "annee": "1911",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vallotton%20-%20Nude%2C%201911%2C%201945.18.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262306",
+    "titre": "Place des Batignolles",
+    "artiste": "Albert André",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20andr%C3%A9%2C%20place%20des%20batignolles%2C%20parigi%2C%201893.jpg",
+    "dimensions": "48.6 × 65.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262344",
+    "titre": "Portrait of Henry Field",
+    "artiste": "Léon Bonnat",
+    "annee": "1896",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Joseph%20Florentin%20Bonnat%20-%20Portrait%20of%20Henry%20Field%20-%201898.6%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262365",
+    "titre": "Andromeda",
+    "artiste": "Odilon Redon",
+    "annee": "1907",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20Andromeda%2C%201904-10.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262383",
+    "titre": "Theocritus",
+    "artiste": "Jean-Charles Cazin",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Charles%20Cazin%20-%20Theocritus%20-%201922.401%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "74 × 60.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262400",
+    "titre": "Le Bois sacré cher aux arts et aux muses",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1886",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Puvis%20de%20Chavannes%20-%20The%20Sacred%20Grove%2C%20Beloved%20of%20the%20Arts%20and%20the%20Muses%20-%201922.445%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "93 × 231 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262434",
+    "titre": "The Harvesters",
+    "artiste": "Léon Augustin Lhermitte",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Augustin%20Lhermitte%20-%20The%20Harvesters%20-%201933.1139%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "52.9 × 77.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20262847",
+    "titre": "Les Pommes",
+    "artiste": "Henri Matisse",
+    "annee": "1916",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20mele%2C%201916.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "116.5 × 89.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20263630",
+    "titre": "Femme en jaune et bleu à la guitare",
+    "artiste": "Henri Matisse",
+    "annee": "1939",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20ragazza%20in%20giallo%20e%20blu%20con%20chitarra%2C%201939.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "63.5 × 49.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20263649",
+    "titre": "Scierie aux environs de Paris",
+    "artiste": "Henri Rousseau",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Sawmill%2C%20Outskirts%20of%20Paris%20-%201950.133%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "25.5 × 45.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20263686",
+    "titre": "The Artist's Daughter",
+    "artiste": "Augustin Théodule Ribot",
+    "annee": "1862",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustin%20Th%C3%A9odule%20Ribot%20-%20The%20Artist%27s%20Daughter%20-%201950.132%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20263979",
+    "titre": "Le pont Saint-Michel (AIC)",
+    "artiste": "Albert Marquet",
+    "annee": "1910",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pont%20St%20Michel%2C%20Paris%20Albert%20Marquet%20%281910%29.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20263998",
+    "titre": "Maria Sheldon Scammon",
+    "artiste": "Anders Zorn",
+    "annee": "1895",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20-%20Maria%20Sheldon%20Scammon%20-%201902.39%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81.3 × 65.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264064",
+    "titre": "Alexander N. Fullerton",
+    "artiste": "James Grellier Forbes",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Forbes%20-%20Alexander%20N.%20Fullerton%20-%201898.236%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264090",
+    "titre": "Homer Dictating",
+    "artiste": "Pier Francesco Mola",
+    "annee": "1662",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pier%20Francesco%20Mola%20-%20Homer%20Dictating%20-%201930.337%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264115",
+    "titre": "The Sacrifice of Polyxena",
+    "artiste": "Giulio Carpioni",
+    "annee": "1650",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giulio%20Carpioni%20-%20The%20Sacrifice%20of%20Polyxena%20-%201932.203%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55.7 × 71 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264132",
+    "titre": "Saracens and Crusaders",
+    "artiste": "http://www.wikidata.org/.well-known/genid/e51fb98d58f177be7b0eedec52f53278",
+    "annee": "1846",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9odore%20Chass%C3%A9riau%20-%20Saracens%20and%20Crusaders%20-%201932.1180%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "59.1 × 78.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264150",
+    "titre": "Monks at Supper",
+    "artiste": "Alessandro Magnasco",
+    "annee": "1712",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Magnasco%20-%20Monks%20at%20Supper%20-%201933.1085%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "68 × 82 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264183",
+    "titre": "Portrait of a Lady with a Dog",
+    "artiste": "Eugène Carrière",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Carri%C3%A8re%20-%20Portrait%20of%20a%20Lady%20with%20a%20Dog%20-%201933.1115%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "117.3 × 89.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264207",
+    "titre": "The Lamentation",
+    "artiste": "Andrea Vaccaro",
+    "annee": "1652",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Vaccaro%20-%20The%20Lamentation%20-%201970.1013%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "128 × 156.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264228",
+    "titre": "L'Annonciation",
+    "artiste": "Frans II Francken",
+    "annee": "1620",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Francken%2C%20II%20-%20The%20Annunciation%20-%201971.876%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "29.2 × 23.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264274",
+    "titre": "The Wrestler's Challenge",
+    "artiste": "Mihály Munkácsy",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mih%C3%A1ly%20Munk%C3%A1csy%20-%20The%20Wrestler%27s%20Challenge%20-%201901.435%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "88.3 × 130.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264293",
+    "titre": "The Out-Post",
+    "artiste": "Ernest Meissonier",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Louis%20Ernest%20Meissonier%20-%20The%20Out-Post%20-%201901.446%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "105.1 × 90.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264325",
+    "titre": "The Carousal (Scene from Faust?)",
+    "artiste": "http://www.wikidata.org/.well-known/genid/7ef6d18b7c53ac8e85e0018edd446ad5",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20School%20-%20The%20Carousal%20%28Scene%20from%20Faust%5E%29%20-%201947.73%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "19.7 × 35.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264337",
+    "titre": "The Princesses",
+    "artiste": "Adolphe Monticelli",
+    "annee": "1870",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Joseph%20Thomas%20Monticelli%20-%20The%20Princesses%20-%201947.97%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "29.8 × 60.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264358",
+    "titre": "Study of a Cow",
+    "artiste": "Émile van Marcke",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emile%20van%20Marcke%20de%20Lummen%20-%20Study%20of%20a%20Cow%20-%201910.288%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "49.5 × 71.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264378",
+    "titre": "Portrait d'homme",
+    "artiste": "http://www.wikidata.org/.well-known/genid/6435daa6057912899916d2e545fd6013",
+    "annee": "1627",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Anthonie%20van%20Dyck%20-%20Portrait%20of%20a%20Man%20-%201954.286%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "108 × 80 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264458",
+    "titre": "Young Man in a Turban",
+    "artiste": "Rembrandt",
+    "annee": "1650",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Rembrandt%20Harmenszoon%20van%20Rijn%20-%20Young%20Man%20in%20a%20Turban%20-%201954.297%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "57.3 × 47.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264473",
+    "titre": "Street Musicians",
+    "artiste": "Honoré Daumier",
+    "annee": "1855",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9-Victorin%20Daumier%20-%20Street%20Musicians%20-%201954.308%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "26 × 32.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264490",
+    "titre": "Souvenir of Italy",
+    "artiste": "Camille Corot",
+    "annee": "1857",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Camille%20Corot%20-%20Souvenir%20of%20Italy%20-%201922.408%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "82.6 × 66.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264514",
+    "titre": "The Carousal (Scene from Faust?)",
+    "artiste": "http://www.wikidata.org/.well-known/genid/177e56ad53ced73202f7fb0fdf634616",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20School%20-%20The%20Carousal%20%28Scene%20from%20Faust%5E%29%20-%201947.72%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "19.7 × 35.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264601",
+    "titre": "At the Justice's of The Peace",
+    "artiste": "Piet Verhaert",
+    "annee": "1878",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Verhaert%20-%20At%20the%20Justice%20of%20The%20Peace%20-%201921.121%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "28.3 × 35.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264632",
+    "titre": "The Fairies",
+    "artiste": "Adolphe Monticelli",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Joseph%20Thomas%20Monticelli%20-%20The%20Fairies%20-%201947.96%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "49.5 × 70.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264648",
+    "titre": "Portrait of Mrs. Charles L. Hutchinson",
+    "artiste": "Jules-Élie Delaunay",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jules-%C3%89lie%20Delaunay%20-%20Portrait%20of%20Mrs.%20Charles%20L.%20Hutchinson%20-%201936.122%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264668",
+    "titre": "Inside the Colosseum",
+    "artiste": "Franz Ludwig Catel",
+    "annee": "1823",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Ludwig%20Catel%20-%20Inside%20the%20Colosseum%20-%202013.1094%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "100.4 × 137.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264689",
+    "titre": "The Beggar Boy (The Young Pilgrim)",
+    "artiste": "Giovanni Battista Piazzetta",
+    "annee": "1727",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Piazzetta%20-%20The%20Beggar%20Boy%20%28The%20Young%20Pilgrim%29%20-%201930.747%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "67 × 55 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264712",
+    "titre": "The Dance",
+    "artiste": "Pietro Longhi",
+    "annee": "1750",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20Longhi%20-%20The%20Dance%20-%201932.52%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264735",
+    "titre": "Democritus, the Laughing Philosopher",
+    "artiste": "http://www.wikidata.org/.well-known/genid/e1b9df49e8466041ebda8b0a6de9964d",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20School%20-%20Democritus%2C%20the%20Laughing%20Philosopher%20-%201897.291%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264750",
+    "titre": "Heraclitus, the Weeping Philosopher",
+    "artiste": "http://www.wikidata.org/.well-known/genid/f82d019e3ca4e068faa879371db5e1c2",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20School%20-%20Heraclitus%2C%20the%20Weeping%20Philosopher%20-%201897.296%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264765",
+    "titre": "Slender Woman with Vase",
+    "artiste": "József Rippl-Rónai",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jozseph%20Rippl-R%C3%B3na%C3%AF%20-%20Slender%20Woman%20with%20Vase%20-%202011.308%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "186 × 73 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264782",
+    "titre": "La Bergerie de la Belle Gabrielle, rue du Mont-Cenis et rue Marcadet",
+    "artiste": "Maurice Utrillo",
+    "annee": "1916",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Bergerie%20de%20la%20Belle%20Gabrielle%2C%20Rue%20du%20Mont-Cenis%20et%20rue%20Marcadet%20-%20Maurice%20Utrillo.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "45.7 × 55 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264814",
+    "titre": "Head of a Philosopher",
+    "artiste": "Giandomenico Tiepolo",
+    "annee": "1761",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Domenico%20Tiepolo%20-%20Head%20of%20a%20Philosopher%20-%201945.175%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "60.5 × 45.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264857",
+    "titre": "In the Heather",
+    "artiste": "Pierre Puvis de Chavannes",
+    "annee": "1896",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Puvis%20de%20Chavannes%20-%20In%20the%20Heather%20-%201968.304%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "80.6 × 99.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264880",
+    "titre": "Portrait Study of a Man",
+    "artiste": "Anders Zorn",
+    "annee": "1901",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20-%20Portrait%20Study%20of%20a%20Man%20-%201951.316%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264907",
+    "titre": "Portrait of Mme. Lisle and Mme Loubens",
+    "artiste": "Edgar Degas",
+    "annee": "1868",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hilaire%20Germain%20Edgar%20Degas%20-%20Portrait%20of%20Mme.%20Lisle%20and%20Mme%20Loubens%20-%201953.335%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "84 × 96.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264936",
+    "titre": "Girl Standing before a Mirror",
+    "artiste": "Caspar Netscher",
+    "annee": "1668",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20Netscher%20-%20Girl%20Standing%20before%20a%20Mirror%20-%201925.718%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "35.8 × 28 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264954",
+    "titre": "The Checkerboard",
+    "artiste": "Juan Gris",
+    "annee": "1915",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Gris%2C%20September%201915%2C%20Jeu%20d%27%C3%A9checs%20%28The%20Checkerboard%29%2C%20oil%20on%20canvas%2C%2092.1%20x%2073%20cm%2C%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.1 × 73 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20264990",
+    "titre": "Paysage à Chailly",
+    "artiste": "Frédéric Bazille",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bazille%2C%20Fr%C3%A9d%C3%A9ric%20-%20Landscape%20at%20Chailly.jpeg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81 × 100.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265005",
+    "titre": "Paysage",
+    "artiste": "Jean-Charles Cazin",
+    "annee": "1895",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Charles%20Cazin%20-%20Landscape%20-%201894.1037%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "32.4 × 41 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265023",
+    "titre": "October Day",
+    "artiste": "Jean-Charles Cazin",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Charles%20Cazin%20-%20October%20Day%20-%201894.1039%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38.4 × 46.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265063",
+    "titre": "Portrait of Mme. Lina Cavalieri",
+    "artiste": "Giovanni Boldini",
+    "annee": "1901",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boldini%20-%20Portrait%20of%20Mme.%20Lina%20Cavalieri%2C%201901.png",
+    "technique": "peinture à l'huile",
+    "dimensions": "95.3 × 102.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265081",
+    "titre": "Ruined Archway",
+    "artiste": "Francesco Guardi",
+    "annee": "1784",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Guardi%20-%20Ruined%20Archway%20-%201933.1080%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265099",
+    "titre": "Isabella of Bourbon, Wife of Philip IV of Spain",
+    "artiste": "http://www.wikidata.org/.well-known/genid/94045d79ad9b869dbb128150690b436b",
+    "annee": "1632",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20of%20Diego%20Rodriguez%20de%20Vel%C3%A1zquez%20-%20Isabella%20of%20Bourbon%2C%20Wife%20of%20Philip%20IV%20of%20Spain%20-%201954.302%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "126.4 × 101.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265120",
+    "titre": "Festival in Piazza Navona",
+    "artiste": "Giovanni Paolo Panini",
+    "annee": "1729",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Paolo%20Panini%20-%20Festival%20in%20Piazza%20Navona%20-%201933.914%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "26.8 × 45 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265152",
+    "titre": "Saint Romanus of Antioch and Saint Barulas",
+    "artiste": "Francisco de Zurbarán",
+    "annee": "1638",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20Saint%20Romanus%20of%20Antioch%20and%20Saint%20Barulas%20-%201947.793%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "246.5 × 160.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265168",
+    "titre": "The Flageolet Player",
+    "artiste": "David Teniers le Jeune",
+    "annee": "1637",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Teniers%2C%20the%20younger%20-%20The%20Flageolet%20Player%20-%201933.1095%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "22.3 × 15.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265181",
+    "titre": "Young Woman",
+    "artiste": "Jean-François Millet",
+    "annee": "1844",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fran%C3%A7ois%20Millet%20-%20Young%20Woman%20-%201922.415%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265518",
+    "titre": "La Berceuse (Augustine Roulin)",
+    "artiste": "Vincent van Gogh",
+    "annee": "1889",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Madame%20Roulin%20Rocking%20the%20Cradle%20%28La%20berceuse%29%20-%201926.200%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "92.7 × 73.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265939",
+    "titre": "Book Binding",
+    "artiste": "http://www.wikidata.org/.well-known/genid/e1e078de209e4582b39ac565cfd1b181",
+    "annee": "1800",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20-%20Book%20Binding%20-%201938.476%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "30.8 × 19.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265950",
+    "titre": "In the Woods",
+    "artiste": "http://www.wikidata.org/.well-known/genid/1b9ff3828a7ec6110776d46cf307dffd",
+    "annee": "1860",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imitator%20of%20Narcisse%20Virgile%20Diaz%20de%20la%20Pe%C3%B1a%20-%20In%20the%20Woods%20-%201940.1322%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265962",
+    "titre": "Head of a Woman",
+    "artiste": "http://www.wikidata.org/.well-known/genid/f0aa8fee9560f3e491f546783d8131e9",
+    "annee": "1810",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Head%20of%20a%20Woman%20-%201969.330%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265971",
+    "titre": "Liberation of Saint Peter from Prison",
+    "artiste": "http://www.wikidata.org/.well-known/genid/51c550440dab93e90b716b99fc0ba690",
+    "annee": "1600",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Liberation%20of%20Saint%20Peter%20from%20Prison%20-%201971.430%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "80 × 72.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265984",
+    "titre": "Mother and Child on a Seashore",
+    "artiste": "Jozef Israëls",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jozef%20Isra%C3%ABls%20-%20Mother%20and%20Child%20on%20a%20Seashore%20-%201974.231%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20265995",
+    "titre": "Praying Virgin",
+    "artiste": "http://www.wikidata.org/.well-known/genid/8b9fd13280492ff0253ccd3c9a59f906",
+    "annee": "1720",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Praying%20Virgin%20-%201976.31%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266011",
+    "titre": "Shipwreck",
+    "artiste": "http://www.wikidata.org/.well-known/genid/c9325fd0e7e1964a8785d78f2b3329e9",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Isabey%20-%20Shipwreck%20-%201975.667%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266025",
+    "titre": "Study for The Horse Fair",
+    "artiste": "Rosa Bonheur",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Study%20for%20The%20Horse%20Fair%20-%201977.3%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266043",
+    "titre": "St. Cecilia",
+    "artiste": "Antoine Wiertz",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Wiertz%20-%20St.%20Cecilia%20-%201977.484%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266060",
+    "titre": "Mother and Two Children with Still Life",
+    "artiste": "Adriaan de Lelie",
+    "annee": "1810",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adriaan%20de%20Lelie%20-%20Mother%20and%20Two%20Children%20with%20Still%20Life%20-%201984.18%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266072",
+    "titre": "A Family Meal",
+    "artiste": "Evert Pieters",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Evert%20Pieters%20-%20A%20Family%20Meal%20-%201986.1281%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266082",
+    "titre": "At the Fountain",
+    "artiste": "Cesare Augusto Detti",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cesare%20Agostino%20Detti%20-%20At%20the%20Fountain%20-%201982.1671%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266094",
+    "titre": "Arabian Horses",
+    "artiste": "Eugène Fromentin",
+    "annee": "1850",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Giafar%20-%201983.378%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266107",
+    "titre": "Adam and Eve in Paradise",
+    "artiste": "Francesco Solimena",
+    "annee": "1700",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Solimena%20-%20Adam%20and%20Eve%20in%20Paradise%20-%201983.1047%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266125",
+    "titre": "The Boathouse",
+    "artiste": "Luigi Loir",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luigi%20Loir%20-%20The%20Boathouse%20-%201962.816%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266137",
+    "titre": "Italian Landscape",
+    "artiste": "http://www.wikidata.org/.well-known/genid/ab4ef20f4fd69dfba11d77aa4e9e209a",
+    "annee": "1821",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Reinhold%20-%20Italian%20Landscape%20-%201986.1282%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266151",
+    "titre": "Paysage le long de la Seine avec l'Institut de France et le Pont des Arts",
+    "artiste": "Alfred Sisley",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20Landscape%20along%20the%20Seine%20with%20the%20Institut%20de%20France%20and%20the%20Pont%20des%20Arts%20-%201979.1030%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266160",
+    "titre": "Pastoral Scene with a Shepherdess Milking a Goat",
+    "artiste": "Nicolaes Berchem",
+    "annee": "1667",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claes%20Pietersz.%20Bercham%20-%20Pastoral%20Scene%20with%20a%20Shepherdess%20Milking%20a%20Goat%20-%202012.113%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "24.8 × 31.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266181",
+    "titre": "Saint Augustine and an Augustinian Canoness",
+    "artiste": "http://www.wikidata.org/.well-known/genid/70052771c77c79a0d23d5f9b21da7c1f",
+    "annee": "1537",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Netherlandish%20School%20-%20Saint%20Augustine%20and%20an%20Augustinian%20Canoness%20-%201933.1041%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.3 × 22.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266193",
+    "titre": "Saint Gertrude of Nivelles and an Augustinian Canoness",
+    "artiste": "http://www.wikidata.org/.well-known/genid/9d7c5791eadfedec7910ce6ee8fb81ef",
+    "annee": "1537",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Netherlandish%20School%20-%20Saint%20Gertrude%20of%20Nivelles%20and%20an%20Augustinian%20Canoness%20-%201933.1042%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65.3 × 22.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266229",
+    "titre": "Portrait de femme",
+    "artiste": "http://www.wikidata.org/.well-known/genid/4e2f0ad3abd955a8ce27619951e0c244",
+    "annee": "1820",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathias%20Stoltenberg%20-%20Portrait%20of%20a%20Woman%20-%201962.822%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266249",
+    "titre": "Saint John the Baptist in the Wilderness",
+    "artiste": "Denis Calvaert",
+    "annee": "1609",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Denys%20Calvaert%20-%20Saint%20John%20the%20Baptist%20in%20the%20Wilderness%20-%201999.296%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266267",
+    "titre": "Paysages",
+    "artiste": "Eugène Bléry",
+    "annee": "1837",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Blery%20-%20Landscape%20-%201980.612%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266280",
+    "titre": "French Street Scene",
+    "artiste": "Édouard Béliard",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20B%C3%A9liard%20-%20French%20Street%20Scene%20-%201982.1672%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38.8 × 46.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266332",
+    "titre": "Madame Arthur Fontaine in a Pink Shawl",
+    "artiste": "Édouard Vuillard",
+    "annee": "1904",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vuillard%20-%20Madame%20Arthur%20Fontaine%20in%20a%20Pink%20Shawl%2C%201903.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266348",
+    "titre": "Hercules and Hesione",
+    "artiste": "http://www.wikidata.org/.well-known/genid/fd90bf654a8bd9e9ae8e7e5d3e45af1b",
+    "annee": "1630",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bartolomeo%20Salvestrini%20-%20Hercules%20and%20Hesione%20-%201976.32%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266349",
+    "titre": "Douarnenez la ville éclairée",
+    "artiste": "Maxime Maufra",
+    "annee": "1897",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxime%20Maufra%20-%20Douarnenez%20in%20Sunshine%20-%201905.335%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "59.7 × 73.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266351",
+    "titre": "Portrait of a Gentleman",
+    "artiste": "http://www.wikidata.org/.well-known/genid/1c27a0e4ee6ebabb2d82f2eb668020a2",
+    "annee": "1545",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Portrait%20of%20a%20Gentleman%20-%201954.195%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266352",
+    "titre": "Landscape with Figures Crossing a Bridge",
+    "artiste": "George Morland",
+    "annee": "1790",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Rathbone%20-%20Landscape%20with%20Figures%20Crossing%20a%20Bridge%20-%201962.967%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266353",
+    "titre": "Landscape with Fisherman and Washerwoman",
+    "artiste": "George Morland",
+    "annee": "1790",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Rathbone%20-%20Landscape%20with%20Fisherman%20and%20Washerwoman%20-%201962.968%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266354",
+    "titre": "Canal in Venice",
+    "artiste": "Martín Rico",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Rico%20y%20Ortega%20-%20Canal%20in%20Venice%20-%201973.766%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266355",
+    "titre": "Portrait of the Honorable George Canning, M.P.",
+    "artiste": "Thomas Lawrence",
+    "annee": "1822",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Thomas%20Lawrence%20-%20Portrait%20of%20the%20Honorable%20George%20Canning%2C%20M.P.%20-%201974.389%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266356",
+    "titre": "Le Grand arbre III",
+    "artiste": "Paul Gauguin",
+    "annee": "1891",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Te%20raau%20rahi%20%28The%20Big%20Tree%29%20-%201949.513%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73 × 91.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266369",
+    "titre": "Le Départ des bateaux, à Étretat",
+    "artiste": "Claude Monet",
+    "annee": "1885",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Departure%20of%20the%20Boats%2C%20%C3%89tretat%20-%201922.428%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "73.5 × 93.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266381",
+    "titre": "Portrait of Isidoro Maiquez",
+    "artiste": "Francisco de Goya",
+    "annee": "1807",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Jos%C3%A9%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Isidoro%20Maiquez%20-%201933.1077%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "82.3 × 63.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266389",
+    "titre": "The Capture of Samson",
+    "artiste": "Pierre Paul Rubens",
+    "annee": "1609",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20The%20Capture%20of%20Samson%20-%201923.551%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266427",
+    "titre": "La Seine à Triel",
+    "artiste": "Albert Marquet",
+    "annee": "1931",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Marquet%2C%201931%20-%20La%20Seine%20%C3%A0%20Triel.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266522",
+    "titre": "Man in Black",
+    "artiste": "http://www.wikidata.org/.well-known/genid/644be3eb4a9d7f65acb6f028cadbd93f",
+    "annee": "1830",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Man%20in%20Black%20-%201980.734%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266535",
+    "titre": "Dr. Jonathan Potts (1745-1781)",
+    "artiste": "Henry Benbridge",
+    "annee": "1773",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Benbridge%20-%20Dr.%20Jonathan%20Potts%20%281745-1781%29%20-%201990.484%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61.6 × 48.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266537",
+    "titre": "Study for Prophets",
+    "artiste": "Q155626 (à corriger)",
+    "annee": "1905",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Study%20of%20Two%20Bedouins%2C%201905-6%2C%201996.447.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46.7 × 39.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266718",
+    "titre": "Portrait of a Lady",
+    "artiste": "Titien",
+    "annee": "1545",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20a%20Lady%20-%201954.301%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "63.5 × 51.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266902",
+    "titre": "Jupiter réprimandé par Vénus",
+    "artiste": "Abraham Janssens I",
+    "annee": "1612",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Janssens%20-%20Jupiter%20Rebuked%20by%20Venus%20-%201986.996%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "194 × 232 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266903",
+    "titre": "Stack of Wheat (Thaw, Sunset)",
+    "artiste": "Claude Monet",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Stack%20of%20Wheat%20%28Thaw%2C%20Sunset%29%20-%201983.166%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "64.4 × 92.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20266924",
+    "titre": "Terrace and Observation Deck at the Moulin de Blute-Fin, Montmartre",
+    "artiste": "Vincent van Gogh",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Terrace%20and%20Observation%20Deck%20at%20the%20Moulin%20de%20Blute-Fin%2C%20Montmartre%20-%201926.202%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "43.6 × 33 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267079",
+    "titre": "Kauterskill Clove, Catskill Mountains",
+    "artiste": "Sanford Robinson Gifford",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanford%20Robinson%20Gifford%20-%20Kauterskill%20Clove%2C%20Catskill%20Mountains%20-%201982.270%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267111",
+    "titre": "The Cloisters, San Lorenzo fuori le mura",
+    "artiste": "Christoffer Wilhelm Eckersberg",
+    "annee": "1824",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/C.W.%20Eckersberg%2C%20The%20Cloisters%2C%20San%20Lorenzo%20fuori%20le%20mura%2C%201824%2C%201986.991%2C%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "57.7 × 78.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267153",
+    "titre": "Mrs. Charles Gifford Dyer (Mary Anthony)",
+    "artiste": "Q155626 (à corriger)",
+    "annee": "1880",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20art%20inst%20singer%20sargent%20m%20dyer.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "62.2 × 43.8 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267406",
+    "titre": "Young Spartan Girls Challenging Boys",
+    "artiste": "Edgar Degas",
+    "annee": "1860",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hilaire%20Germain%20Edgar%20Degas%20-%20Young%20Spartan%20Girls%20Challenging%20Boys%20-%201961.334%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "97.4 × 140 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267435",
+    "titre": "Mother and Child",
+    "artiste": "Gari Melchers",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Art%20Institute%20of%20Chicago-0992.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "63.5 × 54.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267498",
+    "titre": "Portrait d'Alfred Sisley",
+    "artiste": "Auguste Renoir",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Alfred%20Sisley%20-%201933.453%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 54 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267500",
+    "titre": "Fruits of the Midi",
+    "artiste": "Auguste Renoir",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Fruits%20of%20the%20Midi%20-%201933.1176%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "51 × 65 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267511",
+    "titre": "Chrysanthemums",
+    "artiste": "Auguste Renoir",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Chrysanthemums%20-%201933.1173%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54.7 × 65.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267578",
+    "titre": "Femme au divan rose",
+    "artiste": "Henri Matisse",
+    "annee": "1921",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Femme%20au%20divan%20rose%2C%20par%20Henri%20Matisse.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "38 × 46 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267580",
+    "titre": "Au bord du lac",
+    "artiste": "Auguste Renoir",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Near%20the%20Lake%20-%201922.439%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "47.5 × 56.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267583",
+    "titre": "Meules, effet de neige",
+    "artiste": "Claude Monet",
+    "annee": "1890",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Stack%20of%20Wheat%20%28Snow%20Effect%2C%20Overcast%20Day%29%20-%201933.1155%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "66 × 93 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267641",
+    "titre": "Q20267641",
+    "artiste": "John Constable",
+    "annee": "1836",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Stoke-by-Nayland%20-%201922.4453%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "126 × 169 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267642",
+    "titre": "Fishing Boats with Hucksters Bargaining for Fish",
+    "artiste": "William Turner",
+    "annee": "1837",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Fishing%20Boats%20with%20Hucksters%20Bargaining%20for%20Fish%20-%201922.4472%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "174.5 × 224.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267671",
+    "titre": "Nymphéas",
+    "artiste": "Claude Monet",
+    "annee": "1906",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Water%20Lilies%20-%201906%2C%20Ryerson.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "89.9 × 94.1 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267677",
+    "titre": "The Music Lesson",
+    "artiste": "Gerard ter Borch",
+    "annee": "1670",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9raerd%20Ter%20Borch%20-%20The%20Music%20Lesson%20-%201891.1%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "63.6 × 50.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267693",
+    "titre": "Mrs. Jens Wolff",
+    "artiste": "Thomas Lawrence",
+    "annee": "1900",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Thomas%20Lawrence%20-%20Mrs.%20Jens%20Wolff%20-%201922.4461%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "128.2 × 102.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267796",
+    "titre": "Madame Paul Escudier (Louise Lefèvre)",
+    "artiste": "Q155626 (à corriger)",
+    "annee": "1882",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Madame%20Paul%20Escudier%20%28Louise%20Lefevre%29%2C%201882%2C%202007.391.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "129.5 × 91.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267840",
+    "titre": "Le ruisseau du Puits-Noir",
+    "artiste": "Gustave Courbet",
+    "annee": "1855",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20The%20Brook%20of%20Les%20Puits-Noir%20-%201933.1117%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "46.5 × 55.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267842",
+    "titre": "Mrs. Charles Deering (Marion Denison Whipple)",
+    "artiste": "Q155626 (à corriger)",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Mrs.%20Charles%20Deering%20%28Marion%20Denison%20Whipple%29%20-%209.2002%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "71.1 × 61 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267910",
+    "titre": "Vierge à l'enfant avec deux anges",
+    "artiste": "Sandro Botticelli",
+    "annee": "1490",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Virgin%20and%20Child%20with%20Two%20Angels%20-%201954.282%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267911",
+    "titre": "Seated Bather",
+    "artiste": "Auguste Renoir",
+    "annee": "1914",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Seated%20Bather%2C%201914.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81.1 × 67.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267927",
+    "titre": "Saint Catherine Delivered from the Wheel",
+    "artiste": "http://www.wikidata.org/.well-known/genid/f6f3c27811fca29c2311d3241841cde9",
+    "annee": "1387",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Saint%20Catherine%20Delivered%20from%20the%20Wheel%20-%201932.989%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "dimensions": "35.8 × 33 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267929",
+    "titre": "Farm near Duivendrecht",
+    "artiste": "Piet Mondrian",
+    "annee": "1916",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondrian%20-%20Farm%20near%20Duivendrecht%20-%202001.479%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "86.6 × 108.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20267949",
+    "titre": "The Destruction of Pharaoh's Army",
+    "artiste": "Philippe-Jacques de Loutherbourg",
+    "annee": "1792",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Jacques%20de%20Loutherbourg%2C%20II%20-%20The%20Destruction%20of%20Pharaoh%27s%20Army%20-%201991.5%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20268018",
+    "titre": "The Expulsion of Adam and Eve from Paradise",
+    "artiste": "Benjamin West",
+    "annee": "1791",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20-%20The%20Expulsion%20of%20Adam%20and%20Eve%20from%20Paradise%20-%201984.175%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "48.6 × 72.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20268022",
+    "titre": "Painting with Troika",
+    "artiste": "Vassily Kandinsky",
+    "annee": "1911",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Kandinsky%20-%20Painting%20with%20Troika%20-%201931.509%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "69.7 × 97.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20268047",
+    "titre": "Are They Thinking about the Grape? (Pensent-ils au raisin?)",
+    "artiste": "François Boucher",
+    "annee": "1747",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20Are%20They%20Thinking%20about%20the%20Grape%3F%20%28Pensent-ils%20au%20raisin%3F%29%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "808 × 685 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20268115",
+    "titre": "La Cascade",
+    "artiste": "Henri Rousseau",
+    "annee": "1910",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Waterfall%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1162 × 1502 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q20268119",
+    "titre": "Femme au piano",
+    "artiste": "Auguste Renoir",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Woman%20at%20the%20Piano%20-%201937.1025%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "93 × 74 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -7168,6 +10328,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2113773",
+    "titre": "Le Paradis terrestre",
+    "artiste": "http://www.wikidata.org/.well-known/genid/d6333807479beb98c81da9e982127684",
+    "annee": "1509",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imitator%20of%20Hieronymus%20Bosch%20-%20The%20Garden%20of%20Paradise%20-%201936.239%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "27 × 40.6 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -8089,6 +11264,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q2962671",
+    "titre": "Madame Cézanne en robe rouge",
+    "artiste": "Paul Cézanne",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Madame%20C%C3%A9zanne%20in%20a%20Yellow%20Chair%20-%201948.54%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81 × 65 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q2974978",
     "titre": "Clair de lune sur le port de Boulogne",
     "artiste": "Édouard Manet",
@@ -8112,6 +11302,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q2997933",
+    "titre": "Corrida : la mort du taureau",
+    "artiste": "Édouard Manet",
+    "annee": "1865",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Bullfight%20-%201937.1019%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "48 × 60.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -8239,6 +11444,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3171842",
+    "titre": "Musique bleue et verte",
+    "artiste": "Georgia O'Keeffe",
+    "annee": "1919",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20and%20Green%20Music%20by%20Georgia%20O%27Keeffe%2C%201921.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "58.4 × 48.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3172226",
+    "titre": "Le Bain",
+    "artiste": "Mary Cassatt",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Child%27s%20Bath%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1003 × 661 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -8497,6 +11732,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3212767",
+    "titre": "La Seine à Port-Marly, tas de sable",
+    "artiste": "Alfred Sisley",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Sisley%20-%20The%20Seine%20at%20Port-Marly%2C%20Piles%20of%20Sand%20-%201933.1177%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "54 × 65.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3213037",
     "titre": "La Table de cuisine",
     "artiste": "Paul Cézanne",
@@ -8594,6 +11844,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3221342",
+    "titre": "Le Christ en croix",
+    "artiste": "Francisco de Zurbarán",
+    "annee": "1627",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20The%20Crucifixion%20-%201954.15%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "290.3 × 165.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3226360",
     "titre": "Le Repos au bord d'un ruisseau. Lisière de bois",
     "artiste": "Alfred Sisley",
@@ -8673,6 +11938,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3236083",
+    "titre": "Bordighera",
+    "artiste": "Claude Monet",
+    "annee": "1884",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bordighera.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "25.5 × 32 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -8791,6 +12071,36 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3399451",
+    "titre": "Portrait de Pablo Picasso",
+    "artiste": "Juan Gris",
+    "annee": "1912",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Gris%20-%20Portrait%20of%20Pablo%20Picasso%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "933 × 744 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3399482",
+    "titre": "Portrait de madame Pastoret",
+    "artiste": "Jacques-Louis David",
+    "annee": "1791",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Louis%20David%20-%20Madame%20de%20Pastoret%20and%20Her%20Son%20-%201967.228%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "130 × 97 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3399490",
     "titre": "Portrait du comte Antoine Français de Nantes",
     "artiste": "Jacques-Louis David",
@@ -8899,6 +12209,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3607521",
+    "titre": "Au Moulin-Rouge",
+    "artiste": "Henri de Toulouse-Lautrec",
+    "annee": "1892",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20At%20the%20Moulin%20Rouge%20-%201928.610%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1230 × 1410 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3607561",
+    "titre": "Au cirque Fernando, l'écuyère",
+    "artiste": "Henri de Toulouse-Lautrec",
+    "annee": "1888",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Equestrienne%20%28At%20the%20Cirque%20Fernando%29%20-%201925.523%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "98 × 161 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -9102,6 +12442,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3682520",
+    "titre": "Déjeuner au bord de la rivière",
+    "artiste": "Auguste Renoir",
+    "annee": "1875",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Lunch%20at%20the%20Restaurant%20Fournaise%20%28The%20Rowers%27%20Lunch%29%20-%201922.437%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "55 × 65.9 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3694813",
     "titre": "Cour de ferme à Auvers",
     "artiste": "Paul Cézanne",
@@ -9125,6 +12480,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3698207",
+    "titre": "La Crucifixion blanche",
+    "artiste": "Marc Chagall",
+    "annee": "1938",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crocifissione%20Bianca.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "154.623 × 140 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -9189,6 +12559,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3765980",
+    "titre": "Mahana no atua",
+    "artiste": "Paul Gauguin",
+    "annee": "1894",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Mahana%20no%20atua%20%28Day%20of%20the%20God%29%20-%201926.198%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "68 × 91 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q377810",
     "titre": "L'Adoration du Veau d'or",
     "artiste": "Nicolas Poussin",
@@ -9212,6 +12597,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3806044",
+    "titre": "Jacques et Berthe Lipchitz",
+    "artiste": "Amedeo Modigliani",
+    "annee": "1916",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20-%20Jacques%20and%20Berthe%20Lipchitz%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "81.3 × 54.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -9610,6 +13010,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3842248",
+    "titre": "Madame Pompadour",
+    "artiste": "Amedeo Modigliani",
+    "annee": "1915",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20004.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "61 × 50 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3842434",
     "titre": "Vierge à l'Enfant avec trois saints",
     "artiste": "Andrea Mantegna",
@@ -9633,6 +13048,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "musée Jacquemart-André",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3842518",
+    "titre": "Vierge à l'Enfant avec saint Jean-Baptiste",
+    "artiste": "Le Corrège",
+    "annee": "1515",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20-%20Virgin%20and%20Child%20with%20the%20Young%20Saint%20John%20the%20Baptist%20-%201965.688%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "64.2 × 50.2 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -9794,6 +13224,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3874376",
+    "titre": "Chez la modiste",
+    "artiste": "Edgar Degas",
+    "annee": "1879",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Millinery%20Shop%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "100 × 110.7 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -10371,6 +13816,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q3944478",
+    "titre": "La Sainte Famille aux trois lièvres",
+    "artiste": "Albrecht Dürer",
+    "annee": "1497",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Holy%20Family%20with%20the%20Three%20Hares%20-%201922.81%20-%20Cleveland%20Museum%20of%20Art.jpg",
+    "technique": "papier",
+    "dimensions": "39.5 × 28.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q3955081",
     "titre": "Sémiramis construisant Babylone",
     "artiste": "Edgar Degas",
@@ -10411,6 +13871,36 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3956440",
+    "titre": "La Corbeille de pommes",
+    "artiste": "Paul Cézanne",
+    "annee": "1893",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Basket%20of%20Apples%20-%201926.252%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "65 × 80 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q3966658",
+    "titre": "La Plage de Sainte-Adresse",
+    "artiste": "Claude Monet",
+    "annee": "1867",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Beach%20at%20Sainte-Adresse%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "758 × 1025 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -10590,6 +14080,20 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q4274886",
+    "titre": "Scène de cuisine",
+    "artiste": "Diego Vélasquez",
+    "annee": "1618",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20Kitchen%20Scene%20-%201935.380%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q428985",
     "titre": "Un coin de table",
     "artiste": "Henri Fantin-Latour",
@@ -10684,6 +14188,35 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q4556646",
+    "titre": "Saint Jean Baptiste dans le désert",
+    "artiste": "Diego Vélasquez",
+    "annee": "1618",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20Saint%20John%20the%20Baptist%20in%20the%20Wilderness%20-%201957.563%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q464782",
+    "titre": "American Gothic",
+    "artiste": "Grant Wood",
+    "annee": "1930",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant%20Wood%20-%20American%20Gothic%20%281930%29.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "78 × 65.3 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -10972,6 +14505,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q5795925",
+    "titre": "Enfant montant un mouton",
+    "artiste": "Francisco de Goya",
+    "annee": "1786",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Jos%C3%A9%20de%20Goya%20y%20Lucientes%20-%20Boy%20on%20a%20Ram%20-%201979.479%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1272 × 1121 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q582428",
     "titre": "Héraklès archer",
     "artiste": "Q314350 (à corriger)",
@@ -11159,6 +14707,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q630121",
+    "titre": "Les Deux Sœurs",
+    "artiste": "Auguste Renoir",
+    "annee": "1881",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Two%20Sisters%20%28On%20the%20Terrace%29%20-%201933.455%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "1005 × 810 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q636001",
     "titre": "Les Romains de la décadence",
     "artiste": "Thomas Couture",
@@ -11181,6 +14744,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q6445802",
+    "titre": "Hercule et l'Hydre de Lerne",
+    "artiste": "Gustave Moreau",
+    "annee": "1876",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hercules%20and%20the%20Lernaean%20Hydra%2C%201875-1876%2C%20by%20Gustave%20Moreau%20-%20Art%20Institute%20of%20Chicago%20-%20DSC09590.JPG",
+    "technique": "peinture à l'huile",
+    "dimensions": "179.3 × 154 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -11316,6 +14894,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q7723379",
+    "titre": "Promenade sur la falaise, Pourville",
+    "artiste": "Claude Monet",
+    "annee": "1882",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Cliff%20Walk%20at%20Pourville%20-%20Google%20Art%20Project.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "665 × 823 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q775407",
     "titre": "Le Balcon",
     "artiste": "Édouard Manet",
@@ -11339,6 +14932,20 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q787883",
+    "titre": "Fontaine des Grands Lacs",
+    "artiste": "Lorado Taft",
+    "annee": "1907",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fountain%20Of%20The%20Great%20Lakes.jpg",
+    "technique": "bronze",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -11383,6 +14990,21 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "National Gallery",
     "ville": "Londres",
     "pays": "Royaume-Uni",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q83872",
+    "titre": "Nighthawks",
+    "artiste": "Edward Hopper",
+    "annee": "1942",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nighthawks%20by%20Edward%20Hopper%201942.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "84.1 × 152.4 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -11458,6 +15080,21 @@ export const ARTWORKS: Artwork[] = [
     "statut": "brouillon"
   },
   {
+    "id": "Q9162657",
+    "titre": "Autoportrait",
+    "artiste": "Vincent van Gogh",
+    "annee": "1887",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Self-Portrait%20-%201954.326%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "41 × 32.5 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
     "id": "Q9162690",
     "titre": "Portrait de l'artiste au Christ jaune",
     "artiste": "Paul Gauguin",
@@ -11527,6 +15164,37 @@ export const ARTWORKS: Artwork[] = [
     "lieuConservation": "Musée d'Orsay",
     "ville": "Paris",
     "pays": "France",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q9355684",
+    "titre": "Tarquin et Lucrèce",
+    "artiste": "Le Tintoret",
+    "annee": "1579",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Tarquin%20and%20Lucretia%20-%201949.203%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "157 × 146 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
+    "mouvement": "Non déterminé",
+    "themes": [],
+    "contenuSensible": true,
+    "statut": "brouillon"
+  },
+  {
+    "id": "Q942276",
+    "titre": "Les Courses à Longchamp",
+    "artiste": "Édouard Manet",
+    "annee": "1866",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20The%20Races%20at%20Longchamp%20-%201922.424%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "technique": "peinture à l'huile",
+    "dimensions": "44 × 84 cm",
+    "lieuConservation": "Art Institute of Chicago",
+    "ville": "Chicago",
+    "pays": "États-Unis",
     "mouvement": "Non déterminé",
     "themes": [],
     "statut": "brouillon"
@@ -11626,35 +15294,43 @@ export const FACETTES = {
   "artistes": [
     {
       "valeur": "Claude Monet",
-      "nombre": 43
+      "nombre": 51
     },
     {
       "valeur": "Auguste Renoir",
-      "nombre": 35
+      "nombre": 43
     },
     {
       "valeur": "Edgar Degas",
-      "nombre": 35
+      "nombre": 38
     },
     {
       "valeur": "Paul Cézanne",
-      "nombre": 33
+      "nombre": 35
     },
     {
       "valeur": "Édouard Manet",
-      "nombre": 28
+      "nombre": 30
     },
     {
       "valeur": "Georges Seurat",
-      "nombre": 18
-    },
-    {
-      "valeur": "Alfred Sisley",
-      "nombre": 16
+      "nombre": 19
     },
     {
       "valeur": "Vincent van Gogh",
+      "nombre": 19
+    },
+    {
+      "valeur": "Alfred Sisley",
+      "nombre": 18
+    },
+    {
+      "valeur": "Albrecht Dürer",
       "nombre": 15
+    },
+    {
+      "valeur": "Paul Gauguin",
+      "nombre": 14
     },
     {
       "valeur": "Pierre Bonnard",
@@ -11662,38 +15338,42 @@ export const FACETTES = {
     },
     {
       "valeur": "Titien",
-      "nombre": 12
+      "nombre": 13
     },
     {
       "valeur": "Camille Pissarro",
+      "nombre": 13
+    },
+    {
+      "valeur": "Frans Hals",
       "nombre": 12
     },
     {
-      "valeur": "Paul Gauguin",
-      "nombre": 11
-    },
-    {
       "valeur": "Édouard Vuillard",
-      "nombre": 11
-    },
-    {
-      "valeur": "Gustave Courbet",
-      "nombre": 10
+      "nombre": 12
     },
     {
       "valeur": "Odilon Redon",
-      "nombre": 10
+      "nombre": 12
+    },
+    {
+      "valeur": "Gustave Courbet",
+      "nombre": 11
     },
     {
       "valeur": "Giovanni Battista Moroni",
       "nombre": 10
     },
     {
-      "valeur": "Frans Hals",
+      "valeur": "Henri Fantin-Latour",
       "nombre": 8
     },
     {
-      "valeur": "Henri Fantin-Latour",
+      "valeur": "William Turner",
+      "nombre": 8
+    },
+    {
+      "valeur": "Camille Corot",
       "nombre": 8
     },
     {
@@ -11701,7 +15381,31 @@ export const FACETTES = {
       "nombre": 8
     },
     {
+      "valeur": "Pierre Paul Rubens",
+      "nombre": 7
+    },
+    {
+      "valeur": "Diego Vélasquez",
+      "nombre": 7
+    },
+    {
+      "valeur": "Rembrandt",
+      "nombre": 7
+    },
+    {
+      "valeur": "Henri de Toulouse-Lautrec",
+      "nombre": 7
+    },
+    {
       "valeur": "Raphaël",
+      "nombre": 7
+    },
+    {
+      "valeur": "Émile Bernard",
+      "nombre": 7
+    },
+    {
+      "valeur": "Pierre Puvis de Chavannes",
       "nombre": 7
     },
     {
@@ -11709,11 +15413,19 @@ export const FACETTES = {
       "nombre": 7
     },
     {
-      "valeur": "William Turner",
+      "valeur": "William Bouguereau",
       "nombre": 6
     },
     {
-      "valeur": "Émile Bernard",
+      "valeur": "Sandro Botticelli",
+      "nombre": 6
+    },
+    {
+      "valeur": "Frédéric Bazille",
+      "nombre": 6
+    },
+    {
+      "valeur": "Q155626 (à corriger)",
       "nombre": 6
     },
     {
@@ -11721,11 +15433,11 @@ export const FACETTES = {
       "nombre": 6
     },
     {
-      "valeur": "John Everett Millais",
-      "nombre": 5
+      "valeur": "John Constable",
+      "nombre": 6
     },
     {
-      "valeur": "Diego Vélasquez",
+      "valeur": "John Everett Millais",
       "nombre": 5
     },
     {
@@ -11733,23 +15445,11 @@ export const FACETTES = {
       "nombre": 5
     },
     {
-      "valeur": "Rembrandt",
-      "nombre": 5
-    },
-    {
-      "valeur": "Sandro Botticelli",
-      "nombre": 5
-    },
-    {
       "valeur": "Le Pérugin",
       "nombre": 5
     },
     {
-      "valeur": "Henri de Toulouse-Lautrec",
-      "nombre": 5
-    },
-    {
-      "valeur": "Frédéric Bazille",
+      "valeur": "Jean-Léon Gérôme",
       "nombre": 5
     },
     {
@@ -11757,11 +15457,27 @@ export const FACETTES = {
       "nombre": 5
     },
     {
-      "valeur": "William Bouguereau",
+      "valeur": "Jean-François Millet",
+      "nombre": 5
+    },
+    {
+      "valeur": "Gustave Caillebotte",
+      "nombre": 5
+    },
+    {
+      "valeur": "Q123740 (à corriger)",
       "nombre": 5
     },
     {
       "valeur": "Ernest Hébert",
+      "nombre": 5
+    },
+    {
+      "valeur": "Léon Bonnat",
+      "nombre": 5
+    },
+    {
+      "valeur": "Henri Matisse",
       "nombre": 5
     },
     {
@@ -11773,23 +15489,11 @@ export const FACETTES = {
       "nombre": 5
     },
     {
-      "valeur": "Jean-Léon Gérôme",
+      "valeur": "Francisco de Goya",
       "nombre": 4
     },
     {
-      "valeur": "Jean-François Millet",
-      "nombre": 4
-    },
-    {
-      "valeur": "Gustave Caillebotte",
-      "nombre": 4
-    },
-    {
-      "valeur": "Q123740 (à corriger)",
-      "nombre": 4
-    },
-    {
-      "valeur": "Léon Bonnat",
+      "valeur": "Jean-Charles Cazin",
       "nombre": 4
     },
     {
@@ -11805,15 +15509,11 @@ export const FACETTES = {
       "nombre": 4
     },
     {
-      "valeur": "Pierre Puvis de Chavannes",
+      "valeur": "Vassily Kandinsky",
       "nombre": 4
     },
     {
-      "valeur": "Pierre Paul Rubens",
-      "nombre": 4
-    },
-    {
-      "valeur": "John Constable",
+      "valeur": "Henri Rousseau",
       "nombre": 4
     },
     {
@@ -11821,7 +15521,15 @@ export const FACETTES = {
       "nombre": 3
     },
     {
+      "valeur": "Le Greco",
+      "nombre": 3
+    },
+    {
       "valeur": "Hans Holbein le Jeune",
+      "nombre": 3
+    },
+    {
+      "valeur": "Jean-Auguste-Dominique Ingres",
       "nombre": 3
     },
     {
@@ -11829,7 +15537,23 @@ export const FACETTES = {
       "nombre": 3
     },
     {
+      "valeur": "Gustave Moreau",
+      "nombre": 3
+    },
+    {
+      "valeur": "Charles-François Daubigny",
+      "nombre": 3
+    },
+    {
       "valeur": "Jean Siméon Chardin",
+      "nombre": 3
+    },
+    {
+      "valeur": "Armand Guillaumin",
+      "nombre": 3
+    },
+    {
+      "valeur": "Ernest Meissonier",
       "nombre": 3
     },
     {
@@ -11841,11 +15565,19 @@ export const FACETTES = {
       "nombre": 3
     },
     {
+      "valeur": "Eugène Delacroix",
+      "nombre": 3
+    },
+    {
       "valeur": "Jean-Baptiste Carpeaux",
       "nombre": 3
     },
     {
-      "valeur": "Camille Corot",
+      "valeur": "Albert André",
+      "nombre": 3
+    },
+    {
+      "valeur": "Anders Zorn",
       "nombre": 3
     },
     {
@@ -11861,7 +15593,19 @@ export const FACETTES = {
       "nombre": 3
     },
     {
+      "valeur": "Le Tintoret",
+      "nombre": 3
+    },
+    {
       "valeur": "Lorenzo Lotto",
+      "nombre": 3
+    },
+    {
+      "valeur": "Thomas Lawrence",
+      "nombre": 3
+    },
+    {
+      "valeur": "Juan Gris",
       "nombre": 3
     },
     {
@@ -11877,15 +15621,7 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Jean-Auguste-Dominique Ingres",
-      "nombre": 2
-    },
-    {
       "valeur": "Annibale Carracci",
-      "nombre": 2
-    },
-    {
-      "valeur": "Gustave Moreau",
       "nombre": 2
     },
     {
@@ -11897,11 +15633,7 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Charles-François Daubigny",
-      "nombre": 2
-    },
-    {
-      "valeur": "Armand Guillaumin",
+      "valeur": "Rosa Bonheur",
       "nombre": 2
     },
     {
@@ -11909,19 +15641,7 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Ernest Meissonier",
-      "nombre": 2
-    },
-    {
       "valeur": "Arthur Hughes",
-      "nombre": 2
-    },
-    {
-      "valeur": "Q155626 (à corriger)",
-      "nombre": 2
-    },
-    {
-      "valeur": "Francisco de Goya",
       "nombre": 2
     },
     {
@@ -11937,10 +15657,6 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Albert André",
-      "nombre": 2
-    },
-    {
       "valeur": "Marcel Baschet",
       "nombre": 2
     },
@@ -11953,7 +15669,7 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Henri Matisse",
+      "valeur": "József Rippl-Rónai",
       "nombre": 2
     },
     {
@@ -11973,6 +15689,10 @@ export const FACETTES = {
       "nombre": 2
     },
     {
+      "valeur": "Eugène Fromentin",
+      "nombre": 2
+    },
+    {
       "valeur": "Pascal Dagnan-Bouveret",
       "nombre": 2
     },
@@ -11985,6 +15705,10 @@ export const FACETTES = {
       "nombre": 2
     },
     {
+      "valeur": "Mary Cassatt",
+      "nombre": 2
+    },
+    {
       "valeur": "Aristide Maillol",
       "nombre": 2
     },
@@ -11994,6 +15718,10 @@ export const FACETTES = {
     },
     {
       "valeur": "Raimundo de Madrazo y Garreta",
+      "nombre": 2
+    },
+    {
+      "valeur": "Léon Augustin Lhermitte",
       "nombre": 2
     },
     {
@@ -12021,6 +15749,14 @@ export const FACETTES = {
       "nombre": 2
     },
     {
+      "valeur": "Caspar David Friedrich",
+      "nombre": 2
+    },
+    {
+      "valeur": "Gerard ter Borch",
+      "nombre": 2
+    },
+    {
       "valeur": "Altobello Melone",
       "nombre": 2
     },
@@ -12029,7 +15765,15 @@ export const FACETTES = {
       "nombre": 2
     },
     {
+      "valeur": "Benjamin West",
+      "nombre": 2
+    },
+    {
       "valeur": "Gaudenzio Ferrari",
+      "nombre": 2
+    },
+    {
+      "valeur": "Giovanni Gerolamo Savoldo",
       "nombre": 2
     },
     {
@@ -12049,7 +15793,39 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Le Tintoret",
+      "valeur": "Piet Mondrian",
+      "nombre": 2
+    },
+    {
+      "valeur": "Thomas Cole",
+      "nombre": 2
+    },
+    {
+      "valeur": "Jean-François Raffaëlli",
+      "nombre": 2
+    },
+    {
+      "valeur": "Alessandro Magnasco",
+      "nombre": 2
+    },
+    {
+      "valeur": "Albert Marquet",
+      "nombre": 2
+    },
+    {
+      "valeur": "Adolphe Monticelli",
+      "nombre": 2
+    },
+    {
+      "valeur": "Honoré Daumier",
+      "nombre": 2
+    },
+    {
+      "valeur": "Francisco de Zurbarán",
+      "nombre": 2
+    },
+    {
+      "valeur": "George Morland",
       "nombre": 2
     },
     {
@@ -12077,7 +15853,11 @@ export const FACETTES = {
       "nombre": 2
     },
     {
-      "valeur": "Henri Rousseau",
+      "valeur": "Jacques-Louis David",
+      "nombre": 2
+    },
+    {
+      "valeur": "Amedeo Modigliani",
       "nombre": 2
     },
     {
@@ -12090,6 +15870,10 @@ export const FACETTES = {
     },
     {
       "valeur": "Piero Pollaiuolo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Amadeo de Souza-Cardoso",
       "nombre": 1
     },
     {
@@ -12169,10 +15953,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Rosa Bonheur",
-      "nombre": 1
-    },
-    {
       "valeur": "Bronzino",
       "nombre": 1
     },
@@ -12193,11 +15973,19 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Shaun Greenhalgh",
+      "nombre": 1
+    },
+    {
       "valeur": "William Maw Egley",
       "nombre": 1
     },
     {
       "valeur": "Pontormo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Hendrick ter Brugghen",
       "nombre": 1
     },
     {
@@ -12225,14 +16013,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Jean-Charles Cazin",
-      "nombre": 1
-    },
-    {
-      "valeur": "Anders Zorn",
-      "nombre": 1
-    },
-    {
       "valeur": "Georges Lemmen",
       "nombre": 1
     },
@@ -12246,10 +16026,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Louis-Maurice Boutet de Monvel",
-      "nombre": 1
-    },
-    {
-      "valeur": "József Rippl-Rónai",
       "nombre": 1
     },
     {
@@ -12325,14 +16101,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Eugène Fromentin",
-      "nombre": 1
-    },
-    {
-      "valeur": "Eugène Delacroix",
-      "nombre": 1
-    },
-    {
       "valeur": "Théophile Alexandre Steinlen",
       "nombre": 1
     },
@@ -12382,10 +16150,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Edmond Aman-Jean",
-      "nombre": 1
-    },
-    {
-      "valeur": "Mary Cassatt",
       "nombre": 1
     },
     {
@@ -12449,10 +16213,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Léon Augustin Lhermitte",
-      "nombre": 1
-    },
-    {
       "valeur": "Étienne Moreau-Nélaton",
       "nombre": 1
     },
@@ -12497,7 +16257,19 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Jules Lefebvre",
+      "nombre": 1
+    },
+    {
+      "valeur": "Louise Moillon",
+      "nombre": 1
+    },
+    {
       "valeur": "http://www.wikidata.org/.well-known/genid/ffbef093f41550ffa45b30c5b91a3156",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jan Steen",
       "nombre": 1
     },
     {
@@ -12509,15 +16281,11 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Caspar David Friedrich",
+      "valeur": "Maître du Bigallo",
       "nombre": 1
     },
     {
       "valeur": "Gerrit Lundens",
-      "nombre": 1
-    },
-    {
-      "valeur": "Gerard ter Borch",
       "nombre": 1
     },
     {
@@ -12565,10 +16333,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Benjamin West",
-      "nombre": 1
-    },
-    {
       "valeur": "Bernardino da Asola",
       "nombre": 1
     },
@@ -12586,10 +16350,6 @@ export const FACETTES = {
     },
     {
       "valeur": "George Frederic Watts",
-      "nombre": 1
-    },
-    {
-      "valeur": "Giovanni Gerolamo Savoldo",
       "nombre": 1
     },
     {
@@ -12621,7 +16381,19 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Edvard Munch",
+      "nombre": 1
+    },
+    {
+      "valeur": "Robert Delaunay",
+      "nombre": 1
+    },
+    {
       "valeur": "Thomas Jones",
+      "nombre": 1
+    },
+    {
+      "valeur": "Judith Leyster",
       "nombre": 1
     },
     {
@@ -12629,11 +16401,335 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Bernardo Bellotto",
+      "nombre": 1
+    },
+    {
+      "valeur": "Albert Bierstadt",
+      "nombre": 1
+    },
+    {
       "valeur": "William Blake",
       "nombre": 1
     },
     {
+      "valeur": "Cecco del Caravaggio",
+      "nombre": 1
+    },
+    {
+      "valeur": "John Simpson",
+      "nombre": 1
+    },
+    {
+      "valeur": "Frederic Edwin Church",
+      "nombre": 1
+    },
+    {
+      "valeur": "Johan Barthold Jongkind",
+      "nombre": 1
+    },
+    {
+      "valeur": "François Gérard",
+      "nombre": 1
+    },
+    {
+      "valeur": "Alessandro Longhi",
+      "nombre": 1
+    },
+    {
+      "valeur": "Félix Ziem",
+      "nombre": 1
+    },
+    {
+      "valeur": "Harald Sohlberg",
+      "nombre": 1
+    },
+    {
+      "valeur": "Charles Müller",
+      "nombre": 1
+    },
+    {
+      "valeur": "Marco Marcola",
+      "nombre": 1
+    },
+    {
+      "valeur": "Karel van der Pluym",
+      "nombre": 1
+    },
+    {
+      "valeur": "Johann Friedrich August Tischbein",
+      "nombre": 1
+    },
+    {
+      "valeur": "Cornelis Huysmans",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/9515f43906a97bf96f9ddc8fa784b8b9",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/b943d8a486bc04897694823ea4783f13",
+      "nombre": 1
+    },
+    {
+      "valeur": "Charles Cottet",
+      "nombre": 1
+    },
+    {
+      "valeur": "Augustin Théodule Ribot",
+      "nombre": 1
+    },
+    {
+      "valeur": "James Grellier Forbes",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pier Francesco Mola",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giulio Carpioni",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/e51fb98d58f177be7b0eedec52f53278",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Carrière",
+      "nombre": 1
+    },
+    {
+      "valeur": "Andrea Vaccaro",
+      "nombre": 1
+    },
+    {
+      "valeur": "Frans II Francken",
+      "nombre": 1
+    },
+    {
+      "valeur": "Mihály Munkácsy",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/7ef6d18b7c53ac8e85e0018edd446ad5",
+      "nombre": 1
+    },
+    {
+      "valeur": "Émile van Marcke",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/6435daa6057912899916d2e545fd6013",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/177e56ad53ced73202f7fb0fdf634616",
+      "nombre": 1
+    },
+    {
+      "valeur": "Piet Verhaert",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jules-Élie Delaunay",
+      "nombre": 1
+    },
+    {
+      "valeur": "Franz Ludwig Catel",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giovanni Battista Piazzetta",
+      "nombre": 1
+    },
+    {
+      "valeur": "Pietro Longhi",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/e1b9df49e8466041ebda8b0a6de9964d",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/f82d019e3ca4e068faa879371db5e1c2",
+      "nombre": 1
+    },
+    {
+      "valeur": "Maurice Utrillo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giandomenico Tiepolo",
+      "nombre": 1
+    },
+    {
+      "valeur": "Caspar Netscher",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giovanni Boldini",
+      "nombre": 1
+    },
+    {
+      "valeur": "Francesco Guardi",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/94045d79ad9b869dbb128150690b436b",
+      "nombre": 1
+    },
+    {
+      "valeur": "Giovanni Paolo Panini",
+      "nombre": 1
+    },
+    {
+      "valeur": "David Teniers le Jeune",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/e1e078de209e4582b39ac565cfd1b181",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/1b9ff3828a7ec6110776d46cf307dffd",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/f0aa8fee9560f3e491f546783d8131e9",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/51c550440dab93e90b716b99fc0ba690",
+      "nombre": 1
+    },
+    {
+      "valeur": "Jozef Israëls",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/8b9fd13280492ff0253ccd3c9a59f906",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/c9325fd0e7e1964a8785d78f2b3329e9",
+      "nombre": 1
+    },
+    {
+      "valeur": "Antoine Wiertz",
+      "nombre": 1
+    },
+    {
+      "valeur": "Adriaan de Lelie",
+      "nombre": 1
+    },
+    {
+      "valeur": "Evert Pieters",
+      "nombre": 1
+    },
+    {
+      "valeur": "Cesare Augusto Detti",
+      "nombre": 1
+    },
+    {
+      "valeur": "Francesco Solimena",
+      "nombre": 1
+    },
+    {
+      "valeur": "Luigi Loir",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/ab4ef20f4fd69dfba11d77aa4e9e209a",
+      "nombre": 1
+    },
+    {
+      "valeur": "Nicolaes Berchem",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/70052771c77c79a0d23d5f9b21da7c1f",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/9d7c5791eadfedec7910ce6ee8fb81ef",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/4e2f0ad3abd955a8ce27619951e0c244",
+      "nombre": 1
+    },
+    {
+      "valeur": "Denis Calvaert",
+      "nombre": 1
+    },
+    {
+      "valeur": "Eugène Bléry",
+      "nombre": 1
+    },
+    {
+      "valeur": "Édouard Béliard",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/fd90bf654a8bd9e9ae8e7e5d3e45af1b",
+      "nombre": 1
+    },
+    {
+      "valeur": "Maxime Maufra",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/1c27a0e4ee6ebabb2d82f2eb668020a2",
+      "nombre": 1
+    },
+    {
+      "valeur": "Martín Rico",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/644be3eb4a9d7f65acb6f028cadbd93f",
+      "nombre": 1
+    },
+    {
+      "valeur": "Henry Benbridge",
+      "nombre": 1
+    },
+    {
+      "valeur": "Abraham Janssens I",
+      "nombre": 1
+    },
+    {
+      "valeur": "Sanford Robinson Gifford",
+      "nombre": 1
+    },
+    {
+      "valeur": "Christoffer Wilhelm Eckersberg",
+      "nombre": 1
+    },
+    {
+      "valeur": "Gari Melchers",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/f6f3c27811fca29c2311d3241841cde9",
+      "nombre": 1
+    },
+    {
+      "valeur": "Philippe-Jacques de Loutherbourg",
+      "nombre": 1
+    },
+    {
+      "valeur": "François Boucher",
+      "nombre": 1
+    },
+    {
       "valeur": "Jacob van Ruisdael",
+      "nombre": 1
+    },
+    {
+      "valeur": "http://www.wikidata.org/.well-known/genid/d6333807479beb98c81da9e982127684",
       "nombre": 1
     },
     {
@@ -12646,10 +16742,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Léonard de Vinci",
-      "nombre": 1
-    },
-    {
-      "valeur": "Le Greco",
       "nombre": 1
     },
     {
@@ -12685,6 +16777,10 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Georgia O'Keeffe",
+      "nombre": 1
+    },
+    {
       "valeur": "Louis-Ernest Barrias",
       "nombre": 1
     },
@@ -12709,15 +16805,19 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Jacques-Louis David",
-      "nombre": 1
-    },
-    {
       "valeur": "Auguste Rodin",
       "nombre": 1
     },
     {
       "valeur": "Masaccio",
+      "nombre": 1
+    },
+    {
+      "valeur": "Marc Chagall",
+      "nombre": 1
+    },
+    {
+      "valeur": "Le Corrège",
       "nombre": 1
     },
     {
@@ -12757,6 +16857,10 @@ export const FACETTES = {
       "nombre": 1
     },
     {
+      "valeur": "Grant Wood",
+      "nombre": 1
+    },
+    {
       "valeur": "Edwin Landseer",
       "nombre": 1
     },
@@ -12770,10 +16874,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Cornelis Visscher",
-      "nombre": 1
-    },
-    {
-      "valeur": "Honoré Daumier",
       "nombre": 1
     },
     {
@@ -12801,7 +16901,11 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "Vassily Kandinsky",
+      "valeur": "Lorado Taft",
+      "nombre": 1
+    },
+    {
+      "valeur": "Edward Hopper",
       "nombre": 1
     },
     {
@@ -12816,6 +16920,10 @@ export const FACETTES = {
     },
     {
       "valeur": "National Gallery",
+      "nombre": 250
+    },
+    {
+      "valeur": "Art Institute of Chicago",
       "nombre": 250
     },
     {
@@ -12834,38 +16942,42 @@ export const FACETTES = {
   "mouvements": [
     {
       "valeur": "Non déterminé",
-      "nombre": 807
+      "nombre": 1057
     }
   ],
   "genres": [],
   "epoques": [
     {
       "valeur": "XIXe siècle",
-      "nombre": 483
+      "nombre": 609
     },
     {
       "valeur": "XVIe siècle",
-      "nombre": 107
+      "nombre": 126
     },
     {
       "valeur": "XXe siècle",
-      "nombre": 71
-    },
-    {
-      "valeur": "XVe siècle",
-      "nombre": 52
+      "nombre": 106
     },
     {
       "valeur": "XVIIe siècle",
-      "nombre": 51
+      "nombre": 89
+    },
+    {
+      "valeur": "XVe siècle",
+      "nombre": 60
     },
     {
       "valeur": "XVIIIe siècle",
-      "nombre": 25
+      "nombre": 46
     },
     {
       "valeur": "XIVe siècle",
-      "nombre": 2
+      "nombre": 3
+    },
+    {
+      "valeur": "XIIIe siècle",
+      "nombre": 1
     },
     {
       "valeur": "XXIe siècle",

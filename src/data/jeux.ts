@@ -63,7 +63,7 @@ export const JEUX: JeuDef[] = [
     titre: "Remettez-les dans l'ordre",
     description: "Classez ces œuvres dans l'ordre chronologique.",
     categorie: 'memoire',
-    disponible: false,
+    disponible: true,
   },
   {
     id: 'quel-mouvement',

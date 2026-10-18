@@ -1,0 +1,22 @@
+{
+  "champs": [
+    { "nom": "id", "type": "slug", "obligatoire": true, "source": "systeme" },
+    { "nom": "titre", "type": "texte", "obligatoire": true, "source": "collecte" },
+    { "nom": "sousTitre", "type": "texte", "obligatoire": false, "source": "collecte" },
+    { "nom": "museeId", "type": "reference", "registre": "musees", "obligatoire": true, "source": "collecte" },
+    { "nom": "dateDebut", "type": "date", "obligatoire": true, "source": "collecte" },
+    { "nom": "dateFin", "type": "date", "obligatoire": true, "source": "collecte" },
+    { "nom": "description", "type": "texte", "obligatoire": true, "source": "collecte" },
+    { "nom": "tarifs", "type": "texte", "obligatoire": false, "source": "collecte" },
+    { "nom": "duree", "type": "texte", "obligatoire": false, "source": "collecte" },
+    { "nom": "url", "type": "url_musee", "obligatoire": true, "source": "collecte" },
+    { "nom": "imageUrl", "type": "url", "obligatoire": true, "source": "collecte" },
+    { "nom": "sources", "type": "liste_texte", "obligatoire": false, "source": "collecte" },
+    { "nom": "dateReleve", "type": "date", "obligatoire": true, "source": "systeme" },
+    { "nom": "type", "type": "vocabulaire", "vocabulaire": "types_exposition", "obligatoire": true, "source": "curation" },
+    { "nom": "epoques", "type": "vocabulaire_liste", "vocabulaire": "epoques", "obligatoire": false, "source": "curation" },
+    { "nom": "mouvements", "type": "vocabulaire_liste", "vocabulaire": "mouvements", "obligatoire": false, "source": "curation" },
+    { "nom": "artistes", "type": "liste_texte", "obligatoire": false, "source": "curation" },
+    { "nom": "oeuvresLieesIds", "type": "liste_texte", "obligatoire": false, "source": "curation" }
+  ]
+}

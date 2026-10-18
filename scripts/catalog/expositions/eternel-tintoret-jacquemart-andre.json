@@ -1,0 +1,28 @@
+{
+  "id": "eternel-tintoret-jacquemart-andre",
+  "titre": "Éternel Tintoret",
+  "museeId": "jacquemart-andre",
+  "dateDebut": "2026-09-11",
+  "dateFin": "2027-01-24",
+  "description": "Cette exposition parisienne propose un panorama de la carrière du peintre vénitien Jacopo Robusti, dit Tintoret, présenté sous cette forme pour la première fois en France. Une quarantaine de peintures et de dessins, venus de collections publiques et privées, sont réunis dans un parcours thématique : grands sujets religieux, figures mythologiques, portraits et études graphiques. Le propos se termine sur la postérité de l'artiste dans la peinture française du XIXe siècle, où Manet et Cézanne ont reconnu un précurseur. L'autoportrait du Louvre est placé près de la copie qu'en a réalisée Manet.",
+  "tarifs": "Plein tarif : 19 € · Senior : 18 € · Jeunes (7-18 ans) : 10 €",
+  "duree": "1h00 à 1h15 (visite de groupe)",
+  "url": "https://www.musee-jacquemart-andre.com/fr/eternel-tintoret",
+  "imageUrl": "https://apollo-magazine.com/wp-content/uploads/2026/09/Tintoretto-Self-Portrait-c.-1588-oil-on-canvas-63-x-52-cm-Paris-Musee-du-Louvre-Department-of-Paintings-Credit-photo-_-%C2%A9-GrandPalaisRmn-musee-du-Louvre-_-Jean-Gilles-Berizzi-copy.jpg?w=790",
+  "sources": [
+    "https://www.musee-jacquemart-andre.com/fr/tickets/6a280a225308177b77141dd9"
+  ],
+  "dateReleve": "2026-10-18",
+  "type": "Monographique",
+  "epoques": [
+    "XVIe siècle",
+    "XIXe siècle"
+  ],
+  "mouvements": [
+    "Renaissance",
+    "Maniérisme"
+  ],
+  "artistes": [
+    "Tintoret"
+  ]
+}

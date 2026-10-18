@@ -1,27 +1,70 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { useNavigation } from '@react-navigation/native';
-import { EXPOSITIONS } from '../data/expositions';
+import { RouteProp, useNavigation, useRoute } from '@react-navigation/native';
+import { EXPOSITIONS } from '../data/expositions.generated';
 import { Exposition, StatutExposition } from '../types/exposition';
 import { ExpositionCard } from '../components/ExpositionCard';
 import { ExpositionDetail } from '../components/ExpositionDetail';
+import { statutExposition } from '../expositions/dates';
+import { jourISO } from '../games/progression';
+import { AccueilStackParamList } from '../navigation/AccueilStack';
 import { colors } from '../theme/colors';
+import { fonts } from '../theme/typography';
 import { useCarnet } from '../store/CarnetContext';
 
-const ONGLETS: { label: string; statut: StatutExposition }[] = [
-  { label: "À l'affiche", statut: 'a_laffiche' },
-  { label: 'À venir', statut: 'a_venir' },
-  { label: 'Passées', statut: 'passee' },
+type Vue = StatutExposition | 'favoris';
+
+const ONGLETS: { label: string; vue: Vue }[] = [
+  { label: "À l'affiche", vue: 'a_laffiche' },
+  { label: 'À venir', vue: 'a_venir' },
+  { label: 'Passées', vue: 'passee' },
+  { label: 'Favoris', vue: 'favoris' },
 ];
 
 export function ExpositionsScreen() {
   const navigation = useNavigation();
-  const [statut, setStatut] = useState<StatutExposition>('a_laffiche');
-  const [selected, setSelected] = useState<Exposition | null>(null);
-  const { expositionNotes, setExpositionNote } = useCarnet();
+  const route = useRoute<RouteProp<AccueilStackParamList, 'Expositions'>>();
+  const expositionId = route.params?.expositionId;
 
-  const data = useMemo(() => EXPOSITIONS.filter((e) => e.statut === statut), [statut]);
+  const [vue, setVue] = useState<Vue>('a_laffiche');
+  const [selected, setSelected] = useState<Exposition | null>(null);
+  const { expositionNotes, setExpositionNote, expositionsFavorites, toggleExpositionFavori } =
+    useCarnet();
+
+  // Arrivée depuis la carte de l'Accueil : ouvre directement la fiche demandée.
+  useEffect(() => {
+    if (!expositionId) return;
+    const demandee = EXPOSITIONS.find((e) => e.id === expositionId);
+    if (demandee) setSelected(demandee);
+  }, [expositionId]);
+
+  const aujourdhui = jourISO();
+
+  const parStatut = useMemo(() => {
+    const groupes: Record<StatutExposition, Exposition[]> = {
+      a_laffiche: [],
+      a_venir: [],
+      passee: [],
+    };
+    for (const e of EXPOSITIONS) {
+      groupes[statutExposition(e.dateDebut, e.dateFin, aujourdhui)].push(e);
+    }
+    groupes.a_laffiche.sort((a, b) => a.dateFin.localeCompare(b.dateFin));
+    groupes.a_venir.sort((a, b) => a.dateDebut.localeCompare(b.dateDebut));
+    groupes.passee.sort((a, b) => b.dateFin.localeCompare(a.dateFin));
+    return groupes;
+  }, [aujourdhui]);
+
+  const favorites = useMemo(
+    () =>
+      EXPOSITIONS.filter((e) => expositionsFavorites[e.id]).sort((a, b) =>
+        b.dateFin.localeCompare(a.dateFin),
+      ),
+    [expositionsFavorites],
+  );
+
+  const data = vue === 'favoris' ? favorites : parStatut[vue];
 
   return (
     <SafeAreaView style={styles.container}>
@@ -29,22 +72,19 @@ export function ExpositionsScreen() {
         <Pressable onPress={() => navigation.goBack()} hitSlop={8}>
           <Ionicons name="arrow-back" size={22} color={colors.textPrimary} />
         </Pressable>
-        <Text style={styles.titre}>Expositions</Text>
-        <View style={{ width: 22 }} />
       </View>
+      <Text style={styles.titre}>Expositions</Text>
+      <Text style={styles.sousTitre}>Relevées sur les sites officiels des musées.</Text>
 
       <View style={styles.ongletsRow}>
         {ONGLETS.map((o) => {
-          const active = o.statut === statut;
+          const active = o.vue === vue;
           return (
-            <Pressable
-              key={o.statut}
-              style={[styles.onglet, active && styles.ongletActif]}
-              onPress={() => setStatut(o.statut)}
-            >
-              <Text style={[styles.ongletText, active && styles.ongletTextActif]}>
+            <Pressable key={o.vue} onPress={() => setVue(o.vue)} style={styles.ongletItem}>
+              <Text style={[styles.ongletText, active ? styles.ongletTextActif : null]}>
                 {o.label}
               </Text>
+              {active ? <View style={styles.ongletUnderline} /> : null}
             </Pressable>
           );
         })}
@@ -52,12 +92,27 @@ export function ExpositionsScreen() {
 
       <ScrollView contentContainerStyle={styles.content} showsVerticalScrollIndicator={false}>
         {data.length === 0 ? (
-          <Text style={styles.vide}>Aucune exposition dans cette catégorie.</Text>
+          <Text style={styles.vide}>
+            {vue === 'favoris'
+              ? "Aucune exposition en favori. Touchez le cœur d'une exposition pour la retrouver ici."
+              : "Aucune exposition dans cette catégorie pour l'instant."}
+          </Text>
         ) : (
           data.map((e) => (
-            <ExpositionCard key={e.id} exposition={e} onPress={() => setSelected(e)} />
+            <ExpositionCard
+              key={e.id}
+              exposition={e}
+              statut={statutExposition(e.dateDebut, e.dateFin, aujourdhui)}
+              favori={expositionsFavorites[e.id] ?? false}
+              onToggleFavori={() => toggleExpositionFavori(e.id)}
+              onPress={() => setSelected(e)}
+            />
           ))
         )}
+        <Text style={styles.mention}>
+          Vérifiez toujours dates, horaires et disponibilité des billets sur le site officiel avant
+          votre visite.
+        </Text>
       </ScrollView>
 
       <ExpositionDetail
@@ -71,57 +126,35 @@ export function ExpositionsScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: colors.background,
-  },
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    paddingHorizontal: 20,
-    paddingTop: 8,
-  },
+  container: { flex: 1, backgroundColor: colors.background },
+  header: { paddingHorizontal: 20, paddingTop: 8 },
   titre: {
-    fontSize: 18,
-    fontWeight: '700',
+    fontFamily: fonts.display,
+    fontSize: 38,
     color: colors.textPrimary,
+    paddingHorizontal: 20,
+    marginTop: 8,
+  },
+  sousTitre: {
+    fontFamily: fonts.displayRegular,
+    fontSize: 17,
+    color: colors.textSecondary,
+    paddingHorizontal: 20,
+    marginTop: 2,
   },
   ongletsRow: {
     flexDirection: 'row',
-    gap: 8,
+    gap: 16,
     paddingHorizontal: 20,
-    marginTop: 16,
+    marginTop: 18,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
   },
-  onglet: {
-    paddingHorizontal: 14,
-    paddingVertical: 8,
-    borderRadius: 999,
-    backgroundColor: colors.surface,
-    borderWidth: 1,
-    borderColor: colors.border,
-  },
-  ongletActif: {
-    backgroundColor: colors.accent,
-    borderColor: colors.accent,
-  },
-  ongletText: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: colors.textSecondary,
-  },
-  ongletTextActif: {
-    color: '#FFFFFF',
-  },
-  content: {
-    paddingHorizontal: 20,
-    paddingTop: 18,
-    paddingBottom: 24,
-  },
-  vide: {
-    fontSize: 13,
-    color: colors.textSecondary,
-    textAlign: 'center',
-    marginTop: 40,
-  },
+  ongletItem: { paddingBottom: 10 },
+  ongletText: { fontFamily: fonts.display, fontSize: 17, color: colors.textSecondary },
+  ongletTextActif: { color: colors.accent },
+  ongletUnderline: { height: 2, backgroundColor: colors.accent, marginTop: 8, borderRadius: 1 },
+  content: { paddingHorizontal: 20, paddingTop: 18, paddingBottom: 28 },
+  vide: { fontFamily: fonts.ui, fontSize: 13, color: colors.textSecondary, textAlign: 'center', marginTop: 40 },
+  mention: { fontFamily: fonts.ui, fontSize: 11.5, color: colors.textSecondary, textAlign: 'center', marginTop: 8 },
 });

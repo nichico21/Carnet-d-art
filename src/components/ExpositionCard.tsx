@@ -1,72 +1,86 @@
 import React from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { Exposition } from '../types/exposition';
+import { Exposition, StatutExposition } from '../types/exposition';
+import { ExpositionImage } from './ExpositionImage';
+import { formaterPeriode } from '../expositions/dates';
 import { colors } from '../theme/colors';
+import { fonts } from '../theme/typography';
 
-export function ExpositionCard({
-  exposition,
-  onPress,
-}: {
+const LIBELLE_STATUT: Record<StatutExposition, string> = {
+  a_laffiche: 'EN COURS',
+  a_venir: 'À VENIR',
+  passee: 'TERMINÉE',
+};
+
+interface Props {
   exposition: Exposition;
+  statut: StatutExposition;
+  favori: boolean;
+  onToggleFavori: () => void;
   onPress: () => void;
-}) {
+}
+
+export function ExpositionCard({ exposition, statut, favori, onToggleFavori, onPress }: Props) {
+  const tags = [exposition.type, ...exposition.epoques].join(' · ');
+
   return (
     <Pressable style={styles.card} onPress={onPress}>
-      <View style={[styles.cover, { backgroundColor: exposition.couleur }]}>
-        <Ionicons name="business-outline" size={28} color="rgba(255,255,255,0.9)" />
+      <View style={styles.image}>
+        <ExpositionImage imageUrl={exposition.imageUrl} />
+        <Pressable style={styles.coeur} onPress={onToggleFavori} hitSlop={8}>
+          <Ionicons
+            name={favori ? 'heart' : 'heart-outline'}
+            size={18}
+            color={favori ? colors.accent : colors.textPrimary}
+          />
+        </Pressable>
       </View>
-      <View style={styles.body}>
-        <Text style={styles.titre} numberOfLines={2}>
-          {exposition.titre}
+      <View style={styles.corps}>
+        <Text style={[styles.statut, statut === 'passee' ? styles.statutPassee : null]}>
+          {LIBELLE_STATUT[statut]}
         </Text>
+        <Text style={styles.titre}>{exposition.titre}</Text>
+        {exposition.sousTitre ? <Text style={styles.sousTitre}>{exposition.sousTitre}</Text> : null}
         <Text style={styles.lieu}>
           {exposition.lieu}, {exposition.ville}
         </Text>
         <Text style={styles.dates}>
-          {exposition.dateDebut} – {exposition.dateFin}
+          {formaterPeriode(exposition.dateDebut, exposition.dateFin, true)}
         </Text>
+        <Text style={styles.tags}>{tags}</Text>
       </View>
-      <Ionicons name="chevron-forward" size={18} color={colors.textSecondary} />
     </Pressable>
   );
 }
 
 const styles = StyleSheet.create({
   card: {
-    flexDirection: 'row',
-    alignItems: 'center',
     backgroundColor: colors.surface,
     borderWidth: 1,
     borderColor: colors.border,
-    borderRadius: 14,
-    padding: 10,
-    marginBottom: 12,
-    gap: 12,
+    borderRadius: 12,
+    overflow: 'hidden',
+    marginBottom: 16,
   },
-  cover: {
-    width: 56,
-    height: 56,
-    borderRadius: 10,
+  image: { height: 170, backgroundColor: colors.stone },
+  coeur: {
+    position: 'absolute',
+    top: 10,
+    right: 10,
+    width: 32,
+    height: 32,
+    borderRadius: 16,
+    backgroundColor: 'rgba(252,251,248,0.92)',
     alignItems: 'center',
     justifyContent: 'center',
   },
-  body: {
-    flex: 1,
-  },
-  titre: {
-    fontSize: 14,
-    fontWeight: '700',
-    color: colors.textPrimary,
-  },
-  lieu: {
-    fontSize: 12,
-    color: colors.textSecondary,
-    marginTop: 2,
-  },
-  dates: {
-    fontSize: 11,
-    color: colors.textSecondary,
-    marginTop: 1,
-  },
+  corps: { padding: 16 },
+  statut: { fontFamily: fonts.uiSemiBold, fontSize: 10, letterSpacing: 0.8, color: colors.accent },
+  statutPassee: { color: colors.textSecondary },
+  titre: { fontFamily: fonts.display, fontSize: 24, lineHeight: 27, color: colors.textPrimary, marginTop: 6 },
+  sousTitre: { fontFamily: fonts.displayRegular, fontSize: 17, color: colors.textSecondary, marginTop: 2 },
+  lieu: { fontFamily: fonts.uiMedium, fontSize: 13, color: colors.textPrimary, marginTop: 10 },
+  dates: { fontFamily: fonts.ui, fontSize: 12, color: colors.textSecondary, marginTop: 2 },
+  tags: { fontFamily: fonts.ui, fontSize: 11.5, color: colors.textSecondary, marginTop: 10 },
 });

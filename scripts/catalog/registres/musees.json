@@ -1,0 +1,26 @@
+[
+  {
+    "id": "louvre",
+    "nom": "Musée du Louvre",
+    "ville": "Paris",
+    "pays": "France",
+    "adresse": "Rue de Rivoli, 75001 Paris",
+    "domaine": "louvre.fr"
+  },
+  {
+    "id": "fondation-louis-vuitton",
+    "nom": "Fondation Louis Vuitton",
+    "ville": "Paris",
+    "pays": "France",
+    "adresse": "8 avenue du Mahatma Gandhi, Bois de Boulogne",
+    "domaine": "fondationlouisvuitton.fr"
+  },
+  {
+    "id": "jacquemart-andre",
+    "nom": "Musée Jacquemart-André",
+    "ville": "Paris",
+    "pays": "France",
+    "adresse": "158 boulevard Haussmann, 75008 Paris",
+    "domaine": "musee-jacquemart-andre.com"
+  }
+]

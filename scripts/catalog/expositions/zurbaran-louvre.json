@@ -1,0 +1,19 @@
+{
+  "id": "zurbaran-louvre",
+  "titre": "Zurbarán",
+  "sousTitre": "1598-1664",
+  "museeId": "louvre",
+  "dateDebut": "2026-10-07",
+  "dateFin": "2027-01-25",
+  "description": "Rétrospective consacrée à Francisco de Zurbarán, l'un des grands peintres espagnols du XVIIe siècle, aux côtés de Velázquez et de Murillo. Organisée avec la National Gallery de Londres et l'Art Institute of Chicago, elle réunit une sélection d'œuvres de premier plan en sept sections : les grandes commandes monastiques d'Andalousie, les portraits et les natures mortes, une place de choix pour son fils Juan de Zurbarán, et un épilogue sur l'influence de Zurbarán sur les avant-gardes (Manet, Picasso, Juan Gris). L'exposition se visite dans le même espace que « Sculpter la couleur » : un seul billet donne accès aux deux.",
+  "tarifs": "22 € (résidents de l'Espace économique européen) · 32 € (hors EEE) — gratuité sous conditions",
+  "duree": "1 h 15 en moyenne",
+  "url": "https://www.louvre.fr/expositions-et-evenements/expositions/zurbaran",
+  "imageUrl": "https://api-www.louvre.fr/sites/default/files/2026-06/sainte-casilda-francisco-de-zurbaran-huile-sur-toile-vers-1635-museo-nacional-thyssen-bornemisza-madrid.jpg",
+  "dateReleve": "2026-10-16",
+  "type": "Rétrospective",
+  "epoques": ["XVIIe siècle"],
+  "mouvements": ["Baroque"],
+  "artistes": ["Francisco de Zurbarán"],
+  "oeuvresLieesIds": []
+}

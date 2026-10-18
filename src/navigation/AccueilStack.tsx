@@ -5,7 +5,7 @@ import { ExpositionsScreen } from '../screens/ExpositionsScreen';
 
 export type AccueilStackParamList = {
   AccueilHome: undefined;
-  Expositions: undefined;
+  Expositions: { expositionId?: string } | undefined;
 };
 
 const Stack = createNativeStackNavigator<AccueilStackParamList>();

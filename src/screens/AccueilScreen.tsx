@@ -1,25 +1,32 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { ARTWORKS } from '../data/artworks.generated';
-import { EXPOSITIONS_A_VENIR, PARCE_QUE_VOUS_AIMEZ } from '../data/accueil';
+import { EXPOSITIONS } from '../data/expositions.generated';
+import { PARCE_QUE_VOUS_AIMEZ } from '../data/accueil';
 import { NouveauteCard } from '../components/accueil/NouveauteCard';
-import { ExpoAVenirCard } from '../components/accueil/ExpoAVenirCard';
+import { ExpositionCard } from '../components/ExpositionCard';
+import { expositionALaUne } from '../expositions/alaune';
+import { jourISO } from '../games/progression';
+import { useCarnet } from '../store/CarnetContext';
 import { colors } from '../theme/colors';
 import { ArtworkCover } from '../components/ArtworkCover';
-
 
 const ONGLETS = ['Pour vous', 'Artistes', 'Mouvements', 'Thèmes'];
 
 export function AccueilScreen() {
   const navigation = useNavigation();
+  const { expositionsFavorites, toggleExpositionFavori } = useCarnet();
   const [onglet, setOnglet] = useState('Pour vous');
   const [favoriSelection, setFavoriSelection] = useState(false);
 
+  // Tirée au hasard à chaque ouverture de l'application, puis conservée pendant la session.
+  const expoALaUne = useMemo(() => expositionALaUne(EXPOSITIONS, jourISO()), []);
+
   const artworksValides = ARTWORKS.filter((a) => a.statut === 'valide' && a.imageUrl);
-const selection = artworksValides[0] ?? ARTWORKS[0];
-const nouveautes = artworksValides.slice(1, 4);
+  const selection = artworksValides[0] ?? ARTWORKS[0];
+  const nouveautes = artworksValides.slice(1, 4);
 
   return (
     <SafeAreaView style={styles.container}>
@@ -88,16 +95,26 @@ const nouveautes = artworksValides.slice(1, 4);
               ))}
             </ScrollView>
 
-            <Section
-              title="Expositions à ne pas manquer"
-              action="Voir tout"
-              onPressAction={() => navigation.navigate('Expositions' as never)}
-            />
-            {EXPOSITIONS_A_VENIR.map((e) => (
-              <Pressable key={e.id} onPress={() => navigation.navigate('Expositions' as never)}>
-                <ExpoAVenirCard expo={e} />
-              </Pressable>
-            ))}
+            {expoALaUne ? (
+              <>
+                <Section
+                  title="Expositions à ne pas manquer"
+                  action="Voir tout"
+                  onPressAction={() => navigation.navigate('Expositions' as never)}
+                />
+                <ExpositionCard
+                  exposition={expoALaUne}
+                  statut="a_laffiche"
+                  favori={expositionsFavorites[expoALaUne.id] ?? false}
+                  onToggleFavori={() => toggleExpositionFavori(expoALaUne.id)}
+                  onPress={() =>
+                    (navigation.navigate as (name: string, params?: object) => void)('Expositions', {
+                      expositionId: expoALaUne.id,
+                    })
+                  }
+                />
+              </>
+            ) : null}
           </>
         )}
       </ScrollView>
@@ -197,7 +214,6 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     overflow: 'hidden',
   },
-  
   heroHeart: {
     position: 'absolute',
     top: 10,

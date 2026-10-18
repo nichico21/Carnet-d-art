@@ -1,0 +1,18 @@
+{
+  "id": "gustave-fayet-flv",
+  "titre": "Gustave Fayet, collectionneur – créateur",
+  "sousTitre": "Icônes de l'art moderne",
+  "museeId": "fondation-louis-vuitton",
+  "dateDebut": "2026-10-09",
+  "dateFin": "2027-03-08",
+  "description": "Première exposition d'envergure internationale consacrée à Gustave Fayet (1865-1925), collectionneur, artiste et créateur d'arts décoratifs aujourd'hui méconnu. Elle investit tous les espaces de la Fondation en deux volets. Le collectionneur : plus de 250 œuvres de sa collection, aujourd'hui dispersée, réunies pour la première fois depuis un siècle, dont 10 tableaux de Van Gogh, 78 œuvres de Gauguin et 86 d'Odilon Redon. Le créateur : 375 créations pour la plupart jamais montrées au public (céramiques, aquarelles sur papier buvard, tapis, livres illustrés). Le décor peint par Redon pour l'abbaye de Fontfroide est dévoilé au grand public pour la première fois.",
+  "tarifs": "De 0 € à 36 € selon les tarifs",
+  "url": "https://www.fondationlouisvuitton.fr/fr/evenements/gustave-fayet-collectionneur-createur",
+  "imageUrl": "https://flv-prd-oxud8mggj93od145.imgix.net/a3a288a0-f449-41a7-bbcc-fdad7e93aed4/FayetV1.png?fm=pjpg&q=80&dpi=72&cs=srgb&s=70755b9409a8d200d6ffe6a8427cb8f1",
+  "dateReleve": "2026-10-16",
+  "type": "Collection",
+  "epoques": ["XIXe siècle", "XXe siècle"],
+  "mouvements": ["Post-impressionnisme", "Symbolisme", "Art nouveau"],
+    "artistes": ["Gustave Fayet", "Vincent van Gogh", "Paul Gauguin", "Odilon Redon", "Edgar Degas", "Paul Cézanne", "Henri de Toulouse-Lautrec", "Pierre-Auguste Renoir", "Berthe Morisot", "Paul Signac", "Pierre Bonnard", "Édouard Vuillard", "Henri Matisse"],
+  "oeuvresLieesIds": []
+}

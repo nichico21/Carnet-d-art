@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q1955739",
+      "description": "musée de Dijon, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-des-beaux-arts-de-dijon",
+  "nom": "musée des Beaux-Arts de Dijon",
+  "ville": "Dijon",
+  "pays": "France",
+  "adresse": "Palais des États de Bourgogne, place de la Libération, 21000 Dijon, 21033 Dijon",
+  "siteUrl": "https://beaux-arts.dijon.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dijon%20-%20Musee%20des%20Beaux%20arts.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q1955739",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Dijon",
+  "anneeCreation": 1787,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 47.3216,
+  "longitude": 5.04267,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

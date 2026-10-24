@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation",
+      "nombreObjets"
+    ],
+    "wikidata": {
+      "id": "Q511",
+      "description": "musée des Beaux-arts de Lyon, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation",
+        "nombreObjets"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-des-beaux-arts-de-lyon",
+  "nom": "Musée des Beaux-Arts de Lyon",
+  "ville": "Lyon",
+  "pays": "France",
+  "adresse": "20, place des Terreaux, 69001 Lyon",
+  "siteUrl": "https://www.mba-lyon.fr",
+  "imageUrl": "https://erasmusplace.com/wp-content/uploads/2025/07/musee-des-beaux-arts-lyon-statue-gallery.jpg.webp",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q511",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Lyon",
+  "anneeCreation": 1801,
+  "surfaceM2": null,
+  "nombreObjets": 72673,
+  "latitude": 45.76694,
+  "longitude": 4.83361,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

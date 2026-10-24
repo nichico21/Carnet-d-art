@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q2620702",
+      "description": "musée français",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-bonnat-helleu",
+  "nom": "musée Bonnat-Helleu",
+  "ville": "Bayonne",
+  "pays": "France",
+  "adresse": "5, rue Jacques-Laffitte, 64100 Bayonne",
+  "siteUrl": "https://mbh.bayonne.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Bonnat-Helleu%202014-09-02.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2620702",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Bonnat-Helleu",
+  "anneeCreation": 1897,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 43.4922,
+  "longitude": -1.4722,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

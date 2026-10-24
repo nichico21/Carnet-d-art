@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q743206",
+      "description": "musée à Paris, en France",
+      "types": [
+        "musée d'art",
+        "musée national",
+        "organisation"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-picasso",
+  "nom": "Musée Picasso",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "5, rue de Thorigny, 75003 Paris",
+  "siteUrl": "https://www.museepicassoparis.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%203e%20H%C3%B4tel%20Sal%C3%A9%20640.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q743206",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Picasso_(Paris)",
+  "anneeCreation": 1985,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.85973,
+  "longitude": 2.36244,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

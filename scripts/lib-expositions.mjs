@@ -18,15 +18,55 @@ const CHAMPS_FILE = path.join(CATALOG, 'fields', 'exposition.fields.json');
 const MUSEES_FILE = path.join(CATALOG, 'registres', 'musees.json');
 const VOCAB_DIR = path.join(CATALOG, 'vocabularies');
 
+/** "https://www.marmottan.fr/x" -> "marmottan.fr" (null si l'adresse est illisible). */
+export function domaineDe(siteUrl) {
+  try {
+    return new URL(siteUrl).hostname.replace(/^www\./i, '').toLowerCase();
+  } catch {
+    return null;
+  }
+}
+
 export function lireJson(chemin, description) {
   if (!fs.existsSync(chemin)) throw new Error(`${description} introuvable : ${chemin}`);
   return JSON.parse(fs.readFileSync(chemin, 'utf-8'));
 }
 
-/** Charge les champs, le registre des musées et les vocabulaires référencés. */
+const MUSEES_FICHES_DIR = path.join(CATALOG, 'musees');
+
+/**
+ * Musées : fiches de scripts/catalog/musees/ (le domaine se déduit de "siteUrl"),
+ * ou à défaut l'ancien registre registres/musees.json.
+ */
+export function chargerMusees() {
+  if (fs.existsSync(MUSEES_FICHES_DIR)) {
+    const fichiers = fs.readdirSync(MUSEES_FICHES_DIR).filter((f) => f.endsWith('.json'));
+    if (fichiers.length > 0) {
+      return fichiers.map((f) => {
+        let fiche;
+        try {
+          fiche = JSON.parse(fs.readFileSync(path.join(MUSEES_FICHES_DIR, f), 'utf-8'));
+        } catch (e) {
+          throw new Error(`Fiche musée illisible (${f}) : ${e.message}`);
+        }
+        return {
+          id: fiche.id,
+          nom: fiche.nom,
+          ville: fiche.ville,
+          pays: fiche.pays,
+          adresse: fiche.adresse,
+          domaine: fiche.siteUrl ? domaineDe(fiche.siteUrl) : null,
+        };
+      });
+    }
+  }
+  return lireJson(MUSEES_FILE, 'Registre des musées');
+}
+
+/** Charge les champs, les musées et les vocabulaires référencés. */
 export function chargerContexte() {
   const champs = lireJson(CHAMPS_FILE, 'Fichier de champs').champs;
-  const musees = lireJson(MUSEES_FILE, 'Registre des musées');
+  const musees = chargerMusees();
   const vocabulaires = {};
   for (const champ of champs) {
     if (champ.vocabulaire && !vocabulaires[champ.vocabulaire]) {
@@ -84,6 +124,9 @@ function verifierValeur(champ, valeur, fiche, ctx) {
       if (probleme) return probleme;
       const musee = ctx.musees.find((m) => m.id === fiche.museeId);
       if (!musee) return null; // le musée inconnu est signalé sur "museeId"
+      if (!musee.domaine) {
+        return `le musée "${musee.id}" n'a pas de siteUrl : renseigne-le dans sa fiche`;
+      }
       const hote = new URL(valeur).hostname;
       return hote === musee.domaine || hote.endsWith('.' + musee.domaine)
         ? null
@@ -92,7 +135,7 @@ function verifierValeur(champ, valeur, fiche, ctx) {
     case 'reference':
       return ctx.musees.some((m) => m.id === valeur)
         ? null
-        : `musée inconnu : "${valeur}" (voir registres/musees.json)`;
+        : `musée inconnu : "${valeur}" (crée sa fiche : node scripts/musees.mjs creer ...)`;
     case 'vocabulaire':
       return (ctx.vocabulaires[champ.vocabulaire] ?? []).includes(valeur)
         ? null
@@ -105,6 +148,18 @@ function verifierValeur(champ, valeur, fiche, ctx) {
         ? `valeur(s) absente(s) du vocabulaire ${champ.vocabulaire} : ${inconnus.join(', ')}`
         : null;
     }
+    case 'nombre':
+      if (typeof valeur !== 'number' || !Number.isFinite(valeur)) return 'nombre attendu';
+      if (champ.entier && !Number.isInteger(valeur)) return 'nombre entier attendu';
+      if (champ.min !== undefined && valeur < champ.min) return `doit être au moins ${champ.min}`;
+      if (champ.max !== undefined && valeur > champ.max) return `doit être au plus ${champ.max}`;
+      return null;
+    case 'identifiant_wikidata':
+      return typeof valeur === 'string' && /^Q[1-9]\d*$/.test(valeur)
+        ? null
+        : 'identifiant Wikidata attendu (Q suivi de chiffres, ex. Q23402)';
+    case 'booleen':
+      return typeof valeur === 'boolean' ? null : 'true ou false attendu (sans guillemets)';
     case 'liste_texte':
       return Array.isArray(valeur) && valeur.every((v) => typeof v === 'string' && v.trim() !== '')
         ? null

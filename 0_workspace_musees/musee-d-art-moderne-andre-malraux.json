@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q3329541",
+      "description": "musée français",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "site officiel en http converti en https : à vérifier"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-d-art-moderne-andre-malraux",
+  "nom": "musée d'art moderne André-Malraux",
+  "ville": "Le Havre",
+  "pays": "France",
+  "adresse": "2 boulevard Clemenceau 76600 Le Havre",
+  "siteUrl": "https://www.muma-lehavre.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20havre%20musee%20int.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q3329541",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d'Art_moderne_Andr%C3%A9-Malraux",
+  "anneeCreation": 1961,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 49.48504,
+  "longitude": 0.10262,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

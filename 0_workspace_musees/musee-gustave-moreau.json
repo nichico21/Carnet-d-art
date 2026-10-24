@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation",
+      "nombreObjets"
+    ],
+    "wikidata": {
+      "id": "Q2296362",
+      "description": "musée à Paris, en France",
+      "types": [
+        "musée d'art",
+        "musée national"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation",
+        "nombreObjets"
+      ],
+      "avertissements": [
+        "site officiel en http converti en https : à vérifier"
+      ],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-gustave-moreau",
+  "nom": "Musée Gustave Moreau",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": null,
+  "siteUrl": "https://www.musee-moreau.fr",
+  "imageUrl": "https://mus3ums.com/media-resize/1600/museums/images/full/fa/39/fa39e90f22f74190921ed22169c2e4f6.jpg.webp",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2296362",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Gustave-Moreau",
+  "anneeCreation": 1903,
+  "surfaceM2": null,
+  "nombreObjets": 14000,
+  "latitude": 48.878,
+  "longitude": 2.33436,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

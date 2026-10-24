@@ -1,0 +1,18 @@
+{
+  "id": "jacquemart-andre",
+  "nom": "Musée Jacquemart-André",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "158 boulevard Haussmann, 75008 Paris",
+  "siteUrl": "https://www.musee-jacquemart-andre.com",
+  "type": "Musée de collectionneur",
+  "nomsCatalogue": [
+    "musée Jacquemart-André"
+  ],
+  "imageUrl": "https://www.theatreinparis.com/uploads/images/spectacle/concerts-at-museum-musee-Jacquemart-Andr%C3%A9-main-image.jpg",
+  "wikidataId": "Q1165526",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Jacquemart-Andr%C3%A9",
+  "latitude": 48.87543,
+  "longitude": 2.31051,
+  "anneeCreation": 1913
+}

@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation",
+      "surfaceM2"
+    ],
+    "wikidata": {
+      "id": "Q726781",
+      "description": "musée d'art à Paris, France",
+      "types": [
+        "musée d'art",
+        "musée national"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation",
+        "surfaceM2"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (1852, 1927) : 1852 retenue",
+        "surface : valeur de la partie exposée (Wikidata), pas du bâtiment entier"
+      ],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-de-l-orangerie",
+  "nom": "Musée de l'Orangerie",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "Jardin des Tuileries, Place de la Concorde, 75001 Paris",
+  "siteUrl": "https://www.musee-orangerie.fr",
+  "imageUrl": "https://mus3ums.com/media-resize/1600/museums/images/full/43/21/4321a89ff6d94f8187f89932395127b3.jpg.webp",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q726781",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l'Orangerie",
+  "anneeCreation": 1927,
+  "surfaceM2": 6300,
+  "nombreObjets": null,
+  "latitude": 48.86385,
+  "longitude": 2.32254,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q650519",
+      "description": "musée de Paris, France",
+      "types": [
+        "musée d'art",
+        "musée national"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (1916, 2018) : 1916 retenue"
+      ],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-rodin",
+  "nom": "musée Rodin",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": null,
+  "siteUrl": "https://www.musee-rodin.fr",
+  "imageUrl": "https://media.vogue.fr/photos/5f6496a2abf9f61f3cd65b7d/2:3/w_1920,c_limit/GettyImages-521737126.jpg",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q650519",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Rodin",
+  "anneeCreation": 1916,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.85536,
+  "longitude": 2.31582,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

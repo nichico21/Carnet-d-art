@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q2843748",
+      "description": "musée d'art à Montauban, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (1854, 1828) : 1854 retenue"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-ingres-bourdelle",
+  "nom": "musée Ingres-Bourdelle",
+  "ville": "Montauban",
+  "pays": "France",
+  "adresse": null,
+  "siteUrl": "https://museeingresbourdelle.com",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Montauban%20-%20Le%20Mus%C3%A9e%20Ingres.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2843748",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Ingres-Bourdelle",
+  "anneeCreation": 1854,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 44.01694,
+  "longitude": 1.35167,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

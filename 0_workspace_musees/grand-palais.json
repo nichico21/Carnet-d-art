@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q457318",
+      "description": "monument et salle d'exposition parisienne",
+      "types": [
+        "espace événementiel",
+        "palais des congrès"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "grand-palais",
+  "nom": "Grand Palais",
+  "ville": "Champs-Élysées",
+  "pays": "France",
+  "adresse": "3, avenue du Général-Eisenhower, 75008 Paris",
+  "siteUrl": "https://www.grandpalais.fr",
+  "imageUrl": "https://raw.githubusercontent.com/nichico21/Carnet-d-art/main/assets/grand-palais.png",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q457318",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Grand_Palais_(Paris)",
+  "anneeCreation": 1900,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.86611,
+  "longitude": 2.3125,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

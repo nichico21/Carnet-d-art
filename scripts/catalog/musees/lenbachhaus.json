@@ -1,0 +1,17 @@
+{
+  "id": "lenbachhaus",
+  "nom": "Lenbachhaus",
+  "ville": "Munich",
+  "pays": "Allemagne",
+  "nomsCatalogue": [
+    "Lenbachhaus"
+  ],
+  "adresse": "Luisenstraße 33",
+  "siteUrl": "https://www.lenbachhaus.de",
+  "imageUrl": "https://www.reisefestival.de/wp-content/uploads/2013/05/lenbachhaus-muenchen-neubau-atrium-4001.jpg",
+  "wikidataId": "Q262234",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lenbachhaus",
+  "latitude": 48.14694,
+  "longitude": 11.56361,
+  "anneeCreation": 1891
+}

@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q3330211",
+      "description": "musée de Mulhouse, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "site officiel en http converti en https : à vérifier"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-des-beaux-arts-de-mulhouse",
+  "nom": "musée des Beaux-Arts de Mulhouse",
+  "ville": "Mulhouse",
+  "pays": "France",
+  "adresse": "place G.-Tell,-4, 68100 Mulhouse",
+  "siteUrl": "https://www.musees-mulhouse.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20des%20beaux-arts%20de%20Mulhouse%20(5).jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q3330211",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Mulhouse",
+  "anneeCreation": 1864,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 47.74583,
+  "longitude": 7.33847,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

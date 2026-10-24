@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q3330248",
+      "description": "musée de Giverny, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-des-impressionnismes-giverny",
+  "nom": "Musée des impressionnismes Giverny",
+  "ville": "Giverny",
+  "pays": "France",
+  "adresse": "99 rue Claude Monet, Giverny",
+  "siteUrl": "https://www.mdig.fr",
+  "imageUrl": "https://media.timeout.com/images/106268203/1920/1080/image.webp",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q3330248",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Impressionnismes_Giverny",
+  "anneeCreation": 2009,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 49.0763,
+  "longitude": 1.53128,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

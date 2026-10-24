@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q2711480",
+      "description": "musée de Toulouse, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (1801, 1795) : 1801 retenue"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-des-augustins-de-toulouse",
+  "nom": "musée des Augustins de Toulouse",
+  "ville": "Toulouse",
+  "pays": "France",
+  "adresse": "21, rue de Metz 31000 Toulouse, France",
+  "siteUrl": "https://www.augustins.org",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20des%20Augustin%20Clocher.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2711480",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Augustins_de_Toulouse",
+  "anneeCreation": 1801,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 43.601,
+  "longitude": 1.446,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

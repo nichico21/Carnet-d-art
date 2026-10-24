@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q178065",
+      "description": "centre culturel d'art contemporain à Paris, France",
+      "types": [
+        "centre culturel",
+        "bâtiment de musée",
+        "musée",
+        "collection"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "centre-national-d-art-et-de-culture-georges-pompidou",
+  "nom": "Centre Pompidou",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "Place Georges-Pompidou, 75004 Paris",
+  "siteUrl": "https://centrepompidou.fr",
+  "imageUrl": "https://www.franceguide.info/fr/wp-content/uploads/sites/20/paris-centre-pompidou-hd.jpg",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q178065",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Centre_national_d'art_et_de_culture_Georges-Pompidou",
+  "anneeCreation": 1977,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.86064,
+  "longitude": 2.35225,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

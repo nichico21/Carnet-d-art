@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q965780",
+      "description": "musée d'art français situé à Aix-en-Provence",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "site officiel en http converti en https : à vérifier"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-granet",
+  "nom": "musée Granet",
+  "ville": "Aix-en-Provence",
+  "pays": "France",
+  "adresse": "Place Saint-Jean-de-Malte, 13100 Aix-en-Provence",
+  "siteUrl": "https://www.museegranet-aixenprovence.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aix%20en%20Provence-FR-13-musee%20Granet-a1.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q965780",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Granet",
+  "anneeCreation": 1838,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 43.52535,
+  "longitude": 5.45295,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q1955748",
+      "description": "musée français à Roubaix",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (2000, 2002) : 2000 retenue"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "la-piscine-musee-d-art-et-d-industrie",
+  "nom": "La Piscine, musée d'art et d'industrie",
+  "ville": "Roubaix",
+  "pays": "France",
+  "adresse": "23, rue de l’Espérance 59100 Roubaix",
+  "siteUrl": "https://www.roubaix-lapiscine.com",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Piscine%20Roubaix.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q1955748",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Piscine_(mus%C3%A9e)",
+  "anneeCreation": 2000,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 50.69229,
+  "longitude": 3.16782,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

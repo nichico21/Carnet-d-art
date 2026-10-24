@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q2483597",
+      "description": "musée d'Ajaccio, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (1850, 1852) : 1850 retenue"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-fesch",
+  "nom": "musée Fesch",
+  "ville": "Ajaccio",
+  "pays": "France",
+  "adresse": "50-52, rue cardinal Fesch, 20000 Ajaccio",
+  "siteUrl": "https://www.musee-fesch.com",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ajaccio-Palais%20Fesch.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2483597",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Fesch",
+  "anneeCreation": 1850,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 41.92167,
+  "longitude": 8.73833,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

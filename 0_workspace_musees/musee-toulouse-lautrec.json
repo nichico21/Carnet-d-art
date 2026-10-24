@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q2538129",
+      "description": "musée français à Albi",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-toulouse-lautrec",
+  "nom": "musée Toulouse-Lautrec",
+  "ville": "Albi",
+  "pays": "France",
+  "adresse": "Palais de la Berbie, Place Sainte Cécile, Albi, 81003 Albi",
+  "siteUrl": "https://musee-toulouse-lautrec.com",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/(Albi)%20Entr%C3%A9e%20du%20Mus%C3%A9e%20Toulouse-Lautrec%20sur%20la%20place%20sainte%20C%C3%A9cile.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2538129",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Toulouse-Lautrec",
+  "anneeCreation": 1922,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 43.92917,
+  "longitude": 2.14306,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

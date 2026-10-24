@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q1324926",
+      "description": "musée à Besançon, France",
+      "types": [
+        "musée d'art",
+        "musée archéologique"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "site officiel en http converti en https : à vérifier"
+      ],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-des-beaux-arts-et-d-archeologie-de-besancon",
+  "nom": "musée des Beaux-Arts et d'Archéologie de Besançon",
+  "ville": "Besançon",
+  "pays": "France",
+  "adresse": "1, place de la Révolution, 25000 Besançon",
+  "siteUrl": "https://www.mbaa.besancon.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Besan%C3%A7on%2C%20le%20mus%C3%A9e%20des%20Beaux-Arts%20et%20d'Arch%C3%A9ologie%20(2).jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q1324926",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_et_d'Arch%C3%A9ologie_de_Besan%C3%A7on",
+  "anneeCreation": 1694,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 47.24028,
+  "longitude": 6.02306,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

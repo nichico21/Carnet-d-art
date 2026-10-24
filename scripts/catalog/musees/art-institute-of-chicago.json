@@ -1,0 +1,18 @@
+{
+  "id": "art-institute-of-chicago",
+  "nom": "Art Institute of Chicago",
+  "ville": "Chicago",
+  "pays": "États-Unis",
+  "nomsCatalogue": [
+    "Art Institute of Chicago"
+  ],
+  "adresse": "111 South Michigan Avenue, Chicago, IL 60603",
+  "siteUrl": "https://www.artic.edu",
+  "imageUrl": "https://i0.wp.com/inspiredimperfection.com/wp-content/uploads/2017/07/art-institute-of-chicago.jpg?w=800&ssl=1",
+  "description": "L’Art Institute of Chicago occupe un bâtiment de style Beaux-Arts sur Michigan Avenue, au bord de Grant Park, gardé par deux lions de bronze. C’est l’un des plus anciens et des plus vastes musées d’art des États-Unis.\n\nSes collections vont de l’Antiquité à l’art contemporain. Il est surtout connu pour son ensemble impressionniste et postimpressionniste, dont Un dimanche après-midi à l’île de la Grande Jatte de Seurat, et pour de grandes œuvres américaines comme American Gothic de Grant Wood et Nighthawks d’Edward Hopper.\n\nL’aile moderne, signée Renzo Piano, est reliée à Millennium Park par une passerelle piétonne et présente l’art du XXe siècle et d’aujourd’hui dans des salles baignées de lumière. Les Thorne Rooms, pièces miniatures meublées, sont une curiosité très appréciée.",
+  "wikidataId": "Q239303",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Art_Institute_of_Chicago",
+  "latitude": 41.87944,
+  "longitude": -87.62389,
+  "anneeCreation": 1879
+}

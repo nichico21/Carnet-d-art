@@ -5,11 +5,16 @@
  * réellement. Ce fichier est TOUJOURS généré, jamais édité à la main :
  * relance ce script après chaque nouvelle fiche ajoutée/validée.
  *
+ * Ensuite, il synchronise les musées : un brouillon de fiche est créé pour
+ * chaque musée du catalogue qui n'en a pas encore, et les données des musées
+ * (src/data/musees.generated.ts) sont régénérées.
+ *
  * Usage : node scripts/build-app-data.mjs
  */
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -50,7 +55,7 @@ function main() {
     .map((f) => JSON.parse(fs.readFileSync(path.join(ARTWORKS_DIR, f), 'utf-8')))
     .map(versArtwork);
 
-    const facettes = construireFacettes(artworks);
+  const facettes = construireFacettes(artworks);
 
   const contenu = `// Fichier généré automatiquement par scripts/build-app-data.mjs
 // Ne pas éditer à la main — relancer le script après toute mise à jour du catalogue.
@@ -77,6 +82,27 @@ export const FACETTES = ${JSON.stringify(facettes, null, 2)} as {
   fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });
   fs.writeFileSync(OUT_FILE, contenu, 'utf-8');
   console.log(`${artworks.length} œuvre(s) écrite(s) dans src/data/artworks.generated.ts`);
+
+  synchroniserMusees();
+}
+
+/**
+ * Après chaque génération : détecte les musées sans fiche (brouillons créés
+ * dans 0_workspace_musees/) et régénère les données des musées. Une erreur
+ * ici n'empêche jamais la génération des œuvres, déjà écrite.
+ */
+function synchroniserMusees() {
+  const script = path.join(__dirname, 'musees.mjs');
+  if (!fs.existsSync(script)) return;
+  console.log('\n--- Musées ---');
+  try {
+    execFileSync(process.execPath, [script, 'synchroniser'], { stdio: 'inherit' });
+  } catch {
+    console.warn(
+      '⚠ La synchronisation des musées a échoué (voir ci-dessus). ' +
+        'Les œuvres, elles, sont bien générées.',
+    );
+  }
 }
 
 main();

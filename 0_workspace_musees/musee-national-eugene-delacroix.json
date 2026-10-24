@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q1782606",
+      "description": "musée à Paris, en France",
+      "types": [
+        "musée d'art",
+        "musée national"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-national-eugene-delacroix",
+  "nom": "musée national Eugène-Delacroix",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "6 rue de Furstenberg, 75006 Paris, France",
+  "siteUrl": "https://www.musee-delacroix.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Delacroix%2C%20Paris%2029%20May%202017%20001.jpg?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q1782606",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_national_Eug%C3%A8ne-Delacroix",
+  "anneeCreation": 1971,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.8546,
+  "longitude": 2.3354,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

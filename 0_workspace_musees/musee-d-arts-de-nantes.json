@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q1783956",
+      "description": "musée des arts situé à Nantes, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-d-arts-de-nantes",
+  "nom": "Musée d'Arts de Nantes",
+  "ville": "Nantes",
+  "pays": "France",
+  "adresse": "Rue Georges-Clemenceau 10, 44000 Nantes",
+  "siteUrl": "https://museedartsdenantes.nantesmetropole.fr",
+  "imageUrl": "https://www.levoyageanantes.fr/wp-content/uploads/2016/01/2023_08_31_Coll_Visite_Cc_082-768x1152.jpg",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q1783956",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d'Arts_de_Nantes",
+  "anneeCreation": 1801,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 47.21944,
+  "longitude": -1.54722,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

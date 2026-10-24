@@ -1,0 +1,15 @@
+{
+  "France": "Europe", "Italie": "Europe", "Espagne": "Europe", "Portugal": "Europe",
+  "Allemagne": "Europe", "Autriche": "Europe", "Suisse": "Europe", "Belgique": "Europe",
+  "Pays-Bas": "Europe", "Luxembourg": "Europe", "Royaume-Uni": "Europe", "Irlande": "Europe",
+  "Danemark": "Europe", "Suède": "Europe", "Norvège": "Europe", "Finlande": "Europe",
+  "Russie": "Europe", "Pologne": "Europe", "République tchèque": "Europe", "Hongrie": "Europe",
+  "Grèce": "Europe", "Roumanie": "Europe",
+  "États-Unis": "Amériques", "Canada": "Amériques", "Mexique": "Amériques", "Brésil": "Amériques",
+  "Argentine": "Amériques", "Chili": "Amériques", "Pérou": "Amériques", "Colombie": "Amériques",
+  "Japon": "Asie", "Chine": "Asie", "Inde": "Asie", "Corée du Sud": "Asie", "Taïwan": "Asie",
+  "Singapour": "Asie", "Thaïlande": "Asie", "Qatar": "Asie", "Émirats arabes unis": "Asie", "Israël": "Asie",
+  "Égypte": "Afrique", "Maroc": "Afrique", "Tunisie": "Afrique", "Afrique du Sud": "Afrique",
+  "Sénégal": "Afrique", "Nigeria": "Afrique",
+  "Australie": "Océanie", "Nouvelle-Zélande": "Océanie"
+}

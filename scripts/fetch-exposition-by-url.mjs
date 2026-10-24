@@ -377,11 +377,11 @@ async function main() {
       console.error(
         museeForce
           ? `  ✕ Musée inconnu : "${museeForce}".`
-          : `  ✕ Ce site n'est pas dans le registre des musées (${new URL(url).hostname}).`,
+          : `  ✕ Aucune fiche musée pour ce site (${new URL(url).hostname}).`,
       );
-      console.error(
-        '    Ajoute-le dans scripts/catalog/registres/musees.json (id, nom, ville, pays, adresse, domaine), puis relance.',
-      );
+      console.error('    Crée d\'abord sa fiche, puis relance :');
+      console.error('      node scripts/musees.mjs creer "adresse-du-site" --ville "..."');
+      console.error('      node scripts/musees.mjs promouvoir');
       continue;
     }
 

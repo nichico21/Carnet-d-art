@@ -1,0 +1,20 @@
+{
+  "id": "louvre",
+  "nom": "Musée du Louvre",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "Rue de Rivoli, 75001 Paris",
+  "siteUrl": "https://www.louvre.fr",
+  "type": "Musée encyclopédique",
+  "nomsCatalogue": [
+    "Musée du Louvre"
+  ],
+  "imageUrl": "https://www.unjourdeplusaparis.com/wp-content/uploads/2015/05/photo-louvre-insolite.jpg",
+  "wikidataId": "Q19675",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Louvre",
+  "latitude": 48.86111,
+  "longitude": 2.33583,
+  "anneeCreation": 1793,
+  "surfaceM2": 210000,
+  "nombreObjets": 460000
+}

@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "adresse",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q1327886",
+      "description": "musée d'art à Paris, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "adresse",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "musee-marmottan-monet",
+  "nom": "Musée Marmottan Monet",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "2 rue Louis-Boilly, 75016 Paris, France",
+  "siteUrl": "https://www.marmottan.fr",
+  "imageUrl": "https://mus3ums.com/media-resize/1600/museums/images/full/e4/59/e4597fb92d884adc9291f8cc8c50201b.jpg.webp",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q1327886",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet",
+  "anneeCreation": 1934,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.85928,
+  "longitude": 2.26738,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

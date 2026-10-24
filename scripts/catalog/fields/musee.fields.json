@@ -1,0 +1,158 @@
+{
+  "champs": [
+    {
+      "nom": "id",
+      "type": "slug",
+      "obligatoire": true,
+      "source": "systeme"
+    },
+    {
+      "nom": "nom",
+      "type": "texte",
+      "obligatoire": true,
+      "source": "collecte"
+    },
+    {
+      "nom": "ville",
+      "type": "texte",
+      "obligatoire": true,
+      "source": "curation"
+    },
+    {
+      "nom": "pays",
+      "type": "texte",
+      "obligatoire": true,
+      "source": "curation"
+    },
+    {
+      "nom": "adresse",
+      "type": "texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "curation",
+      "aide": "Adresse postale (rue, code postal, ville), page « Informations pratiques » du site."
+    },
+    {
+      "nom": "siteUrl",
+      "type": "url",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Page d'accueil du site officiel (https://...). Indispensable pour rattacher des expositions."
+    },
+    {
+      "nom": "imageUrl",
+      "type": "url",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Adresse d'une photo du musée (façade, salle). À vérifier dans un navigateur."
+    },
+    {
+      "nom": "description",
+      "type": "texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "curation",
+      "aide": "2 à 4 phrases, en tes propres mots (le texte du site est protégé)."
+    },
+    {
+      "nom": "type",
+      "type": "vocabulaire",
+      "vocabulaire": "types_musee",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "curation",
+      "aide": "Une valeur de la liste."
+    },
+    {
+      "nom": "collections",
+      "type": "vocabulaire_liste",
+      "vocabulaire": "collections_musee",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "curation",
+      "aide": "Les grandes collections du musée, dans la liste (icônes de la page du musée)."
+    },
+    {
+      "nom": "wikidataId",
+      "type": "identifiant_wikidata",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Identifiant Wikidata (Q...). La commande « completer » le cherche et remplit le reste gratuitement."
+    },
+    {
+      "nom": "wikipediaUrl",
+      "type": "url",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Page Wikipédia du musée (renseignée avec l'identifiant Wikidata)."
+    },
+    {
+      "nom": "anneeCreation",
+      "type": "nombre",
+      "entier": true,
+      "min": 1000,
+      "max": 2100,
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Année de création du musée (4 chiffres)."
+    },
+    {
+      "nom": "surfaceM2",
+      "type": "nombre",
+      "min": 1,
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Surface en m² (bâtiment ou salles d'exposition, selon la source)."
+    },
+    {
+      "nom": "nombreObjets",
+      "type": "nombre",
+      "entier": true,
+      "min": 1,
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Nombre d'objets de la collection (ordre de grandeur publié)."
+    },
+    {
+      "nom": "latitude",
+      "type": "nombre",
+      "min": -90,
+      "max": 90,
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Pour la carte : clic droit sur le musée dans Google Maps, premier nombre."
+    },
+    {
+      "nom": "longitude",
+      "type": "nombre",
+      "min": -180,
+      "max": 180,
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Pour la carte : clic droit sur le musée dans Google Maps, second nombre."
+    },
+    {
+      "nom": "incontournable",
+      "type": "booleen",
+      "obligatoire": false,
+      "source": "curation",
+      "aide": "true pour afficher le musée dans la rubrique « Incontournables »."
+    },
+    {
+      "nom": "oeuvresIncontournablesIds",
+      "type": "liste_texte",
+      "obligatoire": false,
+      "source": "curation",
+      "aide": "Identifiants d'œuvres du catalogue à mettre en avant (8 au plus)."
+    },
+    {
+      "nom": "nomsCatalogue",
+      "type": "liste_texte",
+      "obligatoire": false,
+      "source": "systeme"
+    }
+  ]
+}

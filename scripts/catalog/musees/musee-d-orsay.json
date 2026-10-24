@@ -1,0 +1,12 @@
+{
+  "id": "musee-d-orsay",
+  "nom": "Musée d'Orsay",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "Esplanade Valéry Giscard d'Estaing, 75007 Paris",
+"siteUrl": "https://www.musee-orsay.fr/fr",
+  "imageUrl": "https://media.vogue.fr/photos/5c8ade98488cdc9b81df7a62/2:3/w_1920,c_limit/GettyImages-541442952.jpg",
+  "nomsCatalogue": [
+    "Musée d'Orsay"
+  ]
+}

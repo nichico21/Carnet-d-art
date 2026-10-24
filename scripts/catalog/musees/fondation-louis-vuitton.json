@@ -1,0 +1,12 @@
+{
+  "id": "fondation-louis-vuitton",
+  "nom": "Fondation Louis Vuitton",
+  "ville": "Paris",
+  "pays": "France",
+  "adresse": "8 avenue du Mahatma Gandhi, Bois de Boulogne",
+  "siteUrl": "https://www.fondationlouisvuitton.fr",
+  "imageUrl": "https://cdn.sortiraparis.com/images/1001/99636/1065327-fondation-louis-vuitton.jpg",
+    "description": "La Fondation Louis Vuitton est une fondation d’entreprise du groupe LVMH, installée dans le bois de Boulogne, près du Jardin d’Acclimatation. Elle présente des expositions d’art moderne et contemporain, des œuvres de sa collection et des commandes d’artistes.\n\nSa réputation tient d’abord à son bâtiment signé Frank Gehry : douze voiles de verre qui évoquent un navire, posées sur un bassin. Elle tient aussi à ses expositions très fréquentées, consacrées à de grands noms comme Mark Rothko ou le duo Basquiat et Warhol.\n\nLe saviez-vous ? L’exposition consacrée à la collection Chtchoukine, en 2016-2017, a attiré plus de 1,2 million de visiteurs : un record pour une exposition d’art en France, selon la Fondation.",
+  "type": "Fondation privée",
+  "nomsCatalogue": []
+}

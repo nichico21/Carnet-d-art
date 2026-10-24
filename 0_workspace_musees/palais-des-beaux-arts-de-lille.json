@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q2628596",
+      "description": "musée de Lille, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [
+        "plusieurs années de création sur Wikidata (1809, 1892) : 1809 retenue"
+      ],
+      "date": "2026-10-23"
+    }
+  },
+  "id": "palais-des-beaux-arts-de-lille",
+  "nom": "palais des Beaux-Arts de Lille",
+  "ville": "Lille",
+  "pays": "France",
+  "adresse": null,
+  "siteUrl": "https://pba.lille.fr",
+  "imageUrl": "https://www.studiosherlock.fr/wp-content/uploads/2020/01/Studio-Sherlock-Lille_13.jpg",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q2628596",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille",
+  "anneeCreation": 1809,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 50.63092,
+  "longitude": 3.06117,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

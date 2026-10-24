@@ -1,0 +1,82 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "types_autorises": [
+      "Musée encyclopédique",
+      "Beaux-arts",
+      "Art moderne et contemporain",
+      "Fondation privée",
+      "Musée de collectionneur",
+      "Autre"
+    ],
+    "collections_autorisees": [
+      "Peinture",
+      "Sculpture",
+      "Antiquités",
+      "Arts décoratifs",
+      "Arts graphiques",
+      "Photographie",
+      "Art moderne et contemporain",
+      "Arts d'Asie",
+      "Arts d'Afrique et d'Océanie",
+      "Arts de l'Islam"
+    ],
+    "noms_catalogue_proposes": {
+      "noms": [],
+      "oeuvres": 0
+    },
+    "pays_par_defaut": false,
+    "note_description": "Écris la description en tes propres mots (ou lance : completer <id> --ia).",
+    "a_verifier": [
+      "ville",
+      "pays",
+      "siteUrl",
+      "imageUrl",
+      "wikidataId",
+      "wikipediaUrl",
+      "latitude",
+      "longitude",
+      "anneeCreation"
+    ],
+    "wikidata": {
+      "id": "Q3098373",
+      "description": "musée de Rennes, France",
+      "types": [
+        "musée d'art"
+      ],
+      "champs_remplis": [
+        "ville",
+        "pays",
+        "siteUrl",
+        "imageUrl",
+        "wikidataId",
+        "wikipediaUrl",
+        "latitude",
+        "longitude",
+        "anneeCreation"
+      ],
+      "avertissements": [],
+      "date": "2026-10-24"
+    }
+  },
+  "id": "musee-des-beaux-arts-de-rennes",
+  "nom": "musée des Beaux-Arts de Rennes",
+  "ville": "Rennes",
+  "pays": "France",
+  "adresse": null,
+  "siteUrl": "https://mba.rennes.fr",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rennes-ancien%20Palais%20Universitaire-Mus%C3%A9e%20des%20beaux%20arts.JPG?width=1200",
+  "description": null,
+  "type": null,
+  "collections": [],
+  "wikidataId": "Q3098373",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Rennes",
+  "anneeCreation": 1794,
+  "surfaceM2": null,
+  "nombreObjets": null,
+  "latitude": 48.10944,
+  "longitude": -1.675,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": []
+}

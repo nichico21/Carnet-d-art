@@ -1,5 +1,6 @@
-import React, { useEffect, useMemo, useState } from 'react';
-import { FlatList, Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { FlatList, Pressable, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { useNavigation } from '@react-navigation/native';
 import { ARTWORKS, FACETTES } from '../data/artworks.generated';
 import { ARTISTES } from '../data/artistes.generated';
@@ -10,11 +11,14 @@ import { Musee } from '../types/musee';
 import { ArtisteDetail } from '../components/artistes/ArtisteDetail';
 import { ArtistesView } from '../components/artistes/ArtistesView';
 import { ArtworkDetail } from '../components/ArtworkDetail';
-import { construireBlocs, GridBlock } from '../components/ArtworkGrid';
+import { Bloc, construireBlocs, GridBlock } from '../components/ArtworkGrid';
 import { CategoryList } from '../components/CategoryList';
 import { FilterBar, FiltresActifs } from '../components/FilterBar';
 import { MuseeDetail } from '../components/musees/MuseeDetail';
 import { MuseesView } from '../components/musees/MuseesView';
+import { TriOeuvres } from '../components/TriOeuvres';
+import { correspondEpoque, trierEpoques } from '../oeuvres/epoque';
+import { OrdreOeuvres, trierParAnnee } from '../oeuvres/tri';
 import { colors } from '../theme/colors';
 import { useCarnet } from '../store/CarnetContext';
 import { fonts } from '../theme/typography';
@@ -39,6 +43,10 @@ export function CatalogueScreen() {
   const [sousOnglet, setSousOnglet] = useState<(typeof SOUS_ONGLETS)[number]>('Catalogue');
   const [vue, setVue] = useState<(typeof VUES)[number]>('Œuvres');
   const [filtres, setFiltres] = useState<FiltresActifs>({});
+  const [ordre, setOrdre] = useState<OrdreOeuvres>('aleatoire');
+  const liste = useRef<FlatList<Bloc>>(null);
+  // les époques de la liste de filtres sont classées du plus ancien siècle au plus récent
+  const facettes = useMemo(() => ({ ...FACETTES, epoques: trierEpoques(FACETTES.epoques) }), []);
   const { notes, favoris, setNote, toggleFavori } = useCarnet();
 
   const base = useMemo(() => {
@@ -52,13 +60,7 @@ export function CatalogueScreen() {
       if (filtres.mouvement && a.mouvement !== filtres.mouvement) return false;
       if (filtres.artiste && a.artiste !== filtres.artiste) return false;
       if (filtres.genre && !(a.themes ?? []).includes(filtres.genre)) return false;
-      if (filtres.epoque) {
-        const n = parseInt(a.annee ?? '', 10);
-        const siecle = n ? Math.ceil(n / 100) : null;
-        if (!filtres.epoque.startsWith(String(siecle ?? '__'))) {
-          // comparaison simplifiée : voir note ci-dessous
-        }
-      }
+      if (!correspondEpoque(a, filtres.epoque)) return false;
       return true;
     });
   }, [base, filtres]);
@@ -68,10 +70,17 @@ export function CatalogueScreen() {
     setData(melanger(filtree));
   }, [sousOnglet, filtres]);
 
-  const blocs = useMemo(() => construireBlocs(data), [data]);
+  // « Aléatoire » garde la liste mélangée ci-dessus ; les deux autres ordres sont chronologiques
+  const affichees = useMemo(() => (ordre === 'aleatoire' ? data : trierParAnnee(data, ordre)), [data, ordre]);
+  const blocs = useMemo(() => construireBlocs(affichees), [affichees]);
+
+  const changerOrdre = (o: OrdreOeuvres) => {
+    setOrdre(o);
+    liste.current?.scrollToOffset({ offset: 0, animated: false });
+  };
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['top']}>
       <Text style={styles.header}>Catalogue</Text>
 
       <View style={styles.ongletsRow}>
@@ -95,13 +104,16 @@ export function CatalogueScreen() {
         ))}
       </View>
 
-      {vue !== 'Musées' && vue !== 'Artistes' && <FilterBar facettes={FACETTES} filtres={filtres} onChange={setFiltres} />}
+      {vue !== 'Musées' && vue !== 'Artistes' && <FilterBar facettes={facettes} filtres={filtres} onChange={setFiltres} />}
+
+      {vue === 'Œuvres' && data.length > 0 && <TriOeuvres nombre={data.length} ordre={ordre} onChange={changerOrdre} />}
 
       {vue === 'Œuvres' && (
         data.length === 0 ? (
           <Text style={styles.vide}>Aucune œuvre ne correspond à ces filtres.</Text>
         ) : (
           <FlatList
+            ref={liste}
             data={blocs}
             keyExtractor={(b) => b.key}
             renderItem={({ item }) => <GridBlock bloc={item} onPressItem={setSelected} />}

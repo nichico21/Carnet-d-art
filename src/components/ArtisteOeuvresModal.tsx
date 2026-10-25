@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from 'react';
-import { FlatList, Modal, Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import { FlatList, Modal, Pressable, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { Artwork } from '../types/artwork';
@@ -34,7 +35,7 @@ export function ArtisteOeuvresModal({ artiste, onClose, onFermerTout }: Props) {
 
   return (
     <Modal visible animationType="slide" onRequestClose={onClose}>
-      <SafeAreaView style={styles.container}>
+      <SafeAreaView edges={['top']} style={styles.container}>
         <View style={styles.header}>
           <Pressable onPress={onClose} hitSlop={8} style={styles.fermer}>
             <Ionicons name="close" size={22} color={colors.textPrimary} />

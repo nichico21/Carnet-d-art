@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Modal, Pressable, ScrollView, StatusBar, StyleSheet, Text, View } from 'react-native';
 import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -120,7 +120,10 @@ function Hero({
   favori: boolean;
   onToggleFavori: () => void;
 }) {
-  const insets = useSafeAreaInsets();
+    const insets = useSafeAreaInsets();
+  // Dans une fenêtre Android, la valeur de la bibliothèque peut être trop petite :
+  // on prend le plus grand de deux nombres (la sienne et la hauteur de la barre d'état)
+  const haut = Math.max(insets.top, StatusBar.currentHeight ?? 0);
   const [tentative, setTentative] = useState(0);
   const [echecDefinitif, setEchecDefinitif] = useState(false);
   const [pleinEcran, setPleinEcran] = useState(false);
@@ -156,7 +159,7 @@ function Hero({
       </Pressable>
       <LinearGradient colors={scrimColors} style={StyleSheet.absoluteFill} pointerEvents="none" />
 
-      <View style={[styles.heroTopBar, { paddingTop: insets.top + 8 }]}>
+            <View style={[styles.heroTopBar, { paddingTop: haut + 8 }]}>
         <Pressable style={styles.iconButton} onPress={onClose}>
           <Ionicons name="arrow-back" size={20} color="#FFFFFF" />
         </Pressable>
@@ -207,7 +210,7 @@ function Hero({
         <Pressable style={styles.viewerBackdrop} onPress={() => setPleinEcran(false)}>
          {uri && <ZoomableImage uri={uri} />}
           <Pressable
-            style={[styles.viewerClose, { top: insets.top + 12 }]}
+                        style={[styles.viewerClose, { top: haut + 12 }]}
             onPress={() => setPleinEcran(false)}
           >
             <Ionicons name="close" size={24} color="#FFFFFF" />

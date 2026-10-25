@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { SafeAreaView, StyleSheet, Text } from 'react-native';
+import { StyleSheet, Text } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { useNavigation } from '@react-navigation/native';
 import { ARTISTES } from '../data/artistes.generated';
 import { ARTWORKS, FACETTES } from '../data/artworks.generated';
@@ -22,7 +23,7 @@ export function ArtistesScreen() {
   const [artisteCatalogue, setArtisteCatalogue] = useState<ArtisteExposition | null>(null);
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView edges={['top']} style={styles.container}>
       <Text style={styles.titre}>Artistes</Text>
 
       <ArtistesView

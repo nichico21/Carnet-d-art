@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Dimensions, Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Dimensions, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
@@ -55,7 +56,7 @@ export function OrdreScreen() {
 
   if (manches.length === 0) {
     return (
-      <SafeAreaView style={styles.container}>
+      <SafeAreaView edges={['top']} style={styles.container}>
         <View style={styles.header}>
           <Pressable onPress={() => navigation.goBack()} hitSlop={8}>
             <Ionicons name="arrow-back" size={22} color={colors.textPrimary} />
@@ -123,7 +124,7 @@ export function OrdreScreen() {
   if (termine) {
     const total = bilans.reduce((n, b) => n + b.manche.ordreCorrect.length, 0);
     return (
-      <SafeAreaView style={styles.container}>
+      <SafeAreaView edges={['top']} style={styles.container}>
         <ScrollView contentContainerStyle={styles.finScroll} showsVerticalScrollIndicator={false}>
           <View style={styles.finHeader}>
             <Ionicons name="trophy" size={40} color={colors.accent} />
@@ -162,7 +163,7 @@ export function OrdreScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView edges={['top']} style={styles.container}>
       <View style={styles.header}>
         <Pressable onPress={() => navigation.goBack()} hitSlop={8}>
           <Ionicons name="close" size={22} color={colors.textPrimary} />

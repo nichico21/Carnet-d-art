@@ -1,10 +1,11 @@
 import React from 'react';
-import { SafeAreaView, StyleSheet, Text } from 'react-native';
+import { StyleSheet, Text } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { colors } from '../theme/colors';
 
 export function PlaceholderScreen({ nom }: { nom: string }) {
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView edges={['top']} style={styles.container}>
       <Text style={styles.titre}>{nom}</Text>
       <Text style={styles.texte}>Bientôt disponible.</Text>
     </SafeAreaView>

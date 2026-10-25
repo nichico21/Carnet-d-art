@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from 'react';
-import { Dimensions, Pressable, SafeAreaView, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
+import { Dimensions, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useRoute, RouteProp } from '@react-navigation/native';
 import { IDEES_GOUTS } from '../data/boutique';
@@ -63,7 +64,7 @@ export function BoutiqueScreen() {
   );
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView edges={['top']} style={styles.container}>
       <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.content}>
         <Text style={styles.titre}>Boutique</Text>
         <Text style={styles.sousTitre}>Prolongez votre passion pour l'art</Text>

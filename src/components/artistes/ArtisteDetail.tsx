@@ -106,11 +106,11 @@ export function ArtisteDetail({ artiste, onClose, onOuvrirExposition }: Props) {
     <View>
       {reperes.length > 0 ? (
         <View style={styles.reperes}>
-          {reperes.map((r) => (
-            <View key={r.libelle} style={styles.repere}>
+          {reperes.map((r, i) => (
+            <View key={r.libelle} style={[styles.repere, i > 0 ? styles.repereSepare : null]}>
               <Ionicons name={r.icone} size={20} color={colors.textSecondary} />
               <Text style={styles.repereLibelle}>{r.libelle}</Text>
-              <Text style={styles.repereValeur} numberOfLines={2}>{r.valeur}</Text>
+              <Text style={styles.repereValeur}>{r.valeur}</Text>
             </View>
           ))}
         </View>
@@ -300,10 +300,11 @@ const styles = StyleSheet.create({
   soulignement: { height: 2, backgroundColor: colors.accent, marginTop: 8, borderRadius: 1 },
   compte: { fontFamily: fonts.uiMedium, fontSize: 13, color: colors.textSecondary, marginTop: 16 },
 
-  reperes: { flexDirection: 'row', justifyContent: 'space-between', gap: 8, marginTop: 20, paddingBottom: 18, borderBottomWidth: 1, borderBottomColor: colors.border },
-  repere: { flex: 1, alignItems: 'center', gap: 4 },
-  repereLibelle: { fontFamily: fonts.ui, fontSize: 11.5, color: colors.textSecondary },
-  repereValeur: { fontFamily: fonts.uiMedium, fontSize: 13.5, lineHeight: 17, color: colors.textPrimary, textAlign: 'center' },
+  reperes: { marginTop: 12, borderBottomWidth: 1, borderBottomColor: colors.border },
+  repere: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingVertical: 12 },
+  repereSepare: { borderTopWidth: 1, borderTopColor: colors.border },
+  repereLibelle: { width: 84, fontFamily: fonts.ui, fontSize: 13, color: colors.textSecondary },
+  repereValeur: { flex: 1, fontFamily: fonts.uiMedium, fontSize: 14.5, lineHeight: 19, color: colors.textPrimary },
 
   bloc: { marginTop: 18 },
   texte: { fontFamily: fonts.ui, fontSize: 14, lineHeight: 21, color: colors.textPrimary },

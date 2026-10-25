@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q333380",
+      "description": "primitif flamand (c. 1460–1523)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gerard-david",
+  "nom": "Gérard David",
+  "alias": [
+    "Gérard Jansz David",
+    "Gheeraedt Davidt",
+    "Gherat Davit",
+    "Gheeraert David",
+    "Gerard Davit",
+    "Gerard Davidt",
+    "Gheeraedt Davit",
+    "Gherat Davidt",
+    "Gherat David",
+    "Gheeraert Davit",
+    "Gheeraedt David",
+    "Gheeraert Davidt"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q333380",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/G%C3%A9rard_David",
+  "ulanId": "500025998",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20David%20selfportrait%20in%20The%20Virgin%20among%20the%20VirginsFXD.jpg?width=1200",
+  "naissance": "1460",
+  "deces": "1523-08-13",
+  "datesApproximatives": true,
+  "villeNaissance": "Oudewater",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Primitifs flamands"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gérard David"
+  ]
+}

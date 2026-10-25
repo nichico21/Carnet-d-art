@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2506493",
+      "description": "peintre espagnol",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "raimundo-de-madrazo-y-garreta",
+  "nom": "Raimundo de Madrazo y Garreta",
+  "alias": [
+    "Raimundo De Madrazo",
+    "Raimondo de Madrazo y Garreta",
+    "Raimundo Madrazo",
+    "Raimundo y Garreta de Madrazo",
+    "Raymundo de Madrazo",
+    "Raimundo de Madrazo Garreta",
+    "Raimundo Madrazo Garreta",
+    "Don Raimundo de Madrazo",
+    "Madrazo",
+    "Raimunde De Madrazo",
+    "Madrazo y Garreta",
+    "R. De Madrazo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2506493",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Raimundo_de_Madrazo_y_Garreta",
+  "ulanId": "500001278",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20pintor%20Raimundo%20de%20Madrazo%2C%20por%20Federico%20Madrazo.jpg?width=1200",
+  "naissance": "1841-07-24",
+  "deces": "1920-09-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Rome",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Espagne",
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Raimundo de Madrazo y Garreta"
+  ]
+}

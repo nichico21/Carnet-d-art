@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q585067",
+      "description": "peintre et graveur français (1861-1909)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1861-03-29, 1864-03-29) : 1861-03-29 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paul-elie-ranson",
+  "nom": "Paul-Élie Ranson",
+  "alias": [
+    "P. Ranson",
+    "Paul Ranson"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q585067",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul-%C3%89lie_Ranson",
+  "ulanId": "500029480",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4t%20Paul%20Ranson.jpg?width=1200",
+  "naissance": "1861-03-29",
+  "deces": "1909-02-20",
+  "datesApproximatives": null,
+  "villeNaissance": "Limoges",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul-Élie Ranson"
+  ]
+}

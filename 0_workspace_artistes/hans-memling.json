@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q106851",
+      "description": "peintre allemand de style flamand (vers 1430-1494)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "hans-memling",
+  "nom": "Hans Memling",
+  "alias": [
+    "Hans Hemelinck",
+    "Hans van Brugge",
+    "Jan van Memmelynghe",
+    "Memling",
+    "Hans Hemling",
+    "Hans Memmelinck",
+    "Hans Mamline",
+    "Khans Memling",
+    "John of Bruges",
+    "Jan Memlinc",
+    "Hans Hemmeling",
+    "Hans Memlinc"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q106851",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Hans_Memling",
+  "ulanId": "500005611",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Memling%20-%20Self-portrait.jpg?width=1200",
+  "naissance": "1435",
+  "deces": "1494-08-11",
+  "datesApproximatives": true,
+  "villeNaissance": "Seligenstadt",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Belgique",
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Primitifs flamands"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Hans Memling"
+  ]
+}

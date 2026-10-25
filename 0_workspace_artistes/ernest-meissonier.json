@@ -1,0 +1,102 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q354786",
+      "description": "peintre et sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "personnalité politique",
+        "aquafortiste",
+        "aquarelliste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "ernest-meissonier",
+  "nom": "Ernest Meissonier",
+  "alias": [
+    "Ernest Meissonnier",
+    "Ernest Messonier",
+    "Jean Louis Ernest Meissonier",
+    "Meissonier",
+    "E. Meissonnier",
+    "Jean Louis Meissonier",
+    "Jean Louis Ernest Meissonnier",
+    "Meissonnier",
+    "Jean Louis Ernst Meissonier",
+    "Messonier",
+    "J. L. E. Meissonier",
+    "E. Meissonier"
+  ],
+  "nomNaissance": "Jean-Louis-Ernest Meissonier",
+  "wikidataId": "Q354786",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ernest_Meissonier",
+  "ulanId": "500001155",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Meissonier%20older.jpg?width=1200",
+  "naissance": "1815-02-21",
+  "deces": "1891-01-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Lyon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Ernest Meissonier"
+  ]
+}

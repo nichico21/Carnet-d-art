@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q20738565",
+      "description": "peintre, aquarelliste et pastelliste français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1843-12-23, 1843-12-28) : 1843-12-23 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste textile",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eugene-baudin",
+  "nom": "Eugène Baudin",
+  "alias": [
+    "Eugène Benoît Baudin"
+  ],
+  "nomNaissance": "Eugène Benoît Baudin",
+  "wikidataId": "Q20738565",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Baudin_(peintre)",
+  "ulanId": "500017724",
+  "imageUrl": null,
+  "naissance": "1843-12-23",
+  "deces": "1907-07-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Lyon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eugène Baudin"
+  ]
+}

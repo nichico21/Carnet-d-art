@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q330139",
+      "description": "peintre flamand (1575-1632)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "abraham-janssens-i",
+  "nom": "Abraham Janssens I",
+  "alias": [
+    "Abraham Janssens van Nuyssen",
+    "Abraham Janssen",
+    "Abraham Janssens",
+    "Abraham I Janssens Van Nuyssen",
+    "Abraham I Janssens",
+    "Abraham Janssen van Nuyssen",
+    "Abraham Jansens",
+    "Ab. Janssens",
+    "Abraham Jensens",
+    "Abraham Jansène",
+    "Abrah. Janssens",
+    "A. Jansens"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q330139",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Abraham_Janssens",
+  "ulanId": "500033089",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scaldis%20and%20Antwerpia%20by%20Abraham%20Janssens.jpg?width=1200",
+  "naissance": "1575",
+  "deces": "1632-01-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Abraham Janssens I"
+  ]
+}

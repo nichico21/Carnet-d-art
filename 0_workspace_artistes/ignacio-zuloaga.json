@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q460198",
+      "description": "peintre espagnol",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "ignacio-zuloaga",
+  "nom": "Ignacio Zuloaga",
+  "alias": [
+    "Ignacio Zuloaga y Zabaleta",
+    "Ignacio Zuloaga Zabaleta",
+    "Ignacio Zabeleta y Zuloaga",
+    "Ignacio de Zuloaga Zabaleta",
+    "Ignasi Zuloaga y Zabaleta",
+    "Ignacio de Zuloaga y Zabaleta",
+    "Ignasi de Zuloaga y Zabaleta",
+    "Ignacio Zuloaga y Zanora",
+    "Ignasi Zuloaga Zabaleta",
+    "Ignasi de Zuloaga Zabaleta",
+    "Zuloaga"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q460198",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ignacio_Zuloaga",
+  "ulanId": "500015091",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ignacio%20Zuloaga%20cph.3a44376.jpg?width=1200",
+  "naissance": "1870-07-26",
+  "deces": "1945-10-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Eibar",
+  "paysNaissance": "Espagne",
+  "nationalites": [
+    "Espagne"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Ignacio Zuloaga"
+  ]
+}

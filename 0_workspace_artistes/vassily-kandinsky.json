@@ -1,0 +1,112 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q61064",
+      "description": "peintre russe, naturalisé allemand puis français (1866-1944)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université",
+        "théoricien ou théoricienne de l'art",
+        "enseignant ou enseignante",
+        "avocat ou avocate",
+        "scénographe",
+        "designer ou designeuse",
+        "écrivain ou écrivaine",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": [
+        "Empire russe",
+        "Union soviétique"
+      ]
+    }
+  },
+  "id": "vassily-kandinsky",
+  "nom": "Vassily Kandinsky",
+  "alias": [
+    "Vasily Kandinsky",
+    "Wassily Kandinsky",
+    "Vassili Kandinski",
+    "Vassili Kandinsky",
+    "Vasily Vasilyevich Kandinsky",
+    "Kandinsky",
+    "Vasilĭi Vasilʹevich Kandinskĭi",
+    "Vasilij Vasil'evič Kandinskij",
+    "Wahsili Kang-ting-ssu-chi",
+    "Basile W. Kandinsky",
+    "Vasilij Vasilijevitch Kandynski",
+    "W. Kandinsky"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q61064",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vassily_Kandinsky",
+  "ulanId": "500021093",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg?width=1200",
+  "naissance": "1866-11-22",
+  "deces": "1944-12-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Moscou",
+  "paysNaissance": "Russie",
+  "nationalites": [
+    "Russie",
+    "France",
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Expressionnisme",
+    "Symbolisme",
+    "Bauhaus"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Vassily Kandinsky"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "disciplines"
+    ],
+    "wikidata": {
+      "id": "Q1918675",
+      "description": "maître anonyme peintre du gothique tardif, actif dans le Nord des Pays-Bas",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "disciplines"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "maitre-de-delft",
+  "nom": "Maître de Delft",
+  "alias": [
+    "Meester van Delft",
+    "Master Of Delft",
+    "Meister Von Delft"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1918675",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ma%C3%AEtre_de_Delft",
+  "ulanId": "500006634",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Master%20of%20Delft%20-%20The%20Crucifixion-%20Central%20Panel%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": null,
+  "deces": null,
+  "datesApproximatives": null,
+  "villeNaissance": null,
+  "paysNaissance": null,
+  "nationalites": [],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Maître de Delft"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q533314",
+      "description": "peintre flamand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1533, 1531) : 1533 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "joachim-bueckelaer",
+  "nom": "Joachim Bueckelaer",
+  "alias": [
+    "Joachim Beuckelaer",
+    "Joachim C. Beuckelaer",
+    "Joachim Buekelaer",
+    "Joachim Becokelaer",
+    "Joachim C. Bueckelaer",
+    "Jochum Beuckelaer",
+    "Joachim Beukelaer",
+    "Joachim Beuckeleer",
+    "Beukeleer",
+    "J. Beukelaer",
+    "Joachim Beukelaar",
+    "Buckclear"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q533314",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Joachim_Bueckelaer",
+  "ulanId": "500031041",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Joachim%20Beuckelaer%20Ioachimus%20Bueckelaer%2C%20Antverp.%20Pictor.%20(titel%20op%20object)%20Pictorum%20Aliquot%20Celebrium%20Praecipuae%20Germaniae%20Inferioris%20Effigies%20(serietitel)%2C%20RP-P-1907-353.jpg?width=1200",
+  "naissance": "1533",
+  "deces": "1573",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Joachim Bueckelaer"
+  ]
+}

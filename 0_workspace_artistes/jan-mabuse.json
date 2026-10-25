@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q346952",
+      "description": "peintre, dessinateur et graveur originaire de l'ancien comté de Hainaut (Pays-Bas bourguignons) (1478–1532)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1532-10-01, 1532-09-12) : 1532-10-01 retenue",
+        "nationalité déduite du lieu de naissance (Wikidata : Saint-Empire romain germanique)"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": [
+        "Saint-Empire romain germanique"
+      ]
+    }
+  },
+  "id": "jan-mabuse",
+  "nom": "Jan Mabuse",
+  "alias": [
+    "Jean de Maubeuge",
+    "Jean Gossart",
+    "Jan Gossaert Mabuse",
+    "Jan Gossaert van Mabuse",
+    "Jan of Maubeuge",
+    "Jennyn de Waele",
+    "Jan de Maubege",
+    "Nicasius Gossaert van Mauberge",
+    "Jan Maubeuge",
+    "Nicasius Gossart van Mauberge",
+    "Nicasius Gossaert Mauberge",
+    "Jan van Henegouwe"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q346952",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jan_Mabuse",
+  "ulanId": "500009353",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Gossart%20-%20Portrait%20of%20a%20Man%20(Self-Portrait)%2C%20circa%201520-1525%2C%201951.6.jpg?width=1200",
+  "naissance": "1478",
+  "deces": "1532-10-01",
+  "datesApproximatives": null,
+  "villeNaissance": "Maubeuge",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jan Mabuse"
+  ]
+}

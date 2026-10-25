@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q42207",
+      "description": "peintre italien (1571–1610)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "Contre-Réforme"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "le-caravage",
+  "nom": "Le Caravage",
+  "alias": [
+    "Michel-Ange de Caravage",
+    "Caravaggio Amerighi",
+    "Michel-Ange Merisi",
+    "Le Caravage de la Belle Ville",
+    "Caravacci",
+    "Michelangelo Caravagli",
+    "Michelangelo Caraveggio",
+    "Michelangelo di Caravaggio",
+    "Michelangelo Merisi da Carravaggio",
+    "Michael Angelo da Carravaggio",
+    "Michelangelo Caravaggi",
+    "Michel Caravaggi"
+  ],
+  "nomNaissance": "Michelangelo Merisi",
+  "wikidataId": "Q42207",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Caravage",
+  "ulanId": "500115312",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg?width=1200",
+  "naissance": "1571-09-29",
+  "deces": "1610-07-18",
+  "datesApproximatives": null,
+  "villeNaissance": "Milan",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIe siècle",
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Le Caravage"
+  ]
+}

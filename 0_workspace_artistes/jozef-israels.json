@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q528460",
+      "description": "peintre, lithographe et graveur néerlandais (1824-1911)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse",
+        "pastelliste",
+        "aquafortiste",
+        "aquarelliste",
+        "copiste",
+        "écrivain ou écrivaine",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "École de la Haye"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "jozef-israels",
+  "nom": "Jozef Israëls",
+  "alias": [
+    "Josef Israëls",
+    "Jozef Israïls",
+    "Yosef Yiśraʼel's",
+    "Joseph Israëls",
+    "Yosef Yisrael's",
+    "Josef V. Israels",
+    "Israels",
+    "Jo.S Israels",
+    "Jos. Israel",
+    "Jozeph Israels",
+    "J. Israels",
+    "Isräel"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q528460",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jozef_Isra%C3%ABls",
+  "ulanId": "500012980",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JozefIsraels.jpg?width=1200",
+  "naissance": "1824-01-27",
+  "deces": "1911-08-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Groningue",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jozef Israëls"
+  ]
+}

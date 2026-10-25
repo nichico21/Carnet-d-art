@@ -1,0 +1,102 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q213612",
+      "description": "peintre et graveur néerlandais",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1682-03-10, 1682-03-14, 1682-06-14) : 1682-03-10 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "médecin",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jacob-van-ruisdael",
+  "nom": "Jacob van Ruisdael",
+  "alias": [
+    "Ruisdael",
+    "Jacob Van Ruysdael",
+    "Jacob Isaackszoon Van Ruisdael",
+    "Jacob Isaaksz van Ruisdael",
+    "Jacob Isaaksz Ruisdael",
+    "Jacob Isaacksz van Ruisdael",
+    "Jacob Isaakszoon van Ruisdael",
+    "Jacob van Ruijsdael",
+    "Ruysdael",
+    "Jacob Isacksoon van Ruysdael",
+    "Jacques Ruysdael",
+    "J. Ruysdale"
+  ],
+  "nomNaissance": "Jacob Isaackszoon Van Ruisdael",
+  "wikidataId": "Q213612",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jacob_van_Ruisdael",
+  "ulanId": "500027077",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruisdael%20Jacob%20KunsthalleHamburg.jpg?width=1200",
+  "naissance": "1628",
+  "deces": "1682-03-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Haarlem",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jacob van Ruisdael"
+  ]
+}

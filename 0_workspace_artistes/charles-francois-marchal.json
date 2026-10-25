@@ -1,0 +1,80 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q16538493",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1826-04-10, 1825-04-10) : 1826-04-10 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "charles-francois-marchal",
+  "nom": "Charles-François Marchal",
+  "alias": [
+    "Charles Marchal"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q16538493",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Marchal",
+  "ulanId": "500010079",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marchal%2C%20Charles%20(L'Illustration%2C%201877-04-14).jpeg?width=1200",
+  "naissance": "1826-04-10",
+  "deces": "1877-03-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Charles-François Marchal"
+  ]
+}

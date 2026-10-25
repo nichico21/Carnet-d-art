@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q773855",
+      "description": "peintre belge",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "alfred-stevens",
+  "nom": "Alfred Stevens",
+  "alias": [
+    "Alfred-Émile-Léopold Stevens",
+    "Alfred Emile Leopold Joseph Victor Stevens",
+    "Stevens A.",
+    "A. Stevens",
+    "Alfr. Stevens",
+    "Alfd. Stevens",
+    "Alfred Emile Leopold Victor Stevens"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q773855",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alfred_Stevens_(peintre_belge)",
+  "ulanId": "500000844",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stevens%2C%20Alfred%2C%20Erwin%20Hanfstaengl%20phot.%2C%20album%20Manet%2C%20BNF%20Gallica.jpg?width=1200",
+  "naissance": "1823-05-11",
+  "deces": "1906-08-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Bruxelles",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique",
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alfred Stevens"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2830918",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "albert-andre",
+  "nom": "Albert André",
+  "alias": [
+    "Benjamin Marie Albert André",
+    "Albert Benjamin André"
+  ],
+  "nomNaissance": "Benjamin Marie Albert André",
+  "wikidataId": "Q2830918",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Albert_Andr%C3%A9",
+  "ulanId": "500012248",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Andr%C3%A9%20Museum087%20Andr%C3%A9%20Albert%20Autoportrait%20%C3%A0%20la%20palette%201936.jpg?width=1200",
+  "naissance": "1869-05-24",
+  "deces": "1954-07-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Lyon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Post-impressionnisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Albert André"
+  ]
+}

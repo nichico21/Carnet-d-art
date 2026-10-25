@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q192720",
+      "description": "peintre et graveur anglais (1727-1788)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste",
+        "artiste"
+      ],
+      "mouvements": [
+        "Peinture anglaise"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "thomas-gainsborough",
+  "nom": "Thomas Gainsborough",
+  "alias": [
+    "Gainsbro",
+    "Mr. Gainsborough",
+    "Gainsborough Thomas",
+    "T. Gainsborough",
+    "Gainsboro'",
+    "Gainsborough T.",
+    "Thomas Gainsboro",
+    "&c. Gainsborough",
+    "T. Gainsbro",
+    "Th. Gainsborough",
+    "Gainsborough",
+    "Gainsboroagh"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q192720",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Thomas_Gainsborough",
+  "ulanId": "500115200",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg?width=1200",
+  "naissance": "1727-05-14",
+  "deces": "1788-08-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Sudbury",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Thomas Gainsborough"
+  ]
+}

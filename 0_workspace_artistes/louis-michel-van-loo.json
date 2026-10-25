@@ -1,0 +1,82 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q381299",
+      "description": "peintre français",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste",
+        "directeur ou directrice d'école",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "louis-michel-van-loo",
+  "nom": "Louis-Michel van Loo",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q381299",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Louis-Michel_van_Loo",
+  "ulanId": "500011585",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Loo%2C%20Louis%20Michel.jpg?width=1200",
+  "naissance": "1707-03-02",
+  "deces": "1771-03-20",
+  "datesApproximatives": null,
+  "villeNaissance": "Toulon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Classicisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Louis-Michel van Loo"
+  ]
+}

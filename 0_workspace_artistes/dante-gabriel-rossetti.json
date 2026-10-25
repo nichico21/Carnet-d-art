@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q186748",
+      "description": "peintre et poète britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse",
+        "traducteur ou traductrice",
+        "écrivain ou écrivaine",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "dante-gabriel-rossetti",
+  "nom": "Dante Gabriel Rossetti",
+  "alias": [
+    "Gabriel Charles Dante Rossetti",
+    "Dante Gabriel Rosetti",
+    "Dante Rossetti",
+    "Rossetti",
+    "Charles Dante Gabriel Rossetti",
+    "Rosseti",
+    "Gabriel Charles Rossetti",
+    "Dante G. Rossetti",
+    "D.G. Rossetti",
+    "Dante Gabriel Charles Rossetti",
+    "D. G. Rosetti"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q186748",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
+  "ulanId": "500022594",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/-Dante%20Gabriel%20Rossetti-%20MET%20DP-386-287%20(cropped).jpg?width=1200",
+  "naissance": "1828-05-12",
+  "deces": "1882-04-09",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Pré-raphaélisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Dante Gabriel Rossetti"
+  ]
+}

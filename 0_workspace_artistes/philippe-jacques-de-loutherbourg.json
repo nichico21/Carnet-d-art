@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1970087",
+      "description": "peintre franco-britannique",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "scénographe",
+        "costumier ou costumière",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "philippe-jacques-de-loutherbourg",
+  "nom": "Philippe-Jacques de Loutherbourg",
+  "alias": [
+    "Philippe Jakob Loutherbourg le Jeune",
+    "Jacques Philippe II Loutherbourg",
+    "Jacques Philippe Loutherbourg II",
+    "Philipp Jakob de Loutherbourg",
+    "Philip James Loutherbourg",
+    "Philipp Jakob Loutherbourg",
+    "Philippe-Jacques de Loutherbourgh",
+    "Philippe Jacques De Lauterbourg",
+    "Philip James de Loutherborg",
+    "Philip James de Loutherburgh",
+    "R. A. Loutherbourg",
+    "Philipp Jakob Lutherbourg"
+  ],
+  "nomNaissance": "Philipp Jacob Loutherburg",
+  "wikidataId": "Q1970087",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Philippe-Jacques_de_Loutherbourg",
+  "ulanId": "500019411",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Jacques%20de%20Loutherbourg%20by%20Philippe%20Jacques%20de%20Loutherbourg.jpg?width=1200",
+  "naissance": "1740-10-31",
+  "deces": "1812-03-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Strasbourg",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France",
+    "Royaume-Uni",
+    "Suisse"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Philippe-Jacques de Loutherbourg"
+  ]
+}

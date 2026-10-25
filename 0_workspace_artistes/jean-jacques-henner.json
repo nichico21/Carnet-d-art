@@ -1,0 +1,78 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q665818",
+      "description": "peintre français",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-jacques-henner",
+  "nom": "Jean-Jacques Henner",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q665818",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Jacques_Henner",
+  "ulanId": "500026774",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Henner%20photo.jpg?width=1200",
+  "naissance": "1829-03-15",
+  "deces": "1905-07-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Bernwiller",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Jacques Henner"
+  ]
+}

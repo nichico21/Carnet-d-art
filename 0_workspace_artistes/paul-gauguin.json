@@ -1,0 +1,104 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 14,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q37693",
+      "description": "peintre français (1848-1903)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paul-gauguin",
+  "nom": "Paul Gauguin",
+  "alias": [
+    "Gauguin",
+    "Eugene-Henri-Paul Gauguin",
+    "Paul Eugène Henri Gauguin",
+    "P. gaugin",
+    "Kao-keng",
+    "Eugène Henry Paul Gauguin",
+    "Gauguin Paul",
+    "Paul Gaugin",
+    "Pablo Gauguin",
+    "Polʹ Gogen",
+    "P. Gauguin",
+    "Eugene-Henri Gauguin"
+  ],
+  "nomNaissance": "Eugène Henri Paul Gauguin",
+  "wikidataId": "Q37693",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_Gauguin",
+  "ulanId": "500011421",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png?width=1200",
+  "naissance": "1848-06-07",
+  "deces": "1903-05-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Synthétisme",
+    "Symbolisme",
+    "Impressionnisme",
+    "Primitivisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul Gauguin"
+  ]
+}

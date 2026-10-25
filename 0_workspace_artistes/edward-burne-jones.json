@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q216406",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse",
+        "artiste visuel ou artiste visuelle",
+        "artiste",
+        "aquarelliste",
+        "pastelliste",
+        "pen drawer"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "edward-burne-jones",
+  "nom": "Edward Burne-Jones",
+  "alias": [
+    "Sir Edward Coley Burne-Jones",
+    "Sir Edward Coley Burne-Jones, Bt",
+    "Edward Coley Burne-Jones",
+    "Sir Burne-Jones",
+    "E. Burne-Jones",
+    "Sir Edward Burne-Jones",
+    "Burne Jones"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q216406",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Edward_Burne-Jones",
+  "ulanId": "500001381",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Hollyer%20portrait%20of%20Edward%20Burne-Jones%20c1882.jpg?width=1200",
+  "naissance": "1833-08-28",
+  "deces": "1898-06-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Birmingham",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pré-raphaélisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Edward Burne-Jones"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2980574",
+      "description": "peintre, dessinateur et graveur belge (1872-1899)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-evenepoel",
+  "nom": "Henri Evenepoel",
+  "alias": [
+    "Henri Jacques Edouard Evenepoel",
+    "Henri Jacques Evenepoel",
+    "Evenepoel",
+    "Henri Jacques Evenpoel"
+  ],
+  "nomNaissance": "Henri Jacques-Edouard Evenepoel",
+  "wikidataId": "Q2980574",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Evenepoel",
+  "ulanId": "500004458",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Evenepoel%20selfportrait%201899.png?width=1200",
+  "naissance": "1872-10-03",
+  "deces": "1899-12-27",
+  "datesApproximatives": null,
+  "villeNaissance": "Nice",
+  "paysNaissance": "France",
+  "nationalites": [
+    "Belgique",
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Fauvisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Evenepoel"
+  ]
+}

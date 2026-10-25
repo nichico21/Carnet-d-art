@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q551652",
+      "description": "peintre hongrois",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "mihaly-munkacsy",
+  "nom": "Mihály Munkácsy",
+  "alias": [
+    "Munkácsy",
+    "Michel Lieb",
+    "Mihály von Munkaczy",
+    "Mihály. Lieb",
+    "Mihály von Lieb",
+    "Michael Sieb",
+    "Leo Lieb Munkacsy",
+    "Michael Munkácsy",
+    "Michael von Lieb",
+    "Michael Lieb",
+    "Mikhaĭ Lib",
+    "Leo Lieb"
+  ],
+  "nomNaissance": "Lieb Mihály Leó",
+  "wikidataId": "Q551652",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mih%C3%A1ly_Munk%C3%A1csy",
+  "ulanId": "500008905",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Munk%C3%A1csy%20Mih%C3%A1ly.jpg?width=1200",
+  "naissance": "1844-02-20",
+  "deces": "1900-05-01",
+  "datesApproximatives": null,
+  "villeNaissance": "Moukatchevo",
+  "paysNaissance": "Ukraine",
+  "nationalites": [
+    "Hongrie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Mihály Munkácsy"
+  ]
+}

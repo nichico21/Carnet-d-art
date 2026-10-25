@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q312617",
+      "description": "peintre et graveur italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "rosso-fiorentino",
+  "nom": "Rosso Fiorentino",
+  "alias": [
+    "Giovanni Battista di Iacopo",
+    "Giovanni Battista di Jacopo",
+    "Maitre Roux",
+    "Giovanni Battista di Iacopo Rosso",
+    "Giovanni Battista di Jacopo Rosso",
+    "Il Rosso Fiorentino Rosso",
+    "Giovanni Battista di Jacopo Guasparre Rosso",
+    "Il Rosso Fiorentino",
+    "Rossi Fiorentino",
+    "Giovan Battista di Iacopo Rosso",
+    "Giovanni Battista di Jacoppo",
+    "Giovanni Battista Di Jacopo Di Guasparre Rosso"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q312617",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Rosso_Fiorentino",
+  "ulanId": "500014451",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Houghton%20Typ%20525%2068.864%20-%20Vasari%2C%20Le%20vite%20-%20Il%20Rosso.jpg?width=1200",
+  "naissance": "1494-03-08",
+  "deces": "1540-11-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Rosso Fiorentino"
+  ]
+}

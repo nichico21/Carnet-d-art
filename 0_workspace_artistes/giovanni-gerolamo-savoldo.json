@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q938442",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-gerolamo-savoldo",
+  "nom": "Giovanni Gerolamo Savoldo",
+  "alias": [
+    "Savoldo",
+    "Giovan Gerolamo Savoldo",
+    "G. Girolamo Savoldo",
+    "Girolamo da Brescia",
+    "Gerolamo Savoldo",
+    "Bressan",
+    "Giov. Girolamo Savoldo Gen. Bresciano",
+    "Savoldo Giovanni Girolamo",
+    "Jean Hierosme Bressan",
+    "Giovanni Girolamo Savoldo Gen. Bresciano",
+    "Zan Gerolemo Bressan",
+    "Gian Girolamo Savoldo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q938442",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Gerolamo_Savoldo",
+  "ulanId": "500013834",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Gerolamo%20Savoldo%20004.jpg?width=1200",
+  "naissance": "1480",
+  "deces": "1548",
+  "datesApproximatives": null,
+  "villeNaissance": "Brescia",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Gerolamo Savoldo"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q274901",
+      "description": "peintre portraitiste français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "carolus-duran",
+  "nom": "Carolus-Duran",
+  "alias": [
+    "Charles Auguste Émile Durant",
+    "Charles-Emile-Auguste Durand",
+    "Emile-Auguste Carolus-Duran",
+    "Charles Emile Auguste Duran Carolus-Duran",
+    "Charles Durand",
+    "Charles Carolus-Duran",
+    "Charles Emile Auguste Carolus-Duran",
+    "Emile Carolus-Duran",
+    "Carolus Durand",
+    "Carolus",
+    "E.A. Carolus Duran",
+    "c. Duran"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q274901",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Carolus-Duran",
+  "ulanId": "500115346",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Carolus-Duran.jpg?width=1200",
+  "naissance": "1837-07-04",
+  "deces": "1917-02-18",
+  "datesApproximatives": null,
+  "villeNaissance": "Lille",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Carolus-Duran"
+  ]
+}

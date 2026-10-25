@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q209615",
+      "description": "peintre espagnol du siècle d'or",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francisco-de-zurbaran",
+  "nom": "Francisco de Zurbarán",
+  "alias": [
+    "Zurbaran",
+    "Fransisko Surbaran",
+    "Francisco Zurbarán",
+    "Francisco de Zurbarán Salazar",
+    "Francisco de Zurberan",
+    "Francisco de Zubaran",
+    "Francisco de Zurbarran",
+    "Francisco de Zurbarán Márquez",
+    "François Zurbarán",
+    "Francisco de Zurbarán y Salazar",
+    "Zubaran",
+    "Zurberan"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q209615",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Francisco_de_Zurbar%C3%A1n",
+  "ulanId": "500001984",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20autoportrait.jpg?width=1200",
+  "naissance": "1598-11-07",
+  "deces": "1664-08-27",
+  "datesApproximatives": true,
+  "villeNaissance": "Fuente de Cantos",
+  "paysNaissance": "Espagne",
+  "nationalites": [
+    "Espagne"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Francisco de Zurbarán"
+  ]
+}

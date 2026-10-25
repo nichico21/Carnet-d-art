@@ -1,0 +1,105 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5592",
+      "description": "peintre, sculpteur, poète et architecte italien du XVIe siècle",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse",
+        "maitre d'œuvre",
+        "écrivain ou écrivaine",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "peinture de la Renaissance"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "michel-ange-buronarroti",
+  "nom": "Michel-Ange Buronarroti",
+  "alias": [
+    "Michel-Ange",
+    "Michel-Ange Bonarotte",
+    "Michael Angelo de Bonarotti",
+    "Michael Angelo Buona Roti",
+    "Michael Angelo Bonalotti",
+    "Michael Anglelo",
+    "Michael Angelo Bonnarotti",
+    "Michael Angel",
+    "Michael Angelo Buonarota",
+    "Michael Agnolo",
+    "Michael Angelo Buona Rota",
+    "Michael Angelo Buonaroti"
+  ],
+  "nomNaissance": "Michelangelo di Lodovico Buonarroti Simoni",
+  "wikidataId": "Q5592",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Michel-Ange",
+  "ulanId": "500010654",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Daniele%20da%20Volterra%20(dettaglio).jpg?width=1200",
+  "naissance": "1475-03-06",
+  "deces": "1564-02-18",
+  "datesApproximatives": null,
+  "villeNaissance": "Caprese Michelangelo",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Arts graphiques",
+    "Peinture",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Haute Renaissance"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Michel-Ange Buronarroti"
+  ]
+}

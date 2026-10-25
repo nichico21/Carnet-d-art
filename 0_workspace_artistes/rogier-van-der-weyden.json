@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q68631",
+      "description": "peintre primitif flamand",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1464-06-18, 1464-06-16) : 1464-06-18 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "rogier-van-der-weyden",
+  "nom": "Rogier van der Weyden",
+  "alias": [
+    "Van der Weyden",
+    "Rogier de Le Pasture",
+    "Rogier de La Pasture",
+    "Roger de La Pasture",
+    "Rogier de Bruges",
+    "Roger de Le Pasture",
+    "Rogir Fan der Veĭden",
+    "Rogier De La Pasture Weyden",
+    "Roger van der Weyden",
+    "Rogiers of Brussels",
+    "Rogiers de Bruxelles",
+    "Rogier"
+  ],
+  "nomNaissance": "Roger de le Pasture",
+  "wikidataId": "Q68631",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden",
+  "ulanId": "500008384",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rogier%20van%20der%20Weyden%20by%20Jan%20Wierix%2C%201572.jpg?width=1200",
+  "naissance": "1390",
+  "deces": "1464-06-18",
+  "datesApproximatives": true,
+  "villeNaissance": "Tournai",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Primitifs flamands"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Rogier van der Weyden"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5681",
+      "description": "peintre et graveur italien de la Renaissance",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "andrea-mantegna",
+  "nom": "Andrea Mantegna",
+  "alias": [
+    "Mantegna",
+    "Andrea Mantegno",
+    "Andrea Mantuani",
+    "Andrea Mantenia",
+    "And. Mantgna",
+    "An. Mantegna",
+    "Manteignes",
+    "A. Mantegna",
+    "Andrea Blaise",
+    "André Mantegne",
+    "Andria Mantegnia",
+    "And. Mantegna"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5681",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Andrea_Mantegna",
+  "ulanId": "500004218",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Mantegna%20049%20detail%20possible%20self-portrait.jpg?width=1200",
+  "naissance": "1431",
+  "deces": "1506-09-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Isola Mantegna",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Andrea Mantegna"
+  ]
+}

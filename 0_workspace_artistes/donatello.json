@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q37562",
+      "description": "sculpteur italien du quattrocento",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "donatello",
+  "nom": "Donatello",
+  "alias": [
+    "Donato di Niccolo di Betto Bardi",
+    "Donatello Donato"
+  ],
+  "nomNaissance": "Donato di Niccolò di Betto Bardi",
+  "wikidataId": "Q37562",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Donatello",
+  "ulanId": "500026022",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%20Donatello.jpg?width=1200",
+  "naissance": "1386",
+  "deces": "1466-12-13",
+  "datesApproximatives": true,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Donatello"
+  ]
+}

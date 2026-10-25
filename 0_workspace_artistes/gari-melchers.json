@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1387035",
+      "description": "artiste américain (1860-1932)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gari-melchers",
+  "nom": "Gari Melchers",
+  "alias": [
+    "Julius Gari Melchers",
+    "Julius Garibaldi Melchers",
+    "J. Gari Melchers",
+    "Melchers",
+    "Gari J. Melchers"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1387035",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gari_Melchers",
+  "ulanId": "500031447",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Julius%20Garibaldi%20Melchers%20Frank%20Scott%20Clark.jpg?width=1200",
+  "naissance": "1860-08-11",
+  "deces": "1932-11-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Détroit",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Naturalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gari Melchers"
+  ]
+}

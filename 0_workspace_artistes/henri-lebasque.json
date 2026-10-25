@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1596249",
+      "description": "peintre français (1865-1937)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-lebasque",
+  "nom": "Henri Lebasque",
+  "alias": [
+    "Henri Le Basque",
+    "Henri-Joseph Lebasque",
+    "Henri Baptiste Lebasque",
+    "H. Le Basque",
+    "Lebasque",
+    "H. Lebasque",
+    "Lebasque H.",
+    "J.-H. Lebasque"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1596249",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Lebasque",
+  "ulanId": "500028600",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lebasque%20autoportrait.jpg?width=1200",
+  "naissance": "1865-09-25",
+  "deces": "1937-08-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Champigné",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Post-impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Lebasque"
+  ]
+}

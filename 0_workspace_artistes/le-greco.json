@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q301",
+      "description": "peintre, sculpteur et architecte du XVIe siècle principalement actif en Espagne (1541–1614)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "Renaissance espagnole"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "le-greco",
+  "nom": "Le Greco",
+  "alias": [
+    "Il Greco",
+    "Domenicos Theotocopoulos",
+    "El Greco",
+    "Domínikos Theotokópoulos",
+    "Greco Domenicos Theotocopuli",
+    "Domenico Theocopuli",
+    "Doménico Theotocopoulis",
+    "Domenico Theotocopuly",
+    "Domenico Teoscopoli",
+    "Dominico Theotocopuli",
+    "Dom Thoepotuli",
+    "Domingo Theotocópuli"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q301",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Greco",
+  "ulanId": "500010916",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg?width=1200",
+  "naissance": "1541-10-01",
+  "deces": "1614-04-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Héraklion",
+  "paysNaissance": "Grèce",
+  "nationalites": [
+    "Espagne",
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Architecture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Le Greco"
+  ]
+}

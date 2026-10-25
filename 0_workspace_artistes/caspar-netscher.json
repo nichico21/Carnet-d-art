@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q217715",
+      "description": "peintre hollandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1639, 1635) : 1639 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "caspar-netscher",
+  "nom": "Caspar Netscher",
+  "alias": [
+    "Caspar Netchscher",
+    "Casper Netscher",
+    "Caspar Natscher",
+    "Caspar Messieur",
+    "Caspar Netchher",
+    "Caspar Neticher",
+    "G. Netscher",
+    "Caspar Nedtcher",
+    "Kaspar Netscher",
+    "G. V. Netcher",
+    "Gaspar Nescher",
+    "Caspar Netzer"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q217715",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Caspar_Netscher",
+  "ulanId": "500019639",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20Caspar%20Netscher%20-%20Rijksmuseum%20SK-A-2666.jpg?width=1200",
+  "naissance": "1639",
+  "deces": "1684-01-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Heidelberg",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Caspar Netscher"
+  ]
+}

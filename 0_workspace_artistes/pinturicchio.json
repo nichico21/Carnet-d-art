@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5591",
+      "description": "peintre italien du (1454-1513)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pinturicchio",
+  "nom": "Pinturicchio",
+  "alias": [
+    "Bernardino Pintoricchio",
+    "ernardino di Betto di Biagio",
+    "Bernardino di Betto Pintoricchio",
+    "Penturicchio",
+    "Bernardo Biagio",
+    "Le Pinturicchio",
+    "Bernardino di Betto Pinturicchio",
+    "Bernardino Pinturicchio",
+    "Bernardino Di Betto-Benedetto Di Biagio Pintoricchio",
+    "Bernardino Betti",
+    "Bernardino di Betto-Benedetto di Biagio Pinturicchio",
+    "Il Pintoricchio"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5591",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pinturicchio",
+  "ulanId": "500023716",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%20self.jpg?width=1200",
+  "naissance": "1454",
+  "deces": "1513-12-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Pérouse",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pinturicchio"
+  ]
+}

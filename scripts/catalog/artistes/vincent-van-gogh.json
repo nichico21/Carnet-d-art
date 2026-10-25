@@ -1,0 +1,33 @@
+{
+  "id": "vincent-van-gogh",
+  "nom": "Vincent van Gogh",
+  "alias": [
+    "Vincent Willem van Gogh"
+  ],
+  "nomNaissance": "Vincent Willem Van Gogh",
+  "wikidataId": "Q5582",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vincent_van_Gogh",
+  "ulanId": "500115588",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail",
+  "naissance": "1853-03-30",
+  "deces": "1890-07-29",
+  "villeNaissance": "Zundert",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Expressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Vincent van Gogh"
+  ]
+}

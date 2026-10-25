@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2916703",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gustave-guillaumet",
+  "nom": "Gustave Guillaumet",
+  "alias": [
+    "Gustave Achille Guillaumet"
+  ],
+  "nomNaissance": "Gustave Achille Guillaumet",
+  "wikidataId": "Q2916703",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gustave_Guillaumet",
+  "ulanId": "500008773",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Guillaumet%20portrait%2001.jpg?width=1200",
+  "naissance": "1840-03-25",
+  "deces": "1887-03-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gustave Guillaumet"
+  ]
+}

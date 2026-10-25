@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q918605",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "herbert-draper",
+  "nom": "Herbert Draper",
+  "alias": [
+    "Herbert James Draper",
+    "Draper Herbert James",
+    "Luchii"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q918605",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Herbert_Draper",
+  "ulanId": "500013777",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20James%20Draper.jpg?width=1200",
+  "naissance": "1863-11-26",
+  "deces": "1920-09-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Classicisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Herbert Draper"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q363823",
+      "description": "peintre danois (1783-1853)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université"
+      ],
+      "mouvements": [
+        "âge d'or danois"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "christoffer-wilhelm-eckersberg",
+  "nom": "Christoffer Wilhelm Eckersberg",
+  "alias": [
+    "Christoffer Wilhem Eckersberg",
+    "Eckersberg",
+    "C.W. Eckersberg",
+    "Christoffer Vilhelm Eckersberg"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q363823",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Christoffer_Wilhelm_Eckersberg",
+  "ulanId": "500115283",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self%20portrait%2C%20by%20Christoffer%20Wilhelm%20Eckersberg.jpg?width=1200",
+  "naissance": "1783-01-02",
+  "deces": "1853-07-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Blåkrog",
+  "paysNaissance": "Danemark",
+  "nationalites": [
+    "Danemark"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Christoffer Wilhelm Eckersberg"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1869845",
+      "description": "sculpteur américain",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine",
+        "historien ou historienne de l'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "lorado-taft",
+  "nom": "Lorado Taft",
+  "alias": [
+    "Lorado Zadok Taft",
+    "Lorado Zadoc Taft"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1869845",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lorado_Taft",
+  "ulanId": "500115832",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorado%20Taft%2C%201934%20(cropped).jpg?width=1200",
+  "naissance": "1860-04-29",
+  "deces": "1936-10-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Elmwood",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Sculpture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Lorado Taft"
+  ]
+}

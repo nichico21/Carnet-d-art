@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q16858259",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "john-rathbone",
+  "nom": "John Rathbone",
+  "alias": [
+    "I. Rathbone",
+    "John Rathborne",
+    "Rathburne",
+    "Rathbone",
+    "Rathbourne",
+    "Rashbone",
+    "Rathborne",
+    "J. Rathbone"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q16858259",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Rathbone_(artist)",
+  "ulanId": "500011245",
+  "imageUrl": null,
+  "naissance": "1750",
+  "deces": "1807",
+  "datesApproximatives": null,
+  "villeNaissance": "Cheshire",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "George Morland"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q160252",
+      "description": "peintre et sculpteur anglais",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "personnalité politique",
+        "artiste"
+      ],
+      "mouvements": [
+        "Etruscan school"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "frederic-leighton",
+  "nom": "Frederic Leighton",
+  "alias": [
+    "Leighton Frederic",
+    "Lord Leighton",
+    "Lord Frederic Leighton",
+    "Frederick Leighton",
+    "Sir Frederic Leighton, Lord Leighton PRA",
+    "Frederic Leighton, Baron Leighton",
+    "Frederic, Baron Leighton",
+    "Frederic, 1st Baron Leighton of Stretton Leighton",
+    "Frederic, Baron Leighton of Stretton Leighton",
+    "Lord Frederick Leighton",
+    "Frederik Lord Leighton",
+    "1st Baron Leighton of Stretton Frederic Leighton"
+  ],
+  "nomNaissance": "Frederic Leighton Leighton",
+  "wikidataId": "Q160252",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frederic_Leighton",
+  "ulanId": "500030022",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1880%20Frederic%20Leighton%20-%20Self%20portrait.jpg?width=1200",
+  "naissance": "1830-12-03",
+  "deces": "1896-01-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Yorkshire du Nord",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pré-raphaélisme",
+    "Esthétisme",
+    "Néo-classicisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Frederic Leighton"
+  ]
+}

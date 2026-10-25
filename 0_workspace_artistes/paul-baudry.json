@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q911575",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "copiste",
+        "aquarelliste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paul-baudry",
+  "nom": "Paul Baudry",
+  "alias": [
+    "Paul Jacques Aimé Baudry",
+    "Baudry",
+    "Jacques-Aimé-Paul Baudry",
+    "P. Baudry"
+  ],
+  "nomNaissance": "Paule Saint Mordé Baudry",
+  "wikidataId": "Q911575",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_Baudry",
+  "ulanId": "500021687",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Paul%20Baudry%20(1828-1886)%2C%20peintre%2C%20PH41709.jpg?width=1200",
+  "naissance": "1828-11-07",
+  "deces": "1886-01-17",
+  "datesApproximatives": null,
+  "villeNaissance": "La Roche-sur-Yon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul Baudry"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q217434",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1942-02-12, 1942-02-13) : 1942-02-12 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "grant-wood",
+  "nom": "Grant Wood",
+  "alias": [
+    "Grant DeVolson Wood",
+    "Wood"
+  ],
+  "nomNaissance": "Grant DeVolson Wood",
+  "wikidataId": "Q217434",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Grant_Wood",
+  "ulanId": "500031056",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant%20Wood.jpg?width=1200",
+  "naissance": "1891-02-13",
+  "deces": "1942-02-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Anamosa",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme américain"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Grant Wood"
+  ]
+}

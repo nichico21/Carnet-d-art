@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3588633",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "emile-levy",
+  "nom": "Émile Lévy",
+  "alias": [
+    "Levy",
+    "E. Levy",
+    "Lévy Em.",
+    "Em. Levy"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q3588633",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89mile_L%C3%A9vy",
+  "ulanId": "500002366",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emile%20L%C3%A9vy%20par%20Nadar.jpg?width=1200",
+  "naissance": "1826-08-29",
+  "deces": "1890-08-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Émile Lévy"
+  ]
+}

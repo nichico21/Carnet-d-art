@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q711737",
+      "description": "peintre, dessinateur et graveur néerlandais (1620-1683)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "cartographe"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "nicolaes-berchem",
+  "nom": "Nicolaes Berchem",
+  "alias": [
+    "Nicolas Berchem",
+    "Nicolaes Pieterszoon Berchem"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q711737",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nicolaes_Berchem",
+  "ulanId": "500010297",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Nicolaes%20Berchem%20by%20Jan%20Stolker.jpg?width=1200",
+  "naissance": "1620-10-01",
+  "deces": "1683-02-18",
+  "datesApproximatives": null,
+  "villeNaissance": "Haarlem",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Nicolaes Berchem"
+  ]
+}

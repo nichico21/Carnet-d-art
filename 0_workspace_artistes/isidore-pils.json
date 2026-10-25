@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q708968",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "isidore-pils",
+  "nom": "Isidore Pils",
+  "alias": [
+    "Isidore-Alexandre-Augustin Pils",
+    "Pils"
+  ],
+  "nomNaissance": "Isidore Alexandre Auguste Pils",
+  "wikidataId": "Q708968",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Isidore_Pils",
+  "ulanId": "500022835",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Isidore%20Pils%20-%20Maurice%20Leloir.jpg?width=1200",
+  "naissance": "1815-11-07",
+  "deces": "1875-09-03",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Isidore Pils"
+  ]
+}

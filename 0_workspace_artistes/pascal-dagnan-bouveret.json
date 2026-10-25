@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q663837",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pascal-dagnan-bouveret",
+  "nom": "Pascal Dagnan-Bouveret",
+  "alias": [
+    "Pascal Adolphe Jean Dagnan-Bouveret",
+    "PAJ Dagnan-Bouveret",
+    "P.-A. -J. Dagnan-Bouveret",
+    "P. A. J. D. Bouveret",
+    "Pascal Adolphe Dagnan-Bouveret",
+    "Dagnan-Bouveret",
+    "Dagnan",
+    "P. A. Dagnan-Bouveret",
+    "Dagnan-Bouveret Pascal",
+    "Pascal Dagnal-Bouveret",
+    "P.A.J. Dagnan-Bouvaret",
+    "J. A. R. Dagnan"
+  ],
+  "nomNaissance": "Pascal-Adolphe-Jean Dagnan-Bouveret",
+  "wikidataId": "Q663837",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pascal_Dagnan-Bouveret",
+  "ulanId": "500022873",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Dagnan-Bouveret.jpg?width=1200",
+  "naissance": "1852-01-07",
+  "deces": "1929-07-03",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Naturalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pascal Dagnan-Bouveret"
+  ]
+}

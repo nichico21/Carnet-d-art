@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q577489",
+      "description": "peintre et graveur néerlandais (1612-1680)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "voyageur ou voyageuse",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "frans-post",
+  "nom": "Frans Post",
+  "alias": [
+    "Frans Jansz Poost",
+    "François Post",
+    "Franz Post",
+    "Frans Jansz. Postar B.podt",
+    "Posto Frans Janszoon",
+    "Fran. Postar",
+    "Posto Frans Jansz",
+    "O Franç. Postar",
+    "Posto Frantz",
+    "Posto Franchois",
+    "Correio francoys",
+    "Frans Janszoon Post"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q577489",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frans_Post",
+  "ulanId": "500017077",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20-%20Frans%20Post%20(Worcester%20Art%20Museum).jpg?width=1200",
+  "naissance": "1612-11-17",
+  "deces": "1680-02-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Haarlem",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Frans Post"
+  ]
+}

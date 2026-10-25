@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q158062",
+      "description": "peintre et graveur allemand (1847–1935)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse",
+        "enseignant ou enseignante",
+        "aquafortiste",
+        "pastelliste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "max-liebermann",
+  "nom": "Max Liebermann",
+  "alias": [
+    "Max Lieberman",
+    "Maks Liberman",
+    "Max von Liebermann",
+    "Liebermann",
+    "M. Liebermann",
+    "Professor Max Liebermann",
+    "Prof. Max Liebermann",
+    "M. Lieberman"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q158062",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Max_Liebermann",
+  "ulanId": "500115690",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Liebermann%2C%20Max%20-%20Selbstbildnis%20mit%20Pinsel%20-%201913%20-%20Stiftung%20Stadtmuseum%20Berlin.jpg?width=1200",
+  "naissance": "1847-07-20",
+  "deces": "1935-02-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Berlin",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Max Liebermann"
+  ]
+}

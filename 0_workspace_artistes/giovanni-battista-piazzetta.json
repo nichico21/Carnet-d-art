@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q282670",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-battista-piazzetta",
+  "nom": "Giovanni Battista Piazzetta",
+  "alias": [
+    "Giambattista Piazzetta",
+    "Valentino Piazzetta",
+    "Giovanni Battista Piazetta",
+    "Giovanni B. Piazzetta",
+    "Giovanni Battista Piazzeta",
+    "Giovanni Battista Piazetti",
+    "Giambattista Piazetta",
+    "Valentino Piazetta",
+    "Giovanni Battista Valentino",
+    "Gio. Battista Piazzetta",
+    "Giovanni Battista Piazzetti",
+    "Biazette"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q282670",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Battista_Piazzetta",
+  "ulanId": "500003532",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giambattista%20Piazzetta%2C%20Giambattista%20Piazzetta.jpg?width=1200",
+  "naissance": "1683-02-13",
+  "deces": "1754-04-28",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Battista Piazzetta"
+  ]
+}

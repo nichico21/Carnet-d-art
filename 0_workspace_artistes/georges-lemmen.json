@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1963612",
+      "description": "peintre et graveur néo-impressionniste belge (1865-1916)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1916-07-15, 1916-07-05) : 1916-07-15 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquarelliste",
+        "pastelliste",
+        "aquafortiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "georges-lemmen",
+  "nom": "Georges Lemmen",
+  "alias": [
+    "Georges G. Lemmen",
+    "Georges Joseph Laurent Lemmen",
+    "Lemmen"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1963612",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Georges_Lemmen",
+  "ulanId": "500025073",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Lemmen%20-.jpg?width=1200",
+  "naissance": "1865-11-25",
+  "deces": "1916-07-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Schaerbeek",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Pointillisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Georges Lemmen"
+  ]
+}

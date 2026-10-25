@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q151152",
+      "description": "peintre espagnol (1887–1927)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "scénographe",
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "juan-gris",
+  "nom": "Juan Gris",
+  "alias": [
+    "José Victoriano González",
+    "Juan-José Victoriano Gonzalez Gris",
+    "Gris",
+    "José Victoriano Carmelo Carlos Gonzalez-Perez",
+    "José Vittoriano Gonzales",
+    "Joan Gris",
+    "José Victoriano González Pérez",
+    "Juan Gris José Victoriano González Pérez",
+    "José Victoriano Gonzáles Pérez",
+    "José Gonzales",
+    "José Vittoriano Gonzalez"
+  ],
+  "nomNaissance": "José Victoriano González-Pérez",
+  "wikidataId": "Q151152",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Juan_Gris",
+  "ulanId": "500015362",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Gris%2C%20portrait%20photograph%2C%20published%20in%20Les%20Peintres%20Cubistes%2C%201913.jpg?width=1200",
+  "naissance": "1887-03-23",
+  "deces": "1927-05-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Madrid",
+  "paysNaissance": "Espagne",
+  "nationalites": [
+    "Espagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Cubisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Juan Gris"
+  ]
+}

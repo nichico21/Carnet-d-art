@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q466224",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "felix-ziem",
+  "nom": "Félix Ziem",
+  "alias": [
+    "Félix François Georges Philibert Ziem",
+    "Felix Francois Ziem",
+    "Ziem F.",
+    "F. F. Philibert Ziem",
+    "Felix François Philibert Ziem",
+    "Felix P. Ziem",
+    "Felix F.G.P. Ziem",
+    "Francois Georg Philibert Ziem",
+    "Felix-Philibert Ziem",
+    "Ziem Felix",
+    "F. Ziem",
+    "T. Ziem"
+  ],
+  "nomNaissance": "Félix-Francois Georges Philibert Ziem",
+  "wikidataId": "Q466224",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/F%C3%A9lix_Ziem",
+  "ulanId": "500003600",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Ziem%20-%20Autoportrait.jpg?width=1200",
+  "naissance": "1821-02-26",
+  "deces": "1911-11-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Beaune",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Ecole de Barbizon"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Félix Ziem"
+  ]
+}

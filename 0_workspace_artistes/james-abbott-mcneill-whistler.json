@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q203643",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1834-07-10, 1834-07-11) : 1834-07-10 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "écrivain ou écrivaine"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "james-abbott-mcneill-whistler",
+  "nom": "James Abbott McNeill Whistler",
+  "alias": [
+    "James Abbott Mac Neill Whistler",
+    "James McNeill Whistler",
+    "James Abbott Whistler",
+    "James Abbot M'Neill Whistler",
+    "James A. McNeill Whistler",
+    "James M'Neill Whistler",
+    "James Mc Neill Whistler",
+    "James McNeil Whistler",
+    "James Mac Neill Whistler",
+    "James Abbot McNeill Whistler",
+    "James Abbott McNeil Whistler",
+    "James Abbott MacNeil Whistler"
+  ],
+  "nomNaissance": "James Abbot McNeill Whistler",
+  "wikidataId": "Q203643",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/James_Abbott_McNeill_Whistler",
+  "ulanId": "500012432",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20A.%20McNeill%20Whistler%2C%20half-length%20portrait%20LCCN2002736830%20(detail).jpg?width=1200",
+  "naissance": "1834-07-10",
+  "deces": "1903-07-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Lowell",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Esthétisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "James Abbott McNeill Whistler"
+  ]
+}

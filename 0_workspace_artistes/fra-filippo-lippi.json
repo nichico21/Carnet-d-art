@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q205148",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "fra-filippo-lippi",
+  "nom": "Fra Filippo Lippi",
+  "alias": [
+    "Fra Lippo Lippi",
+    "Filippo di Tommaso",
+    "Filippo Lippi",
+    "Lippi Filippino",
+    "Filippo di Tommaso Lippi",
+    "Lippo Lippi",
+    "F. Filippo Lippi",
+    "Fra Filippo",
+    "Lippi F.",
+    "Fra Filippo del Carmine",
+    "Lippi",
+    "Filippo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q205148",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fra_Filippo_Lippi",
+  "ulanId": "500019158",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lippi%20z13.jpg?width=1200",
+  "naissance": "1406",
+  "deces": "1469-10-08",
+  "datesApproximatives": true,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Fra Filippo Lippi"
+  ]
+}

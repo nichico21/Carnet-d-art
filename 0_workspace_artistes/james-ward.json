@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1681281",
+      "description": "peintre anglais né à Londres, il débute à la Royal Academy en 1790 comme peintre animalier",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1859-11-17, 1859-11-23, 1859-11-16) : 1859-11-17 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste",
+        "artiste animalier",
+        "aquarelliste",
+        "copiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "james-ward",
+  "nom": "James Ward",
+  "alias": [
+    "James, I Ward",
+    "R. A. James Ward",
+    "James Wara",
+    "T. Ward",
+    "R. Ward",
+    "R.A. J. Ward",
+    "R.A. Ward",
+    "J. Ward",
+    "Esq., R.A. J. Ward",
+    "Ward",
+    "Wara",
+    "Jas. Ward"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1681281",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/James_Ward_(peintre)",
+  "ulanId": "500115753",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Ward%20by%20James%20Ward.jpg?width=1200",
+  "naissance": "1769-10-23",
+  "deces": "1859-11-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "James Ward"
+  ]
+}

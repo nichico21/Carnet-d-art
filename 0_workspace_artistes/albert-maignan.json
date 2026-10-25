@@ -1,0 +1,82 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2831372",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "albert-maignan",
+  "nom": "Albert Maignan",
+  "alias": [
+    "Albert Pierre René Maignan",
+    "Albert Pierre Rene",
+    "P.R. Albert Maignan"
+  ],
+  "nomNaissance": "Albert Pierre René Maignan",
+  "wikidataId": "Q2831372",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Albert_Maignan",
+  "ulanId": "500032571",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photographie%20d'Albert%20Maignan.jpg?width=1200",
+  "naissance": "1845-10-14",
+  "deces": "1908-09-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Beaumont-sur-Sarthe",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Albert Maignan"
+  ]
+}

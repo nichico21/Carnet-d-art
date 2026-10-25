@@ -44,17 +44,33 @@ async function respecterIntervalle(pause) {
 /**
  * Lit une adresse et retourne du JSON. Wikimedia limite le rythme des requêtes (réponse 429,
  * ou 503) : on attend (le délai demandé par le serveur, sinon 2, 6 puis 14 secondes) et on
- * réessaie trois fois au plus.
+ * réessaie trois fois au plus. Un délai dépassé ou une coupure réseau sont réessayés de la même
+ * façon. Délai par requête : 60 secondes (WIKIMEDIA_TIMEOUT_MS), car certaines réponses (les
+ * fiches complètes d'artistes célèbres) sont volumineuses.
  */
 export async function fetchJsonWikimedia(url, { fetchFn = fetch, pause = attendre } = {}) {
   const base = Number(process.env.MUSEES_ATTENTE_MS ?? 2000);
+  const delai = Number(process.env.WIKIMEDIA_TIMEOUT_MS ?? 60000);
   const attentes = [base, base * 3, base * 7];
   for (let essai = 0; ; essai++) {
     await respecterIntervalle(pause);
-    const res = await fetchFn(url, {
-      headers: { 'User-Agent': agentUtilisateur(), Accept: 'application/json' },
-      signal: AbortSignal.timeout(15000),
-    });
+    let res;
+    let corps;
+    try {
+      res = await fetchFn(url, {
+        headers: { 'User-Agent': agentUtilisateur(), Accept: 'application/json' },
+        signal: AbortSignal.timeout(delai),
+      });
+      if (res.ok) corps = await res.json();
+    } catch (e) {
+      if (essai < attentes.length) {
+        await pause(attentes[essai]);
+        continue;
+      }
+      const depasse = e?.name === 'TimeoutError' || e?.name === 'AbortError' || /timeout|aborted/i.test(e?.message ?? '');
+      throw new Error(depasse ? `délai dépassé (${Math.round(delai / 1000)} s)` : `réseau : ${e?.message ?? e}`);
+    }
+    if (res.ok) return corps;
     if ((res.status === 429 || res.status === 503) && essai < attentes.length) {
       const demande = Number(res.headers?.get?.('retry-after'));
       const valide = Number.isFinite(demande) && demande > 0;
@@ -62,8 +78,7 @@ export async function fetchJsonWikimedia(url, { fetchFn = fetch, pause = attendr
       await pause(secondes !== null ? secondes * 1000 : attentes[essai]);
       continue;
     }
-    if (!res.ok) throw new Error(`réponse ${res.status}`);
-    return res.json();
+    throw new Error(`réponse ${res.status}`);
   }
 }
 

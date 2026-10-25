@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q313498",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1738-10-10, 1738-11-10) : 1738-10-10 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "benjamin-west",
+  "nom": "Benjamin West",
+  "alias": [
+    "West. P. R. A.",
+    "P.R.A. B. West",
+    "&amp West",
+    "B West",
+    "P.R.A. West",
+    "P. R. A. Benjamin West",
+    "West B.",
+    "&c. West",
+    "West",
+    "Benjamin West PRA",
+    "Sir Benjamin West",
+    "B. West R. A."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q313498",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Benjamin_West",
+  "ulanId": "500026989",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BenjaminWestNGA.gif?width=1200",
+  "naissance": "1738-10-10",
+  "deces": "1820-03-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Springfield Township",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Néo-classicisme",
+    "Romantisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle",
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Benjamin West"
+  ]
+}

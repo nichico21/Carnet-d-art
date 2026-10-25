@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q446984",
+      "description": "peintre française",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1610-01-01, 1609-12-25) : 1610-01-01 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "louise-moillon",
+  "nom": "Louise Moillon",
+  "alias": [
+    "Louise Moillon Girardot",
+    "Louyse Moillon",
+    "Louge Moillon",
+    "Louis Moillong",
+    "Loyer Moillon",
+    "Mouillon",
+    "Moillon"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q446984",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Louise_Moillon",
+  "ulanId": "500025488",
+  "imageUrl": null,
+  "naissance": "1610-01-01",
+  "deces": "1696-12-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Louise Moillon"
+  ]
+}

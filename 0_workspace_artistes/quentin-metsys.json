@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q314275",
+      "description": "peintre flamand (1466-1530)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1466, 1465, 1456) : 1466 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste",
+        "médailleur ou médailleuse",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "quentin-metsys",
+  "nom": "Quentin Metsys",
+  "alias": [
+    "Quentin Matsys",
+    "Quentin Massys",
+    "Quentin Massys the Elder",
+    "Quinten Massijs",
+    "Quinten (I) Massijs",
+    "Quinten Massijs (I)",
+    "Quintinus Mesius",
+    "Quinten Matsijs",
+    "Quinten Matsys",
+    "Quintino Messi",
+    "the Elder Quentin Massys",
+    "Quentin Matzys"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q314275",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Quentin_Metsys",
+  "ulanId": "500025017",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Wierix%20(attr.)%20-%20Portrait%20of%20Quinten%20Massijs%20(I)%20%2C%201572%20(cropped).jpg?width=1200",
+  "naissance": "1466",
+  "deces": "1530-09-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Louvain",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Primitifs flamands"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Quentin Metsys"
+  ]
+}

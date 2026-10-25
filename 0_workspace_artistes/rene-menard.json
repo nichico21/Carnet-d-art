@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3588301",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "enseignant ou enseignante",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "rene-menard",
+  "nom": "René Ménard",
+  "alias": [
+    "Emile-René Ménard",
+    "Marie Auguste Émile René Ménard",
+    "René-Emile Ménard",
+    "E. René Ménard",
+    "E. R. Ménard",
+    "Marie Auguste Emile Menard",
+    "Menard",
+    "R. menard"
+  ],
+  "nomNaissance": "Marie Auguste Émile René Ménard",
+  "wikidataId": "Q3588301",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ren%C3%A9_M%C3%A9nard_(peintre)",
+  "ulanId": "500011446",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/E.%20M%C3%A9nard.jpg?width=1200",
+  "naissance": "1862-04-15",
+  "deces": "1930-01-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "René Ménard"
+  ]
+}

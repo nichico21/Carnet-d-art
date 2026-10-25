@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q437233",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "hendrick-ter-brugghen",
+  "nom": "Hendrick ter Brugghen",
+  "alias": [
+    "Hendrick Terbrugghen",
+    "Hendrik ter Brugghen",
+    "Hendrick Jansz. ter Brugghen",
+    "Heinrick Terbrugghen",
+    "Hendrick ter Terbrugghen",
+    "Hendrick Terbrugge",
+    "Hendrik Terbruggen",
+    "Hendrick Jansz. ter Terbrugghen",
+    "Hendrick Ten Brugge",
+    "Hendrickjansz., Ter Brugghen",
+    "Hendrick Terbruggen",
+    "Hendrik Terbrugghen"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q437233",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Hendrick_ter_Brugghen",
+  "ulanId": "500029568",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Hoet%20(I)%20-%20Portrait%20of%20Hendrick%20ter%20Brugghen.jpg?width=1200",
+  "naissance": "1588",
+  "deces": "1629-11-01",
+  "datesApproximatives": null,
+  "villeNaissance": "La Haye",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Caravagisme"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Hendrick ter Brugghen"
+  ]
+}

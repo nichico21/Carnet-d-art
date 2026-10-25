@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q241732",
+      "description": "artiste-peintre et sculptrice française",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste",
+        "directeur ou directrice d'école"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "rosa-bonheur",
+  "nom": "Rosa Bonheur",
+  "alias": [
+    "Marie Rosalie Bonheur",
+    "Marie-Rosalie Bonheur Juana Maria Maribel",
+    "Rosalie Bonheur",
+    "Marie Rosa Bonheur",
+    "Rosa Bohneur",
+    "M^Telle^R Rosa Bonheur",
+    "Bonheur",
+    "Bonheur R.",
+    "Bonheur Rosa",
+    "R. Bonheur"
+  ],
+  "nomNaissance": "Marie-Rosalie Bonheur Juana Maria Maribel",
+  "wikidataId": "Q241732",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Rosa_Bonheur",
+  "ulanId": "500014964",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20(French%20-%20(Rosa%20Bonheur)%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": "1822-03-16",
+  "deces": "1899-05-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Bordeaux",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Naturalisme",
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Rosa Bonheur"
+  ]
+}

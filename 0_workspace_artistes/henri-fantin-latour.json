@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 8,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q310715",
+      "description": "peintre et lithographe français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-fantin-latour",
+  "nom": "Henri Fantin-Latour",
+  "alias": [
+    "Fantin-Latour",
+    "Ignace-Henri-Jean-Théodore Fantin-Latour",
+    "Ignace Henri Fantin-Latour",
+    "Henri Fantin",
+    "Fantin",
+    "J.-H. Fantin-Latour",
+    "Henri-Jean-Theodore Fantin-Latour",
+    "Henri-Théodore Fantin-Latour",
+    "H.J.T. Fantin Latour",
+    "Ignace Henri J. Th. Fantin-Latour",
+    "Fantin Latour H.J.T.",
+    "H. Fantin-Latour"
+  ],
+  "nomNaissance": "Ignace-Henri-Jean-Théodore Fantin-Latour",
+  "wikidataId": "Q310715",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Fantin-Latour",
+  "ulanId": "500025754",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bemberg%20Fondation%20Toulouse%20-%20Self-portrait%20paintings%20by%20Henri%20Fantin-Latour.jpg?width=1200",
+  "naissance": "1836-01-25",
+  "deces": "1904-08-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Grenoble",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme",
+    "Symbolisme",
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Fantin-Latour"
+  ]
+}

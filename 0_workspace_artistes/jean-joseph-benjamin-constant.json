@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q968357",
+      "description": "peintre orientaliste et graveur français (1845-1902)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "biographe",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-joseph-benjamin-constant",
+  "nom": "Jean-Joseph Benjamin-Constant",
+  "alias": [
+    "Benjamin Constant",
+    "Benjamin-Constant Constant",
+    "Jean Joseph Benjamin",
+    "J. Benjamin Constant",
+    "Constant",
+    "Benj. Constant",
+    "benj. Constans",
+    "Jean Constant",
+    "Beny Constant",
+    "Benjamin J.J. Constant",
+    "B.M. Constant",
+    "B. Constant"
+  ],
+  "nomNaissance": "François Jean Baptiste Benjamin Constant",
+  "wikidataId": "Q968357",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Benjamin-Constant",
+  "ulanId": "500015006",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Joseph%20Benjamin-Constant.jpg?width=1200",
+  "naissance": "1845-06-10",
+  "deces": "1902-05-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Batignolles-Monceau",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Orientalisme",
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Joseph Benjamin-Constant"
+  ]
+}

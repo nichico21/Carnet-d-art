@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 14,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q26408",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "imprimeur ou imprimeuse",
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pierre-bonnard",
+  "nom": "Pierre Bonnard",
+  "alias": [
+    "P'er Bonnar",
+    "Pierre Eugène Frédéric Bonnard",
+    "P. Bonnard",
+    "Bonnard P.",
+    "Bonnard"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q26408",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pierre_Bonnard",
+  "ulanId": "500115555",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg?width=1200",
+  "naissance": "1867-10-03",
+  "deces": "1947-01-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Fontenay-aux-Roses",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Nabis"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pierre Bonnard"
+  ]
+}

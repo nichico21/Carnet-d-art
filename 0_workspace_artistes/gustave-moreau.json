@@ -1,0 +1,86 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q203828",
+      "description": "peintre, graveur et sculpteur symboliste français (1826-1898)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gustave-moreau",
+  "nom": "Gustave Moreau",
+  "alias": [
+    "G. Moreau",
+    "Moreau"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q203828",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gustave_Moreau",
+  "ulanId": "500115776",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/GustaveMoreau02.jpg?width=1200",
+  "naissance": "1826-04-06",
+  "deces": "1898-04-18",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gustave Moreau"
+  ]
+}

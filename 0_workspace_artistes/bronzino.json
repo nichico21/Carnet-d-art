@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q7803",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "bronzino",
+  "nom": "Bronzino",
+  "alias": [
+    "Agnolo Allori",
+    "Angelo di Cosimo",
+    "Agnolo di Cosimo",
+    "Angelo Bronzino",
+    "Angelo Allori",
+    "Agnolo Tori di Cosimo di Mariano Bronzino",
+    "Angiolo Bronzino",
+    "Agnolo di Cosimo Bronzino",
+    "Agniolo di Cosimo di Mariano Tori Bronzino",
+    "Angiolo Allori",
+    "Agniolo Bronzino",
+    "Agnolo Bronzino Vecchio"
+  ],
+  "nomNaissance": "Agnolo di Cosimo di Mariano",
+  "wikidataId": "Q7803",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bronzino",
+  "ulanId": "500004362",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Allori%2C%20santissima%20trinit%C3%A0%2C%201567-1571%20circa%2C%20ritratto%20dei%20maestri%2C%20bronzino%20(cropped).jpg?width=1200",
+  "naissance": "1503-11-17",
+  "deces": "1572-11-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Bronzino"
+  ]
+}

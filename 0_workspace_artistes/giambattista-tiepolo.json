@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q186202",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "imprimeur ou imprimeuse",
+        "aquafortiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giambattista-tiepolo",
+  "nom": "Giambattista Tiepolo",
+  "alias": [
+    "Giovanni-battista Tiepolo",
+    "Jean-Baptiste Tiepolo",
+    "Giambatista Tiepolo",
+    "Hiepolo",
+    "Tieoplo",
+    "Tiepulo",
+    "Nachahmer Des Tiepolo",
+    "Johann Babtiste Tiepolo",
+    "Tibolo",
+    "Tiepoli",
+    "Gio. Battista Tiepolo",
+    "J. B. Tiepolo le père"
+  ],
+  "nomNaissance": "Giovanni Battista Tiepolo",
+  "wikidataId": "Q186202",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giambattista_Tiepolo",
+  "ulanId": "500018523",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%2C%20Giovanni%20Battista%20-%20Fresken%20Treppenhaus%20des%20W%C3%BCrzburger%20Residenzschlosses%2C%20Szenen%20zur%20Apotheose%20des%20F%C3%BCrstbischofs%2C%20Detail%20Giovanni%20Battista%20Tiepolo%20-%201750-1753.jpg?width=1200",
+  "naissance": "1696-03-05",
+  "deces": "1770-03-27",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Rococo",
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giambattista Tiepolo"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1442507",
+      "description": "peintre flamand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "frans-ii-francken",
+  "nom": "Frans II Francken",
+  "alias": [
+    "Frans Franken",
+    "Frans Francken II",
+    "Frans Francken de Jonge",
+    "François Francken le Jeune",
+    "Frans Francken le Jeune",
+    "Frans Francken d.Y.",
+    "Young Francks",
+    "Frans Francken",
+    "Frans, the younger Francken",
+    "Frans Franck de Jonge",
+    "Franchois Francken",
+    "Francesco Franchi"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1442507",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frans_Francken_II",
+  "ulanId": "500002177",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20Frans%20Francken%20II.jpg?width=1200",
+  "naissance": "1581-05-05",
+  "deces": "1642-05-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Frans II Francken"
+  ]
+}

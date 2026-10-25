@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 8,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q148475",
+      "description": "peintre et graveur français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "camille-corot",
+  "nom": "Camille Corot",
+  "alias": [
+    "Corot",
+    "Jean-Baptiste Corot",
+    "Jean-Baptiste Camille Corot",
+    "Jean Baptist Corot",
+    "Jean B. Cam. Corot",
+    "J. B. Camille Corot",
+    "J.-B. Corot",
+    "Camille Jean Baptiste Corot",
+    "Jean Bapt. Corot",
+    "Jean-Bapt. Camille Corot",
+    "J.B.C. Corot",
+    "Pere Corot"
+  ],
+  "nomNaissance": "Jean-Baptiste Camille Corot",
+  "wikidataId": "Q148475",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Camille_Corot",
+  "ulanId": "500115390",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20c1850.png?width=1200",
+  "naissance": "1796-07-16",
+  "deces": "1875-02-22",
+  "datesApproximatives": null,
+  "villeNaissance": "rue du Bac",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Photographie",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme",
+    "Ecole de Barbizon"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Camille Corot"
+  ]
+}

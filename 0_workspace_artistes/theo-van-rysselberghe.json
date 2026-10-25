@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q671883",
+      "description": "peintre belge",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1926-12-14, 1926-12-13) : 1926-12-14 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "designer ou designeuse",
+        "aquarelliste",
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "theo-van-rysselberghe",
+  "nom": "Théo Van Rysselberghe",
+  "alias": [
+    "Théo Van Rysselbergue",
+    "Theo Rysselberghe",
+    "Théophile van Rysselberghe",
+    "Theodore Van Rysselberghe",
+    "Theodore Rysselberghe",
+    "Theo Van Rijsselberghe",
+    "Rysselberghe"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q671883",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Th%C3%A9o_Van_Rysselberghe",
+  "ulanId": "500030824",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9o%20van%20Rysselberghe%20-%20Self-portrait.jpg?width=1200",
+  "naissance": "1862-11-23",
+  "deces": "1926-12-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Gand",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Pointillisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Théo Van Rysselberghe"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q153920",
+      "description": "sculpteur, peintre, dessinateur et illustrateur français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "aristide-maillol",
+  "nom": "Aristide Maillol",
+  "alias": [
+    "Aristide-Joseph-Bonaventure Maillol",
+    "Maillol",
+    "A. Maillol"
+  ],
+  "nomNaissance": "Aristide Bonaventure Jean Maillol",
+  "wikidataId": "Q153920",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Aristide_Maillol",
+  "ulanId": "500001596",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maillol1925.jpg?width=1200",
+  "naissance": "1861-12-08",
+  "deces": "1944-09-27",
+  "datesApproximatives": null,
+  "villeNaissance": "Banyuls-sur-Mer",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Nabis",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Aristide Maillol"
+  ]
+}

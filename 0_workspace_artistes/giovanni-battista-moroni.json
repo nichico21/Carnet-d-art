@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 10,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q504949",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1525, 1522, 1520) : 1525 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-battista-moroni",
+  "nom": "Giovanni Battista Moroni",
+  "alias": [
+    "Giovan Battista Moroni",
+    "Morone dà Bergamo",
+    "Giovanni Battista Morone",
+    "Giambattista Morone",
+    "Giovan Moroni",
+    "Gianbattista Moroni",
+    "Moroni G.B.",
+    "Moron da Bergamo",
+    "Moron de Brescia",
+    "Moron",
+    "Gian Battista Moroni",
+    "Giov. Batt. Moroni"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q504949",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Battista_Moroni",
+  "ulanId": "500011118",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Siccardi%20-%20Giovan%20Battista%20Moroni%20(retouched).jpg?width=1200",
+  "naissance": "1525",
+  "deces": "1578-02-05",
+  "datesApproximatives": null,
+  "villeNaissance": "Albino",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Battista Moroni"
+  ]
+}

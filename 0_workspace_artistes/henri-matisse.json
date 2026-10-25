@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5589",
+      "description": "peintre, dessinateur, sculpteur et graveur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste",
+        "designer ou designeuse",
+        "théoricien ou théoricienne de l'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-matisse",
+  "nom": "Henri Matisse",
+  "alias": [
+    "Henri Émile Benoît Matisse",
+    "Matisse",
+    "Matisse H.",
+    "H. Matisse",
+    "Anri Matiss",
+    "Matisse Henri"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5589",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Matisse",
+  "ulanId": "500017300",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg?width=1200",
+  "naissance": "1869-12-31",
+  "deces": "1954-11-03",
+  "datesApproximatives": null,
+  "villeNaissance": "Le Cateau-Cambrésis",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Impressionnisme",
+    "Pointillisme",
+    "Fauvisme",
+    "Post-impressionnisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Matisse"
+  ]
+}

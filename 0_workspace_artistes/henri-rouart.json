@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1606016",
+      "description": "ingénieur, industriel, artiste-peintre et collectionneur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "inventeur",
+        "ingénieur ou ingénieure",
+        "personnalité politique",
+        "militaire",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-rouart",
+  "nom": "Henri Rouart",
+  "alias": [
+    "Henri Stanislaus Rouart",
+    "Henri-Stanislas Rouart",
+    "Stanislas-Henri Rouart"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1606016",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Rouart",
+  "ulanId": "500053759",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rouart%20por%20Degas.JPG?width=1200",
+  "naissance": "1833-10-02",
+  "deces": "1912-01-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Rouart"
+  ]
+}

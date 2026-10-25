@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q127171",
+      "description": "peintre et graveur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-honore-fragonard",
+  "nom": "Jean-Honoré Fragonard",
+  "alias": [
+    "J. H. Fragonard",
+    "Hon. Fragonard",
+    "Honoré Frago",
+    "Honore Fragonard",
+    "MM. Fragonard",
+    "Fragonard",
+    "Fragonart",
+    "I. H. Fragonard",
+    "Frigonard",
+    "Fragonard Père",
+    "Jan Honore Fragonard",
+    "M. Fragonnard"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q127171",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
+  "ulanId": "500115329",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg?width=1200",
+  "naissance": "1732-04-05",
+  "deces": "1806-08-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Grasse",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Honoré Fragonard"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q212499",
+      "description": "peintre et sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "enseignant ou enseignante",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-leon-gerome",
+  "nom": "Jean-Léon Gérôme",
+  "alias": [
+    "Gérôme",
+    "Jean Gérôme",
+    "L.G. Gerome",
+    "J.L. Gerome",
+    "L. Gerome",
+    "Léon Gérôme"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q212499",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me",
+  "ulanId": "500115563",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Leon%20Gerome.jpg?width=1200",
+  "naissance": "1824-05-11",
+  "deces": "1904-01-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Vesoul",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique",
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Léon Gérôme"
+  ]
+}

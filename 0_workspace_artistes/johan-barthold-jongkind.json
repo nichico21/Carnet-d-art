@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q704585",
+      "description": "peintre et graveur néerlandais (1819-1891)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "aquarelliste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "johan-barthold-jongkind",
+  "nom": "Johan Barthold Jongkind",
+  "alias": [
+    "Johan Jongkind",
+    "J. B. Jongkind",
+    "Johann Barthold Jongkind",
+    "Jean Berthold Jongkind",
+    "Johan Bartold Jongkind",
+    "Jean Barthold Jongkind",
+    "J. B. Jongkindt",
+    "Jean Bertold Jongkind",
+    "Johan B. Jongkind",
+    "Jean Baptiste Jongkind",
+    "Jongkind",
+    "J.B. Johnkind"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q704585",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Johan_Barthold_Jongkind",
+  "ulanId": "500028269",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Barthold%20Jongkind%2001.jpg?width=1200",
+  "naissance": "1819-06-03",
+  "deces": "1891-02-09",
+  "datesApproximatives": null,
+  "villeNaissance": "Lattrop",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Johan Barthold Jongkind"
+  ]
+}

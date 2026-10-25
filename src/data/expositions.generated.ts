@@ -16,11 +16,7 @@ export const EXPOSITIONS: Exposition[] = [
     "url": "https://www.musee-jacquemart-andre.com/fr/eternel-tintoret",
     "imageUrl": "https://apollo-magazine.com/wp-content/uploads/2026/09/Tintoretto-Self-Portrait-c.-1588-oil-on-canvas-63-x-52-cm-Paris-Musee-du-Louvre-Department-of-Paintings-Credit-photo-_-%C2%A9-GrandPalaisRmn-musee-du-Louvre-_-Jean-Gilles-Berizzi-copy.jpg?w=790",
     "sources": [
-      "https://www.musee-jacquemart-andre.com/fr/tickets/6a280a225308177b77141dd9",
-      "https://www.musee-jacquemart-andre.com/sites/default/files/dossier_groupes_mja_tintoret_compressed.pdf",
-      "https://www.musee-jacquemart-andre.com/en/prepare-your-visit/rates",
-      "https://www.theartnewspaper.com/2026/09/10/paris-exhibition-presents-tintoretto-alongside-his-french-fanboys",
-      "https://apollo-magazine.com/tintoretto-jacquemart-andre-paris-exhibition-review/"
+      "https://www.musee-jacquemart-andre.com/fr/tickets/6a280a225308177b77141dd9"
     ],
     "dateReleve": "2026-10-18",
     "type": "Monographique",

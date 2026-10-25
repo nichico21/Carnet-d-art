@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q334001",
+      "description": "peintre américain (1801-1848)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "thomas-cole",
+  "nom": "Thomas Cole",
+  "alias": [
+    "T. Cole",
+    "Cole"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q334001",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Thomas_Cole",
+  "ulanId": "500028323",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomascole2.jpg?width=1200",
+  "naissance": "1801-02-01",
+  "deces": "1848-02-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Bolton",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "États-Unis",
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Hudson River School"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Thomas Cole"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q214564",
+      "description": "peintre suisse (1853–1918)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université",
+        "designer ou designeuse",
+        "aquarelliste",
+        "diorama maker",
+        "panoramiste",
+        "pastelliste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "ferdinand-hodler",
+  "nom": "Ferdinand Hodler",
+  "alias": [
+    "Hodler",
+    "Ferd. Hodler",
+    "F. Hodler"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q214564",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ferdinand_Hodler",
+  "ulanId": "500027184",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hodler%20-%20Selbstbildnis%20mit%20Stehkragen%20-%201879.jpeg?width=1200",
+  "naissance": "1853-03-14",
+  "deces": "1918-05-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Berne",
+  "paysNaissance": "Suisse",
+  "nationalites": [
+    "Suisse"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art nouveau",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Ferdinand Hodler"
+  ]
+}

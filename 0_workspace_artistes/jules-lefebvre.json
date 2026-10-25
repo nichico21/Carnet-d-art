@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q433973",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jules-lefebvre",
+  "nom": "Jules Lefebvre",
+  "alias": [
+    "Jules Le Febvre",
+    "J. Lefebvre",
+    "Jules Lefebre",
+    "Lefebvre",
+    "Jules Lefevre",
+    "Lefevre"
+  ],
+  "nomNaissance": "Jules Joseph Lefebvre",
+  "wikidataId": "Q433973",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jules_Lefebvre",
+  "ulanId": "500013504",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jules-Joseph%20Lefebvre%20by%20Paul%20Boyer.png?width=1200",
+  "naissance": "1836-03-14",
+  "deces": "1911-02-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Tournan-en-Brie",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jules Lefebvre"
+  ]
+}

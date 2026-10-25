@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q6369406",
+      "description": "graveur et peintre néerlandais (1625-1672)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "karel-van-der-pluym",
+  "nom": "Karel van der Pluym",
+  "alias": [
+    "Carel Pluijm",
+    "Carel van der Pluym",
+    "Karel van der Pluijm",
+    "Carel Pluym",
+    "Pluym"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q6369406",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Karel_van_der_Pluym",
+  "ulanId": "500014997",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karel%20van%20der%20Pluym%20-%20Old%20Man%20Holding%20a%20Pair%20of%20Spectacles%20-%20WGA17984.jpg?width=1200",
+  "naissance": "1625",
+  "deces": "1672-02-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Leyde",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Karel van der Pluym"
+  ]
+}

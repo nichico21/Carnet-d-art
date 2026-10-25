@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q289951",
+      "description": "collectionneur et historien d'art, photographe, peintre, céramiste, affichiste, lithographe, graveur et écrivain français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "historien ou historienne de l'art",
+        "écrivain ou écrivaine",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "etienne-moreau-nelaton",
+  "nom": "Étienne Moreau-Nélaton",
+  "alias": [
+    "A. Moreau-Nelaton",
+    "Adolphe Etienne Auguste Moreau-Nelaton",
+    "E. Moreau-Nelaton",
+    "Étienne Adolphe Moreau-Nélaton"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q289951",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89tienne_Moreau-N%C3%A9laton",
+  "ulanId": "500043492",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89tienne%20Moreau-N%C3%A9laton%20(1859-1927).jpg?width=1200",
+  "naissance": "1859-12-02",
+  "deces": "1927-04-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture",
+    "Photographie",
+    "Arts décoratifs"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Étienne Moreau-Nélaton"
+  ]
+}

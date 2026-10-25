@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3425728",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "rene-xavier-prinet",
+  "nom": "René-Xavier Prinet",
+  "alias": [
+    "René François Xavier Prinet",
+    "René Prinet",
+    "R. X. Prinet",
+    "Prinet"
+  ],
+  "nomNaissance": "René François Xavier Prinet",
+  "wikidataId": "Q3425728",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Prinet",
+  "ulanId": "500049725",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20Prinet.jpg?width=1200",
+  "naissance": "1861-12-31",
+  "deces": "1946-01-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Vitry-le-François",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "René-Xavier Prinet"
+  ]
+}

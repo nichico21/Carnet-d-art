@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q153746",
+      "description": "architecte, peintre, dessinateur et graveur allemand (1480-1538)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "maître d’œuvre",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "albrecht-altdorfer",
+  "nom": "Albrecht Altdorfer",
+  "alias": [
+    "Altdorfer",
+    "Albrecht Altdorffer",
+    "Altofer",
+    "Altorpser",
+    "Albr. Altorfer",
+    "Altorffer",
+    "Albert Altdorffer",
+    "Aldörfer",
+    "Althofer",
+    "Alttorfer",
+    "Albrecht Altorffer",
+    "Albert Altorfer"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q153746",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Albrecht_Altdorfer",
+  "ulanId": "500031250",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Altdorfer.jpg?width=1200",
+  "naissance": "1480",
+  "deces": "1538-02-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Ratisbonne",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Architecture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Albrecht Altdorfer"
+  ]
+}

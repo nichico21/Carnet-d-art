@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q213795",
+      "description": "peintre allemand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "johann-friedrich-august-tischbein",
+  "nom": "Johann Friedrich August Tischbein",
+  "alias": [
+    "Friedrich Tischbein",
+    "Johann Friedrich Tischbein",
+    "Friedrich Jan August Tischbein",
+    "Jan Frederik August Tischbein",
+    "Leipziger Tischbein",
+    "Joh. F. A. Tischbein",
+    "Joh. Friedrich Aug. Tischbein",
+    "Friedrich Johann August Tischbein",
+    "Joh. Fried. August Tischbein",
+    "Johann August Tischbein",
+    "F. Tischbein",
+    "Joh. Fr. August Tischbein"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q213795",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Johann_Friedrich_August_Tischbein",
+  "ulanId": "500023878",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20Rijksmuseum%20SK-A-2084.jpeg?width=1200",
+  "naissance": "1750-03-09",
+  "deces": "1812-06-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Maastricht",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Johann Friedrich August Tischbein"
+  ]
+}

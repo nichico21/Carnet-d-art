@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q207929",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1556-12-31, 1557-01-02) : 1556-12-31 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pontormo",
+  "nom": "Pontormo",
+  "alias": [
+    "Jacopo da Pontormo",
+    "Jacopo Carrucci",
+    "Jacopo Pontormo",
+    "Jacopo Carruci",
+    "Il Pontormo",
+    "Le Pontormo",
+    "Le Pontorme",
+    "Giacomo Da Pontormo",
+    "Iacopo da Pontormo",
+    "Carrucci Pontormo",
+    "Jacopo Carucci Pontormo",
+    "Jacques Pontormo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q207929",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pontormo",
+  "ulanId": "500008780",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vite%20de'%20pi%C3%B9%20eccellenti%20pittori%2C%20scultori%20e%20architetti%20(1791)%20(14578560789).jpg?width=1200",
+  "naissance": "1494-05-24",
+  "deces": "1556-12-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Empoli",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pontormo"
+  ]
+}

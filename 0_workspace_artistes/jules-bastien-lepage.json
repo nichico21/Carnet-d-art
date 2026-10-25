@@ -1,0 +1,79 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q541859",
+      "description": "peintre et graveur français (1848-1884)",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [
+        "pomme de terre"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "jules-bastien-lepage",
+  "nom": "Jules Bastien-Lepage",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q541859",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jules_Bastien-Lepage",
+  "ulanId": "500015744",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/065%20Jules-Bastien%20Le%20Page%20Portrait%20de%20l'artiste.jpg?width=1200",
+  "naissance": "1848-11-01",
+  "deces": "1884-12-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Damvillers",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jules Bastien-Lepage"
+  ]
+}

@@ -14,7 +14,9 @@ import { enonces, etiquette, fetchJsonWikimedia } from './wikidata-musees.mjs';
 
 const API = 'https://www.wikidata.org/w/api.php';
 const LOT_OEUVRES = 50;
-const LOT_ENTITES = 25;
+const LOT_ARTISTES = 10; // fiches complètes : volumineuses, donc petits lots
+const LOT_LIEUX = 20;
+const LOT_LEGER = 50; // libellés seuls
 const SOUS_DIVISIONS = /arrondissement|quartier|district|borough|canton|secteur/i;
 const MAX_NIVEAUX_LIEU = 6;
 const MAX_ALIAS = 12;
@@ -42,7 +44,7 @@ const idsDe = (entite, propriete) =>
   enonces(entite, propriete).map((e) => e.mainsnak.datavalue.value?.id).filter(Boolean);
 const valeurDe = (enonce) => enonce.mainsnak.datavalue.value;
 
-async function chargerLot(ids, props, fetchJson, taille = LOT_ENTITES, extra = {}) {
+async function chargerLot(ids, props, fetchJson, taille = LOT_LEGER, extra = {}) {
   const resultat = {};
   const uniques = [...new Set(ids)];
   for (let i = 0; i < uniques.length; i += taille) {
@@ -51,7 +53,13 @@ async function chargerLot(ids, props, fetchJson, taille = LOT_ENTITES, extra = {
       languages: 'fr|en', format: 'json', ...extra,
     });
     const donnees = await fetchJson(`${API}?${params}`);
-    Object.assign(resultat, donnees.entities ?? {});
+    // Un élément fusionné avec un autre est renvoyé sous le nouvel identifiant : on le retrouve
+    // aussi sous l'ancien, celui que l'on a demandé.
+    for (const [cle, entite] of Object.entries(donnees.entities ?? {})) {
+      resultat[cle] = entite;
+      if (entite?.id && entite.id !== cle) resultat[entite.id] = entite;
+      if (entite?.redirects?.from) resultat[entite.redirects.from] = entite;
+    }
   }
   return resultat;
 }
@@ -117,7 +125,7 @@ async function resoudreLieux(lieuxIds, entites, fetchJson) {
   const etats = new Map([...new Set(lieuxIds)].map((id) => [id, { courant: id, ville: null, paysId: null, fini: false }]));
   for (let niveau = 0; niveau < MAX_NIVEAUX_LIEU; niveau++) {
     const aCharger = [...etats.values()].filter((s) => !s.fini).map((s) => s.courant).filter((id) => !entites[id]);
-    if (aCharger.length > 0) Object.assign(entites, await chargerLot(aCharger, 'labels|claims', fetchJson));
+    if (aCharger.length > 0) Object.assign(entites, await chargerLot(aCharger, 'labels|claims', fetchJson, LOT_LIEUX));
     let encore = false;
     for (const s of etats.values()) {
       if (s.fini) continue;
@@ -231,7 +239,7 @@ const urlCommons = (fichier) =>
  * atelier, un groupe ou un élément introuvable (aucune fiche ne doit alors être créée).
  */
 export async function lireArtistes(qids, { fetchJson = fetchJsonWikimedia, tables } = {}) {
-  const entites = await chargerLot(qids, 'labels|aliases|claims|sitelinks|descriptions', fetchJson, LOT_ENTITES, {
+  const entites = await chargerLot(qids, 'labels|aliases|claims|sitelinks|descriptions', fetchJson, LOT_ARTISTES, {
     sitefilter: 'frwiki|enwiki',
   });
   const lies = new Set();
@@ -254,7 +262,9 @@ export async function lireArtistes(qids, { fetchJson = fetchJsonWikimedia, table
       continue;
     }
     const nom = etiquette(e);
-    const lecture = { qid, estHumain: idsDe(e, 'P31').includes(QID_HUMAIN), nom, avertissements };
+    const qidActuel = e.id ?? qid;
+    if (qidActuel !== qid) avertissements.push(`identifiant fusionné sur Wikidata : ${qid} est devenu ${qidActuel}`);
+    const lecture = { qid: qidActuel, estHumain: idsDe(e, 'P31').includes(QID_HUMAIN), nom, avertissements };
     lecture.descriptionWikidata = e.descriptions?.fr?.value ?? e.descriptions?.en?.value ?? null;
     lecture.alias = aliasDe(e, nom);
     const nomNaissance = enonces(e, 'P1477').map(valeurDe).find((v) => v?.text)?.text;

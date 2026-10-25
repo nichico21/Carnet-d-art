@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q577050",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "Colonie artistique d'Étaples"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "henri-le-sidaner",
+  "nom": "Henri Le Sidaner",
+  "alias": [
+    "Henri Eugène Augustin Le Sidaner",
+    "Henri Eugene Le Sidaner",
+    "Henri E. A. M. Le Sidaner",
+    "Henri LeSidaner",
+    "Henri Eugene Augustin LeSidaner",
+    "Henry Le Sidaner",
+    "H. Le Sidaner",
+    "Le Sidaner Henri",
+    "H. Lesidaner",
+    "Le Sidaner",
+    "Le Sidaner H."
+  ],
+  "nomNaissance": "Henri Eugène Le Sidaner",
+  "wikidataId": "Q577050",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Le_Sidaner",
+  "ulanId": "500013651",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Le%20Sidaner%20(1862-1939)%20par%20Marie%20Duhem%20(1871-1918).jpg?width=1200",
+  "naissance": "1862-08-07",
+  "deces": "1939-07-16",
+  "datesApproximatives": null,
+  "villeNaissance": "Port-Louis",
+  "paysNaissance": "Maurice",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Le Sidaner"
+  ]
+}

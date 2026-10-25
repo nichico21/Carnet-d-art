@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q326434",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "enseignant ou enseignante"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "thomas-couture",
+  "nom": "Thomas Couture",
+  "alias": [
+    "Th.S Couture",
+    "Thos. Couture",
+    "Couture",
+    "T. Couture",
+    "Th. Couture",
+    "Couture Thomas",
+    "Couture T."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q326434",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Thomas_Couture",
+  "ulanId": "500115403",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Couture%20Carjat%20BNF.jpg?width=1200",
+  "naissance": "1815-12-21",
+  "deces": "1879-03-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Senlis",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Thomas Couture"
+  ]
+}

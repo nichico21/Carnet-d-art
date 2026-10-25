@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1337275",
+      "description": "peintre français (1591-1632)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "ténébrisme"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "valentin-de-boulogne",
+  "nom": "Valentin de Boulogne",
+  "alias": [
+    "Le Valentin",
+    "Jean Valentin",
+    "Monsù Valentino",
+    "Monsù Valentin",
+    "Monsù Valentini",
+    "Moyse Valentin",
+    "Inamorato",
+    "Moise Valentin De Boullogne",
+    "Jean",
+    "Moïse Valentin",
+    "Jean de Boulogne",
+    "Mr. Valentino"
+  ],
+  "nomNaissance": "Jean Valentin",
+  "wikidataId": "Q1337275",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Valentin_de_Boulogne",
+  "ulanId": "500021073",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Valentin%20de%20boulogne%2C%20John%20and%20Jesus.jpg?width=1200",
+  "naissance": "1591-01-03",
+  "deces": "1632-08-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Coulommiers",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Caravagisme"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Valentin de Boulogne"
+  ]
+}

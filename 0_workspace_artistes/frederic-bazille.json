@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 6,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q207298",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "frederic-bazille",
+  "nom": "Frédéric Bazille",
+  "alias": [
+    "Jean Frédéric Bazille",
+    "Frederick Bazille",
+    "Bazille"
+  ],
+  "nomNaissance": "Jean Frédéric Bazille",
+  "wikidataId": "Q207298",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bazille",
+  "ulanId": "500004356",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bazille%2C%20Fr%C3%A9d%C3%A9ric%2C%20album%20Manet%2C%20BNF%20Gallica.jpg?width=1200",
+  "naissance": "1841-12-06",
+  "deces": "1870-11-28",
+  "datesApproximatives": null,
+  "villeNaissance": "Montpellier",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme",
+    "Ecole de Barbizon",
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Frédéric Bazille"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q212754",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1917-02-11, 1917-02-10) : 1917-02-11 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "john-william-waterhouse",
+  "nom": "John William Waterhouse",
+  "alias": [
+    "J. W. Waterhouse",
+    "John Waterhouse",
+    "Nino Waterhouse"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q212754",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/John_William_Waterhouse",
+  "ulanId": "500027032",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20001.jpg?width=1200",
+  "naissance": "1849-04-06",
+  "deces": "1917-02-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Rome",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pré-raphaélisme",
+    "Art académique",
+    "Impressionnisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "John William Waterhouse"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q736065",
+      "description": "peintre italien (1657–1747)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francesco-solimena",
+  "nom": "Francesco Solimena",
+  "alias": [
+    "Abbate Ciccio",
+    "Pietro Antonio Rotari",
+    "Ciccio Solimeno",
+    "Francesco Soiminia",
+    "Ciccio Solimena",
+    "Francesco Solimana",
+    "Signor Abbate Ciccio Solimeno",
+    "Francesco Solimani",
+    "Francesco Solimano",
+    "Abbate Francesco Solimena",
+    "Francesco Soloman",
+    "Francesco Solomeni"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q736065",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Francesco_Solimena",
+  "ulanId": "500019310",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Solimena%20001.jpg?width=1200",
+  "naissance": "1657-10-04",
+  "deces": "1747-04-03",
+  "datesApproximatives": null,
+  "villeNaissance": "Serino",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle",
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Francesco Solimena"
+  ]
+}

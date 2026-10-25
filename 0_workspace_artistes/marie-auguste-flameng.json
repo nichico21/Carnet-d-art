@@ -1,0 +1,74 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3291559",
+      "description": "peintre français",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "marie-auguste-flameng",
+  "nom": "Marie-Auguste Flameng",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q3291559",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Marie-Auguste_Flameng",
+  "ulanId": "500048344",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Flameng.jpg?width=1200",
+  "naissance": "1843-07-14",
+  "deces": "1893-09-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Metz",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Marie-Auguste Flameng"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q252357",
+      "description": "artiste peintre et graveur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "charles-francois-daubigny",
+  "nom": "Charles-François Daubigny",
+  "alias": [
+    "Charles-Franois Daubigny",
+    "Charles Daubigny",
+    "Charles F. Daubigny",
+    "Charles-François D'Aubigny",
+    "Chs F Daubigny",
+    "Ch. P. Daubigny",
+    "Daubigny père",
+    "Daubigny Charles",
+    "Daubigny C.F.",
+    "C Daubigny",
+    "C.F. Daubigny",
+    "Daubigny"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q252357",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Daubigny",
+  "ulanId": "500115164",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20francois%20daubigny.jpg?width=1200",
+  "naissance": "1817-02-15",
+  "deces": "1878-02-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Ecole de Barbizon"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Charles-François Daubigny"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q461907",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-beraud",
+  "nom": "Jean Béraud",
+  "alias": [
+    "Béraud",
+    "J. Beraud"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q461907",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean_B%C3%A9raud",
+  "ulanId": "500013652",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20B%C3%A9raud%2C%20by%20Jean%20B%C3%A9raud.jpg?width=1200",
+  "naissance": "1849-01-12",
+  "deces": "1935-10-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Saint-Pétersbourg",
+  "paysNaissance": "Russie",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean Béraud"
+  ]
+}

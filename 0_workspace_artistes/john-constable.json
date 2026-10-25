@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 6,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q159297",
+      "description": "peintre paysagiste britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "john-constable",
+  "nom": "John Constable",
+  "alias": [
+    "J. Constable",
+    "Jn. Constable",
+    "Dzhon Konsteblʹ",
+    "Constable",
+    "R.A. Constable",
+    "John Constable R. A.",
+    "J. Constable R.A.",
+    "R. A. John Constable",
+    "Dzhon Konstabŭl",
+    "Kʻang-ssŭ-tʻê-pu-êrh"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q159297",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/John_Constable",
+  "ulanId": "500115382",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG?width=1200",
+  "naissance": "1776-06-11",
+  "deces": "1837-03-31",
+  "datesApproximatives": null,
+  "villeNaissance": "East Bergholt",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme",
+    "Romantisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "John Constable"
+  ]
+}

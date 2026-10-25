@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q327083",
+      "description": "peintre et poète français (1823-1896)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "desire-francois-laugee",
+  "nom": "Désiré François Laugée",
+  "alias": [
+    "Desiree Francois Laugee",
+    "Désiré Laugée"
+  ],
+  "nomNaissance": "François Désiré Laugée",
+  "wikidataId": "Q327083",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Fran%C3%A7ois_Laug%C3%A9e",
+  "ulanId": "500015035",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9sir%C3%A9%20Fran%C3%A7ois%20Laug%C3%A9e%20-%20self%20portrait%20aged%2060.jpg?width=1200",
+  "naissance": "1823-01-25",
+  "deces": "1896-01-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Maromme",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Désiré François Laugée"
+  ]
+}

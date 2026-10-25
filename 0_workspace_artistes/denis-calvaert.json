@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q544264",
+      "description": "peintre flamand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "enseignant ou enseignante",
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "denis-calvaert",
+  "nom": "Denis Calvaert",
+  "alias": [
+    "Dionigio Calvart primo Maestro di Guido Reno",
+    "Dionisio Fiamengo",
+    "Dionisio Fiammingo",
+    "Denys Caluwaert",
+    "Denijs Caluwaert",
+    "Dionisius Calvaert",
+    "Dionisio Fiammingo Calvaert",
+    "Dioniso Fiamingo",
+    "Denis Calvert",
+    "Dionisio Fiamingo",
+    "Dionisio Calvart",
+    "Denys Calvart"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q544264",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Denis_Calvaert",
+  "ulanId": "500020043",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dionisio%20Calvart%20-%20felsinapittricev01malv%200274.jpg?width=1200",
+  "naissance": "1540",
+  "deces": "1619-03-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIe siècle",
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Denis Calvaert"
+  ]
+}

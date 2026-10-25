@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q232423",
+      "description": "peintre néerlandaise",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "judith-leyster",
+  "nom": "Judith Leyster",
+  "alias": [
+    "Judita Leystar",
+    "Judith Molenaer Leyster",
+    "Judith Molenaer",
+    "Judith Leijster",
+    "Leyster",
+    "Juffr. Molenaer",
+    "Leystar",
+    "Juffr. Molenaers",
+    "J.L. Molenaer"
+  ],
+  "nomNaissance": "Judith Jans Leyster",
+  "wikidataId": "Q232423",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Judith_Leyster",
+  "ulanId": "500025814",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Judith%20Leyster.jpg?width=1200",
+  "naissance": "1609-07-28",
+  "deces": "1660-02-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Haarlem",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Caravagisme"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Judith Leyster"
+  ]
+}

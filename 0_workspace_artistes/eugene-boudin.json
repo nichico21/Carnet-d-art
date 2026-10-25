@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q212600",
+      "description": "peintre français, père de l'impressionnisme (1824-1898)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eugene-boudin",
+  "nom": "Eugène Boudin",
+  "alias": [
+    "Louis Eugène Boudin",
+    "Eugène-Louis Boudin",
+    "E. Boudin",
+    "Ėzhen Buden",
+    "L. E. Boudin",
+    "E. L. Boudin",
+    "Boudin",
+    "Boudin E.",
+    "Edouard Boudin",
+    "E. F. Boudin",
+    "Eug. Boudin"
+  ],
+  "nomNaissance": "Louis Eugène Boudin",
+  "wikidataId": "Q212600",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Boudin",
+  "ulanId": "500004513",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boudin-eugene-c-face-half.jpg?width=1200",
+  "naissance": "1824-07-12",
+  "deces": "1898-08-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Honfleur",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eugène Boudin"
+  ]
+}

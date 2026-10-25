@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q380052",
+      "description": "peintre et graveur espagnol (1838-1874)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1838-06-11, 1838-07-11) : 1838-06-11 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "peinture romantique"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "maria-fortuny",
+  "nom": "Marià Fortuny",
+  "alias": [
+    "Marià Josep Bernat Fortuny i Marsal",
+    "Mariano José María Bernardo Fortuny",
+    "Mariano José Maria Bernardo Fortuny y Carbó",
+    "Fortuny",
+    "M. Fortuny",
+    "Mariano José Fortuny y Marsal",
+    "Mariano Jose Maria Bernardo Fortuny Marsal",
+    "Mariano Fortuny y Carbó",
+    "Maria Fortuny y Marsal",
+    "Mariano Jose Maria Bernardo Fortuny Y Marsal",
+    "Fortuny y Carbó",
+    "Mariano Fortuny Madrazo"
+  ],
+  "nomNaissance": "Marià Josep Bernat Fortuny i Marsal",
+  "wikidataId": "Q380052",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mari%C3%A0_Fortuny",
+  "ulanId": "500031539",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/(Barcelona)%20Mari%C3%A0%20Fortuny%20-%20Autoretrat%20-%20Museu%20Nacional%20d'Art%20de%20Catalunya.jpg?width=1200",
+  "naissance": "1838-06-11",
+  "deces": "1874-11-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Reus",
+  "paysNaissance": "Espagne",
+  "nationalites": [
+    "Espagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Marià Fortuny"
+  ]
+}

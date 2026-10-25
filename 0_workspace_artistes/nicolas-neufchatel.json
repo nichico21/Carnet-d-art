@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q323971",
+      "description": "peintre flamand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "nicolas-neufchatel",
+  "nom": "Nicolas Neufchâtel",
+  "alias": [
+    "Nicolas de Neufchatel",
+    "Lucidel",
+    "Lucidel Neufchatel",
+    "Colyn van Nieucasteel",
+    "Nicolas Nutzschideel",
+    "Colyn van Nieucastel",
+    "Nicolas de Novocastello",
+    "Nikolaus Neufchatel",
+    "Nicolas Neufchatel Genannt Lucidel",
+    "Nicolaus Van Neufchatel",
+    "Nufchattel",
+    "Neufchatel"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q323971",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nicolas_Neufch%C3%A2tel",
+  "ulanId": "500010427",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Neufch%C3%A2tel%20002.jpg?width=1200",
+  "naissance": "1527",
+  "deces": "1590",
+  "datesApproximatives": true,
+  "villeNaissance": "Mons",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Nicolas Neufchâtel"
+  ]
+}

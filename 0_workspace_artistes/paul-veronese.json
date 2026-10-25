@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 6,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q9440",
+      "description": "peintre italien de la Renaissance",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paul-veronese",
+  "nom": "Paul Véronèse",
+  "alias": [
+    "Paolo Veronese",
+    "Paolo Caliati Veronese",
+    "Poul Veronese",
+    "Paolo Vironeus",
+    "Paolo Cagliari gen. Veronese",
+    "Paolo Caliari il Veronese",
+    "Paolo Cagliari Veronese",
+    "dit Paul Veronese Paul Calliari",
+    "Paolo Caliari Genannt Veronese",
+    "detto Paolo Veronese Paolo Cagliari",
+    "Paolo Calliari Veronese",
+    "P. Veroness"
+  ],
+  "nomNaissance": "Paolo Caliari",
+  "wikidataId": "Q9440",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se",
+  "ulanId": "500021218",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Veronese%20-%20AUTORITRATTO%20(2)%20-%20Museo%20dell'Ermitage.jpg?width=1200",
+  "naissance": "1528",
+  "deces": "1588-04-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Vérone",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme",
+    "Renaissance",
+    "Haute Renaissance",
+    "Ecole vénitienne"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul Véronèse"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q615161",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "sanford-robinson-gifford",
+  "nom": "Sanford Robinson Gifford",
+  "alias": [
+    "Sanford R. Gifford",
+    "Sanford Gifford",
+    "S. R. Gifford",
+    "R.S. Gifford",
+    "Gifford",
+    "Sandford R. Gifford"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q615161",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Sanford_Robinson_Gifford",
+  "ulanId": "500019147",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Study%20for%20a%20Self-Portrait%20-%20Sanford%20Robinson%20Gifford%20-%20overall.jpg?width=1200",
+  "naissance": "1823-07-10",
+  "deces": "1880-08-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Greenfield",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Hudson River School"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Sanford Robinson Gifford"
+  ]
+}

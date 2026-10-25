@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2756381",
+      "description": "peintre, dessinateur et graveur français (1844-1925)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "pastelliste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "leon-augustin-lhermitte",
+  "nom": "Léon Augustin Lhermitte",
+  "alias": [
+    "Léon Lhermitte",
+    "Augustin Lhermitte",
+    "Léon Augustin L'hermitte",
+    "L. Lhermitte",
+    "Leon Augustine L'Hermitte",
+    "Leon L'Hermitte",
+    "Léon, see L'Hermitte, L. For Lhermitte",
+    "Léon For Lhermitte see L'Hermitte L.",
+    "L'Hermitte",
+    "Lhermitte",
+    "L. L'Hermitte",
+    "Lhermitte L."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2756381",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%C3%A9on_Lhermitte",
+  "ulanId": "500019500",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Lhermitte%20par%20Nadar.jpg?width=1200",
+  "naissance": "1844-07-31",
+  "deces": "1925-07-28",
+  "datesApproximatives": null,
+  "villeNaissance": "Mont-Saint-Père",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Naturalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Léon Augustin Lhermitte"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q182791",
+      "description": "sculpteur, peintre et graveur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-baptiste-carpeaux",
+  "nom": "Jean-Baptiste Carpeaux",
+  "alias": [
+    "Jules Carpeaux",
+    "Ernest Blagny",
+    "Jean Pierre Carpeaux",
+    "Carpeaux",
+    "J. B. Carpeaux"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q182791",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Baptiste_Carpeaux",
+  "ulanId": "500115348",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Carpeaux%20self-portrait%20-%20Fontaine%202000%20p25.jpg?width=1200",
+  "naissance": "1827-05-11",
+  "deces": "1875-10-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Valenciennes",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Baptiste Carpeaux"
+  ]
+}

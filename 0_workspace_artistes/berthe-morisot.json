@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q105320",
+      "description": "artiste peintre française",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "berthe-morisot",
+  "nom": "Berthe Morisot",
+  "alias": [
+    "Berthe Marie Pauline Morisot",
+    "Berthe Manet",
+    "Berthe Manet Morisot",
+    "Berthe Marie Pauline Morisot Manet",
+    "Berthe Marie Pauline Morizot",
+    "B. Morisot",
+    "Morisot",
+    "Bertha Morisot"
+  ],
+  "nomNaissance": "Berthe Marie Pauline Morisot",
+  "wikidataId": "Q105320",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Berthe_Morisot",
+  "ulanId": "500029669",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg?width=1200",
+  "naissance": "1841-01-14",
+  "deces": "1895-03-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Bourges",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Berthe Morisot"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "datesApproximatives",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1172702",
+      "description": "peintre anonyme italien du XIIIe siècle",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "datesApproximatives",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "maitre-du-bigallo",
+  "nom": "Maître du Bigallo",
+  "alias": [
+    "Master of the Bigallo Crucifix",
+    "Master of Bigallo",
+    "Bigallo-Meister",
+    "Maestro del Bigallo",
+    "Bigallo Master",
+    "Master of the Bigallo",
+    "Master of the Bigallo Crucifixion"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1172702",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ma%C3%AEtre_du_Bigallo",
+  "ulanId": "500020424",
+  "imageUrl": null,
+  "naissance": "1150",
+  "deces": null,
+  "datesApproximatives": true,
+  "villeNaissance": null,
+  "paysNaissance": null,
+  "nationalites": [],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "Moyen Âge"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Maître du Bigallo"
+  ]
+}

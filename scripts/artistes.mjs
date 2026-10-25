@@ -17,9 +17,16 @@
  *   node scripts/artistes.mjs creer "<Q… | page Wikipédia ou Wikidata>" [--nom-catalogue "Nom"]
  *       brouillon pour un artiste choisi, même sans œuvre au catalogue ; --nom-catalogue (répétable)
  *       indique sous quel nom ses œuvres figurent dans le catalogue (utile pour trancher un nom ambigu)
+ *   node scripts/artistes.mjs corriger-noms [--ecrire] [--variantes]
+ *       remplace dans les fiches d'œuvres les noms codés (« Q155626 (à corriger) ») par le nom de la
+ *       fiche artiste promue ; --variantes ramène aussi les autres graphies au nom de la fiche
+ *   node scripts/artistes.mjs inconnus
+ *       liste les œuvres à créateur inconnu, avec un lien Wikidata pour vérifier ou attribuer
  *   node scripts/artistes.mjs completer <id> ["Q… ou page"] | --tous  [--force]
  *       remplit les champs vides d'une fiche (--force : met à jour dates et lieu de naissance)
- *   node scripts/artistes.mjs promouvoir
+ *   node scripts/artistes.mjs promouvoir [id…] [--min-oeuvres N] [--simuler]
+ *       sans argument : tous les brouillons valides ; avec des identifiants (claude-monet) et/ou
+ *       --min-oeuvres N : seulement ceux-là ; --simuler montre ce qui serait promu sans rien déplacer
  *       vérifie les brouillons et déplace les valides dans scripts/catalog/artistes/
  *   node scripts/artistes.mjs generer
  *       écrit src/data/artistes.generated.ts et affiche le bilan
@@ -53,6 +60,7 @@ const VOCAB_DIR = path.join(CATALOG, 'vocabularies');
 const REGISTRES_DIR = path.join(CATALOG, 'registres');
 const MUSEES_DIR = path.join(CATALOG, 'musees');
 const IGNORES_FILE = path.join(CATALOG, 'registres', 'artistes_ignores.json');
+export const TAILLE_GROUPE = 20; // artistes lus puis enregistrés ensemble
 const NOM_INCONNU = 'Artiste inconnu';
 const TOP = 15;
 const MAX_ALERTES_AFFICHEES = 40;
@@ -300,7 +308,7 @@ function commandeNettoyerNoms(args) {
 const estListe = (champ) => champ.type === 'liste_texte' || champ.type === 'vocabulaire_liste';
 const FAITS_REFAITS = ['naissance', 'deces', 'datesApproximatives', 'villeNaissance', 'paysNaissance'];
 const FORMAT_DATE = /^-?\d{4}(?:-(?:0[1-9]|1[0-2])(?:-(?:0[1-9]|[12]\d|3[01]))?)?$/;
-const OPTIONS_SANS_VALEUR = new Set(['force', 'tous', 'sans-wikidata', 'ecrire', 'reessayer']);
+const OPTIONS_SANS_VALEUR = new Set(['force', 'tous', 'sans-wikidata', 'ecrire', 'reessayer', 'variantes', 'simuler']);
 const OPTIONS_REPETABLES = new Set(['nom-catalogue']);
 const DECOUPAGE_EPOQUES = [
   ['Antiquité', -Infinity, 475], ['Moyen Âge', 476, 1400], ['XVe siècle', 1401, 1500],
@@ -363,9 +371,13 @@ function lireOptions(args) {
 }
 
 function messageWikidata(e) {
-  return /réponse (429|503)/.test(e.message)
-    ? `${e.message} : Wikidata limite le rythme des requêtes. Attends une minute et relance la même commande.`
-    : e.message;
+  if (/réponse (429|503)/.test(e.message)) {
+    return `${e.message} : Wikidata limite le rythme des requêtes. Attends une minute et relance la même commande.`;
+  }
+  if (/délai dépassé|réseau :/.test(e.message)) {
+    return `${e.message}. Relance la même commande : ce qui a déjà été enregistré est conservé.`;
+  }
+  return e.message;
 }
 
 export function chargerModele() {
@@ -719,7 +731,12 @@ export async function creerBrouillonsDepuisCatalogue({
   }
   if (ambigus.length > 0) {
     log(`${ambigus.length} nom(s) partagé(s) entre plusieurs créateurs : lecture de leurs fiches Wikidata…`);
-    const infos = await lireArtistes([...new Set(ambigus.flatMap((a) => a.createurs.map((c) => c.qid)))], { fetchJson, tables });
+    let infos = new Map();
+    try {
+      infos = await lireArtistes([...new Set(ambigus.flatMap((a) => a.createurs.map((c) => c.qid)))], { fetchJson, tables });
+    } catch (e) {
+      log(`⚠ Détails des noms ambigus indisponibles (${e.message}) : seuls les identifiants seront affichés.`);
+    }
     for (const a of ambigus) {
       for (const c of a.createurs) {
         const l = infos.get(c.qid);
@@ -750,32 +767,56 @@ export async function creerBrouillonsDepuisCatalogue({
   const retenus = nouveaux.slice(0, limite);
   if (retenus.length === 0) return rapport;
 
-  log(`Lecture de ${retenus.length} artiste(s) sur Wikidata…`);
-  const lectures = await lireArtistes(retenus, { fetchJson, tables });
   fs.mkdirSync(BROUILLONS_DIR, { recursive: true });
   const dejaPris = existantes.map((e) => e.fiche);
   const nonReconnus = { professions: [], mouvements: [], nationalites: [] };
-  for (const qid of retenus) {
-    const lecture = lectures.get(qid);
-    const { noms, oeuvres: nb } = parQid.get(qid);
-    if (!lecture.estHumain) {
-      rapport.nonHumains.push({ qid, nom: lecture.nom, noms: [...noms] });
-      for (const n of noms) rapport.aIgnorer.push({ nom: n, raison: `créateur ${qid} : pas une personne` });
-      continue;
+  for (let i = 0; i < retenus.length; i += TAILLE_GROUPE) {
+    const groupe = retenus.slice(i, i + TAILLE_GROUPE);
+    log(`Lecture des artistes ${i + 1} à ${i + groupe.length} sur ${retenus.length}…`);
+    let lectures;
+    try {
+      lectures = await lireArtistes(groupe, { fetchJson, tables });
+    } catch (e) {
+      rapport.interrompu = e.message;
+      break;
     }
-    const { brouillon, id } = construireBrouillonArtiste({
-      lecture, nomsCatalogue: [...noms], nbOeuvres: nb, champs, vocabulaires, existants: dejaPris, date,
-    });
-    ecrireJsonFiche(path.join(BROUILLONS_DIR, `${id}.json`), brouillon);
-    dejaPris.push(brouillon);
-    rapport.crees.push({ id, nom: brouillon.nom, oeuvres: nb, qid });
-    for (const cle of Object.keys(nonReconnus)) nonReconnus[cle].push(...(lecture.nonReconnus?.[cle] ?? []));
+    for (const qid of groupe) {
+      const lecture = lectures.get(qid);
+      const { noms, oeuvres: nb } = parQid.get(qid);
+      if (!lecture.estHumain) {
+        rapport.nonHumains.push({ qid, nom: lecture.nom, noms: [...noms] });
+        for (const n of noms) rapport.aIgnorer.push({ nom: n, raison: `créateur ${qid} : pas une personne` });
+        continue;
+      }
+      // Si l'artiste a déjà une fiche (existante ou créée dans cette passe, par exemple sous l'ancien
+      // identifiant d'un élément fusionné), on lui ajoute simplement les noms du catalogue.
+      const memeArtiste = existantes.find((e) => e.fiche.wikidataId === lecture.qid);
+      const dejaCree = rapport.crees.find((c) => c.qid === lecture.qid);
+      if (memeArtiste || dejaCree) {
+        const chemin = memeArtiste ? path.join(memeArtiste.dossier, memeArtiste.fichier) : path.join(BROUILLONS_DIR, `${dejaCree.id}.json`);
+        const fiche = memeArtiste ? memeArtiste.fiche : JSON.parse(fs.readFileSync(chemin, 'utf-8'));
+        fiche.nomsCatalogue = [...new Set([...(fiche.nomsCatalogue ?? []), ...noms])];
+        ecrireJsonFiche(chemin, fiche);
+        rapport.rattaches.push({ id: fiche.id, noms: [...noms] });
+        continue;
+      }
+      const { brouillon, id } = construireBrouillonArtiste({
+        lecture, nomsCatalogue: [...noms], nbOeuvres: nb, champs, vocabulaires, existants: dejaPris, date,
+      });
+      ecrireJsonFiche(path.join(BROUILLONS_DIR, `${id}.json`), brouillon);
+      dejaPris.push(brouillon);
+      rapport.crees.push({ id, nom: brouillon.nom, oeuvres: nb, qid: lecture.qid });
+      for (const cle of Object.keys(nonReconnus)) nonReconnus[cle].push(...(lecture.nonReconnus?.[cle] ?? []));
+    }
   }
   for (const cle of Object.keys(nonReconnus)) rapport.nonReconnus[cle] = compter(nonReconnus[cle]);
   return rapport;
 }
 
 function afficherRapport(r) {
+  if (r.interrompu) {
+    console.log(`\n⚠ Lecture interrompue : ${messageWikidata({ message: r.interrompu })}`);
+  }
   console.log(`\n${r.crees.length} brouillon(s) créé(s) dans 0_workspace_artistes/`);
   for (const c of r.crees.slice(0, 15)) console.log(`  - ${c.nom} (${c.oeuvres} œuvre(s))`);
   if (r.crees.length > 15) console.log(`  … et ${r.crees.length - 15} autre(s)`);
@@ -851,6 +892,7 @@ async function commandeDepuisCatalogue(args) {
     });
     memoriserIgnores(rapport.aIgnorer);
     afficherRapport(rapport);
+    if (rapport.interrompu) process.exitCode = 1;
   } catch (e) {
     console.error(`✕ Wikidata : ${messageWikidata(e)}`);
     process.exitCode = 1;
@@ -1026,27 +1068,55 @@ async function commandeCompleter(args) {
 
 // ---------------------------------------------------------------- promouvoir, générer, inspecter, synchroniser
 
-function commandePromouvoir() {
+/**
+ * Promeut des brouillons dans le catalogue. Sans sélection : tous les brouillons valides.
+ * Avec des identifiants (claude-monet) et/ou --min-oeuvres N : seulement ceux-là.
+ * --simuler : montre ce qui serait promu, sans rien déplacer.
+ */
+function commandePromouvoir(args = []) {
+  const { options, positionnels } = lireOptions(args);
+  const min = options['min-oeuvres'] === undefined ? null : Number(options['min-oeuvres']);
+  if (min !== null && (!Number.isInteger(min) || min < 0)) {
+    console.error('--min-oeuvres attend un nombre entier (par exemple --min-oeuvres 12).');
+    process.exitCode = 1;
+    return;
+  }
+  const ids = positionnels.map((x) => x.replace(/\.json$/, ''));
+  const avecSelection = ids.length > 0 || min !== null;
+  const simuler = options.simuler === true;
   const { champs, ctx } = chargerModele();
   if (!fs.existsSync(BROUILLONS_DIR)) {
     console.log('0_workspace_artistes/ est absent ou vide : rien à promouvoir.');
     return;
   }
-  fs.mkdirSync(ARTISTES_DIR, { recursive: true });
+  if (!simuler) fs.mkdirSync(ARTISTES_DIR, { recursive: true });
   const existantes = lireDossier(ARTISTES_DIR).filter((x) => x.fiche).map((x) => ({ source: `catalogue/${x.fichier}`, fiche: x.fiche }));
   const brouillons = lireDossier(BROUILLONS_DIR);
+  const souche = (b) => b.fichier.replace(/\.json$/, '');
+  const nbOeuvres = (b) => b.fiche?._aide?.oeuvres_au_catalogue ?? 0;
+  const choisi = (b) => !avecSelection || ids.includes(souche(b)) || (b.fiche && ids.includes(b.fiche.id)) || (min !== null && b.fiche && nbOeuvres(b) >= min);
+
   let promus = 0;
   let restants = 0;
+  for (const id of ids) {
+    if (!brouillons.some((b) => souche(b) === id || b.fiche?.id === id)) {
+      console.error(`✕ ${id} : aucun brouillon de ce nom dans 0_workspace_artistes/`);
+      restants += 1;
+    }
+  }
   const lisibles = brouillons
-    .filter((b) => b.fiche)
-    .map((b) => ({
-      b,
-      entree: { source: `brouillon/${b.fichier}`, fiche: nettoyerBrouillon(b.fiche) },
-    }));
-  const conflits = verifierEnsemble([...existantes, ...lisibles.map((x) => x.entree)]);
-  for (const b of brouillons.filter((x) => x.erreur)) {
+    .filter((b) => b.fiche && choisi(b))
+    .map((b) => ({ b, entree: { source: `brouillon/${b.fichier}`, fiche: nettoyerBrouillon(b.fiche) } }));
+  // les conflits (doublons d'identifiant ou de nom) se cherchent contre tous les brouillons lisibles
+  const tousLisibles = brouillons.filter((b) => b.fiche).map((b) => ({ source: `brouillon/${b.fichier}`, fiche: nettoyerBrouillon(b.fiche) }));
+  const conflits = verifierEnsemble([...existantes, ...tousLisibles]);
+  for (const b of brouillons.filter((x) => x.erreur && (!avecSelection || ids.includes(souche(x))))) {
     console.error(`✕ ${b.fichier} : JSON illisible (${b.erreur})`);
     restants += 1;
+  }
+  if (avecSelection && lisibles.length === 0 && restants === 0) {
+    console.log(min !== null ? `Aucun brouillon n'a au moins ${min} œuvre(s) au catalogue.` : 'Aucun brouillon ne correspond.');
+    return;
   }
   for (const { b, entree } of lisibles) {
     const erreurs = [...validerArtiste(entree.fiche, champs, ctx), ...(conflits[entree.source] ?? [])];
@@ -1056,13 +1126,25 @@ function commandePromouvoir() {
       restants += 1;
       continue;
     }
-    ecrireJsonFiche(path.join(ARTISTES_DIR, `${entree.fiche.id}.json`), entree.fiche);
-    fs.unlinkSync(path.join(BROUILLONS_DIR, b.fichier));
-    console.log(`✓ ${b.fichier} promue dans scripts/catalog/artistes/`);
+    if (simuler) {
+      console.log(`  ${entree.fiche.nom} (${souche(b)}) : ${nbOeuvres(b)} œuvre(s)`);
+    } else {
+      ecrireJsonFiche(path.join(ARTISTES_DIR, `${entree.fiche.id}.json`), entree.fiche);
+      fs.unlinkSync(path.join(BROUILLONS_DIR, b.fichier));
+      console.log(`✓ ${b.fichier} promue dans scripts/catalog/artistes/`);
+    }
     promus += 1;
   }
-  console.log(`\n${promus} fiche(s) promue(s), ${restants} restée(s) en brouillon.`);
-  if (promus > 0) console.log('Étape suivante : node scripts/artistes.mjs generer');
+  const autres = brouillons.filter((b) => !choisi(b)).length;
+  if (simuler) {
+    console.log(`\nSimulation : ${promus} fiche(s) seraient promue(s), ${restants} pas prête(s). Rien n'a été déplacé.`);
+  } else {
+    console.log(`\n${promus} fiche(s) promue(s), ${restants} restée(s) en brouillon.${autres > 0 ? ` ${autres} autre(s) brouillon(s) non concerné(s).` : ''}`);
+    if (promus > 0) console.log('Étape suivante : node scripts/artistes.mjs generer');
+  }
+  if (!avecSelection && brouillons.length > 20 && !simuler && promus > 20) {
+    console.log("Astuce : pour n'en promouvoir que certains, utilise des identifiants (claude-monet) ou --min-oeuvres N, avec --simuler pour voir avant.");
+  }
   if (restants > 0) process.exitCode = 1;
 }
 
@@ -1240,13 +1322,102 @@ async function commandeSynchroniser(args = []) {
   if (nbEcartees > 0) process.exitCode = 1;
 }
 
+// ---------------------------------------------------------------- corriger les noms dans les fiches d'œuvres
+
+/**
+ * Remplace, dans les fiches d'œuvres, un nom d'artiste codé (« Q155626 (à corriger) ») par le nom de
+ * la fiche artiste qui le porte. Seules les fiches artistes PROMUES servent : un brouillon peut encore
+ * changer de nom. Avec --variantes, les autres graphies (« Monet ») sont aussi ramenées au nom de la
+ * fiche (« Claude Monet »).
+ */
+function commandeCorrigerNoms(args) {
+  const { options } = lireOptions(args);
+  const index = new Map();
+  for (const e of toutesLesFiches()) {
+    const promue = e.dossier === ARTISTES_DIR;
+    for (const n of [e.fiche.nom, ...(Array.isArray(e.fiche.nomsCatalogue) ? e.fiche.nomsCatalogue : [])]) {
+      if (typeof n === 'string' && normaliser(n) !== '') index.set(normaliser(n), { fiche: e.fiche, promue });
+    }
+  }
+  const aCorriger = [];
+  const enAttente = new Map();
+  const sansFiche = new Map();
+  for (const x of lireDossier(ARTWORKS_DIR)) {
+    const nom = x.fiche?.artiste;
+    if (typeof nom !== 'string') continue;
+    const code = typeDeNomTechnique(nom) === 'qid';
+    const trouve = index.get(normaliser(nom));
+    if (!code && !(options.variantes && trouve && trouve.fiche.nom !== nom)) continue;
+    if (!trouve) {
+      sansFiche.set(nom, (sansFiche.get(nom) ?? 0) + 1);
+      continue;
+    }
+    if (trouve.fiche.nom === nom) continue;
+    if (!trouve.promue) {
+      enAttente.set(nom, { nouveau: trouve.fiche.nom, n: (enAttente.get(nom)?.n ?? 0) + 1 });
+      continue;
+    }
+    aCorriger.push({ chemin: path.join(ARTWORKS_DIR, x.fichier), ancien: nom, nouveau: trouve.fiche.nom });
+  }
+
+  const groupes = new Map();
+  for (const a of aCorriger) {
+    const cle = `${a.ancien}\u0000${a.nouveau}`;
+    groupes.set(cle, { ...a, n: (groupes.get(cle)?.n ?? 0) + 1 });
+  }
+  if (groupes.size === 0 && enAttente.size === 0 && sansFiche.size === 0) {
+    console.log('Aucun nom à corriger.');
+    return;
+  }
+  if (groupes.size > 0) {
+    console.log(`${options.ecrire ? 'CORRIGÉ' : 'À CORRIGER'} :`);
+    for (const g of groupes.values()) console.log(`  ${g.ancien} → ${g.nouveau} : ${g.n} œuvre(s)`);
+  }
+  for (const [nom, { nouveau, n }] of enAttente) {
+    console.log(`\nEN ATTENTE : ${nom} → ${nouveau} (${n} œuvre(s)) : la fiche artiste est encore un brouillon.`);
+    console.log('  Promeus-la (node scripts/artistes.mjs promouvoir), puis relance cette commande.');
+  }
+  for (const [nom, n] of sansFiche) {
+    console.log(`\nSANS FICHE ARTISTE : ${nom} (${n} œuvre(s)).`);
+    console.log('  Lance node scripts/artistes.mjs depuis-catalogue (ou creer Q… --nom-catalogue "…").');
+  }
+  if (options.ecrire) {
+    for (const a of aCorriger) fs.writeFileSync(a.chemin, remplacerNom(fs.readFileSync(a.chemin, 'utf-8'), a.ancien, a.nouveau), 'utf-8');
+    if (aCorriger.length > 0) {
+      console.log(`\n${aCorriger.length} fiche(s) d'œuvre modifiée(s).`);
+      console.log('Relance ensuite : node scripts/artistes.mjs generer puis node scripts/build-app-data.mjs');
+    }
+  } else if (aCorriger.length > 0) {
+    console.log(`\n${aCorriger.length} fiche(s) d'œuvre seraient modifiée(s) (simulation) : ajoute --ecrire pour appliquer.`);
+  }
+  if (enAttente.size > 0 || sansFiche.size > 0) process.exitCode = 1;
+}
+
+/** Les œuvres dont le créateur est inconnu sur Wikidata, avec un lien pour vérifier ou attribuer. */
+function commandeInconnus() {
+  const inconnus = ['artiste inconnu', 'anonyme', 'unknown artist'];
+  const lignes = lireDossier(ARTWORKS_DIR)
+    .filter((x) => x.fiche && typeof x.fiche.artiste === 'string' && inconnus.includes(normaliser(x.fiche.artiste)))
+    .map((x) => ({ id: x.fiche.id ?? x.fichier.replace(/\.json$/, ''), titre: x.fiche.titre ?? '(sans titre)', lieu: x.fiche.lieuConservation ?? '' }));
+  if (lignes.length === 0) {
+    console.log('Aucune œuvre à créateur inconnu.');
+    return;
+  }
+  console.log(`${lignes.length} œuvre(s) à créateur inconnu :\n`);
+  for (const l of lignes) console.log(`  ${l.id}  ${l.titre}${l.lieu ? ` — ${l.lieu}` : ''}\n      https://www.wikidata.org/wiki/${l.id}`);
+  console.log("\nPour attribuer une œuvre, modifie le champ \"artiste\" de sa fiche dans scripts/catalog/artworks/ (par exemple « Atelier de Rembrandt »).");
+}
+
 const AIDE = `Commandes :
   inventaire                              les artistes du catalogue d'œuvres, et les noms à examiner
   nettoyer-noms [--ecrire]                remplace les adresses techniques par « Artiste inconnu »
   depuis-catalogue [--min N] [--limite N] brouillons pour les artistes du catalogue sans fiche
   creer "<Q… | page Wikipédia>"           brouillon pour un artiste choisi
+  corriger-noms [--ecrire] [--variantes]  remplace les noms codés (Q…) dans les fiches d'œuvres
+  inconnus                                les œuvres à créateur inconnu, avec un lien Wikidata
   completer <id> | --tous [--force]       remplit les champs vides par Wikidata
-  promouvoir                              vérifie et valide les brouillons
+  promouvoir [id…] [--min-oeuvres N] [--simuler]
+                                          valide les brouillons (tous, ou seulement ceux choisis)
   generer                                 écrit les données de l'application
   inspecter [id ou nom]                   ce qu'il reste à renseigner
   synchroniser                            nouveaux artistes du catalogue + génération`;
@@ -1258,8 +1429,10 @@ async function main() {
     else if (commande === 'nettoyer-noms') commandeNettoyerNoms(reste);
     else if (commande === 'depuis-catalogue') await commandeDepuisCatalogue(reste);
     else if (commande === 'creer') await commandeCreer(reste);
+    else if (commande === 'corriger-noms') commandeCorrigerNoms(reste);
+    else if (commande === 'inconnus') commandeInconnus();
     else if (commande === 'completer') await commandeCompleter(reste);
-    else if (commande === 'promouvoir') commandePromouvoir();
+    else if (commande === 'promouvoir') commandePromouvoir(reste);
     else if (commande === 'generer') commandeGenerer();
     else if (commande === 'inspecter') commandeInspecter(reste);
     else if (commande === 'synchroniser') await commandeSynchroniser(reste);

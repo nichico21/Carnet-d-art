@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q170259",
+      "description": "peintre, graveur et collectionneur d'art français (1833–1922)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "leon-bonnat",
+  "nom": "Léon Bonnat",
+  "alias": [
+    "Joseph Florentin Léon Bonnat",
+    "Léon-Joseph-Florentin Bonnat",
+    "Joseph Florentin Lïon Bonnat",
+    "Léon Joseph Bonnat",
+    "Bonat",
+    "Bonnat",
+    "L. Bonnat",
+    "Joseph Leon Bonnat"
+  ],
+  "nomNaissance": "Léon Joseph Florentin Bonnat",
+  "wikidataId": "Q170259",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%C3%A9on_Bonnat",
+  "ulanId": "500016107",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Bonnat%20-%20Autoportrait.jpg?width=1200",
+  "naissance": "1833-06-20",
+  "deces": "1922-09-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Bayonne",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Léon Bonnat"
+  ]
+}

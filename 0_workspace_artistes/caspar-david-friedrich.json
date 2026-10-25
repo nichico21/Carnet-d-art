@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q104884",
+      "description": "peintre, dessinateur et graveur allemand (1774–1840)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquarelliste",
+        "aquafortiste"
+      ],
+      "mouvements": [
+        "Romantisme allemand"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "caspar-david-friedrich",
+  "nom": "Caspar David Friedrich",
+  "alias": [
+    "Kaspar David Fridrikh",
+    "C. D. Friedrich",
+    "Kaspar David Friedrich",
+    "Friedrich Caspar David"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q104884",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Caspar_David_Friedrich",
+  "ulanId": "500116242",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg?width=1200",
+  "naissance": "1774-09-05",
+  "deces": "1840-05-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Greifswald",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne",
+    "Suède"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Caspar David Friedrich"
+  ]
+}

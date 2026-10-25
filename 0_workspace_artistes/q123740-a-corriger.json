@@ -1,0 +1,103 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q123740",
+      "description": "peintre suisse naturalisé français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "critique d'art",
+        "xylographe",
+        "romancier ou romancière",
+        "écrivain ou écrivaine",
+        "artiste visuel ou artiste visuelle",
+        "rédacteur ou rédactrice",
+        "aquafortiste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "q123740-a-corriger",
+  "nom": "Q123740 (à corriger)",
+  "alias": [
+    "F. Vallotton",
+    "Félix-Emile-Jean Vallotton",
+    "Félix-Édouard Vallotton"
+  ],
+  "nomNaissance": "Félix Édouard Vallotton",
+  "wikidataId": "Q123740",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/F%C3%A9lix_Vallotton",
+  "ulanId": "500017056",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vallotton-Autoportrait.jpg?width=1200",
+  "naissance": "1865-12-28",
+  "deces": "1925-12-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Lausanne",
+  "paysNaissance": "Suisse",
+  "nationalites": [
+    "Suisse",
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Nabis",
+    "Impressionnisme",
+    "Symbolisme",
+    "Post-impressionnisme",
+    "Art nouveau"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Q123740 (à corriger)"
+  ]
+}

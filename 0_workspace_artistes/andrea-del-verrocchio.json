@@ -1,0 +1,103 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q183458",
+      "description": "sculpteur, peintre et orfèvre italien de l'école florentine, XVe s.",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "musicien ou musicienne"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "andrea-del-verrocchio",
+  "nom": "Andrea del Verrocchio",
+  "alias": [
+    "Andrea Verrocchio",
+    "Andrea Verrochio",
+    "Verrocchio",
+    "Andrea Del Verrochio",
+    "Andrea di Michele Cioni Verrocchio",
+    "Andrea di Michele di Cione",
+    "Andrea di Michele di Francesco Cioni Verrocchio",
+    "Andrea di Michele di Francesco Cioni",
+    "Verochio",
+    "A. Verochio",
+    "A. Verocchio",
+    "Andrea Choni"
+  ],
+  "nomNaissance": "Andrea di Michele Cioni",
+  "wikidataId": "Q183458",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Andrea_del_Verrocchio",
+  "ulanId": "500003951",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Verrochio.jpg?width=1200",
+  "naissance": "1435",
+  "deces": "1488-10-07",
+  "datesApproximatives": true,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts décoratifs",
+    "Sculpture",
+    "Architecture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Andrea del Verrocchio"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q163543",
+      "description": "peintre français (1770-1837)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "personnalité politique",
+        "enseignant ou enseignante",
+        "portraitiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francois-gerard",
+  "nom": "François Gérard",
+  "alias": [
+    "François Pascal Simon, Baron Gérard",
+    "Baron François Pascal Simon Gérard",
+    "Francois, Baron Gerard",
+    "Baron Francis Gerard",
+    "Francis, Baron Gerard",
+    "Francois Pascal Simon Gerard",
+    "Baron François Gérard",
+    "Baron Gerard",
+    "François-Pascal-Simon Gérard Baron",
+    "Gerard",
+    "F.P.S. Gerard",
+    "F. Gerard"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q163543",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_G%C3%A9rard",
+  "ulanId": "500115453",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20G%C3%A9rard%20(1770%E2%80%931837)%2C%20later%20Baron%20G%C3%A9rard%20MET%20DP327712.jpg?width=1200",
+  "naissance": "1770-05-04",
+  "deces": "1837-01-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Rome",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "François Gérard"
+  ]
+}

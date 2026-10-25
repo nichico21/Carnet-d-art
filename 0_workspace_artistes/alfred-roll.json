@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q326167",
+      "description": "peintre et sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "alfred-roll",
+  "nom": "Alfred Roll",
+  "alias": [
+    "Alfred Philippe Roll",
+    "Alfred-Phillippe Roll",
+    "Alfred Phillipe Roll",
+    "A. Roll",
+    "Roll A.P.",
+    "A.P. Roll",
+    "Rall",
+    "Roll",
+    "A. Ph. Roll"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q326167",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alfred_Roll",
+  "ulanId": "500023434",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Roll%2C%201918.jpg?width=1200",
+  "naissance": "1845-03-01",
+  "deces": "1919-10-27",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Réalisme",
+    "Naturalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alfred Philippe Roll"
+  ]
+}

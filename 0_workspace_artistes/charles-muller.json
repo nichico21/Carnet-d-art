@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2959887",
+      "description": "peintre français (1815-1892)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1815-12-28, 1815-12-22) : 1815-12-28 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "charles-muller",
+  "nom": "Charles Müller",
+  "alias": [
+    "Charles-Louis Müller",
+    "Charles Louis Lucien Muller",
+    "Charles-Lucien-Louis Muller",
+    "C. L. Muller",
+    "Charles L. Muller",
+    "Ch. L. Muller",
+    "Ch. Muller",
+    "C.H. Muller",
+    "Muller",
+    "C. Muller",
+    "Müller de Paris"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2959887",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Charles_M%C3%BCller_(peintre)",
+  "ulanId": "500026680",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Personnalit%C3%A9s%20des%20arts%20et%20des%20lettres%20-%20Charles%20M%C3%BCller.jpg?width=1200",
+  "naissance": "1815-12-28",
+  "deces": "1892-01-09",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Charles Müller"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q151573",
+      "description": "peintre paysagiste français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paul-signac",
+  "nom": "Paul Signac",
+  "alias": [
+    "Hsi-nieh-kʻo",
+    "Polʹ Sinʹi︠a︡k",
+    "Paul Victor Jules Signac",
+    "Signac",
+    "P. Signac",
+    "Signac P."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q151573",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_Signac",
+  "ulanId": "500008410",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Signac%201923.jpg?width=1200",
+  "naissance": "1863-11-11",
+  "deces": "1935-08-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris Centre",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pointillisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul Signac"
+  ]
+}

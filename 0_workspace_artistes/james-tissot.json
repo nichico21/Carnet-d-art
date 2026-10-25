@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q381248",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "james-tissot",
+  "nom": "James Tissot",
+  "alias": [
+    "Jacques Joseph Tissot",
+    "James Jacques Joseph Tissot",
+    "J. J. Tissot",
+    "Tissot",
+    "J. James Tissot",
+    "James Jacques Tissot",
+    "James Joseph Jacques Tissot",
+    "Joseph Jacques Tissot",
+    "J. Tissot",
+    "Ja.S Tissot",
+    "Jacob Tissot (error)",
+    "Coïdé"
+  ],
+  "nomNaissance": "Jacques-Joseph Tissot",
+  "wikidataId": "Q381248",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/James_Tissot",
+  "ulanId": "500010633",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Tissot%20Self%20Portrait%20(1865).jpg?width=1200",
+  "naissance": "1836-10-15",
+  "deces": "1902-08-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Nantes",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Japonisme",
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "James Tissot"
+  ]
+}

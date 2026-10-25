@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1152965",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "adolphe-monticelli",
+  "nom": "Adolphe Monticelli",
+  "alias": [
+    "Adolphe-Joseph-Thomas Monticelli",
+    "Adolphe A. Joseph Monticelli",
+    "Monticelli",
+    "Alphonse Monticelli",
+    "Adolphe Joseph Monticelli",
+    "A.J.T. Monticelli",
+    "A.T.F. Monticelli",
+    "A.T.J. Monticelli",
+    "Monticelli A.T.J.",
+    "A. Monticelli",
+    "A.J. Monticelli",
+    "A. J. Th. Monticelli"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1152965",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Adolphe_Monticelli",
+  "ulanId": "500000984",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monticelli%20-%20Portrait%20de%20l'artiste%2C%2096-005026.jpg?width=1200",
+  "naissance": "1824-10-14",
+  "deces": "1886-06-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Marseille",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Adolphe Monticelli"
+  ]
+}

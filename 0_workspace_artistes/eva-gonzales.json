@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q464300",
+      "description": "peintre française",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1849-04-19, 1847-04-19) : 1849-04-19 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "modèle",
+        "pastelliste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eva-gonzales",
+  "nom": "Eva Gonzalès",
+  "alias": [
+    "Mme Henri Guérard",
+    "Eva Gonzalez",
+    "Gonzales"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q464300",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eva_Gonzal%C3%A8s",
+  "ulanId": "500016113",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Gonzal%C3%A8s%20(1849-1883).jpg?width=1200",
+  "naissance": "1849-04-19",
+  "deces": "1883-05-05",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eva Gonzalès"
+  ]
+}

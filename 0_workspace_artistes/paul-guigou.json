@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2348377",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paul-guigou",
+  "nom": "Paul Guigou",
+  "alias": [
+    "Paul Camille Guigou",
+    "Guigou",
+    "P. Guigou"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2348377",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_Guigou",
+  "ulanId": "500003022",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self%20Portrait%201869%20Paul%20Guigou.jpg?width=1200",
+  "naissance": "1834-02-15",
+  "deces": "1871-12-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Villars",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul Guigou"
+  ]
+}

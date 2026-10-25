@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5811",
+      "description": "peintre italien (1401-1428)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "masaccio",
+  "nom": "Masaccio",
+  "alias": [
+    "53 RPZ",
+    "Tommaso di Ser Giovanni di Simone",
+    "Mazachcho",
+    "Mazzacio",
+    "Tommaso di Ser Giovanni di Mone Cassai",
+    "Massacio",
+    "Tommaso Di Giovanni Di Simone Guidi Masaccio",
+    "Tommaso di ser Giovanni di Mone Guidi",
+    "Tommaso Guidi Masaccio",
+    "Mesaccio",
+    "Tommaso di Giovanni di Simone Guidi",
+    "Massaccio"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5811",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Masaccio",
+  "ulanId": "500026649",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio%20Self%20Portrait.jpg?width=1200",
+  "naissance": "1401-12-21",
+  "deces": "1428",
+  "datesApproximatives": null,
+  "villeNaissance": "San Giovanni Valdarno",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Masaccio"
+  ]
+}

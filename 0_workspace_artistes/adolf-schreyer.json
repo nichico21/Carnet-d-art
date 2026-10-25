@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q364184",
+      "description": "peintre allemand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "adolf-schreyer",
+  "nom": "Adolf Schreyer",
+  "alias": [
+    "Adolph Schreyer",
+    "Christian Adolf Schreyer",
+    "Adolphe Schreyer",
+    "Prof. Adolf Schreyer",
+    "Ad. Schreyer",
+    "A. Schreyer",
+    "Schreyer Adolf",
+    "Adolf Schoyerer",
+    "Schreyer Ad.",
+    "Schreyer",
+    "Adolf Schreuer",
+    "Schreyer A."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q364184",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Adolf_Schreyer",
+  "ulanId": "500024778",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20schreyer.jpg?width=1200",
+  "naissance": "1828-07-09",
+  "deces": "1899-07-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Francfort-sur-le-Main",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Adolf Schreyer"
+  ]
+}

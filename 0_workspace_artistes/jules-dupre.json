@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q959212",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jules-dupre",
+  "nom": "Jules Dupré",
+  "alias": [
+    "Jules-Louis Dupre",
+    "J. Dupré",
+    "I. Dupré",
+    "Jul. Dupre",
+    "Dupre",
+    "Juels Dupré",
+    "Dupré J.",
+    "Dupre Jules",
+    "Jules-L. Dupré"
+  ],
+  "nomNaissance": "Jules Louis Dupré",
+  "wikidataId": "Q959212",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jules_Dupr%C3%A9",
+  "ulanId": "500029859",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Dupr%C3%A9%20autoportrait.jpg?width=1200",
+  "naissance": "1811-04-05",
+  "deces": "1889-10-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Nantes",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Ecole de Barbizon"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jules Dupré"
+  ]
+}

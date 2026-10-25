@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q297",
+      "description": "peintre espagnol",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "diego-velasquez",
+  "nom": "Diego Vélasquez",
+  "alias": [
+    "Diego Rodriguez de Silva y Velasquez",
+    "Diego Velázquez"
+  ],
+  "nomNaissance": "Diego Rodríguez de Silva y Velázquez",
+  "wikidataId": "Q297",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Diego_V%C3%A9lasquez",
+  "ulanId": "500016881",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg?width=1200",
+  "naissance": "1599",
+  "deces": "1660-08-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Séville",
+  "paysNaissance": "Espagne",
+  "nationalites": [
+    "Espagne"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Diego Vélasquez"
+  ]
+}

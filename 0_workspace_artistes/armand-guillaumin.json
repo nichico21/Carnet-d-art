@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q436844",
+      "description": "peintre français du groupe impressionniste (1841-1927)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "armand-guillaumin",
+  "nom": "Armand Guillaumin",
+  "alias": [
+    "Jean-Baptiste Armand Guillaumin",
+    "A. Guillaumin",
+    "Jba Guillaumin",
+    "Guillaumin",
+    "Armand Jean Baptiste Guillaumin"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q436844",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Armand_Guillaumin",
+  "ulanId": "500003107",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Armand%20Guillaumin%2C%20selfportrait%2C%201878.jpg?width=1200",
+  "naissance": "1841-02-16",
+  "deces": "1927-06-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Armand Guillaumin"
+  ]
+}

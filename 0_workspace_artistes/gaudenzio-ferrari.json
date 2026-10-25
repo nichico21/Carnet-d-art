@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q734108",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gaudenzio-ferrari",
+  "nom": "Gaudenzio Ferrari",
+  "alias": [
+    "Gaudenzio de Vince",
+    "Gaudenzio de Vincio",
+    "Gaudenzio da Vincio",
+    "Gaudinzio Ferrari",
+    "Godiancure",
+    "Gaudenzio De Vincio Ferrari",
+    "Gaudenzio de Vincius",
+    "Gaudenzio Milanese",
+    "Guadenzio Ferrari",
+    "Gaudentio Ferrari",
+    "Gandenzio",
+    "Le Gaudentio"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q734108",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gaudenzio_Ferrari",
+  "ulanId": "500000975",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Varallo%20Sesia%20Sacro%20Monte-Statua%20Gaudenzio%20Ferrari.jpg?width=1200",
+  "naissance": "1475",
+  "deces": "1546-01-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Valduggia",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Architecture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gaudenzio Ferrari"
+  ]
+}

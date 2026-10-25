@@ -1,0 +1,81 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q809520",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1502, 1480) : 1502 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "bartolomeo-veneto",
+  "nom": "Bartolomeo Veneto",
+  "alias": [
+    "Bartolommeo Veneto",
+    "Veneto Bartholomeo",
+    "Veneziano Bartolommeo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q809520",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bartolomeo_Veneto",
+  "ulanId": "500008467",
+  "imageUrl": null,
+  "naissance": "1502",
+  "deces": "1555",
+  "datesApproximatives": null,
+  "villeNaissance": "Italie du Nord",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Bartolomeo Veneto"
+  ]
+}

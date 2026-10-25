@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q83155",
+      "description": "peintre français du mouvement néo-classique (1748-1825)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "personnalité politique"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jacques-louis-david",
+  "nom": "Jacques-Louis David",
+  "alias": [
+    "Peintre David",
+    "David",
+    "Louis David",
+    "M. le baron David",
+    "Jean Louis David",
+    "David L.",
+    "Zhak Lui David",
+    "M. Louis David",
+    "Ta-wei-tʻe",
+    "L. David",
+    "J. L. David",
+    "David Jacques-Louis"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q83155",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jacques-Louis_David",
+  "ulanId": "500115221",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg?width=1200",
+  "naissance": "1748-08-30",
+  "deces": "1825-12-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Néo-classicisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle",
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jacques-Louis David"
+  ]
+}

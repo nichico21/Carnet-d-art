@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q295144",
+      "description": "peintre, collectionneur et mécène français (1848-1894)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "mécène",
+        "philatéliste",
+        "skipper",
+        "avocat ou avocate",
+        "ingénieur ou ingénieure",
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gustave-caillebotte",
+  "nom": "Gustave Caillebotte",
+  "alias": [
+    "Gustav Caillebotte",
+    "Caillebotte"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q295144",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gustave_Caillebotte",
+  "ulanId": "500011706",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caillebotteautoportrait.jpg?width=1200",
+  "naissance": "1848-08-19",
+  "deces": "1894-02-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Architecture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gustave Caillebotte"
+  ]
+}

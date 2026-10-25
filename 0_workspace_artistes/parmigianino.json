@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q9348",
+      "description": "peintre italien (1503-1540)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "artiste visuel ou artiste visuelle",
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "parmigianino",
+  "nom": "Parmigianino",
+  "alias": [
+    "Francesco Mazzola",
+    "Le Parmesan",
+    "Francesco Mazzuola",
+    "Il Parmigianino",
+    "Girolamo Francesco Maria Mazzola",
+    "Parmigiano",
+    "Francesco Mazzuoli",
+    "Francesco Massola",
+    "Mazzuoli Parmigiano",
+    "Parmegianino",
+    "Francesco Mazzoli",
+    "Parmeggianino"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q9348",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Parmigianino",
+  "ulanId": "500012615",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg?width=1200",
+  "naissance": "1503-01-11",
+  "deces": "1540-08-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Parme",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Architecture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Haute Renaissance",
+    "Maniérisme"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Parmigianino"
+  ]
+}

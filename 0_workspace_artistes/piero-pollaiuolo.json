@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q707046",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "piero-pollaiuolo",
+  "nom": "Piero Pollaiuolo",
+  "alias": [
+    "Piero Del Pollaiolo",
+    "Piero",
+    "Piero Benci",
+    "Piero Pollaiolo",
+    "Piero di Jacopo d'Antonio Benci del Pollaiuolo",
+    "Piero Pollajuolo",
+    "Pollaiolo",
+    "Pietro Pollaiuolo",
+    "Piero del Pollaiuolo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q707046",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Piero_Pollaiuolo",
+  "ulanId": "500011428",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20pietro%20in%20vincoli%2C%20monumento%20ai%20fratelli%20del%20pollaiolo%2C%20di%20luigi%20capponi%2C%20piero.JPG?width=1200",
+  "naissance": "1443",
+  "deces": "1496",
+  "datesApproximatives": null,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Piero Pollaiuolo"
+  ]
+}

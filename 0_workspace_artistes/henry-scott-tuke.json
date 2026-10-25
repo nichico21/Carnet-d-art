@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q463962",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [
+        "École de Newlyn"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "henry-scott-tuke",
+  "nom": "Henry Scott Tuke",
+  "alias": [
+    "Henry Tuke",
+    "Tuke"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q463962",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henry_Scott_Tuke",
+  "ulanId": "500022433",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henry%20Scott%20Tuke%2C%20artist%20(1858-1929)%20%E2%80%93%20Tate%20Archive.jpg?width=1200",
+  "naissance": "1858-06-12",
+  "deces": "1929-03-13",
+  "datesApproximatives": null,
+  "villeNaissance": "York",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Photographie"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henry Scott Tuke"
+  ]
+}

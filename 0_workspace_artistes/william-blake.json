@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q41513",
+      "description": "peintre, graveur et poète britannique (1757-1827)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse",
+        "théologien ou théologienne",
+        "collectionneur ou collectionneuse",
+        "philosophe",
+        "imprimeur ou imprimeuse",
+        "écrivain ou écrivaine",
+        "librettiste",
+        "artiste",
+        "aquarelliste"
+      ],
+      "mouvements": [
+        "peinture féerique"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "william-blake",
+  "nom": "William Blake",
+  "alias": [
+    "W. Blake",
+    "Blake",
+    "Uil'iam Bleik"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q41513",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/William_Blake",
+  "ulanId": "500012489",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg?width=1200",
+  "naissance": "1757-11-28",
+  "deces": "1827-08-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle",
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "William Blake"
+  ]
+}

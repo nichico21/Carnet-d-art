@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5579015",
+      "description": "graveur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1808-03-03, 1805-03-03) : 1808-03-03 retenue",
+        "plusieurs dates de décès (1887-06-07, 1887-06-10) : 1887-06-07 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eugene-blery",
+  "nom": "Eugène Bléry",
+  "alias": [
+    "Eugene-Stanislas-Aleandre Blery",
+    "Eugène-Stanislas-Alexandre Bléry"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5579015",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Bl%C3%A9ry",
+  "ulanId": "500044552",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20BLERY%20photographi%C3%A9%20par%20Nadar.JPG?width=1200",
+  "naissance": "1808-03-03",
+  "deces": "1887-06-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Fontainebleau",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eugène Bléry"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q214062",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "joseph-wright-of-derby",
+  "nom": "Joseph Wright of Derby",
+  "alias": [
+    "Joseph Wright",
+    "Of Derby Wright",
+    "Joseph, of Derby Wright",
+    "Joseph Wright of Darby",
+    "Wright of Derby",
+    "of Derby J. Wright",
+    "Thomas Wright",
+    "Joseph (Wright Of Derby) Wright",
+    "james, of Derby wright",
+    "Jos. Wright of derby",
+    "Wright de Derby",
+    "of Derby Joseph Wright"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q214062",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Joseph_Wright_of_Derby",
+  "ulanId": "500029777",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Wright%20of%20Derby%20-%20self-portrait%201765-1768%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": "1734-09-03",
+  "deces": "1797-08-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Derby",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Joseph Wright of Derby"
+  ]
+}

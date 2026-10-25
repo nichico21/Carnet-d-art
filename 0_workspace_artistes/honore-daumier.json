@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q187506",
+      "description": "graveur, caricaturiste, peintre et sculpteur français (1808–1879)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "honore-daumier",
+  "nom": "Honoré Daumier",
+  "alias": [
+    "Daumier",
+    "H. Daumier",
+    "Honoré-Victorin Daumier",
+    "Honoré de Daumier",
+    "Daumier H.",
+    "Onore Viktorʹen Domʹe",
+    "Domiyeh",
+    "Henri Daumier",
+    "Daumier Honoré",
+    "Onorē Domjē",
+    "Domie"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q187506",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+  "ulanId": "500117998",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg?width=1200",
+  "naissance": "1808-02-26",
+  "deces": "1879-02-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Marseille",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Honoré Daumier"
+  ]
+}

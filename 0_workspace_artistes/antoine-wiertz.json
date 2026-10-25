@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q352978",
+      "description": "peintre, sculpteur et lithographe belge (1806-1865)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "antoine-wiertz",
+  "nom": "Antoine Wiertz",
+  "alias": [
+    "Antonie Joseph Wiertz",
+    "Wiertz"
+  ],
+  "nomNaissance": "Antoine Joseph Wiertz",
+  "wikidataId": "Q352978",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Antoine_Wiertz",
+  "ulanId": "500031572",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiertz%20selbst%20bildnis.jpg?width=1200",
+  "naissance": "1806-02-22",
+  "deces": "1865-06-18",
+  "datesApproximatives": null,
+  "villeNaissance": "Dinant",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Antoine Wiertz"
+  ]
+}

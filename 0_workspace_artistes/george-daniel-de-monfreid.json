@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q517792",
+      "description": "peintre, graveur, sculpteur et collectionneur d'art (1856-1929)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "george-daniel-de-monfreid",
+  "nom": "George-Daniel de Monfreid",
+  "alias": [
+    "Daniel de Monfreid",
+    "Georges Daniel Monfried",
+    "Georges Daniel de Monfreid",
+    "Daniel de Monfried",
+    "Georges Daniel de Daniel-Monfreid G. & Monfreid",
+    "G. D. De Monfried"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q517792",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/George-Daniel_de_Monfreid",
+  "ulanId": "500010450",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Portrait%20du%20peintre.jpg?width=1200",
+  "naissance": "1856-03-14",
+  "deces": "1929-11-26",
+  "datesApproximatives": null,
+  "villeNaissance": "New York",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts décoratifs",
+    "Arts graphiques",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Pointillisme",
+    "Nabis"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "George-Daniel de Monfreid"
+  ]
+}

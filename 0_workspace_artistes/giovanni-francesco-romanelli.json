@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2983846",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-francesco-romanelli",
+  "nom": "Giovanni Francesco Romanelli",
+  "alias": [
+    "Urbano Romanelli",
+    "Urbino Romanelli",
+    "Gio. Francesco Romanelli Viterbese",
+    "Giovanni Francesco Romanille",
+    "Il Raffaelino",
+    "Francesco Romanelli",
+    "Romanelli Giovan Francesco",
+    "il Viterbese Romanelli",
+    "Il Viterbese",
+    "Il Viterbese, Raffaello O Il Raffaellino Romanelli",
+    "Giov Frano Romanelli",
+    "Giovan Francesco Romanelli"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2983846",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Francesco_Romanelli",
+  "ulanId": "500007779",
+  "imageUrl": null,
+  "naissance": "1610",
+  "deces": "1662-11-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Viterbe",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Francesco Romanelli"
+  ]
+}

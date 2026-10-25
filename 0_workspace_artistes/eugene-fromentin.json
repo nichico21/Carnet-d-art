@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q353746",
+      "description": "peintre, critique d'art et romancier français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine",
+        "historien ou historienne de l'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eugene-fromentin",
+  "nom": "Eugène Fromentin",
+  "alias": [
+    "Eugene fromantin",
+    "Eugène Fromentin-Dupeux",
+    "Eugène Samuel Auguste Fromentin-Dupeux",
+    "Eugène Samuel Auguste Fromentin",
+    "Samuel Auguste Eugène Fromentin",
+    "Fromentin Eugene",
+    "Eug. Fromentin",
+    "E. Fromentin",
+    "Fromentin Eug.",
+    "Fromentin E."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q353746",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin",
+  "ulanId": "500027303",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eugene%20Fromentin%20Frontispice%20de%20Correspondance.png?width=1200",
+  "naissance": "1820-10-24",
+  "deces": "1876-08-27",
+  "datesApproximatives": null,
+  "villeNaissance": "La Rochelle",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eugène Fromentin"
+  ]
+}

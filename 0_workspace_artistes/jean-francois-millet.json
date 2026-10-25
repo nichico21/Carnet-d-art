@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q148458",
+      "description": "artiste-peintre réaliste français du XIXe siècle",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "laboureur",
+        "artiste visuel ou artiste visuelle",
+        "pastelliste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-francois-millet",
+  "nom": "Jean-François Millet",
+  "alias": [
+    "Mi-yeh",
+    "J.F. Millet",
+    "Mile",
+    "Millet J. F.",
+    "François Millet",
+    "Millet",
+    "Zhan Fransua Mille",
+    "Millet Jean Francois",
+    "Jan Francois Millet",
+    "Franqois Millet",
+    "François genannt Francisque Millet"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q148458",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet",
+  "ulanId": "500012529",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet(Nadar).jpg?width=1200",
+  "naissance": "1814-10-04",
+  "deces": "1875-01-20",
+  "datesApproximatives": null,
+  "villeNaissance": "Gruchy",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-François Millet"
+  ]
+}

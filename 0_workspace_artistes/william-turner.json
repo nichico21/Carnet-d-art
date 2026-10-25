@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 8,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q159758",
+      "description": "peintre et graveur britannique (1775-1851)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [
+        "Peinture anglaise"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "william-turner",
+  "nom": "William Turner",
+  "alias": [
+    "Turner, William",
+    "J. M. W. Turner",
+    "Joseph Mallord William Turner",
+    "Turner",
+    "JMW Turner",
+    "Joseph Mallard William Turner",
+    "James Mallord William Turner",
+    "Joseph Mallord W. Turner"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q159758",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/William_Turner",
+  "ulanId": "500026846",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg?width=1200",
+  "naissance": "1775-04-23",
+  "deces": "1851-12-19",
+  "datesApproximatives": true,
+  "villeNaissance": "Maiden Lane",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "William Turner"
+  ]
+}

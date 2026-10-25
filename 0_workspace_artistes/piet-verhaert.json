@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q981091",
+      "description": "peintre belge",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1852-02-25, 1852-02-26) : 1852-02-25 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'art",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "piet-verhaert",
+  "nom": "Piet Verhaert",
+  "alias": [
+    "Pieter Verhaert",
+    "Pierre Verhart",
+    "Pierre Verhaert",
+    "Piet Verhart"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q981091",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Piet_Verhaert",
+  "ulanId": "500042625",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Verhaert.gif?width=1200",
+  "naissance": "1852-02-25",
+  "deces": "1908-08-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Piet Verhaert"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q957538",
+      "description": "artiste peintre et sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "médailleur ou médailleuse",
+        "aquafortiste",
+        "professeur d'art",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "alphonse-legros",
+  "nom": "Alphonse Legros",
+  "alias": [
+    "A. Legros"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q957538",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alphonse_Legros",
+  "ulanId": "500013515",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Legros%20-%20David%20Wilkie%20Wynfield.jpg?width=1200",
+  "naissance": "1837-05-08",
+  "deces": "1911-12-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Dijon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France",
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alphonse Legros"
+  ]
+}

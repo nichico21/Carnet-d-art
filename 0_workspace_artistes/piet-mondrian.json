@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q151803",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "artiste visuel ou artiste visuelle",
+        "concepteur ou conceptrice de meubles",
+        "aquarelliste",
+        "écrivain ou écrivaine"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "piet-mondrian",
+  "nom": "Piet Mondrian",
+  "alias": [
+    "Mondriaan",
+    "Piet Cornelis Mondrian",
+    "Piet Cornelies Mondrian"
+  ],
+  "nomNaissance": "Pieter Cornelis Mondriaan",
+  "wikidataId": "Q151803",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Piet_Mondrian",
+  "ulanId": "500004972",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg?width=1200",
+  "naissance": "1872-03-07",
+  "deces": "1944-02-01",
+  "datesApproximatives": null,
+  "villeNaissance": "Amersfoort",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "De Stijl",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Piet Mondrian"
+  ]
+}

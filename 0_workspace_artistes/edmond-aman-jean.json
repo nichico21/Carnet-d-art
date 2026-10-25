@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q576570",
+      "description": "peintre français, graveur, critique d'art (1858-1936)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "critique",
+        "critique d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "edmond-aman-jean",
+  "nom": "Edmond Aman-Jean",
+  "alias": [
+    "Aman Jean",
+    "Amand Edmond Jean",
+    "Edmond AmanJean",
+    "Edmond Francis Aman-Jean",
+    "Aman-Jean, Edmond-François",
+    "Edmond-Francois Aman-Jean",
+    "Jean Edmond Francois Aman",
+    "Edmond François Jean Amand",
+    "E.-Aman Jean"
+  ],
+  "nomNaissance": "Amand Edmond Jean",
+  "wikidataId": "Q576570",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Edmond_Aman-Jean",
+  "ulanId": "500012380",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edmond%20Aman-Jean%201918.jpg?width=1200",
+  "naissance": "1858-11-13",
+  "deces": "1936-01-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Chevry-Cossigny",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Edmond Aman-Jean"
+  ]
+}

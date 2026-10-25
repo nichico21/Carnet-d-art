@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q314350",
+      "description": "sculpteur français (1861-1929)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "artiste",
+        "professeur d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "q314350-a-corriger",
+  "nom": "Q314350 (à corriger)",
+  "alias": [
+    "Émile Antoine Bourdelles",
+    "Émile-Antoine Bourdelle",
+    "Emile Bourdelle",
+    "Antoine Émile Bourdelle",
+    "Ėmilʹ Antuan Burdelʹ",
+    "Bourdelle E.A.",
+    "E.A. Bourdelle",
+    "Emil Antoine Bourdelle"
+  ],
+  "nomNaissance": "Émile-Antoine Bordelles",
+  "wikidataId": "Q314350",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Antoine_Bourdelle",
+  "ulanId": "500028923",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Bourdelle%20b%20Meurisse%201925.jpg?width=1200",
+  "naissance": "1861-10-30",
+  "deces": "1929-10-01",
+  "datesApproximatives": null,
+  "villeNaissance": "Montauban",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Q314350 (à corriger)"
+  ]
+}

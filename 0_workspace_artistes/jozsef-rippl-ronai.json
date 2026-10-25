@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q569369",
+      "description": "artiste hongrois",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jozsef-rippl-ronai",
+  "nom": "József Rippl-Rónai",
+  "alias": [
+    "Josef Ripple-Ronai",
+    "Jozep Róna"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q569369",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/J%C3%B3zsef_Rippl-R%C3%B3nai",
+  "ulanId": "500009950",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rippl%20Self-portrait%20in%20Pink%20Background.jpg?width=1200",
+  "naissance": "1861-05-23",
+  "deces": "1927-11-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Kaposvár",
+  "paysNaissance": "Hongrie",
+  "nationalites": [
+    "Hongrie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "József Rippl-Rónai"
+  ]
+}

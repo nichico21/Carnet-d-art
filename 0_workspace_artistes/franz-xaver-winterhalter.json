@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q168659",
+      "description": "peintre allemand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "Rococo Revival"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "franz-xaver-winterhalter",
+  "nom": "Franz Xaver Winterhalter",
+  "alias": [
+    "Francis Xavier Winterhalter",
+    "Franz Xavier Winterhalter",
+    "F. Winterhalter",
+    "Franz X. J. Winterhalter",
+    "F. Xaver Winterhalter",
+    "X. Winterhalter",
+    "F.X. Winterhalter",
+    "Franz X. Winterhalter",
+    "Winteralter",
+    "Winterhalter",
+    "Frz. Xaver Winterhalter",
+    "Winterhalter Franz Xaver"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q168659",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Franz_Xaver_Winterhalter",
+  "ulanId": "500007953",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/F.%20X.%20Winterhalter%20portrait%20%E2%80%93%20BNF%20Gallica%20portrait%20crop.jpg?width=1200",
+  "naissance": "1805-04-20",
+  "deces": "1873-07-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Menzenschwand",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Franz Xaver Winterhalter"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q720941",
+      "description": "peintre hollandais du XVIe s., majoritairement actif en France",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1505, 1510) : 1505 retenue",
+        "plusieurs dates de décès (1575-11, 1574) : 1575-11 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "chambellan"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "corneille-de-lyon",
+  "nom": "Corneille de Lyon",
+  "alias": [
+    "Corneille",
+    "Corneille de La Haye",
+    "Cornelis de Lyon",
+    "Cornelis de la Haye",
+    "Claude Corneille",
+    "Corneille de la Chapelle",
+    "Cornelis van der Capelle(n)",
+    "Cornelis van de Capelle",
+    "Corneille de Laye",
+    "C. De Lyon",
+    "de Lyon Corneille"
+  ],
+  "nomNaissance": "Corneille de la Haye",
+  "wikidataId": "Q720941",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Corneille_de_Lyon",
+  "ulanId": "500115387",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Corneille%20de%20Lyon%20-%20Self-portrait%20(copy%20attributed%20to%20Claude%20Mellan%2C%20Albertina%20inv%20no%2032802).jpg?width=1200",
+  "naissance": "1505",
+  "deces": "1575-11",
+  "datesApproximatives": true,
+  "villeNaissance": "La Haye",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Corneille de Lyon"
+  ]
+}

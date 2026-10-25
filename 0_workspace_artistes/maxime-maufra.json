@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1856520",
+      "description": "peintre et graveur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "maxime-maufra",
+  "nom": "Maxime Maufra",
+  "alias": [
+    "Maxime Mauffra",
+    "Maxime Emile Louis Maufra",
+    "Maxime Camille Louis Maufra",
+    "Maxine Maufra",
+    "Maxime C. L. Maufra",
+    "Maufra",
+    "maxime E.L. maufra",
+    "Maxine Emile Louis Maufra"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1856520",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Maxime_Maufra",
+  "ulanId": "500020892",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MaufraPortrait.jpg?width=1200",
+  "naissance": "1861-05-17",
+  "deces": "1918-05-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Nantes",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Synthétisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Maxime Maufra"
+  ]
+}

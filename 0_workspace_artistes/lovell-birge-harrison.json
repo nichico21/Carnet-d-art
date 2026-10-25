@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q6456364",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "lovell-birge-harrison",
+  "nom": "Lovell Birge Harrison",
+  "alias": [
+    "Birge Harrison",
+    "Lovel Birge Harrison",
+    "Lowell Birge Harrison",
+    "Birge Lovell Harrison",
+    "L. Birge Harrison"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q6456364",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lovell_Birge_Harrison",
+  "ulanId": "500025006",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Birge%20Harrison%201914%20(cropped).jpg?width=1200",
+  "naissance": "1854-10-28",
+  "deces": "1929-05-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Philadelphie",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Tonalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Lovell Birge Harrison"
+  ]
+}

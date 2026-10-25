@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q277738",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-marc-nattier",
+  "nom": "Jean-Marc Nattier",
+  "alias": [
+    "Jean-Marc Nattier le Jeune",
+    "J.-M. Nattier",
+    "Nattier Le Jeune Nattier",
+    "Jean-Marc Natier",
+    "Jean Nattier",
+    "Johann Marcus Nattier",
+    "Jean Marc Nattier D. J.",
+    "der jungere nattier Jean-marc",
+    "Natier le jeune",
+    "J.-Marc. Nattier",
+    "Natier",
+    "Nattier"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q277738",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Marc_Nattier",
+  "ulanId": "500120754",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Tocqu%C3%A9%2C%20Jean-Marc%20Nattier%20(1740s).jpg?width=1200",
+  "naissance": "1685-03-17",
+  "deces": "1766-11-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Marc Nattier"
+  ]
+}

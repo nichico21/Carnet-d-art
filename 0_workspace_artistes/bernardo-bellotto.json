@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q164688",
+      "description": "peintre et graveur italien (1721-1780)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur de peintures",
+        "collectionneur ou collectionneuse d'œuvres d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "bernardo-bellotto",
+  "nom": "Bernardo Bellotto",
+  "alias": [
+    "Bernado Bellotto",
+    "Canaletti Jun.",
+    "Bernardo Belota",
+    "Bernardo Michiel Bellotto",
+    "Bernardo Belloto",
+    "Bernardo Bellotti",
+    "Bernard Belloto",
+    "Il Canaletto",
+    "Canaletto Belotto",
+    "Canaletto",
+    "Bernardo, il Canaletto Bellotto",
+    "Belotto Belloto"
+  ],
+  "nomNaissance": "Bernardo Francesco Paolo Ernesto Bellotto",
+  "wikidataId": "Q164688",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bernardo_Bellotto",
+  "ulanId": "500028876",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Bellotto.jpg?width=1200",
+  "naissance": "1722-05-20",
+  "deces": "1780-11-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Bernardo Bellotto"
+  ]
+}

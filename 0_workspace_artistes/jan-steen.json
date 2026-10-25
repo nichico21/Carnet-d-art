@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q205863",
+      "description": "peintre néerlandais (1626–1679)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jan-steen",
+  "nom": "Jan Steen",
+  "alias": [
+    "Jan Havickszoon Steen",
+    "Jan Havicksz. Steen",
+    "Jan Steen Middeleeuwse maker",
+    "Jan Havicz. Steen",
+    "Jansteen",
+    "Steen Jan",
+    "Steens",
+    "Johann Steen",
+    "Joan. Stein",
+    "J. Steene",
+    "Jane Steen",
+    "Jaan Steen"
+  ],
+  "nomNaissance": "Jan Havicksz. Steen",
+  "wikidataId": "Q205863",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jan_Steen",
+  "ulanId": "500115664",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1670%20Jan%20Havicksz.%20Steen%20-%20zelfportret.jpg?width=1200",
+  "naissance": "1626",
+  "deces": "1679-02-03",
+  "datesApproximatives": null,
+  "villeNaissance": "Leyde",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Age d’or de l’art hollandais"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jan Steen"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q346808",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1617, 1617-12) : 1617 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gerard-ter-borch",
+  "nom": "Gerard ter Borch",
+  "alias": [
+    "Terburg",
+    "Gerard Terborch",
+    "Gerard ter Borch the Younger",
+    "Gerard ter Borch II",
+    "Gerard ter (II) Borch",
+    "Gerard, the younger Terborch",
+    "Gerard Terbourg",
+    "Gerard ter Burg",
+    "Gerard, II ter Borch",
+    "Gérard Terburg",
+    "Gerard ter, the younger Borch",
+    "Gerrit Terborch"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q346808",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gerard_ter_Borch",
+  "ulanId": "500017511",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20by%20Gerard%20ter%20Borch.jpg?width=1200",
+  "naissance": "1617",
+  "deces": "1681-12-08",
+  "datesApproximatives": null,
+  "villeNaissance": "Zwolle",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gerard ter Borch"
+  ]
+}

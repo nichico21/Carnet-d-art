@@ -1,0 +1,114 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q762",
+      "description": "peintre, sculpteur, architecte et ingénieur, théoricien de l'art et chercheur scientifique toscan",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "ingénieur ou ingénieure",
+        "astronome",
+        "anatomiste",
+        "mathématicien ou mathématicienne",
+        "polymathe",
+        "diplomate",
+        "inventeur",
+        "compositeur ou compositrice",
+        "physicien ou physicienne",
+        "physiologiste",
+        "botaniste",
+        "chimiste",
+        "zoologiste",
+        "scientifique",
+        "designer ou designeuse",
+        "écrivain ou écrivaine",
+        "artiste visuel ou artiste visuelle",
+        "maître d’œuvre",
+        "naturaliste",
+        "mécanicien ou mécanicienne",
+        "artiste",
+        "musicien ou musicienne",
+        "librettiste",
+        "natural philosopher"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "leonard-de-vinci",
+  "nom": "Léonard de Vinci",
+  "alias": [
+    "Leonardo da Vinci"
+  ],
+  "nomNaissance": "Leonardo di ser Piero da Vinci",
+  "wikidataId": "Q762",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci",
+  "ulanId": "500010879",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png?width=1200",
+  "naissance": "1452-04-15",
+  "deces": "1519-05-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Anchiano",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Architecture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Haute Renaissance",
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Léonard de Vinci"
+  ]
+}

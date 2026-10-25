@@ -1,0 +1,105 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5598",
+      "description": "peintre et graveur néerlandais (1606–1669)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "aquafortiste",
+        "collectionneur ou collectionneuse",
+        "artiste visuel ou artiste visuelle",
+        "vieux maître",
+        "marchand ou marchande d'art",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "rembrandt",
+  "nom": "Rembrandt",
+  "alias": [
+    "Harmensz van Rijn Rembrandt",
+    "Harmenszoon van Rijn Rembrandt",
+    "Rembrand van Rijn",
+    "Rembrat",
+    "Rembraud",
+    "R. van Rijn",
+    "Rembrandt van Ryn",
+    "Rembrands",
+    "Rembrandt Harmensz. van Rhyn",
+    "Harmensz Rembrandt van Rijn",
+    "Rhembrant van Rhyn",
+    "Rembrandt Harmensz van Ryn"
+  ],
+  "nomNaissance": "Rembrandt Harmenszoon van Rijn",
+  "wikidataId": "Q5598",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Rembrandt",
+  "ulanId": "500011051",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": "1606-07-15",
+  "deces": "1669-10-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Leyde",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Age d’or de l’art hollandais"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Rembrandt"
+  ]
+}

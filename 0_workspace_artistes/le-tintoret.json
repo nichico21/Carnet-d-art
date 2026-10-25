@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q9319",
+      "description": "peintre italien de la Renaissance (1518/1519–1594)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "le-tintoret",
+  "nom": "Le Tintoret",
+  "alias": [
+    "Tintoretto",
+    "Il Furioso",
+    "Jacopo di Giovanni Battista Robusti",
+    "Jacopo Comin",
+    "Jacopo Tintoretto"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q9319",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Tintoret",
+  "ulanId": "500011407",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Self-Portrait%20as%20a%20Young%20Man%2C%20ca.%201548%2C%20CAI.103%20(cropped).jpg?width=1200",
+  "naissance": "1519",
+  "deces": "1594-05-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme",
+    "Ecole vénitienne"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Le Tintoret"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5718019",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1812, 1812-02) : 1812 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henry-benbridge",
+  "nom": "Henry Benbridge",
+  "alias": [
+    "Henry Bembridge",
+    "Benbridge"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5718019",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Benbridge",
+  "ulanId": "500018051",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Self%20Portrait%22%20by%20Henry%20Benbridge%20(ca.1770-1790).jpg?width=1200",
+  "naissance": "1743-10",
+  "deces": "1812",
+  "datesApproximatives": null,
+  "villeNaissance": "Philadelphie",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henry Benbridge"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3166545",
+      "description": "peintre académique français d'origine belge",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-joseph-weerts",
+  "nom": "Jean-Joseph Weerts",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q3166545",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Joseph_Weerts",
+  "ulanId": "500020250",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Weerts%20(2).jpg?width=1200",
+  "naissance": "1846-05-01",
+  "deces": "1927-09-28",
+  "datesApproximatives": null,
+  "villeNaissance": "Roubaix",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Joseph Weerts"
+  ]
+}

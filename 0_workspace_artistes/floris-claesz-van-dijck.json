@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q576222",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "floris-claesz-van-dijck",
+  "nom": "Floris Claesz van Dijck",
+  "alias": [
+    "Floris van Dyck",
+    "Floris Claesz. Van Dyck",
+    "Mr. Floris van Dijck",
+    "Flooris van Dijck",
+    "Florens van Dijck",
+    "Floris van Dijck",
+    "Floris Dyck"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q576222",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Floris_Claesz_van_Dijck",
+  "ulanId": "500003326",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Floris%20Claesz.%20van%20Dyck%20001.jpg?width=1200",
+  "naissance": "1575",
+  "deces": "1651-04-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Delft",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Floris Claesz van Dijck"
+  ]
+}

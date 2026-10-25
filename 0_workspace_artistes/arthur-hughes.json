@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q434575",
+      "description": "peintre et illustrateur anglais associé au mouvement préraphaélique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "arthur-hughes",
+  "nom": "Arthur Hughes",
+  "alias": [
+    "Arthur Hugues",
+    "Hughes",
+    "Arthur II Hughes",
+    "A. Hughes",
+    "A. Hugues",
+    "Arthur Hughes II"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q434575",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Arthur_Hughes",
+  "ulanId": "500013142",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Hughes%20by%20Arthur%20Hughes.jpg?width=1200",
+  "naissance": "1832-01-27",
+  "deces": "1915-12-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pré-raphaélisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Arthur Hughes"
+  ]
+}

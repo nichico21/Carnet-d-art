@@ -1,0 +1,80 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3127027",
+      "description": "peintre et dessinateur allemand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "hans-wertinger",
+  "nom": "Hans Wertinger",
+  "alias": [
+    "Hans von Wertinger",
+    "Genannt Schwabmaler Hans Wertinger",
+    "Wertinger"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q3127027",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Hans_Wertinger",
+  "ulanId": "500008595",
+  "imageUrl": null,
+  "naissance": "1465",
+  "deces": "1533",
+  "datesApproximatives": null,
+  "villeNaissance": "Landshut",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Hans Wertinger"
+  ]
+}

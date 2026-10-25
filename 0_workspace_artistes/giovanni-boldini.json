@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q362003",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "Macchiaioli"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-boldini",
+  "nom": "Giovanni Boldini",
+  "alias": [
+    "Boldini",
+    "Jean Boldini",
+    "J. Boldini",
+    "Boldini G.",
+    "G. Boldini",
+    "A. Boldini",
+    "Giov. Boldini"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q362003",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Boldini",
+  "ulanId": "500024511",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Boldini%201926%20(2).jpg?width=1200",
+  "naissance": "1842-12-31",
+  "deces": "1931-01-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Ferrare",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Boldini"
+  ]
+}

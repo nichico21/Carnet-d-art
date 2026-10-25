@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q357807",
+      "description": "peintre italien (1460–1535)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "lorenzo-costa",
+  "nom": "Lorenzo Costa",
+  "alias": [
+    "Lorenzo Costa le Vieux",
+    "Lorenzo Costa the Elder",
+    "Lorenzo di Ottavio Costa",
+    "Lorenzo Costa (I)",
+    "Lorenzo, The Elder Costa",
+    "Lorenzo, il vecchio Costa",
+    "Lorenzo, le vieux Costa",
+    "Costa vecchio",
+    "Costa Lorenzo",
+    "L. Costa",
+    "Costa"
+  ],
+  "nomNaissance": "Lorenzo Costa il Vecchio",
+  "wikidataId": "Q357807",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lorenzo_Costa",
+  "ulanId": "500115131",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/064%20le%20vite%2C%20lorenzo%20costa.jpg?width=1200",
+  "naissance": "1460",
+  "deces": "1535-03-05",
+  "datesApproximatives": true,
+  "villeNaissance": "Ferrare",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Lorenzo Costa"
+  ]
+}

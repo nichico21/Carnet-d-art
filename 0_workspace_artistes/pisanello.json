@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q311082",
+      "description": "peintre et médailleur italien (1395–1455)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "médailleur ou médailleuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pisanello",
+  "nom": "Pisanello",
+  "alias": [
+    "Antonio Puccio di Giovanni di Cerreto",
+    "Antonio Pisanello",
+    "Antonio di Puccio di Giovanni de Cereto",
+    "Il Pisanello",
+    "Antonio Pisano",
+    "Vittore Pisanello",
+    "Vittore Pisano",
+    "Antonio di Puccio Pisano",
+    "Antonio di Puccio da Cereto",
+    "Antonio Pisano Pisanello",
+    "Antonio di Puccio Pisano Pisanello",
+    "Spisanello"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q311082",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pisanello",
+  "ulanId": "500027080",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20marescotti%2C%20pisanello.JPG?width=1200",
+  "naissance": "1395",
+  "deces": "1455",
+  "datesApproximatives": null,
+  "villeNaissance": "Pise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pisanello"
+  ]
+}

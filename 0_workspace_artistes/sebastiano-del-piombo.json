@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q285423",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "sebastiano-del-piombo",
+  "nom": "Sebastiano del Piombo",
+  "alias": [
+    "Sebastiano del Piombino",
+    "Sebastiano",
+    "Fra Sebastiano del Piombo",
+    "Sebastianus Venetus",
+    "Sebastianus del Piombo",
+    "Del Piombo Sebastiano",
+    "Fra' Bastiano del Piombo",
+    "Fra' Sebastiano del Piompo",
+    "Sebastiano del Pombo",
+    "Sebastiano del Piomba",
+    "Fra Sebastiano Luciani",
+    "Sebastien de Venise"
+  ],
+  "nomNaissance": "Sebastiano Luciani",
+  "wikidataId": "Q285423",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Sebastiano_del_Piombo",
+  "ulanId": "500032554",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/(Venice)%20Bust%20of%20Sebastiano%20del%20Piombo%20by%20Lorenzo%20Moretti%20Larese%20-%20gallerie%20Accademia%20Venice.jpg?width=1200",
+  "naissance": "1485",
+  "deces": "1547-06-21",
+  "datesApproximatives": true,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Maniérisme",
+    "Haute Renaissance"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Sebastiano del Piombo"
+  ]
+}

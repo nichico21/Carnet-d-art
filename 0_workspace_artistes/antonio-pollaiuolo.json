@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q318640",
+      "description": "peintre, sculpteur, graveur et orfèvre italien de l'école florentine",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1429-01-17, 1433-01-17) : 1429-01-17 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "médailleur ou médailleuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "antonio-pollaiuolo",
+  "nom": "Antonio Pollaiuolo",
+  "alias": [
+    "Antonio di Jacopo d'Antonio Benci del Pollagiolo",
+    "Antonio Di Jacopo D'Antonio Benci Del Pollaiuolo",
+    "Antonio del Polaiolo",
+    "Antonio Pallajuolo",
+    "Antonio Del Pollaiolo",
+    "Antonio Pollagiolo",
+    "Antonio Pollajuolo",
+    "Antonio di Jacopo d'Antonio Benci del Pollajuolo",
+    "Pollaiuolo",
+    "Pollajuolo",
+    "A. Pollajuolo",
+    "A. Pollaiuolo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q318640",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Antonio_Pollaiuolo",
+  "ulanId": "500013242",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/072%20le%20vite%2C%20antonio%20pollaiuolo.jpg?width=1200",
+  "naissance": "1429-01-17",
+  "deces": "1498-02-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Arts décoratifs",
+    "Architecture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Antonio Pollaiuolo"
+  ]
+}

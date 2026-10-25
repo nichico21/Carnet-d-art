@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1610244",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "antonio-solario",
+  "nom": "Antonio Solario",
+  "alias": [
+    "Di Giovanni Di Pietro Solario",
+    "Lo Zingaro Solario",
+    "Lo Zincaro",
+    "Antonio Assalario",
+    "Antonio Desalario",
+    "Antonio di Giovanni di Pietro Solario",
+    "Antonio da Solario",
+    "Lo Zingheri",
+    "Lo Zingaro",
+    "Antonio di Giovanni di Pietro Solari",
+    "Antonio de Solario",
+    "Zingheri"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1610244",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Antonio_Solario",
+  "ulanId": "500033043",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Solario.jpg?width=1200",
+  "naissance": "1465",
+  "deces": "1514",
+  "datesApproximatives": null,
+  "villeNaissance": "Civita d'Antino",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Antonio Solario"
+  ]
+}

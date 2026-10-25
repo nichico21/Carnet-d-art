@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q17169",
+      "description": "peintre italien de la Renaissance",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1516-11-29, 1516-11-26) : 1516-11-29 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-bellini",
+  "nom": "Giovanni Bellini",
+  "alias": [
+    "Giovanni Bellein",
+    "Giovanni Bellinj",
+    "Giovanni Bellino",
+    "Ioannes Bellinus",
+    "Giovanni Bellin",
+    "Giovanni di Bellino",
+    "Jean Béllin",
+    "Jean Bellino",
+    "Jan de Bellini",
+    "Giouanni Bellino",
+    "John Bellini",
+    "Giovanni de Bellini"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q17169",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Bellini",
+  "ulanId": "500019244",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20den%20venezianske%20maler%20Giovanni%20Bellini.jpg?width=1200",
+  "naissance": "1430",
+  "deces": "1516-11-29",
+  "datesApproximatives": true,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Bellini"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q48319",
+      "description": "peintre et graveur allemand (1497–1543)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste",
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": [
+        "Saint-Empire romain germanique"
+      ]
+    }
+  },
+  "id": "hans-holbein-le-jeune",
+  "nom": "Hans Holbein le Jeune",
+  "alias": [
+    "Orbens",
+    "the younger Hans Holbein",
+    "Hans Ubeno",
+    "Hans II Holbein",
+    "Olvens",
+    "Holbin",
+    "Hanshulben",
+    "Hulbeine",
+    "Hans Olbeius",
+    "Hans Ulbens",
+    "Hol-bein",
+    "Olbens"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q48319",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Hans_Holbein_le_Jeune",
+  "ulanId": "500005259",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%2C%20self-portrait.jpg?width=1200",
+  "naissance": "1497",
+  "deces": "1543-11-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Augsbourg",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Suisse",
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Hans Holbein le Jeune"
+  ]
+}

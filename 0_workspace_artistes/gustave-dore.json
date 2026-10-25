@@ -1,0 +1,102 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q6682",
+      "description": "peintre et illustrateur français (1832-1883)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "créateur ou créatrice de bandes dessinées",
+        "artiste visuel ou artiste visuelle",
+        "aquarelliste"
+      ],
+      "mouvements": [
+        "Âge d'or de l'illustration"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "gustave-dore",
+  "nom": "Gustave Doré",
+  "alias": [
+    "Paul Gustave Doré",
+    "Doré",
+    "Paul Gustave Louis Christophe Dore",
+    "G.ve Doré",
+    "Louis Christophe Paul Gustave Dore",
+    "Gustavo Doré",
+    "Louis Christophe Gustave Dore",
+    "Louis Auguste Gustave Doré",
+    "G. Dore",
+    "Gustave-Paul Doré"
+  ],
+  "nomNaissance": "Paul Gustave Louis Christophe Doré",
+  "wikidataId": "Q6682",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9",
+  "ulanId": "500013657",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph%20of%20Gustave%20Dor%C3%A9%20by%20Nadar%2C%20between%201856%20and%201858.jpg?width=1200",
+  "naissance": "1832-01-06",
+  "deces": "1883-01-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Strasbourg",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Romantisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gustave Doré"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q706041",
+      "description": "dessinateur, peintre, graveur, lithographe et sculpteur français (1859-1923)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1859-11-10, 1859-11-20) : 1859-11-10 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse",
+        "artiste visuel ou artiste visuelle",
+        "aquafortiste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "theophile-alexandre-steinlen",
+  "nom": "Théophile Alexandre Steinlen",
+  "alias": [
+    "Alexandre Steinlen",
+    "Aleksandŭr Staĭnlen",
+    "Alexandre Théophile Steinlen",
+    "Petit-Pierre",
+    "Th. A. Steinlen",
+    "A. Th. Steinlen",
+    "Theophile Steinlen",
+    "Th. Steinlen",
+    "A. Steinlen",
+    "Theophil Steinlen",
+    "Alex Theophile Steinlen"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q706041",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Alexandre_Steinlen",
+  "ulanId": "500017451",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SteinlenGat.jpg?width=1200",
+  "naissance": "1859-11-10",
+  "deces": "1923-12-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Lausanne",
+  "paysNaissance": "Suisse",
+  "nationalites": [
+    "Suisse",
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Art nouveau"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Théophile Alexandre Steinlen"
+  ]
+}

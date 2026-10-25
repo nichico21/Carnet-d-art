@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q194402",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine",
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "joshua-reynolds",
+  "nom": "Joshua Reynolds",
+  "alias": [
+    "J. Reynolds",
+    "Sir Jos Reynolds",
+    "Sir J. Reynolds",
+    "Sir Josh. Reynolds",
+    "Mr. Reynolds",
+    "Sir Joshua",
+    "Reynolds",
+    "Sir Joshua Reynolds RA",
+    "Jos. Reynolds",
+    "Sir J R",
+    "S.J. Reynolds",
+    "Sir J. Reynodds"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q194402",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Joshua_Reynolds",
+  "ulanId": "500004539",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%20-%20Self-Portrait%20-%20Google%20Art%20Project%20(2315517)FXD.jpg?width=1200",
+  "naissance": "1723-07-16",
+  "deces": "1792-02-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Plympton",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Néo-classicisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Joshua Reynolds"
+  ]
+}

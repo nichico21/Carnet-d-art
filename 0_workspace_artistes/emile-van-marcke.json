@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q742379",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "agriculteur ou agricultrice"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "emile-van-marcke",
+  "nom": "Émile van Marcke",
+  "alias": [
+    "Emile van Marcke de Lummen",
+    "Emil van Marcke de Lummen",
+    "Vane Marcke",
+    "V. Marcke",
+    "E.V. Marcke",
+    "Van Marcke",
+    "Marcke de Lummen",
+    "E. van Marke",
+    "Emile V. Marcke",
+    "E. Van Marcke",
+    "Van Marcke E.",
+    "Van Marck E."
+  ],
+  "nomNaissance": "Charles Émile Van Marcke de Lummen",
+  "wikidataId": "Q742379",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89mile_Van_Marcke",
+  "ulanId": "500013883",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nadar%20-%20Portrait%20du%20peintre%20Emile%20Van%20Marcke%20de%20Lummen%20(Epreuve%20photographique%20monochrome%20sur%20papier%2C%201860-1872%2C%2010.5%20x%206.3%20cm%2C%20MVW-1116805).jpg?width=1200",
+  "naissance": "1827-08-25",
+  "deces": "1890-12-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Sèvres",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Émile van Marcke"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2294801",
+      "description": "modèle et peintre baroque italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1620, 1630) : 1620 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "modèle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "cecco-del-caravaggio",
+  "nom": "Cecco del Caravaggio",
+  "alias": [
+    "Francesco Boneri",
+    "Francesco Buoneri",
+    "Cecco del Carauaggio",
+    "Francesco Boneri Cecco del Caravaggio",
+    "Francesco Cecco del Caravaggio Buoneri",
+    "Checcho di Michelangelo",
+    "Checco del Caravaggio",
+    "Checco da Caravaggio",
+    "Checho di Michelangelo",
+    "Checco di Michelangelo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2294801",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Cecco_del_Caravaggio",
+  "ulanId": "500031649",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Merisi%20da%20Caravaggio%2C%20Saint%20John%20the%20Baptist%20(Youth%20with%20a%20Ram)%20(c.%201602)%20(cropped).jpg?width=1200",
+  "naissance": "1589",
+  "deces": "1620",
+  "datesApproximatives": true,
+  "villeNaissance": null,
+  "paysNaissance": null,
+  "nationalites": [],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Cecco del Caravaggio"
+  ]
+}

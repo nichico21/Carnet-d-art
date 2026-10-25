@@ -1,0 +1,104 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q172911",
+      "description": "artiste-peintre russe (1844-1930)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "nationalité déduite du lieu de naissance (Wikidata : Empire russe, apatride)"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "essayiste",
+        "enseignant ou enseignante"
+      ],
+      "mouvements": [],
+      "nationalites": [
+        "Empire russe",
+        "apatride"
+      ]
+    }
+  },
+  "id": "ilia-repine",
+  "nom": "Ilia Répine",
+  "alias": [
+    "Répine",
+    "Ilia Efimovitch Repine",
+    "Ilia Iefimovitch Répine",
+    "Elie Repine",
+    "Ilja Jefimovitš Repin",
+    "Ilia Efimovich Repin",
+    "Ilja Jefimovitsj Repin",
+    "Ilja Jefimovič Rjepin",
+    "Il'︠i︡a Efimovich Repin",
+    "Il'ya Yefimovich Repin",
+    "I. I︠A︡. Rėpin",
+    "Il'ya Repin"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q172911",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ilia_R%C3%A9pine",
+  "ulanId": "500024225",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20(1909).jpg?width=1200",
+  "naissance": "1844-07-24",
+  "deces": "1930-09-29",
+  "datesApproximatives": null,
+  "villeNaissance": "Tchouhouïv",
+  "paysNaissance": "Ukraine",
+  "nationalites": [
+    "Ukraine"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Ilia Répine"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q213163",
+      "description": "peintre française (1755–1842)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "salonnier ou salonnière",
+        "écrivain ou écrivaine",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "elisabeth-vigee-le-brun",
+  "nom": "Élisabeth Vigée Le Brun",
+  "alias": [
+    "Élisabeth Louise Vigée Le Brun",
+    "Vigée le brun",
+    "Vigee-Lebrun Marie-Louise Elisabeth",
+    "Marie Louise Vigée-Lebrun",
+    "Elisabeth-Louise Vigée-Lebrun",
+    "Marie Louise Elisabeth Vigée Lebrun",
+    "Elizabeth Vigee Le Brun",
+    "Marie Louise Elisabeth Le Brun",
+    "Louise-Elisabeth Vigee Le Brun",
+    "Louise Elisabeth Vigée- Lebrun",
+    "Elizabeth-Louise Vigee Le Brun",
+    "Marie Louise Elizabeth Vigee-LeBrun"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q213163",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun",
+  "ulanId": "500010070",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20in%20a%20Straw%20Hat%20by%20Elisabeth-Louise%20Vig%C3%A9e-Lebrun.jpg?width=1200",
+  "naissance": "1755-04-16",
+  "deces": "1842-03-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Rococo",
+    "Néo-classicisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle",
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Élisabeth Vigée Le Brun"
+  ]
+}

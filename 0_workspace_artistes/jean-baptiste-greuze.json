@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q347139",
+      "description": "peintre et dessinateur français (1725-1805)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-baptiste-greuze",
+  "nom": "Jean-Baptiste Greuze",
+  "alias": [
+    "Greuze",
+    "Jean-Baptiste Gruze",
+    "Jean-Baptiste Creuze",
+    "Jean-Baptiste De Gruse",
+    "Jean-Baptiste Greuse",
+    "Jean-Baptiste Creuse",
+    "Jean-Baptiste Cruise",
+    "Jean-Baptiste Grouse",
+    "Zhan-Batist Grëz",
+    "Jean-Baptiste Gruce",
+    "J. B. Greuse",
+    "M. Greuze"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q347139",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Baptiste_Greuze",
+  "ulanId": "500000119",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Greuze%20-%20Self-Portrait.jpg?width=1200",
+  "naissance": "1725-08-21",
+  "deces": "1805-03-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Tournus",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Baptiste Greuze"
+  ]
+}

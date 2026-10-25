@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q82445",
+      "description": "peintre, dessinateur, lithographe, affichiste et illustrateur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "graphiste",
+        "designer ou designeuse",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-de-toulouse-lautrec",
+  "nom": "Henri de Toulouse-Lautrec",
+  "alias": [
+    "Toulouse Lautrec",
+    "Henri Toulouse Lautrec",
+    "Henri Marie Raymond De Toulouse-Lautrec",
+    "For Toulouse-Lautrec see Lautrec",
+    "Treclau",
+    "Lautrec",
+    "De Lautrec",
+    "Henri-Marie-Raymond de Toulouse-Lautrec Montfa",
+    "H. de Toulouse Lautrev",
+    "Henri De Toulouse Lauterec",
+    "Lautrec Toulouse",
+    "Henry Toulouse-Lautrec"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q82445",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec",
+  "ulanId": "500029114",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg?width=1200",
+  "naissance": "1864-11-24",
+  "deces": "1901-09-09",
+  "datesApproximatives": null,
+  "villeNaissance": "Albi",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Post-impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri de Toulouse-Lautrec"
+  ]
+}

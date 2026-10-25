@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2960711",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "charles-de-tournemine",
+  "nom": "Charles de Tournemine",
+  "alias": [
+    "Charles-Émile Vacher de Tournemine",
+    "Charles-Émile de Tournemine",
+    "Charles Emile de Vacher de Tournemine",
+    "Charles Emile de Benezit Vacher de Tournemine",
+    "Charles Emile Vacher de Touraine",
+    "Charles Emil de Tournemine"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2960711",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Charles_de_Tournemine",
+  "ulanId": "500030118",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tournemine%2C%20Charles%20de%2C%20H%C3%A9lios%20photo.%2C%20BNF%20Gallica.jpg?width=1200",
+  "naissance": "1812-10-25",
+  "deces": "1872-12-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Toulon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Charles de Tournemine"
+  ]
+}

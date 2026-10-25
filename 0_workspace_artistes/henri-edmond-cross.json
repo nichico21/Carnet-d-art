@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q555224",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-edmond-cross",
+  "nom": "Henri-Edmond Cross",
+  "alias": [
+    "Henri-Edmond",
+    "Henri Edmond Delacroix",
+    "Henri-Edmond-Joseph Delacroix",
+    "Edmond Cross",
+    "H.E. cross",
+    "Cross",
+    "Henri E. Delacroix genannt Cross",
+    "Henri Edmund Cross"
+  ],
+  "nomNaissance": "Henri Edmond Joseph Delacroix",
+  "wikidataId": "Q555224",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri-Edmond_Cross",
+  "ulanId": "500014010",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri-Edmond-Cross-Self-portrait.jpg?width=1200",
+  "naissance": "1856-05-20",
+  "deces": "1910-05-16",
+  "datesApproximatives": null,
+  "villeNaissance": "Douai",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pointillisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri-Edmond Cross"
+  ]
+}

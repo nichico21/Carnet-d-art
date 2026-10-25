@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q33978",
+      "description": "peintre et designer français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "Simultanéisme"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "robert-delaunay",
+  "nom": "Robert Delaunay",
+  "alias": [
+    "Robert Victor Félix Delaunay",
+    "Robert Delaunay II",
+    "Robert Delaunay (1885-1941)",
+    "Delaunay",
+    "Robert II Delaunay"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q33978",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Robert_Delaunay",
+  "ulanId": "500023463",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Delaunay%20portrait%20photograph.jpg?width=1200",
+  "naissance": "1885-04-12",
+  "deces": "1941-10-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Orphisme",
+    "Pointillisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Robert Delaunay"
+  ]
+}

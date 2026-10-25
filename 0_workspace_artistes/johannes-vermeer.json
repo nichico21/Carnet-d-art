@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q41264",
+      "description": "peintre néerlandais (1632–1675)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "marchand ou marchande d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "johannes-vermeer",
+  "nom": "Johannes Vermeer",
+  "alias": [
+    "Vermeer de Delft",
+    "Vermer",
+    "Vander Meer de Delft",
+    "Jan Vermeer Delft",
+    "de Delfet Vander-Meer",
+    "De Delfsche van der Meer",
+    "Vermeer van van Delft",
+    "J. Vermeer of Delft",
+    "Jan Van Der Meer Der Altere",
+    "Jan van Der Meer",
+    "of Delft V. der Meer",
+    "Vermeer van Delft"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q41264",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Johannes_Vermeer",
+  "ulanId": "500032927",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cropped%20version%20of%20Jan%20Vermeer%20van%20Delft%20002.jpg?width=1200",
+  "naissance": "1632-10",
+  "deces": "1675-12-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Delft",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Age d’or de l’art hollandais",
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Johannes Vermeer"
+  ]
+}

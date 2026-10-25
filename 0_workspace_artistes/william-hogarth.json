@@ -1,0 +1,102 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q171344",
+      "description": "peintre et graveur anglais (1697-1764)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1764-10-26, 1764-10-25) : 1764-10-26 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "relecteur-correcteur",
+        "artiste héraldiste",
+        "théoricien ou théoricienne de l'art",
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "william-hogarth",
+  "nom": "William Hogarth",
+  "alias": [
+    "Hogarth W.",
+    "Guglielmo Hogarth",
+    "Horarth",
+    "Uilʹi︠a︡m Khogart",
+    "Khogart",
+    "W. Hogarth",
+    "Sir Wm. Hogarth",
+    "Hogarth",
+    "Hogarth Sir W.",
+    "William Horarth",
+    "Hogart",
+    "Hogardt"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q171344",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/William_Hogarth",
+  "ulanId": "500004242",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Painter%20and%20His%20Pug%20by%20William%20Hogarth.jpg?width=1200",
+  "naissance": "1697-11-10",
+  "deces": "1764-10-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "William Hogarth"
+  ]
+}

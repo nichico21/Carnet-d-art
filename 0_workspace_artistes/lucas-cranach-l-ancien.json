@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q191748",
+      "description": "peintre, dessinateur, imprimeur et peintre de cour allemand (1472–1553)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse",
+        "artiste",
+        "pharmacien ou pharmacienne",
+        "éditeur ou éditrice"
+      ],
+      "mouvements": [],
+      "nationalites": [
+        "Saint-Empire romain germanique"
+      ]
+    }
+  },
+  "id": "lucas-cranach-l-ancien",
+  "nom": "Lucas Cranach l'Ancien",
+  "alias": [
+    "Cranach l’Ancien",
+    "Lucas Cranach I",
+    "Lucas Cranach le Vieux",
+    "Lucas de Cranach le père",
+    "Luca Kranack",
+    "Lucas Cranaccio",
+    "Lucas, the elder Cranach",
+    "Lucas Cranache",
+    "Lucas Kronach",
+    "Lukas Kranach",
+    "Luca Cranach",
+    "Lucas Sunder"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q191748",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lucas_Cranach_l'Ancien",
+  "ulanId": "500115364",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%20%C3%84.%20063.jpg?width=1200",
+  "naissance": "1472-10-04",
+  "deces": "1553-10-16",
+  "datesApproximatives": null,
+  "villeNaissance": "Kronach",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Lucas Cranach l'Ancien"
+  ]
+}

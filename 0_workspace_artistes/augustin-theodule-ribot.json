@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q768127",
+      "description": "peintre et graveur réaliste français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "augustin-theodule-ribot",
+  "nom": "Augustin Théodule Ribot",
+  "alias": [
+    "Théodule Ribot",
+    "Theodule Augustin Ribot",
+    "T. Ribot",
+    "Augustin Ribot",
+    "A. Ribot",
+    "Ribot",
+    "Aug. Theodule Ribot",
+    "A. Th. Ribot",
+    "Th. Ribot",
+    "Theodule Auguste Ribot",
+    "Theodor Ribot"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q768127",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Th%C3%A9odule_Ribot_(peintre)",
+  "ulanId": "500029651",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/(Toulouse)%20Th%C3%A9odule%20Ribot%20vers%201880%20par%20Ferdinand%20Mulnier%20-%20Paris%20mus%C3%A9e%20d'Orsay.jpg?width=1200",
+  "naissance": "1823-08-08",
+  "deces": "1891-09-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Saint-Nicolas-d'Attez",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Augustin Théodule Ribot"
+  ]
+}

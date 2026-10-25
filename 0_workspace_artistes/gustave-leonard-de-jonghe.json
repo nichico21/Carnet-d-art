@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1286290",
+      "description": "peintre belge",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "réalisme social"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "gustave-leonard-de-jonghe",
+  "nom": "Gustave Léonard de Jonghe",
+  "alias": [
+    "Gustave de Jonghes",
+    "Gustave de Jonghe",
+    "Gustav De Jonghe",
+    "De Jonghe",
+    "G. de Jonge",
+    "G. dejonghe",
+    "Dejonghe",
+    "Gu. dejonghe",
+    "G. de jonghe",
+    "De Junghe",
+    "Dejungh",
+    "G. de jorghe"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1286290",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gustave_L%C3%A9onard_de_Jonghe",
+  "ulanId": "500018384",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20de%20Jonghe%20(autoportrait).jpg?width=1200",
+  "naissance": "1829-02-04",
+  "deces": "1893-01-28",
+  "datesApproximatives": null,
+  "villeNaissance": "Courtrai",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gustave Léonard de Jonghe"
+  ]
+}

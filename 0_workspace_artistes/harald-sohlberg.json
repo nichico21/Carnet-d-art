@@ -1,0 +1,81 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1367020",
+      "description": "artiste peintre",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "harald-sohlberg",
+  "nom": "Harald Sohlberg",
+  "alias": [
+    "Harald Solberg",
+    "Harald Oscar Sohlberg",
+    "Harald Oskar Sohlberg"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1367020",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Harald_Sohlberg",
+  "ulanId": "500112494",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sohlberg-selvportrett.jpg?width=1200",
+  "naissance": "1869-11-29",
+  "deces": "1935-06-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Christiania",
+  "paysNaissance": "Norvège",
+  "nationalites": [
+    "Norvège"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Harald Sohlberg"
+  ]
+}

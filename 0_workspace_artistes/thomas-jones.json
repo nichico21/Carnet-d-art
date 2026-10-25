@@ -1,0 +1,82 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1743855",
+      "description": "peintre britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "thomas-jones",
+  "nom": "Thomas Jones",
+  "alias": [
+    "Jones",
+    "T. Jones",
+    "Thomas I. Jones"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1743855",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Thomas_Jones_(peintre)",
+  "ulanId": "500007523",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Filippo%20Liberati%20Marchi%20(c.1735-1808)%20-%20Thomas%20Jones%20(1742%E2%80%931803)%20-%20NMW%20A%2082%20-%20National%20Museum%20Cardiff.jpg?width=1200",
+  "naissance": "1742-09-26",
+  "deces": "1803-04-29",
+  "datesApproximatives": null,
+  "villeNaissance": "pays de Galles",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Thomas Jones"
+  ]
+}

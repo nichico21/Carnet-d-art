@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q451771",
+      "description": "artiste-peintre portugais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [
+        "modernisme",
+        "postmodernisme"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "amadeo-de-souza-cardoso",
+  "nom": "Amadeo de Souza-Cardoso",
+  "alias": [
+    "Amadeo de Souza- Cardozo",
+    "Amadeu De Sousa-Cardoso",
+    "Amadeu Ferreira de Souza-Cardoso",
+    "Amadeo",
+    "Amadeu",
+    "Sousa Cardoso",
+    "Amadeu de Souza-Cardoso",
+    "Amadeo de Sousa-Cardozo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q451771",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amadeo_de_Souza-Cardoso",
+  "ulanId": "500006591",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amadeo%20de%20Souza%20Cardoso%20with%20tie%20and%20looking%20right.jpg?width=1200",
+  "naissance": "1887-11-14",
+  "deces": "1918-10-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Mancelos",
+  "paysNaissance": "Portugal",
+  "nationalites": [
+    "Portugal"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme",
+    "Expressionnisme",
+    "Cubisme",
+    "Futurisme",
+    "Orphisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Amadeo de Souza-Cardoso"
+  ]
+}

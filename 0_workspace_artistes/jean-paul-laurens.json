@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q708568",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "enseignant ou enseignante"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-paul-laurens",
+  "nom": "Jean-Paul Laurens",
+  "alias": [
+    "J.P. Laurens",
+    "Jean-Paul Fourquevoux",
+    "Laurens",
+    "J.P. Laurencs"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q708568",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Paul_Laurens",
+  "ulanId": "500004460",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul%20Laurens%2C%201878.JPG?width=1200",
+  "naissance": "1838-03-28",
+  "deces": "1921-03-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Fourquevaux",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Paul Laurens"
+  ]
+}

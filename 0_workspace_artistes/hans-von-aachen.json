@@ -1,0 +1,104 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q152835",
+      "description": "peintre allemand (1552–1615)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "nationalité déduite du lieu de naissance (Wikidata : Saint-Empire romain germanique)"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste",
+        "diplomate",
+        "designer ou designeuse",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": [
+        "Saint-Empire romain germanique"
+      ]
+    }
+  },
+  "id": "hans-von-aachen",
+  "nom": "Hans von Aachen",
+  "alias": [
+    "Hans von Achen",
+    "Hans von Ach",
+    "Johann von Aachen",
+    "Johann von Achen",
+    "Johann von Aken",
+    "Hans Ach",
+    "Hans Aachen",
+    "Hans von Aacken",
+    "Hans von Acken",
+    "John at Arch",
+    "John Van Echen",
+    "Johann Aachen"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q152835",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Hans_von_Aachen",
+  "ulanId": "500127905",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aachen%20Selbstbildnis.jpg?width=1200",
+  "naissance": "1552",
+  "deces": "1615-03-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Cologne",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle",
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Hans von Aachen"
+  ]
+}

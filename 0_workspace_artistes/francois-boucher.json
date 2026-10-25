@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q180932",
+      "description": "peintre français (1703–1770)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "cartonnier",
+        "aquafortiste",
+        "collectionneur ou collectionneuse d'œuvres d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francois-boucher",
+  "nom": "François Boucher",
+  "alias": [
+    "François Bouché",
+    "François Bouchet",
+    "François Bourcher",
+    "François Bouchez",
+    "Francois, the elder Boucher",
+    "Fransua Bushe",
+    "Francis Boucher",
+    "Suite de Boucher.",
+    "M. Boucher pere",
+    "Fr Boucher",
+    "F. Boucher",
+    "pere Boucher"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q180932",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+  "ulanId": "500032143",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg?width=1200",
+  "naissance": "1703-09-29",
+  "deces": "1770-05-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "François Boucher"
+  ]
+}

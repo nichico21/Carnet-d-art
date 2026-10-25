@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 12,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q239394",
+      "description": "peintre graveur et illustrateur français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "edouard-vuillard",
+  "nom": "Édouard Vuillard",
+  "alias": [
+    "Jean Edouard Vuillard",
+    "E. Vuillard",
+    "Vuillard",
+    "Edouard Vuilliard"
+  ],
+  "nomNaissance": "Jean Édouard Vuillard",
+  "wikidataId": "Q239394",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89douard_Vuillard",
+  "ulanId": "500014954",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg?width=1200",
+  "naissance": "1868-11-11",
+  "deces": "1940-06-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Cuiseaux",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Japonisme",
+    "Nabis"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Édouard Vuillard"
+  ]
+}

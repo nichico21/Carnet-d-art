@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5827",
+      "description": "peintre italien de la Renaissance",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "École ombrienne"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "le-perugin",
+  "nom": "Le Pérugin",
+  "alias": [
+    "Pietro Vannucci",
+    "Il Perugino",
+    "Perugino",
+    "Pietro di Cristoforo di Vannucci",
+    "Pedro Perugeno",
+    "Pietro di Cristoforo di Vannucci Perugino",
+    "Pietro di Cristoforo Vannucci",
+    "Pietro Vannucci Perugino",
+    "Pietro Perugini",
+    "Pedro Perujeno",
+    "Pietro Di Cristoforo Vanucci Perugino",
+    "Pietro Pérugin"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5827",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_P%C3%A9rugin",
+  "ulanId": "500024544",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20Perugino%20031.jpg?width=1200",
+  "naissance": "1448",
+  "deces": "1523",
+  "datesApproximatives": null,
+  "villeNaissance": "Città della Pieve",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Le Pérugin"
+  ]
+}

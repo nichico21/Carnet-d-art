@@ -1,0 +1,83 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1289500",
+      "description": "sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "enseignant ou enseignante"
+      ],
+      "mouvements": [
+        "Neo-Baroque"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "louis-ernest-barrias",
+  "nom": "Louis-Ernest Barrias",
+  "alias": [
+    "Ernest Barrias",
+    "Louis-Ernst Barrias"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1289500",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Louis-Ernest_Barrias",
+  "ulanId": "500009549",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barrias-louis-ernst-in-1902-velhagen-und-klasings-monatshefte-jg16-1901-1902-bd02-heft08-april1902-s219-foto-pierre-petit-1832-1909.jpg?width=1200",
+  "naissance": "1841-04-13",
+  "deces": "1905-02-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Louis-Ernest Barrias"
+  ]
+}

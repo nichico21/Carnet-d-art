@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q365068",
+      "description": "peintre et sculpteur danois (1851-1909)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "peder-severin-kr-yer",
+  "nom": "Peder Severin Krøyer",
+  "alias": [
+    "Peter Severin Krøyer",
+    "Peter Kroger",
+    "Peder Severin Kroeyer",
+    "Séverin Kroyer",
+    "Peder Severin Søren Krøyer",
+    "P.S. Krøyer",
+    "Soren Kroyer",
+    "Kroyer"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q365068",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Peder_Severin_Kr%C3%B8yer",
+  "ulanId": "500026506",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/P%20S%20Kr%C3%B8yer%201897%20-%20Selvportr%C3%A6t.jpg?width=1200",
+  "naissance": "1851-07-23",
+  "deces": "1909-11-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Stavanger",
+  "paysNaissance": "Norvège",
+  "nationalites": [
+    "Norvège",
+    "Danemark"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Peder Severin Krøyer"
+  ]
+}

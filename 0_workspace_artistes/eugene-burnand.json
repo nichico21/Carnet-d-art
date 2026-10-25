@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q681448",
+      "description": "peintre, lithographe et graveur suisse (1850-1921)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eugene-burnand",
+  "nom": "Eugène Burnand",
+  "alias": [
+    "E. Burnand",
+    "Eug. Burnand",
+    "Eugène Charles Louis Burnand"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q681448",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Burnand",
+  "ulanId": "500031007",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Burnand%20Self%20portrait%201915.jpg?width=1200",
+  "naissance": "1850-08-30",
+  "deces": "1921-02-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Moudon",
+  "paysNaissance": "Suisse",
+  "nationalites": [
+    "Suisse"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Naturalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eugène Burnand"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "claude-monet",
+  "nom": "Claude Monet",
+  "alias": [
+    "Monet",
+    "Monet Claude",
+    "Claude Jean Monet",
+    "Cl. Monet",
+    "Monet C.",
+    "Oscar-Claude Monet",
+    "Claude Oscar Monet",
+    "C. Monet",
+    "Klod Mone"
+  ],
+  "nomNaissance": "Oscar-Claude Monet",
+  "wikidataId": "Q296",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Claude_Monet",
+  "ulanId": "500019484",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg?width=1200",
+  "naissance": "1840-11-14",
+  "deces": "1926-12-05",
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Claude Monet"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2821502",
+      "description": "peintre, lithographe, illustrateur et caricaturiste français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "abel-faivre",
+  "nom": "Abel Faivre",
+  "alias": [
+    "Jules Abel Faivre",
+    "Jules A. Faivre",
+    "Jules Faivre",
+    "Jules Abel Favre",
+    "M.r Faivre"
+  ],
+  "nomNaissance": "Jules Abel Augustin Faivre",
+  "wikidataId": "Q2821502",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Abel_Faivre",
+  "ulanId": "500042434",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Faivre.jpg?width=1200",
+  "naissance": "1867-03-30",
+  "deces": "1945-08-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Lyon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Abel Faivre"
+  ]
+}

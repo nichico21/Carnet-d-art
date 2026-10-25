@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q41554",
+      "description": "peintre français du XVIIe siècle représentant du classicisme pictural",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "nicolas-poussin",
+  "nom": "Nicolas Poussin",
+  "alias": [
+    "Nicola Poussin",
+    "Nicolo Poussin",
+    "Le Poussin",
+    "Niccolo Pussino",
+    "Poussin",
+    "Nicholas Poussin"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q41554",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nicolas_Poussin",
+  "ulanId": "500005036",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Poussin%20078.jpg?width=1200",
+  "naissance": "1594-06",
+  "deces": "1665-11-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Les Andelys",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Classicisme"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Nicolas Poussin"
+  ]
+}

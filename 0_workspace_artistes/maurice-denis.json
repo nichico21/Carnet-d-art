@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q440369",
+      "description": "peintre, graveur décorateur et historien de l'art français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine",
+        "critique d'art",
+        "historien ou historienne de l'art",
+        "théoricien ou théoricienne de l'art",
+        "artiste",
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "maurice-denis",
+  "nom": "Maurice Denis",
+  "alias": [
+    "Moris Deni",
+    "M. Denis",
+    "Denis"
+  ],
+  "nomNaissance": "Maurice Amédée Eugène Denis",
+  "wikidataId": "Q440369",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Maurice_Denis",
+  "ulanId": "500032673",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20Denis%20-%20photo%20Henri%20Manuel.jpg?width=1200",
+  "naissance": "1870-11-25",
+  "deces": "1943-11-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Granville",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Symbolisme",
+    "Synthétisme",
+    "Nabis"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Maurice Denis"
+  ]
+}

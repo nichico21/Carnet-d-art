@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q159606",
+      "description": "peintre anglais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste",
+        "préraphaélisme"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "john-everett-millais",
+  "nom": "John Everett Millais",
+  "alias": [
+    "Sir John E. Millais",
+    "Millais",
+    "John E. Millais",
+    "J.E. Millais",
+    "J. Millais",
+    "Sir John Everett Millais",
+    "Sir John Everett Millais, Bt",
+    "Sir John Everett Millais P R A",
+    "John Everett Millais (Sir)",
+    "Sir John Everett Millais, 1st Baronet"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q159606",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/John_Everett_Millais",
+  "ulanId": "500031367",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Millais%20-%20Self-Portrait.jpg?width=1200",
+  "naissance": "1829-06-08",
+  "deces": "1896-08-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Southampton",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Pré-raphaélisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "John Everett Millais"
+  ]
+}

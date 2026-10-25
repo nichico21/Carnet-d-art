@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q219403",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "constant-troyon",
+  "nom": "Constant Troyon",
+  "alias": [
+    "C. Troyon",
+    "Const. Troyon",
+    "Constantin Troyon",
+    "Troyon",
+    "Troyon C.",
+    "Gonst. Troyon",
+    "Troyon Constant"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q219403",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Constant_Troyon",
+  "ulanId": "500003566",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Constant%20Troyon%201865.jpg?width=1200",
+  "naissance": "1810-08-28",
+  "deces": "1865-03-20",
+  "datesApproximatives": null,
+  "villeNaissance": "Sèvres",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Ecole de Barbizon"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Constant Troyon"
+  ]
+}

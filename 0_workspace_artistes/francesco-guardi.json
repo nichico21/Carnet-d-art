@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q318769",
+      "description": "peintre vénitien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francesco-guardi",
+  "nom": "Francesco Guardi",
+  "alias": [
+    "François Guardi",
+    "Francesco Guada",
+    "Fr. Guardi",
+    "Francesco Gardis",
+    "Franchesko Gvardi",
+    "Francesco Guarde",
+    "Francesco Gauda",
+    "Francesco Guardet",
+    "Francesco Gardi",
+    "Francesco Garde",
+    "Francesco de Guardi",
+    "Francesco Lazzaro Guardi"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q318769",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Francesco_Guardi",
+  "ulanId": "500017409",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca'%20Rezzonico%20-%20Ritratto%20di%20Francesco%20Guardi%201764%20-%20Pietro%20Longhi.jpg?width=1200",
+  "naissance": "1712-10-05",
+  "deces": "1793-01-01",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Francesco Guardi"
+  ]
+}

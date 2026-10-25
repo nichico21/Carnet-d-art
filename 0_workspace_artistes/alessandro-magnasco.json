@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q516941",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "alessandro-magnasco",
+  "nom": "Alessandro Magnasco",
+  "alias": [
+    "Il Lissandrino",
+    "Lissandrino",
+    "Alessandro Bagnaschi",
+    "Il Lissandrino Magnasco",
+    "Il Lissandro",
+    "Alessandro (Lissandrino) Magnasco",
+    "Alexandre Magnasco",
+    "Alexandro Magnasco",
+    "Lisandrino",
+    "Bagnasco",
+    "A. Magnasco",
+    "Allessandro Magnasco"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q516941",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alessandro_Magnasco",
+  "ulanId": "500015104",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20by%20Alessandro%20Magnasco%2C%20called%20il%20Lissandrino%20(Genoa%201667-1749).jpg?width=1200",
+  "naissance": "1667-02-04",
+  "deces": "1749-03-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Gênes",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alessandro Magnasco"
+  ]
+}

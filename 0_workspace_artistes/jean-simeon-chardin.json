@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q207447",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-simeon-chardin",
+  "nom": "Jean Siméon Chardin",
+  "alias": [
+    "Simon Sharden",
+    "Jean-Baptiste Simeon Chardin",
+    "Jean Chardijn",
+    "Jean Baptiste Chardin",
+    "Zhan Batist Simeon Sharden",
+    "Zhak-Batist Simeon Sharden",
+    "J. Chardin",
+    "M. Chardin",
+    "S. Chardin",
+    "J. B. S. Chardin",
+    "J.B. Chardin",
+    "Jean Baptiste Simon Chardin"
+  ],
+  "nomNaissance": "Jean Baptiste Siméon Chardin",
+  "wikidataId": "Q207447",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+  "ulanId": "500115331",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chardin%20pastel%20selfportrait.jpg?width=1200",
+  "naissance": "1699-11-02",
+  "deces": "1779-12-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean Siméon Chardin"
+  ]
+}

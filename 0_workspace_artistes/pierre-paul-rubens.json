@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5599",
+      "description": "peintre flamand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "diplomate",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "peinture baroque flamande"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "pierre-paul-rubens",
+  "nom": "Pierre Paul Rubens",
+  "alias": [
+    "Pietro Paolo Rubens",
+    "Peter Paulus Rubens",
+    "Pierre Rubens",
+    "Petri Paulo Rubbens",
+    "Pieter Paul Rubens",
+    "Pieter Paul Rubbens",
+    "Peter Paul Ruebens",
+    "Peter Paul Rubens"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5599",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pierre_Paul_Rubens",
+  "ulanId": "500002921",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": "1577-06-28",
+  "deces": "1640-05-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Siegen",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pierre Paul Rubens"
+  ]
+}

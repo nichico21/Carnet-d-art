@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 5,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1350125",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "ernest-hebert",
+  "nom": "Ernest Hébert",
+  "alias": [
+    "Antoine-Auguste-Ernest Hébert",
+    "Ernest Herbert",
+    "Erunesuto Ebēru",
+    "Ernest-Antoine-Auguste Hebert",
+    "Ernest Auguste Antoine Herbert",
+    "A.A.E. Hebert",
+    "Hebert",
+    "Antoine Auguste Erneste Hebert",
+    "Herbert A.A.E.",
+    "Aug. Antoine Ernest Hébert",
+    "Hebert Antoine Auguste Ernest",
+    "A.A.E. Herbert"
+  ],
+  "nomNaissance": "Antoine Auguste Ernest Hébert",
+  "wikidataId": "Q1350125",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ernest_H%C3%A9bert",
+  "ulanId": "500005127",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20H%C3%A9bert%20autoportrait.jpg?width=1200",
+  "naissance": "1817-11-03",
+  "deces": "1908-12-05",
+  "datesApproximatives": null,
+  "villeNaissance": "Grenoble",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Ernest Hébert"
+  ]
+}

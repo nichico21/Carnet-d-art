@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q267858",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "albert-marquet",
+  "nom": "Albert Marquet",
+  "alias": [
+    "Pierre-Albert Marquet",
+    "Alʹber Marke",
+    "Marquet A.",
+    "A. Marquet",
+    "Marquet",
+    "Pierre Léopold Albert Marquet"
+  ],
+  "nomNaissance": "Pierre Léopold Albert Marquet",
+  "wikidataId": "Q267858",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Albert_Marquet",
+  "ulanId": "500022386",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20Albert%20Marquet%20(1904).jpg?width=1200",
+  "naissance": "1875-03-27",
+  "deces": "1947-06-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Bordeaux",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Fauvisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Albert Marquet"
+  ]
+}

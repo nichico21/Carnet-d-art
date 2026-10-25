@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q7824",
+      "description": "peintre et graveur italien (1560-1609)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "annibale-carracci",
+  "nom": "Annibale Carracci",
+  "alias": [
+    "Aníbal Carracci",
+    "Annibale Carrache",
+    "Anibali Caracci",
+    "Annibal Le Carrache",
+    "Anibal Caraggi",
+    "Anibal Caraccioli",
+    "Anibale Carraccia",
+    "Anibale Carraccio",
+    "Anibale Caracci",
+    "Anibal Corache",
+    "Ann. Carracci",
+    "Annabali Caracci"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q7824",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Annibale_Carracci",
+  "ulanId": "500115350",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20-%20Self-portrait.jpg?width=1200",
+  "naissance": "1560-11-03",
+  "deces": "1609-07-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Bologne",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIe siècle",
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Annibale Carracci"
+  ]
+}

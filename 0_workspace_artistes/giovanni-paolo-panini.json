@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q286670",
+      "description": "peintre italien du XVIIIe siècle",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "scénographe"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giovanni-paolo-panini",
+  "nom": "Giovanni Paolo Panini",
+  "alias": [
+    "Pannini",
+    "Giovan Paolo Pannini",
+    "Paolo Panini",
+    "Cavaliere Giovanni Paolo Pannini",
+    "Paulo Peneni",
+    "Gian Pannini",
+    "Gio. Paolo Pannini",
+    "Paul Pannini",
+    "Giovanni Paolo Penini",
+    "Giovanni Paolo Pagnini",
+    "Cavaliere Giovanni Paolo Panini",
+    "Gian Paolo Pannini"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q286670",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giovanni_Paolo_Panini",
+  "ulanId": "500018296",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20painter%20Giovanni%20Paolo%20Pannini%20by%20Louis-Gabriel%20Blanchet.jpg?width=1200",
+  "naissance": "1691-06-17",
+  "deces": "1765-10-21",
+  "datesApproximatives": null,
+  "villeNaissance": "Plaisance",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giovanni Paolo Panini"
+  ]
+}

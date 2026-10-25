@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5822",
+      "description": "artiste peintre et mathématicien italien",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "mathématicien ou mathématicienne",
+        "théoricien ou théoricienne de l'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "piero-della-francesca",
+  "nom": "Piero della Francesca",
+  "alias": [
+    "Piero dei Franceschi",
+    "Piero",
+    "Pietro dei Franceschi",
+    "della Francesca Piero",
+    "Piero de' Franceschi",
+    "Pietro di Benedetto di Pietro de' Franceschi",
+    "Pietro di Benedetto dei Franceschi",
+    "Piero della Francesco",
+    "Dei Franceschi",
+    "Pietro di Benedetto di Pietro della Francesca",
+    "Pietro della Francesca",
+    "P. della Francesca"
+  ],
+  "nomNaissance": "Piero di Benedetto dei Franceschi",
+  "wikidataId": "Q5822",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Piero_della_Francesca",
+  "ulanId": "500006339",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Resurrection%20detail.JPG?width=1200",
+  "naissance": "1415",
+  "deces": "1492-10-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Sansepolcro",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Piero della Francesca"
+  ]
+}

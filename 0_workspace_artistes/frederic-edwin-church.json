@@ -1,11 +1,10 @@
 {
   "_aide": {
     "a_completer": [],
-    "oeuvres_au_catalogue": 51,
+    "oeuvres_au_catalogue": 1,
     "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
     "a_verifier": [
       "alias",
-      "nomNaissance",
       "wikidataId",
       "wikipediaUrl",
       "ulanId",
@@ -20,11 +19,10 @@
       "epoques"
     ],
     "wikidata": {
-      "id": "Q296",
-      "description": "peintre impressionniste français",
+      "id": "Q366212",
+      "description": "peintre américain",
       "champs_remplis": [
         "alias",
-        "nomNaissance",
         "wikidataId",
         "wikipediaUrl",
         "ulanId",
@@ -43,53 +41,49 @@
     },
     "non_reconnus": {
       "professions": [
-        "artiste graphique"
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "voyageur ou voyageuse"
       ],
       "mouvements": [],
       "nationalites": []
     }
   },
-  "id": "claude-monet",
-  "nom": "Claude Monet",
+  "id": "frederic-edwin-church",
+  "nom": "Frederic Edwin Church",
   "alias": [
-    "Monet",
-    "monet claude",
-    "Claude Jean Monet",
-    "Cl. Monet",
-    "monet c.",
-    "Oscar-Claude Monet",
-    "claude oscar monet",
-    "C. Monet",
-    "Klod Mone"
+    "Frederick Edwin Church",
+    "Frederic Church",
+    "Frederick E. Church",
+    "Frederic E. Church",
+    "F. E. Church"
   ],
-  "nomNaissance": "Oscar-Claude Monet",
-  "wikidataId": "Q296",
-  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Claude_Monet",
-  "ulanId": "500019484",
-  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg?width=1200",
-  "naissance": "1840-11-14",
-  "deces": "1926-12-05",
+  "nomNaissance": null,
+  "wikidataId": "Q366212",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frederic_Edwin_Church",
+  "ulanId": "500115265",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph%20of%20Frederic%20Edwin%20Church%20by%20Napoleon%20Sarony.jpg?width=1200",
+  "naissance": "1826-05-04",
+  "deces": "1900-04-07",
   "datesApproximatives": null,
-  "villeNaissance": "Paris",
-  "paysNaissance": "France",
+  "villeNaissance": "Hartford",
+  "paysNaissance": "États-Unis",
   "nationalites": [
-    "France"
+    "États-Unis"
   ],
   "disciplines": [
     "Peinture"
   ],
   "mouvements": [
-    "Impressionnisme"
+    "Hudson River School"
   ],
   "epoques": [
-    "XIXe siècle",
-    "XXe siècle"
+    "XIXe siècle"
   ],
   "description": null,
   "anecdote": null,
   "incontournable": null,
   "oeuvresIncontournablesIds": [],
   "nomsCatalogue": [
-    "Claude Monet"
+    "Frederic Edwin Church"
   ]
 }

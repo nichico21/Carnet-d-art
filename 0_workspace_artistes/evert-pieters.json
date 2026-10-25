@@ -1,0 +1,82 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2137843",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "evert-pieters",
+  "nom": "Evert Pieters",
+  "alias": [
+    "Evart Pieters",
+    "Pieters",
+    "Pieters E.",
+    "E. Pieters"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2137843",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evert_Pieters",
+  "ulanId": "500032147",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Evert%20Pieters.jpg?width=1200",
+  "naissance": "1856-12-11",
+  "deces": "1932-02-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Amsterdam",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Evert Pieters"
+  ]
+}

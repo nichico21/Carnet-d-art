@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1574250",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "charles-cottet",
+  "nom": "Charles Cottet",
+  "alias": [
+    "C. Cottet",
+    "Cottet C.",
+    "Cottet Ch.",
+    "Cottet",
+    "Ch. Cottet",
+    "Charles Cotet"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1574250",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Charles_Cottet",
+  "ulanId": "500022141",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Menard%20charles%20cottet.jpg?width=1200",
+  "naissance": "1863-07-12",
+  "deces": "1925-09-20",
+  "datesApproximatives": null,
+  "villeNaissance": "Le Puy-en-Velay",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Charles Cottet"
+  ]
+}

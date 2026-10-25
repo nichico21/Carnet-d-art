@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q183245",
+      "description": "peintre et sculpteur britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1904-07-01, 1904-06-01) : 1904-07-01 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "george-frederic-watts",
+  "nom": "George Frederic Watts",
+  "alias": [
+    "George Frederick Watts",
+    "George Watts",
+    "F. W. Watts",
+    "G. F. Watts",
+    "George F. Watts",
+    "Watts",
+    "Watts G. F.",
+    "George Frederic Watts, OM, RA"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q183245",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/George_Frederic_Watts",
+  "ulanId": "500026988",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Frederic%20Watts%20by%20George%20Frederic%20Watts.jpg?width=1200",
+  "naissance": "1817-02-23",
+  "deces": "1904-07-01",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Art académique",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "George Frederic Watts"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2898912",
+      "description": "16th-century painter from Italy (1490-1540)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "bernardino-da-asola",
+  "nom": "Bernardino da Asola",
+  "alias": [
+    "Bernardino da Brescia",
+    "Bernardino da Asola da Brescia"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2898912",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bernardino_da_Asola",
+  "ulanId": "500018762",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Bernardino%20da%20Asola%20-%20The%20Death%20of%20Saint%20Peter%20Martyr%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": "1490",
+  "deces": "1540",
+  "datesApproximatives": null,
+  "villeNaissance": "Asola",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Bernardino da Asola"
+  ]
+}

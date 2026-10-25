@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q312096",
+      "description": "peintre et dessinateur anglais (1769-1830)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "portraitiste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "thomas-lawrence",
+  "nom": "Thomas Lawrence",
+  "alias": [
+    "Sir Tho. Lawrence",
+    "Sir Th. Lawrence",
+    "Sir Tho.s Lawrence",
+    "Tho.s Lawrence",
+    "Sir Lawrence",
+    "Th. Lawrence",
+    "Lawrence",
+    "Sir Thos. Lawrence",
+    "T. Lawrence",
+    "Sir Th.s Lawrence",
+    "Sir T. Lawrence"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q312096",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Thomas_Lawrence",
+  "ulanId": "500022619",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait-1788)%20by%20Sir%20Thomas%20Lawrence%2C%20PRA.jpg?width=1200",
+  "naissance": "1769-04-13",
+  "deces": "1830-01-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Bristol",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Thomas Lawrence"
+  ]
+}

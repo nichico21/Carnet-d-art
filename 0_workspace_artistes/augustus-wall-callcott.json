@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q280411",
+      "description": "artiste britannique",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "augustus-wall-callcott",
+  "nom": "Augustus Wall Callcott",
+  "alias": [
+    "Augustus Wall Collcott",
+    "Sir Callcott",
+    "Sir Augustus Wall Callcott",
+    "Augustus Wall Calcott",
+    "Augustus Wall Calcots",
+    "Augustus Wall Calcot",
+    "Augustus Wall Callcott (Sir)",
+    "August Wall Calcott",
+    "Calcot",
+    "Sir A.W. Callcott",
+    "Calcott",
+    "Collcott"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q280411",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Augustus_Wall_Callcott",
+  "ulanId": "500030582",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Linnell%20-%20Augustus%20Wall%20Callcott%2C%20R.A.%20-%20Google%20Art%20Project.jpg?width=1200",
+  "naissance": "1779-02-20",
+  "deces": "1844-11-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Kensington",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Augustus Wall Callcott"
+  ]
+}

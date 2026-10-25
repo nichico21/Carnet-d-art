@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 8,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q954504",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "alessandro-bonvicino",
+  "nom": "Alessandro Bonvicino",
+  "alias": [
+    "Il Moretto",
+    "Moretto",
+    "Alessandro Moretto",
+    "Il Moretto da Brescia",
+    "Alessandro Buonvincino",
+    "Alessandro Buonviccino",
+    "Moretto Da Brescia",
+    "Alessandro Buonvicino",
+    "Moretto di Brescia",
+    "Alessandro Bonvincino",
+    "Alessandro di Pietro Bonvicino",
+    "Alesandro Moretto"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q954504",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alessandro_Bonvicino",
+  "ulanId": "500007609",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Buonvicino%20detto%20il%20Moretto%20pittore.jpg?width=1200",
+  "naissance": "1498",
+  "deces": "1554",
+  "datesApproximatives": true,
+  "villeNaissance": "Brescia",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Haute Renaissance"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alessandro Bonvicino"
+  ]
+}

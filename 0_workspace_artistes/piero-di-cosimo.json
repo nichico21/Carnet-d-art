@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q280851",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1462-01-02, 1461) : 1462-01-02 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "piero-di-cosimo",
+  "nom": "Piero di Cosimo",
+  "alias": [
+    "Piero di Lorenzo",
+    "Pietro da Cosimo",
+    "Piero di Lorenzo di Piero d'Antonio",
+    "Piero da Cosimo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q280851",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Piero_di_Cosimo",
+  "ulanId": "500007508",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/087%20le%20vite%2C%20piero%20di%20cosimo.jpg?width=1200",
+  "naissance": "1462-01-02",
+  "deces": "1522-04-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Piero di Cosimo"
+  ]
+}

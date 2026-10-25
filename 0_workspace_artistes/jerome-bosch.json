@@ -1,0 +1,102 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q130531",
+      "description": "peintre et dessinateur néerlandais (c. 1450-1516)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jerome-bosch",
+  "nom": "Jérôme Bosch",
+  "alias": [
+    "Jeronimus Bosch",
+    "Hieronymus Bosch van Aken",
+    "Hieronymus Bosch",
+    "Jheronnimus Van Aken Bosch",
+    "Hieronymus van Aken",
+    "Jeronimo Bosch",
+    "Jeroen van Aken",
+    "Ambrosius Bosch",
+    "Hieronymus van Aeken",
+    "Jeronimo Bosque",
+    "Jheronimus van Aeken",
+    "Jeroen Bosch"
+  ],
+  "nomNaissance": "Jheronimus van Aken",
+  "wikidataId": "Q130531",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bosch",
+  "ulanId": "500000759",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20(cropped).jpg?width=1200",
+  "naissance": "1450",
+  "deces": "1516-08-09",
+  "datesApproximatives": true,
+  "villeNaissance": "Bois-le-Duc",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Primitifs flamands",
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jérôme Bosch"
+  ]
+}

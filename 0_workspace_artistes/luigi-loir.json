@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q974735",
+      "description": "peintre, illustrateur et lithographe français (1845-1916)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "scénographe"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "luigi-loir",
+  "nom": "Luigi Loir",
+  "alias": [
+    "Aloys Francois Joseph Loir",
+    "Loir",
+    "L. Loir"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q974735",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Luigi_Loir",
+  "ulanId": "500000853",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luigi%20Loir.jpg?width=1200",
+  "naissance": "1845-01-22",
+  "deces": "1916-02-09",
+  "datesApproximatives": null,
+  "villeNaissance": "Gorizia",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Luigi Loir"
+  ]
+}

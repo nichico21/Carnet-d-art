@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1357683",
+      "description": "peintre et graveur français (1817-1887)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquarelliste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francois-bonvin",
+  "nom": "François Bonvin",
+  "alias": [
+    "Bonvin François",
+    "François Bonvin (Saint)",
+    "F.Cois Bonvin",
+    "F.S. Bonvin",
+    "F. Bonvin",
+    "Bonvin"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1357683",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bonvin",
+  "ulanId": "500011069",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Bonvin%2C%20by%20Fran%C3%A7ois%20Bonvin.jpg?width=1200",
+  "naissance": "1817-11-22",
+  "deces": "1887-12-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "François Bonvin"
+  ]
+}

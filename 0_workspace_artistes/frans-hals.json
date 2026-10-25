@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 12,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q167654",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "frans-hals",
+  "nom": "Frans Hals",
+  "alias": [
+    "Franz Hals",
+    "Frans Hal",
+    "François Haals",
+    "Frans Khalʹs",
+    "Frankals",
+    "Frantz Hal",
+    "Franshalce",
+    "Hals François",
+    "Franakhale",
+    "François Hall",
+    "Francois Hals",
+    "Fran. Halse"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q167654",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frans_Hals",
+  "ulanId": "500027794",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20(1582-83%E2%80%931666)%20MET%20DP251935.jpg?width=1200",
+  "naissance": "1582",
+  "deces": "1666-08-26",
+  "datesApproximatives": true,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque",
+    "Age d’or de l’art hollandais"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Frans Hals"
+  ]
+}

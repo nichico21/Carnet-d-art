@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q8453",
+      "description": "peintre vénitien de la Renaissance",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "cima-da-conegliano",
+  "nom": "Cima da Conegliano",
+  "alias": [
+    "Giovanni Battista Cima",
+    "Cima",
+    "Gian Battista Cima da Conegliano",
+    "Giovanni Battista Cima Da Conegliano",
+    "J. B. di Coneglia",
+    "Coneglanesis",
+    "Giovanni Battista di Conegla",
+    "Giambattista Cima",
+    "Conegliano",
+    "Giovanni Battista, da Conegliano Cima",
+    "Joannes Baptista Coneglianensis",
+    "Giovanni Battista da Conegliano"
+  ],
+  "nomNaissance": "Giovanni Batista Cima",
+  "wikidataId": "Q8453",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Cima_da_Conegliano",
+  "ulanId": "500012627",
+  "imageUrl": null,
+  "naissance": "1459",
+  "deces": "1517",
+  "datesApproximatives": null,
+  "villeNaissance": "Conegliano",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Ecole vénitienne"
+  ],
+  "epoques": [
+    "XVe siècle",
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Cima da Conegliano"
+  ]
+}

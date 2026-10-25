@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q206820",
+      "description": "peintre et graveur suédois (1860-1920)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquarelliste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "anders-zorn",
+  "nom": "Anders Zorn",
+  "alias": [
+    "Anders Leonard Zorn",
+    "Anders T︠S︡orn",
+    "Anders Lenard Zorn",
+    "Andres Leonard Zorn",
+    "Andreas Zorn",
+    "Zorn Anders",
+    "A. Zorn",
+    "Zorn"
+  ],
+  "nomNaissance": "Anders Leonard Zorn",
+  "wikidataId": "Q206820",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Anders_Zorn",
+  "ulanId": "500002927",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zornself.jpg?width=1200",
+  "naissance": "1860-02-18",
+  "deces": "1920-08-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Mora Parish",
+  "paysNaissance": "Suède",
+  "nationalites": [
+    "Suède"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Arts décoratifs",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Anders Zorn"
+  ]
+}

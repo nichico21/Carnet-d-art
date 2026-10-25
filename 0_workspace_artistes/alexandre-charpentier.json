@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q980735",
+      "description": "décorateur et sculpteur",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "médailleur ou médailleuse",
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "alexandre-charpentier",
+  "nom": "Alexandre Charpentier",
+  "alias": [
+    "Alexandre Louis Marie Charpentier"
+  ],
+  "nomNaissance": "Alexandre Louis Marie Charpentier",
+  "wikidataId": "Q980735",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alexandre_Charpentier",
+  "ulanId": "500020471",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20MET%20240519.jpg?width=1200",
+  "naissance": "1856-06-10",
+  "deces": "1909-03-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Art nouveau"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alexandre Charpentier"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q346502",
+      "description": "peintre vénitien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1592-02-14, 1592-02-13) : 1592-02-14 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jacopo-bassano",
+  "nom": "Jacopo Bassano",
+  "alias": [
+    "Bassan",
+    "Le Bassan",
+    "Jacques dal Ponte",
+    "Jacopo dal Ponte",
+    "Giacomo dal Ponte",
+    "Jacopo da Ponte",
+    "Giaccoms Bassan",
+    "Jacopo Bassa Vecchio",
+    "Gio. Bassano",
+    "Il Bassan Vecchio",
+    "Giacomo Da Ponte Il Bassano",
+    "Jacobo Basan"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q346502",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jacopo_Bassano",
+  "ulanId": "500003126",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20da%20Ponte%20012.jpg?width=1200",
+  "naissance": "1510",
+  "deces": "1592-02-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Bassano del Grappa",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Ecole vénitienne"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jacopo Bassano"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5498976",
+      "description": "peintre et illustrateur britannique (1840-1875)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [
+        "Idyllic school"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "frederick-walker",
+  "nom": "Frederick Walker",
+  "alias": [
+    "F. Walker",
+    "Fred Walker",
+    "Frederick Walker the Elder"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5498976",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frederick_Walker",
+  "ulanId": "500011862",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Walker%20photo.jpg?width=1200",
+  "naissance": "1840-05-26",
+  "deces": "1875-06-04",
+  "datesApproximatives": null,
+  "villeNaissance": "Londres",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Frederick Walker"
+  ]
+}

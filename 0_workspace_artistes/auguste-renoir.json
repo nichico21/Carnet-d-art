@@ -45,7 +45,6 @@
     },
     "non_reconnus": {
       "professions": [
-        "artiste graphique",
         "aquarelliste",
         "pastelliste"
       ],
@@ -57,14 +56,14 @@
   "nom": "Auguste Renoir",
   "alias": [
     "Pierre-Auguste Renoir",
-    "renoir p.a.",
+    "Renoir P.A.",
     "Renoir",
-    "firmin auguste renoir",
+    "Firmin Auguste Renoir",
     "Pierre August Renoir",
-    "p.a. renoir",
+    "P.A. Renoir",
     "Pjer-Ogist Renoar",
-    "august renoir",
-    "a. renoir"
+    "August Renoir",
+    "A. Renoir"
   ],
   "nomNaissance": "Pierre Auguste Renoir",
   "wikidataId": "Q39931",

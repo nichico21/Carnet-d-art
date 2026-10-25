@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5432",
+      "description": "peintre et graveur espagnol (1746-1828)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "francisco-de-goya",
+  "nom": "Francisco de Goya",
+  "alias": [
+    "Francisco José de Goya",
+    "Francisco de Goya y Lucientes",
+    "Francesco Goya",
+    "Francisco de Paula Jose Goya y Lucientes",
+    "José Goya y Lucientes, Francisco de Paula",
+    "Francisco Jose y Lucientes de Goya",
+    "Francisko Goja",
+    "F. De Goya",
+    "Francisco Goya Y Lucientes",
+    "Fr. Jose De Goya",
+    "Francisco José Goya Lucientes",
+    "J. F. De Goya Y Lucientes"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5432",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Francisco_de_Goya",
+  "ulanId": "500118936",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg?width=1200",
+  "naissance": "1746-03-30",
+  "deces": "1828-04-16",
+  "datesApproximatives": null,
+  "villeNaissance": "Fuendetodos",
+  "paysNaissance": "Espagne",
+  "nationalites": [
+    "Espagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Romantisme",
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle",
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Francisco de Goya"
+  ]
+}

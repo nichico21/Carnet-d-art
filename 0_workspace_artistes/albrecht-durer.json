@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 15,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5580",
+      "description": "peintre, graveur et mathématicien allemand (1471–1528)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "mathématicien ou mathématicienne",
+        "théoricien ou théoricienne de l'art",
+        "designer ou designeuse"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "albrecht-durer",
+  "nom": "Albrecht Dürer",
+  "alias": [
+    "Albert Durer",
+    "Alberdure",
+    "Albr. Dürer",
+    "A.B. Duur",
+    "Aldrecht Durer",
+    "Alverto Dureño",
+    "Alb. Durer",
+    "Albert van Dürer",
+    "Al. Durer",
+    "Alberto Dura",
+    "Alberto Duro",
+    "Albrecht DurerDura"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5580",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+  "ulanId": "500115493",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg?width=1200",
+  "naissance": "1471-05-21",
+  "deces": "1528-04-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Nuremberg",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Albrecht Dürer"
+  ]
+}

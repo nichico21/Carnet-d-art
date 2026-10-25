@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 11,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q34618",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "communard",
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gustave-courbet",
+  "nom": "Gustave Courbet",
+  "alias": [
+    "Courbet",
+    "G. Courbet",
+    "Jean Desire Gustave Courbet",
+    "Gustav Courbet",
+    "Gust. Courbet",
+    "Gi︠u︡stav Kurbe"
+  ],
+  "nomNaissance": "Jean Désiré Gustave Courbet",
+  "wikidataId": "Q34618",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gustave_Courbet",
+  "ulanId": "500010927",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg?width=1200",
+  "naissance": "1819-06-10",
+  "deces": "1877-12-31",
+  "datesApproximatives": null,
+  "villeNaissance": "Ornans",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gustave Courbet"
+  ]
+}

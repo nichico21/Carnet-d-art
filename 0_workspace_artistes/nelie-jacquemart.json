@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q451131",
+      "description": "portraitiste française et collectionneuse d'oeuvres d'arts",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "collectionneur ou collectionneuse d'œuvres d'art",
+        "mécène",
+        "philanthrope"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "nelie-jacquemart",
+  "nom": "Nélie Jacquemart",
+  "alias": [
+    "Cornélia Barbe Hyacinthe Jacquemart",
+    "Nélie Jacquemart-André",
+    "Nelie Barbe Hyacinthe Jacquemart",
+    "Nelie Andre",
+    "Nélie Barbe Hyacinthe André",
+    "Madame Edouard Jacquemart",
+    "Mme. Edouard Jacquemart",
+    "Nélie Barbe Hyacinthe Jacquemart-André",
+    "Cornélie Barbe Hyacinthe Jacquemart"
+  ],
+  "nomNaissance": "Cornélie Barbe Hyacinthe Jacquemart",
+  "wikidataId": "Q451131",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/N%C3%A9lie_Jacquemart",
+  "ulanId": "500030006",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelie%20Jacquemart-Andr%C3%A9%20-%20Autoportrait.jpg?width=1200",
+  "naissance": "1841-07-25",
+  "deces": "1912-05-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Nélie Jacquemart"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "naissance",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3065189",
+      "description": "faussaire britannique",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "naissance",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "faussaire d'œuvre d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "shaun-greenhalgh",
+  "nom": "Shaun Greenhalgh",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q3065189",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Shaun_Greenhalgh",
+  "ulanId": null,
+  "imageUrl": null,
+  "naissance": "1961",
+  "deces": null,
+  "datesApproximatives": null,
+  "villeNaissance": "Bromley Cross",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XXe siècle",
+    "XXIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Shaun Greenhalgh"
+  ]
+}

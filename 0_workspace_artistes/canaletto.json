@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q182664",
+      "description": "peintre vénitien (1697-1768)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "canaletto",
+  "nom": "Canaletto",
+  "alias": [
+    "Giovanni Antonio Canal",
+    "Antonio Canal",
+    "Canaletto Giovanni Antonio Canal",
+    "Antonio Kanale",
+    "Antonio Canelitti",
+    "Antonio Caneletti",
+    "Giovanni Antonio Canaletto",
+    "Antonio Canuletti",
+    "Antonio Kanaletto",
+    "Antonio Giovanni Canaletto",
+    "Antonio Canletti",
+    "Antonio Kannaletti"
+  ],
+  "nomNaissance": "Giovanni Antonio Canal",
+  "wikidataId": "Q182664",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Canaletto",
+  "ulanId": "500115269",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Antonio%20Canal.jpg?width=1200",
+  "naissance": "1697-10-18",
+  "deces": "1768-04-20",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Rococo"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Canaletto"
+  ]
+}

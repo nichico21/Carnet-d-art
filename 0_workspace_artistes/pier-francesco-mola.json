@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1192715",
+      "description": "peintre suisse",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pier-francesco-mola",
+  "nom": "Pier Francesco Mola",
+  "alias": [
+    "Francis Mola",
+    "Francesco Mola di Lugano",
+    "Pietro Meola",
+    "Francisco Molu",
+    "F. Mola",
+    "Pier Francesco Mola di Lugano",
+    "Pierre Francois Mole",
+    "Francesco Mola",
+    "Pier Francesco Moela",
+    "Francisco Mola",
+    "Franchisco Mola",
+    "Mola"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1192715",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pier_Francesco_Mola",
+  "ulanId": "500025440",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mola%20Autoritratto.jpg?width=1200",
+  "naissance": "1612-02-09",
+  "deces": "1666-05-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Coldrerio",
+  "paysNaissance": "Suisse",
+  "nationalites": [
+    "Suisse"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pier Francesco Mola"
+  ]
+}

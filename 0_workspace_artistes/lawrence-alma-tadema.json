@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q240526",
+      "description": "peintre, dessinateur, graveur et illustrateur néerlando-britannique",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "aquarelliste",
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "lawrence-alma-tadema",
+  "nom": "Lawrence Alma-Tadema",
+  "alias": [
+    "Alma-Tadema",
+    "Laurens Alma-Tadema",
+    "Sir Lawrence Alma-Tadema",
+    "Sir Laurence Alma-Tadema",
+    "Sir Alma-Tadema",
+    "L. Alma-Tadema",
+    "Alma Thadéma",
+    "Lorenz Alma Tadema",
+    "Laurence Alma-Tadema",
+    "Laurenz Alma-Tadema"
+  ],
+  "nomNaissance": "Lourens Alma Tadema",
+  "wikidataId": "Q240526",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lawrence_Alma-Tadema",
+  "ulanId": "500008100",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Alma-Tadema%20ca%201910.jpg?width=1200",
+  "naissance": "1836-01-08",
+  "deces": "1912-06-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Dronryp",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Belgique",
+    "Pays-Bas",
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Lawrence Alma-Tadema"
+  ]
+}

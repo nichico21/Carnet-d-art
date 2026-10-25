@@ -1,0 +1,107 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q264193",
+      "description": "peintre, graveur et écrivain français (1868-1941)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse",
+        "écrivain ou écrivaine",
+        "aquarelliste",
+        "critique d'art"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "emile-bernard",
+  "nom": "Émile Bernard",
+  "alias": [
+    "Émile Henri Bernard",
+    "Jean Dorsal",
+    "Jean Dorsal (ps.)",
+    "Henri Lebreton",
+    "Henri Lebreton (ps.)",
+    "Lepeseur (ps.)",
+    "Monguerre (ps.)",
+    "Ludovic Nemo",
+    "Ludovic Nemo (ps.)",
+    "Violette Sainte-Forêt",
+    "Violette Sainte-Forêt (ps.)",
+    "Un Témoin (ps.)"
+  ],
+  "nomNaissance": "Émile Henri Bernard",
+  "wikidataId": "Q264193",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89mile_Bernard_(peintre)",
+  "ulanId": "500012925",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Portrait%20de%20%C3%89mile%20Bernard.jpg?width=1200",
+  "naissance": "1868-04-28",
+  "deces": "1941-04-16",
+  "datesApproximatives": null,
+  "villeNaissance": "Lille",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Synthétisme",
+    "Nabis",
+    "Pointillisme",
+    "Orientalisme",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Émile Bernard"
+  ]
+}

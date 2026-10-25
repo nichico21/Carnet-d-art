@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q164696",
+      "description": "graveur, dessinateur, peintre et vitrailliste de la Renaissance allemande",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1480, 1484) : 1480 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "graphiste",
+        "vitrailliste",
+        "book artist"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "hans-baldung",
+  "nom": "Hans Baldung",
+  "alias": [
+    "Grun Baldung",
+    "Hans Baldung Grien"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q164696",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Hans_Baldung",
+  "ulanId": "500024290",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kw11%200012025%2020190129%20001%20Baldung%20Jugendliches%20Selbstbildnis.jpg?width=1200",
+  "naissance": "1480",
+  "deces": "1545-09",
+  "datesApproximatives": true,
+  "villeNaissance": "Schwäbisch Gmünd",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Hans Baldung"
+  ]
+}

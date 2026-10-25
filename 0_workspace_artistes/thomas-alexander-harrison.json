@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q7668126",
+      "description": "peintre américain",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "thomas-alexander-harrison",
+  "nom": "Thomas Alexander Harrison",
+  "alias": [
+    "Alexander Harrison",
+    "Thomas A. Harrison",
+    "T. Alexander Harrison",
+    "Thomas Alexander",
+    "Thomas Alex Harrison",
+    "Thomas-Alexandre Harrison",
+    "Thomas-Alexander Harrisson",
+    "Heinrich Hansen",
+    "Harrison",
+    "Harrison A.",
+    "Alex. Harrison",
+    "A. Harrison"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q7668126",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Thomas_Alexander_Harrison",
+  "ulanId": "500006827",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Harrison%201914%20(cropped).jpg?width=1200",
+  "naissance": "1853-01-17",
+  "deces": "1930-10-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Philadelphie",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Synthétisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Thomas Alexander Harrison"
+  ]
+}

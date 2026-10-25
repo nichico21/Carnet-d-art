@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q658862",
+      "description": "peintre et sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-francois-raffaelli",
+  "nom": "Jean-François Raffaëlli",
+  "alias": [
+    "Jean François Rafaëlli",
+    "Jean François Raffaïlli",
+    "Jean Raffaelli",
+    "Jean-Franҫois Raffaëlli",
+    "Raffaelli",
+    "Rafaelli",
+    "Raphaelli",
+    "J. F. Raffaëlli",
+    "Jean Françisque Raffaëlli",
+    "Raffaeli",
+    "Francisque Jean Raffaelli",
+    "Jean Francois Raffaeli"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q658862",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Raffa%C3%ABlli",
+  "ulanId": "500048150",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Francois%20Raffaelli%20portrait.png?width=1200",
+  "naissance": "1850-04-20",
+  "deces": "1924-02-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Naturalisme",
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-François Raffaëlli"
+  ]
+}

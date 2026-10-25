@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q335022",
+      "description": "peintre flamand (1610-1690)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "david-teniers-le-jeune",
+  "nom": "David Teniers le Jeune",
+  "alias": [
+    "David Teniers",
+    "David Teniers II",
+    "David (II) Teniers",
+    "David Teniers, the Younger",
+    "David Teniers the Younger (Flemish, 1610–1690) (Artic, 1936.125)",
+    "David, the younger Teniers",
+    "David Tenier",
+    "David Toniers",
+    "David Tuniers",
+    "David Terniers",
+    "David Tesniere",
+    "David Tenirs"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q335022",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/David_Teniers_le_Jeune",
+  "ulanId": "500001443",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20David%20Teniers.jpg?width=1200",
+  "naissance": "1610",
+  "deces": "1690-04-25",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "David Teniers le Jeune"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q616083",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "adriaan-de-lelie",
+  "nom": "Adriaan de Lelie",
+  "alias": [
+    "Lelie, Adriaan de",
+    "De Lelie of Amsterdam",
+    "De Liley",
+    "Adrieande Lelie",
+    "A. de Lely",
+    "A de Lelie",
+    "de Lelij",
+    "Lelie",
+    "de Lely",
+    "Lely",
+    "de Lelie d'Amsterdam",
+    "de Lelie"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q616083",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Adriaan_de_Lelie",
+  "ulanId": "500011085",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adriaan%20de%20Lelie%20-%20Zelfportret%20-%20SA%2040956%20-%20Amsterdam%20Museum.jpg?width=1200",
+  "naissance": "1755-05-19",
+  "deces": "1820-11-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Tilbourg",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle",
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Adriaan de Lelie"
+  ]
+}

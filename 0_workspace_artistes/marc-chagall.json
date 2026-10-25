@@ -1,0 +1,109 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q93284",
+      "description": "peintre et graveur français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "poète ou poétesse",
+        "designer ou designeuse",
+        "scénographe",
+        "aquarelliste"
+      ],
+      "mouvements": [
+        "modernisme catalan"
+      ],
+      "nationalites": [
+        "Empire russe",
+        "apatride"
+      ]
+    }
+  },
+  "id": "marc-chagall",
+  "nom": "Marc Chagall",
+  "alias": [
+    "Chagall",
+    "Marc Zakharovich Chagall",
+    "Moshe Segal",
+    "Marḳ Shagal",
+    "M. Chagall",
+    "Mark Zakharovich Shagal'",
+    "Syagal",
+    "Moses Shagal",
+    "Mark Sacharovich Schagal Chagall",
+    "Marc Szagal",
+    "Moïche Zakharovitch Chagalov",
+    "M. Shagal"
+  ],
+  "nomNaissance": "Моисей Хацкелевич Шагал",
+  "wikidataId": "Q93284",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Marc_Chagall",
+  "ulanId": "500115354",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg?width=1200",
+  "naissance": "1887-06-24",
+  "deces": "1985-03-28",
+  "datesApproximatives": null,
+  "villeNaissance": "Liozna",
+  "paysNaissance": "Biélorussie",
+  "nationalites": [
+    "France",
+    "Russie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Expressionnisme"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Marc Chagall"
+  ]
+}

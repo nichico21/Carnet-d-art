@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 6,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5669",
+      "description": "peintre italien (1445–1510)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "École florentine"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "sandro-botticelli",
+  "nom": "Sandro Botticelli",
+  "alias": [
+    "Botticelli",
+    "Alessandro Botticelli",
+    "S. Botticelli",
+    "A. Botticelli",
+    "Alessandro di Mariano di Vanni de Filipepi",
+    "Allessandro Filipepi Botticelli",
+    "Alessandro Di Filipepi",
+    "Alessandro di Mariano Filipepi",
+    "A. Boticello",
+    "Alexander Botticelli",
+    "Boticelli",
+    "San. Botticelli"
+  ],
+  "nomNaissance": "Alessandro di Mariano di Vanni Filipepi",
+  "wikidataId": "Q5669",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Sandro_Botticelli",
+  "ulanId": "500015254",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg?width=1200",
+  "naissance": "1445",
+  "deces": "1510-05-17",
+  "datesApproximatives": true,
+  "villeNaissance": "Florence",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Sandro Botticelli"
+  ]
+}

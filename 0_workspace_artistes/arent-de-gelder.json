@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q19034",
+      "description": "peintre hollandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1727-08-27, 1727-08-25) : 1727-08-27 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "arent-de-gelder",
+  "nom": "Arent de Gelder",
+  "alias": [
+    "Aert de Gelder",
+    "Arent",
+    "Aart De Gelder",
+    "De Gelder",
+    "Van Gelder",
+    "Arent Gelder",
+    "Aert Gelder",
+    "Arent (Aert de Gelder)",
+    "Arnauld Degelder",
+    "Arnould de Geldre",
+    "Arnoul de Guelder",
+    "Gelder"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q19034",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Arent_de_Gelder",
+  "ulanId": "500115629",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aert%20de%20Gelder%20-%20Self-Portrait%20-%20WGA8528.jpg?width=1200",
+  "naissance": "1645-10-26",
+  "deces": "1727-08-27",
+  "datesApproximatives": null,
+  "villeNaissance": "Dordrecht",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle",
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Arent de Gelder"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q956102",
+      "description": "peintre et illustrateur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1852-09-10, 1852-12-10) : 1852-09-10 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "pastelliste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-gervex",
+  "nom": "Henri Gervex",
+  "alias": [
+    "Henri Alexandre Gervex",
+    "H. Gervex",
+    "Henry Gervex",
+    "Gervex"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q956102",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Gervex",
+  "ulanId": "500010238",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HenriGervex.jpg?width=1200",
+  "naissance": "1852-09-10",
+  "deces": "1929-06-07",
+  "datesApproximatives": null,
+  "villeNaissance": "Montmartre",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Gervex"
+  ]
+}

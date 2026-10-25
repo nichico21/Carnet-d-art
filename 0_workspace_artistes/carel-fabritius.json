@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q352954",
+      "description": "peintre hollandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "charpentier ou charpentière"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "carel-fabritius",
+  "nom": "Carel Fabritius",
+  "alias": [
+    "Carel Fabricius",
+    "Carel Pietersz. Fabritius",
+    "Carolus Pietersz. Fabritius",
+    "Carolus Pietersz. Fabricius",
+    "Karel Fabricius",
+    "Karel Fabritius",
+    "Carolus Fabritius",
+    "Carel Fabrice",
+    "Charles Fabritius",
+    "Fabritius",
+    "Fabrice",
+    "Fabritius Karel"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q352954",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Carel_Fabritius",
+  "ulanId": "500115445",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carel%20Fabritius%20-%20Self-Portrait%20-%20Alte%20Pinakothek.jpg?width=1200",
+  "naissance": "1622-02-27",
+  "deces": "1654-10-12",
+  "datesApproximatives": null,
+  "villeNaissance": "Middenbeemster",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Age d’or de l’art hollandais",
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Carel Fabritius"
+  ]
+}

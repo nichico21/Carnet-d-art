@@ -1,0 +1,79 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q366081",
+      "description": "peintre italien (1500–1570)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "paris-bordone",
+  "nom": "Pâris Bordone",
+  "alias": [
+    "Paris Bordon",
+    "Bordone"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q366081",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/P%C3%A2ris_Bordone",
+  "ulanId": "500018343",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bordon%2C%20Paris%20-%20Autorretrato%2C%20P000372.jpg?width=1200",
+  "naissance": "1500-07",
+  "deces": "1571-01-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Trévise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pâris Bordone"
+  ]
+}

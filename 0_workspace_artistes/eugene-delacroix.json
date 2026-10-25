@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q33477",
+      "description": "peintre français (1798-1863)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "diariste",
+        "pastelliste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "eugene-delacroix",
+  "nom": "Eugène Delacroix",
+  "alias": [
+    "Ferdinand Victor Eugène Delacroix",
+    "Delacroix",
+    "Ferdinand-Eugene-Victor Delacroix"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q33477",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+  "ulanId": "500115509",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg?width=1200",
+  "naissance": "1798-04-26",
+  "deces": "1863-08-13",
+  "datesApproximatives": null,
+  "villeNaissance": "Saint-Maurice",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Eugène Delacroix"
+  ]
+}

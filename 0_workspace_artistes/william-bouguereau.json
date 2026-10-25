@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 6,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q483992",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "william-bouguereau",
+  "nom": "William Bouguereau",
+  "alias": [
+    "Adolphe William Bouguereau",
+    "William Adolphe Bouguereau",
+    "William Bougereau",
+    "Adolphe Williams Bouguereau",
+    "W.M Bouguereau",
+    "Bougereau",
+    "W.A. Bouguereau",
+    "W Bourgureau",
+    "W. Bouguereau",
+    "Wm Bouguereau",
+    "W. Bourguereau",
+    "Bougeureau"
+  ],
+  "nomNaissance": "Adolphe Williams Bouguereau",
+  "wikidataId": "Q483992",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/William_Bouguereau",
+  "ulanId": "500011205",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe%20Bouguereau%20photo.jpg?width=1200",
+  "naissance": "1825-11-30",
+  "deces": "1905-08-19",
+  "datesApproximatives": null,
+  "villeNaissance": "La Rochelle",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art académique",
+    "Synthétisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "William Bouguereau"
+  ]
+}

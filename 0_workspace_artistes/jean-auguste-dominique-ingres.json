@@ -1,0 +1,100 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q23380",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "personnalité politique",
+        "violoniste",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-auguste-dominique-ingres",
+  "nom": "Jean-Auguste-Dominique Ingres",
+  "alias": [
+    "Dominique Ingres",
+    "Ingres",
+    "Zhan Ogi︠u︡st Dominik Ėngr",
+    "Jean Dominique Auguste Ingres",
+    "Jean Auguste Ingres",
+    "Jean-Dominique Ingres",
+    "J.A.D. Ingres",
+    "JAD Ingres",
+    "Jean Aug. D. Ingres",
+    "Ingres Jean Auguste Dominique",
+    "Ingres Jean-Auguste",
+    "J.-August Ingres"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q23380",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres",
+  "ulanId": "500028037",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg?width=1200",
+  "naissance": "1780-08-29",
+  "deces": "1867-01-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Montauban",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Architecture"
+  ],
+  "mouvements": [
+    "Romantisme",
+    "Néo-classicisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Auguste-Dominique Ingres"
+  ]
+}

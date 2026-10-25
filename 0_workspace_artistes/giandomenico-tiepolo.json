@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q435316",
+      "description": "peintre et graveur italien (1727–1804)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "giandomenico-tiepolo",
+  "nom": "Giandomenico Tiepolo",
+  "alias": [
+    "Giovanni Domenico Tiepolo",
+    "Tiepolo",
+    "Domenico Tiepolo",
+    "Gian Domenico Tiepolo",
+    "Giov. Domenico Tiepolo",
+    "Donimique Tiépolo",
+    "Dom. Tiepolo",
+    "Giovanni Dom. Tiepolo",
+    "Dominique Tiepolo",
+    "G. D. Tiepolo",
+    "C. D. Tiepolo",
+    "Giardominico Tiepolo"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q435316",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Giandomenico_Tiepolo",
+  "ulanId": "500025154",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treppenhaus%20W%C3%BCrzburg%2C%20Detail%20Giovanni%20Domenico%20Tiepolo.jpg?width=1200",
+  "naissance": "1727-08-30",
+  "deces": "1804-03-03",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Giandomenico Tiepolo"
+  ]
+}

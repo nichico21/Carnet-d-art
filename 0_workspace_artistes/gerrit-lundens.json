@@ -1,0 +1,91 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3104314",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de décès (1686-07-11, 1683) : 1686-07-11 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "gerrit-lundens",
+  "nom": "Gerrit Lundens",
+  "alias": [
+    "Gerrit Lundes",
+    "Gerrit Lundels",
+    "Gerrit Lunders",
+    "Gerrit Lunder",
+    "Gerrit Lunde",
+    "Glunder",
+    "Gerard Lundens",
+    "Gerrit Van Lundens",
+    "Gerrit Lunden",
+    "Gerrit van Linde",
+    "Gerrit Linden",
+    "Gerrit Landaens"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q3104314",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gerrit_Lundens",
+  "ulanId": "500010258",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lundens%20-%20Nachtwache-Kopie.jpg?width=1200",
+  "naissance": "1622-09-27",
+  "deces": "1686-07-11",
+  "datesApproximatives": null,
+  "villeNaissance": "Amsterdam",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Gerrit Lundens"
+  ]
+}

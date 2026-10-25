@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q46408",
+      "description": "peintre américaine (1887-1986)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [
+        "modernisme américain"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "georgia-o-keeffe",
+  "nom": "Georgia O'Keeffe",
+  "alias": [
+    "Georgia Totto O'Keeffe",
+    "Georgia Stieglitz",
+    "Mrs. Alfred Stieglitz",
+    "O'Keeffe",
+    "Alfred, Mrs. Stieglitz",
+    "Georgia O'Keeffe Stieglitz"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q46408",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Georgia_O'Keeffe",
+  "ulanId": "500018666",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20O'Keeffe%20MET%20DP230868.jpg?width=1200",
+  "naissance": "1887-11-15",
+  "deces": "1986-03-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Sun Prairie",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Georgia O'Keeffe"
+  ]
+}

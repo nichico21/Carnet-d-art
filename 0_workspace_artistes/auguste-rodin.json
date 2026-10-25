@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q30755",
+      "description": "sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "auguste-rodin",
+  "nom": "Auguste Rodin",
+  "alias": [
+    "René François Auguste Rodin",
+    "Lo-tan",
+    "Aug. Rodin",
+    "Rodin",
+    "E. Rodin",
+    "François Auguste René Rodin",
+    "Roden Rone Fransua Ogyust",
+    "Rodan",
+    "A. Rodin",
+    "Ogi︠u︡st Roden",
+    "August Rodin",
+    "Rodin A."
+  ],
+  "nomNaissance": "René François Auguste Rodin",
+  "wikidataId": "Q30755",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Auguste_Rodin",
+  "ulanId": "500016619",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Rodin%20fotografato%20da%20Nadar%20nel%201891.jpg?width=1200",
+  "naissance": "1840-11-12",
+  "deces": "1917-11-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Arts graphiques",
+    "Photographie",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art moderne",
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Auguste Rodin"
+  ]
+}

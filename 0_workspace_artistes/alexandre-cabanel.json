@@ -1,0 +1,89 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q310437",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "professeur d'université"
+      ],
+      "mouvements": [
+        "L'art pompier"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "alexandre-cabanel",
+  "nom": "Alexandre Cabanel",
+  "alias": [
+    "Alexander Cabanel",
+    "A. Cabanel",
+    "Alex Cabanel",
+    "Cabanel"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q310437",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Alexandre_Cabanel",
+  "ulanId": "500004789",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self%20Portrait%20(Alexandre%20Cabanel).jpg?width=1200",
+  "naissance": "1823-09-28",
+  "deces": "1889-01-23",
+  "datesApproximatives": null,
+  "villeNaissance": "Montpellier",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Alexandre Cabanel"
+  ]
+}

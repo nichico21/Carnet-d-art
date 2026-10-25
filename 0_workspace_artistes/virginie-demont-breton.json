@@ -1,0 +1,101 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3560732",
+      "description": "peintre française",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine"
+      ],
+      "mouvements": [
+        "École de Wissant"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "virginie-demont-breton",
+  "nom": "Virginie Demont-Breton",
+  "alias": [
+    "Virginie Breton",
+    "Virginie Demont",
+    "Virginie-Elodie Demont-Breton",
+    "Virginie Elodie Breton",
+    "Mme de Mont Breton",
+    "Mm. d. breton",
+    "Vve. Demont Breton",
+    "Vn. D. Breton",
+    "Mm. Virginie Demont Breton",
+    "Madame Demont Breton",
+    "Mme Demont-Breton",
+    "V. Demont Breton"
+  ],
+  "nomNaissance": "Virginie Élodie Marie Thérèse Breton",
+  "wikidataId": "Q3560732",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Virginie_Demont-Breton",
+  "ulanId": "500022747",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginie%20Demont-Breton%201883.jpg?width=1200",
+  "naissance": "1859-07-26",
+  "deces": "1935-01-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Courrières",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Naturalisme",
+    "Réalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Virginie Demont-Breton"
+  ]
+}

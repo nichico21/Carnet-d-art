@@ -1,0 +1,98 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q156386",
+      "description": "peintre français représentant de l'art naïf (1844-1910)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "henri-rousseau",
+  "nom": "Henri Rousseau",
+  "alias": [
+    "Douanier Rousseau",
+    "Henri Julien Felix Rousseau",
+    "le Douanier",
+    "Rousseau Douanier",
+    "Customs Officer",
+    "Henri Julian Felix Rousseau",
+    "Le Douanier Rousseau",
+    "Rousseau H.",
+    "Henri Julien Rousseau",
+    "H. Rousseau",
+    "Douanier",
+    "Henry Julien Felix Rousseau"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q156386",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Henri_Rousseau",
+  "ulanId": "500115462",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg?width=1200",
+  "naissance": "1844-05-21",
+  "deces": "1910-09-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Laval",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Primitivisme",
+    "Art naïf"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Henri Rousseau"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q381728",
+      "description": "peintre et graveur britannique (1724-1806)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "auteur ou autrice de non-fiction"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "george-stubbs",
+  "nom": "George Stubbs",
+  "alias": [
+    "R. A. George Stubbs",
+    "George Stubs",
+    "G. Stubbs",
+    "Stubs",
+    "Geo Stubbs",
+    "Stubbs",
+    "Stubbs Geo",
+    "Geo. F. Stubbs",
+    "R.A. Stubbs",
+    "Mr. Stubbs",
+    "Stubbs G."
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q381728",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/George_Stubbs",
+  "ulanId": "500032263",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Stubbs%20-%20self%20portrait.jpg?width=1200",
+  "naissance": "1724-08-24",
+  "deces": "1806-07-10",
+  "datesApproximatives": null,
+  "villeNaissance": "Liverpool",
+  "paysNaissance": "Royaume-Uni",
+  "nationalites": [
+    "Royaume-Uni"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Romantisme"
+  ],
+  "epoques": [
+    "XVIIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "George Stubbs"
+  ]
+}

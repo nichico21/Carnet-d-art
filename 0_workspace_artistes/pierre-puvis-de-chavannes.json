@@ -1,0 +1,92 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q216873",
+      "description": "peintre français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "pierre-puvis-de-chavannes",
+  "nom": "Pierre Puvis de Chavannes",
+  "alias": [
+    "Puvis de Chavannes",
+    "Pierre-Cécile Puvis de Chavannes",
+    "Pʻu-wei Te Hsia-fan-na",
+    "P. Puvis de Chavannes",
+    "Pierre Puvis da Chavannes",
+    "P. De Chavannes",
+    "chavannes de P.",
+    "Pierre Henri Puvis de Chavanne"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q216873",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pierre_Puvis_de_Chavannes",
+  "ulanId": "500008870",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-C%C3%A9cile%20Puvis%20de%20Chavannes%20BNF%20Gallica.jpg?width=1200",
+  "naissance": "1824-12-14",
+  "deces": "1898-10-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Lyon",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Pierre Puvis de Chavannes"
+  ]
+}

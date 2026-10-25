@@ -1,0 +1,81 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q203401",
+      "description": "peintre et graveur américain (1882-1967)",
+      "champs_remplis": [
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "néoréalisme"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "edward-hopper",
+  "nom": "Edward Hopper",
+  "alias": [],
+  "nomNaissance": null,
+  "wikidataId": "Q203401",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Edward_Hopper",
+  "ulanId": "500031212",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Hopper%2C%20New%20York%20artist%20LCCN2016871478%20(cropped).jpg?width=1200",
+  "naissance": "1882-07-22",
+  "deces": "1967-05-15",
+  "datesApproximatives": null,
+  "villeNaissance": "Nyack",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Réalisme américain"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Edward Hopper"
+  ]
+}

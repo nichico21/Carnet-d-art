@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q1375268",
+      "description": "peintre flamand",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1586, 1584) : 1586 retenue"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jan-wildens",
+  "nom": "Jan Wildens",
+  "alias": [
+    "Jan de Wilden",
+    "Giovanni Vildens",
+    "Giovanni Wildens",
+    "Jan Wildres",
+    "Wildens Jean",
+    "De Wilden",
+    "Wilders",
+    "Wilens",
+    "Jo. Wilden",
+    "Wildres",
+    "Jean Wildens",
+    "Johan Wildens"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q1375268",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jan_Wildens",
+  "ulanId": "500001027",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20landscape%20painter%20Jan%20Wildens.jpg?width=1200",
+  "naissance": "1586",
+  "deces": "1653-10-16",
+  "datesApproximatives": null,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Belgique"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jan Wildens"
+  ]
+}

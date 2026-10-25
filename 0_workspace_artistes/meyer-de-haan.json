@@ -1,0 +1,88 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2297603",
+      "description": "peintre néerlandais",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "meyer-de-haan",
+  "nom": "Meyer de Haan",
+  "alias": [
+    "Meijer Isaäc de Haan",
+    "Meijer de Haan",
+    "Meyer Isaac de Haan",
+    "Jacob Isaac Meyer de Haan",
+    "Jacob Meyer De Haan",
+    "Haan",
+    "De Haan"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2297603",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Meyer_de_Haan",
+  "ulanId": "500029945",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meyer-de-haans-autoportrait-circa-1889--91.jpg?width=1200",
+  "naissance": "1852-04-14",
+  "deces": "1895-10-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Amsterdam",
+  "paysNaissance": "Pays-Bas",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Synthétisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Meyer de Haan"
+  ]
+}

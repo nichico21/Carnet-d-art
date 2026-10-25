@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q173223",
+      "description": "artiste peintre américaine",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "mary-cassatt",
+  "nom": "Mary Cassatt",
+  "alias": [
+    "Mary Stevenson Cassatt",
+    "Cassatt"
+  ],
+  "nomNaissance": "Mary Stevenson Cassatt",
+  "wikidataId": "Q173223",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mary_Cassatt",
+  "ulanId": "500012368",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg?width=1200",
+  "naissance": "1844-05-22",
+  "deces": "1926-06-14",
+  "datesApproximatives": null,
+  "villeNaissance": "Allegheny",
+  "paysNaissance": "États-Unis",
+  "nationalites": [
+    "États-Unis"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Mary Cassatt"
+  ]
+}

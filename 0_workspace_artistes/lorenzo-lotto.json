@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 3,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q310973",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "lorenzo-lotto",
+  "nom": "Lorenzo Lotto",
+  "alias": [
+    "Laurent Lotto",
+    "Lorenzo Lotti",
+    "Laurentius Lotus",
+    "L. Lotto",
+    "Lotto Lorenzo",
+    "L. Lotti",
+    "Lazzaro Lotti",
+    "Lorenzo Lotto da Bergamo",
+    "Lotto",
+    "Lorenzo Loto",
+    "Lorenzo Lot",
+    "Loti"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q310973",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lorenzo_Lotto",
+  "ulanId": "500015631",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lotto%20Lorenzo%20(attributed)%20presumably%20self%20portrait%2031862-p.jpg?width=1200",
+  "naissance": "1480",
+  "deces": "1556",
+  "datesApproximatives": null,
+  "villeNaissance": "Venise",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Haute Renaissance",
+    "Maniérisme"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Lorenzo Lotto"
+  ]
+}

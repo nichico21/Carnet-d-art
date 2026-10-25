@@ -1,0 +1,93 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 4,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q2778951",
+      "description": "peintre, graveur et céramiste français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "aquafortiste",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-charles-cazin",
+  "nom": "Jean-Charles Cazin",
+  "alias": [
+    "J. C. Cazin",
+    "Stanislas Henri Jean Charles Cazin",
+    "Jean Cazin",
+    "Cazin",
+    "M Cazin",
+    "J. Ch. Cazin"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q2778951",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Charles_Cazin",
+  "ulanId": "500002204",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Art%20and%20criticism%20-%20monographs%20and%20studies%20(1892)%20(14781489061).jpg?width=1200",
+  "naissance": "1841-05-25",
+  "deces": "1901-03-26",
+  "datesApproximatives": null,
+  "villeNaissance": "Samer",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Naturalisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Charles Cazin"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q707904",
+      "description": "peintre et sculpteur français",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "jean-jules-antoine-lecomte-du-nouy",
+  "nom": "Jean-Jules-Antoine Lecomte du Nouÿ",
+  "alias": [
+    "Jules-Jean-Antoine Lecomte du Nouÿ",
+    "Lecomte du Nouy",
+    "Jean Jules Antoine Lecomte de Nouy",
+    "Jean Lecomte du Nouÿ",
+    "Le Comte Du Nouy",
+    "Lecomte-du-Nony"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q707904",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Jules-Antoine_Lecomte_du_Nou%C3%BF",
+  "ulanId": "500022329",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lecomte%20du%20No%C3%BCy%20by%20Nadar.jpg?width=1200",
+  "naissance": "1842-06-10",
+  "deces": "1923-02-19",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Sculpture",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Orientalisme",
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Jean-Jules-Antoine Lecomte du Nouÿ"
+  ]
+}

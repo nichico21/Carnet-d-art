@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 13,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q47551",
+      "description": "peintre et graveur vénitien (c. 1488-1576)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "titien",
+  "nom": "Titien",
+  "alias": [
+    "Tiziano da Cador",
+    "Le Titien",
+    "dit le Titien Titiano Vecelli da Cadore",
+    "dit Le Titien Titianus Vecellio",
+    "Tiziani",
+    "Vicelli",
+    "Tizian Vecellio",
+    "Detiano",
+    "Veccelli Titian genoemd Titiaan",
+    "Thitsian",
+    "called Titian Veccellio",
+    "Titiano"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q47551",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Titien",
+  "ulanId": "500031075",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg?width=1200",
+  "naissance": "1490",
+  "deces": "1576-08-27",
+  "datesApproximatives": true,
+  "villeNaissance": "Pieve di Cadore",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Ecole vénitienne",
+    "Haute Renaissance"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Titien"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "datesApproximatives",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q9342",
+      "description": "peintre italien",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "datesApproximatives",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "palma-le-vieux",
+  "nom": "Palma le Vieux",
+  "alias": [
+    "Palma il Vecchio",
+    "Jacopo Palma il Vecchio",
+    "Jacopo Nigreti",
+    "Jacopo Palma",
+    "Jacopo (il Vecchio) Palma",
+    "Jacopo D'Antonio Negreti Palma Il Vecchio",
+    "Seniore Jacopo Palma",
+    "Jacomo de Antonio de Negreto",
+    "Iacopo Nigretti",
+    "Nigretti Palma Il Vecchio",
+    "Jacques Palme",
+    "Giacomo Palma il Vecchio"
+  ],
+  "nomNaissance": "Jacopo Negretti",
+  "wikidataId": "Q9342",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Palma_le_Vieux",
+  "ulanId": "500014786",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1480-1528%20jacopo%20negretti%20da%20bergamo%20detto%20palma%20il%20vecchio.tif?width=1200",
+  "naissance": "1480",
+  "deces": "1528-07-30",
+  "datesApproximatives": true,
+  "villeNaissance": "Serina",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Ecole vénitienne"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Palma le Vieux"
+  ]
+}

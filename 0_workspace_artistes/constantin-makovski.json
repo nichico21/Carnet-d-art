@@ -1,0 +1,97 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q460337",
+      "description": "peintre russe",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "nationalité déduite du lieu de naissance (Wikidata : Empire russe)"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": [
+        "Empire russe"
+      ]
+    }
+  },
+  "id": "constantin-makovski",
+  "nom": "Constantin Makovski",
+  "alias": [
+    "Konstantin Makovsky",
+    "Konstantin Makovski",
+    "Konstantin Yegorovich Makovsky",
+    "Konstantin Egorovič Makovskij",
+    "Constantin Igorovich Makowsky",
+    "Konstantin Egorovich Makovsky",
+    "Konstantin Jegorowitsch Makowskij",
+    "Constantin Makovsky",
+    "Constantin Igorovich Makovsky",
+    "Makowsky",
+    "Constantin E. Makovsky"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q460337",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Constantin_Makovski",
+  "ulanId": "500118146",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Konstantin%20Makovsky-Self-Portrait-1856.jpg?width=1200",
+  "naissance": "1839-06-20",
+  "deces": "1915-09-17",
+  "datesApproximatives": null,
+  "villeNaissance": "Moscou",
+  "paysNaissance": "Russie",
+  "nationalites": [
+    "Russie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Réalisme",
+    "Art académique"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Constantin Makovski"
+  ]
+}

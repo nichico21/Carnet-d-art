@@ -1,0 +1,96 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 1,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q3048295",
+      "description": "peintre orientaliste français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "écrivain ou écrivaine"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "etienne-dinet",
+  "nom": "Étienne Dinet",
+  "alias": [
+    "Alphonse-Étienne Dinet",
+    "Nasr ad Dine Dinet",
+    "Alfūns Itiyīn Dīnīh",
+    "Itiyīn Dīnīh",
+    "Naṣr al-Dīn Dīnīh",
+    "Alphonse Etienne",
+    "Nacir ed Dine",
+    "Dinet",
+    "Nasreddine Dinet"
+  ],
+  "nomNaissance": "Alphonse-Étienne Dinet",
+  "wikidataId": "Q3048295",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89tienne_Dinet",
+  "ulanId": "500021782",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dinet%20Autoportrait.jpg?width=1200",
+  "naissance": "1861-03-28",
+  "deces": "1929-12-24",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris Centre",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Orientalisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Étienne Dinet"
+  ]
+}

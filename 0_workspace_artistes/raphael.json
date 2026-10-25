@@ -1,0 +1,99 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 7,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5597",
+      "description": "peintre et architecte italien de la Renaissance (1483–1520)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [
+        "plusieurs dates de naissance (1483-04-06, 1483-03-28) : 1483-04-06 retenue",
+        "plusieurs dates de décès (1520-04-06, 1520-04-07) : 1520-04-06 retenue",
+        "nationalité déduite du lieu de naissance (Wikidata : Saint-Empire romain germanique)"
+      ],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "designer ou designeuse",
+        "artiste visuel ou artiste visuelle"
+      ],
+      "mouvements": [],
+      "nationalites": [
+        "Saint-Empire romain germanique"
+      ]
+    }
+  },
+  "id": "raphael",
+  "nom": "Raphaël",
+  "alias": [
+    "Raffaello Sanzio",
+    "Santi Raphael",
+    "Rafael Sanzio",
+    "Raffaello Sanzio da Urbino",
+    "Raffale Sanzio"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q5597",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_(peintre)",
+  "ulanId": "500023578",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg?width=1200",
+  "naissance": "1483-04-06",
+  "deces": "1520-04-06",
+  "datesApproximatives": null,
+  "villeNaissance": "Urbino",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Architecture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Renaissance",
+    "Haute Renaissance"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Raphaël"
+  ]
+}

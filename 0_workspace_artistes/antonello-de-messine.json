@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 2,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q5594",
+      "description": "peintre italien de la Renaissance (1430–1479)",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "antonello-de-messine",
+  "nom": "Antonello de Messine",
+  "alias": [
+    "Antonello degli Antoni",
+    "An. Da Messina",
+    "Antonellus Massaneus",
+    "da Messina Antonio",
+    "Antonello di Giovanni degli Antonii",
+    "Antonello d' Antonio",
+    "Antonio da Messina",
+    "da Messina Antonello",
+    "Antonello Da Messina",
+    "Antonello",
+    "Antonelli de Meseina",
+    "Ant. da Messine"
+  ],
+  "nomNaissance": "Antonello di Giovanni di Antonio",
+  "wikidataId": "Q5594",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Antonello_de_Messine",
+  "ulanId": "500007324",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%20-%20Portrait%20of%20a%20Man%20-%20National%20Gallery%20London.jpg?width=1200",
+  "naissance": "1430",
+  "deces": "1479-02",
+  "datesApproximatives": null,
+  "villeNaissance": "Messine",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Renaissance"
+  ],
+  "epoques": [
+    "XVe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Antonello de Messine"
+  ]
+}

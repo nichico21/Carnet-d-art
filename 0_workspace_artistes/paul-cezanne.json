@@ -1,0 +1,84 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 35,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q35548",
+      "description": "peintre français (1839-1906)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [],
+      "mouvements": [
+        "postimpressionnisme"
+      ],
+      "nationalites": []
+    }
+  },
+  "id": "paul-cezanne",
+  "nom": "Paul Cézanne",
+  "alias": [
+    "p. cezanne",
+    "P. Sezanas",
+    "Polʹ Sezann",
+    "Pol Sezan"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q35548",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_C%C3%A9zanne",
+  "ulanId": "500004793",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg?width=1200",
+  "naissance": "1839-01-19",
+  "deces": "1906-10-22",
+  "datesApproximatives": null,
+  "villeNaissance": "Aix-en-Provence",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Paul Cézanne"
+  ]
+}

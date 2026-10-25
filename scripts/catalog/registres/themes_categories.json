@@ -1,0 +1,77 @@
+[
+  {
+    "categorie": "Religion et spiritualité",
+    "themes": [
+      "Scène religieuse",
+      "Ancien Testament",
+      "Vie du Christ",
+      "Vierge à l'Enfant",
+      "Saints et martyrs"
+    ]
+  },
+  {
+    "categorie": "Mythologie et imaginaire",
+    "themes": [
+      "Mythologie",
+      "Allégorie",
+      "Littérature et contes",
+      "Rêve et fantastique"
+    ]
+  },
+  {
+    "categorie": "Histoire",
+    "themes": [
+      "Scène historique",
+      "Guerre et batailles",
+      "Pouvoir et royauté",
+      "Révolution et politique"
+    ]
+  },
+  {
+    "categorie": "Société",
+    "themes": [
+      "Scène de vie quotidienne",
+      "Travail et métiers",
+      "Fêtes et loisirs",
+      "Musique et danse",
+      "Ville et vie moderne",
+      "Enfance",
+      "Femmes puissantes"
+    ]
+  },
+  {
+    "categorie": "Portraits et corps",
+    "themes": [
+      "Portrait",
+      "Autoportraits d'artistes",
+      "Nu"
+    ]
+  },
+  {
+    "categorie": "Amour, mort et émotions",
+    "themes": [
+      "Baisers",
+      "Amour et couple",
+      "Larmes",
+      "Mort et deuil"
+    ]
+  },
+  {
+    "categorie": "Nature et paysages",
+    "themes": [
+      "Paysage",
+      "Paysage urbain",
+      "Marine",
+      "Animaux dans l'art",
+      "Natures mortes et vanités",
+      "Fleurs et jardins"
+    ]
+  },
+  {
+    "categorie": "Autres",
+    "themes": [
+      "Abstraction",
+      "Architecture"
+    ]
+  }
+]

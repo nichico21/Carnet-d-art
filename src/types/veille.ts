@@ -34,4 +34,10 @@ export interface ContenuVeille {
   motsCles?: string[];
   oeuvresLiees?: string[];
   statut?: StatutVeille;
+    artistes?: string[];
+  mouvements?: string[];
+  epoques?: string[];
+  disciplines?: string[];
+  museesIds?: string[];
+  acces?: string;
 }

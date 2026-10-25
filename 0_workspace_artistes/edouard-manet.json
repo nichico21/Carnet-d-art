@@ -1,0 +1,94 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 30,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q40599",
+      "description": "peintre et graveur français (1832-1883)",
+      "champs_remplis": [
+        "alias",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste visuel ou artiste visuelle",
+        "artiste"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "edouard-manet",
+  "nom": "Édouard Manet",
+  "alias": [
+    "Eduard Manė",
+    "ed. manet",
+    "e. manet",
+    "edward manet",
+    "manet e.",
+    "eduard manet",
+    "eduoard manet",
+    "Manet",
+    "manet edouard"
+  ],
+  "nomNaissance": null,
+  "wikidataId": "Q40599",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89douard_Manet",
+  "ulanId": "500010363",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg?width=1200",
+  "naissance": "1832-01-23",
+  "deces": "1883-04-30",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Édouard Manet"
+  ]
+}

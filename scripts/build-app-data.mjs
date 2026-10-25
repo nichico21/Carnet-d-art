@@ -84,25 +84,34 @@ export const FACETTES = ${JSON.stringify(facettes, null, 2)} as {
   console.log(`${artworks.length} œuvre(s) écrite(s) dans src/data/artworks.generated.ts`);
 
   synchroniserMusees();
+  synchroniserArtistes();
 }
 
 /**
- * Après chaque génération : détecte les musées sans fiche (brouillons créés
- * dans 0_workspace_musees/) et régénère les données des musées. Une erreur
+ * Après chaque génération : détecte les musées et les artistes sans fiche (brouillons créés
+ * dans 0_workspace_musees/ et 0_workspace_artistes/) et régénère leurs données. Une erreur
  * ici n'empêche jamais la génération des œuvres, déjà écrite.
  */
-function synchroniserMusees() {
-  const script = path.join(__dirname, 'musees.mjs');
+function synchroniserFiches(fichier, titre, libelle) {
+  const script = path.join(__dirname, fichier);
   if (!fs.existsSync(script)) return;
-  console.log('\n--- Musées ---');
+  console.log(`\n--- ${titre} ---`);
   try {
     execFileSync(process.execPath, [script, 'synchroniser'], { stdio: 'inherit' });
   } catch {
     console.warn(
-      '⚠ La synchronisation des musées a échoué (voir ci-dessus). ' +
+      `⚠ La synchronisation des ${libelle} a échoué (voir ci-dessus). ` +
         'Les œuvres, elles, sont bien générées.',
     );
   }
+}
+
+function synchroniserMusees() {
+  synchroniserFiches('musees.mjs', 'Musées', 'musées');
+}
+
+function synchroniserArtistes() {
+  synchroniserFiches('artistes.mjs', 'Artistes', 'artistes');
 }
 
 main();

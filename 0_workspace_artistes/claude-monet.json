@@ -1,0 +1,95 @@
+{
+  "_aide": {
+    "a_completer": [],
+    "oeuvres_au_catalogue": 51,
+    "note_description": "Écris la description en tes propres mots (2 à 3 phrases).",
+    "a_verifier": [
+      "alias",
+      "nomNaissance",
+      "wikidataId",
+      "wikipediaUrl",
+      "ulanId",
+      "imageUrl",
+      "naissance",
+      "deces",
+      "villeNaissance",
+      "paysNaissance",
+      "nationalites",
+      "disciplines",
+      "mouvements",
+      "epoques"
+    ],
+    "wikidata": {
+      "id": "Q296",
+      "description": "peintre impressionniste français",
+      "champs_remplis": [
+        "alias",
+        "nomNaissance",
+        "wikidataId",
+        "wikipediaUrl",
+        "ulanId",
+        "imageUrl",
+        "naissance",
+        "deces",
+        "villeNaissance",
+        "paysNaissance",
+        "nationalites",
+        "disciplines",
+        "mouvements",
+        "epoques"
+      ],
+      "avertissements": [],
+      "date": "2026-10-25"
+    },
+    "non_reconnus": {
+      "professions": [
+        "artiste graphique"
+      ],
+      "mouvements": [],
+      "nationalites": []
+    }
+  },
+  "id": "claude-monet",
+  "nom": "Claude Monet",
+  "alias": [
+    "Monet",
+    "monet claude",
+    "Claude Jean Monet",
+    "Cl. Monet",
+    "monet c.",
+    "Oscar-Claude Monet",
+    "claude oscar monet",
+    "C. Monet",
+    "Klod Mone"
+  ],
+  "nomNaissance": "Oscar-Claude Monet",
+  "wikidataId": "Q296",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Claude_Monet",
+  "ulanId": "500019484",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg?width=1200",
+  "naissance": "1840-11-14",
+  "deces": "1926-12-05",
+  "datesApproximatives": null,
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "description": null,
+  "anecdote": null,
+  "incontournable": null,
+  "oeuvresIncontournablesIds": [],
+  "nomsCatalogue": [
+    "Claude Monet"
+  ]
+}

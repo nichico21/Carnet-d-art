@@ -338,7 +338,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q114646470",
     "titre": "Q114646470",
-    "artiste": "http://www.wikidata.org/.well-known/genid/838fc844eb51a03b2a86dafbaf78ad64",
+    "artiste": "Artiste inconnu",
     "annee": "1750",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Painting%20in%20Mus%C3%A9e%20Jacquemart%20Andr%C3%A9%202008-07-09.jpg",
     "technique": "peinture à l'huile",
@@ -478,7 +478,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q116819050",
     "titre": "Portrait of emperor Maximilian I",
-    "artiste": "http://www.wikidata.org/.well-known/genid/e166099110a4f7bba86479046cf284d3",
+    "artiste": "Artiste inconnu",
     "annee": "1510",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20of%20Joos%20van%20Cleve%20-%20Portrait%20of%20emperor%20Maximilian%20I%2C%201510%20gedateerd%2C%2042638.jpg",
     "technique": "peinture à l'huile",
@@ -1062,7 +1062,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q136394382",
     "titre": "Portrait de Frédéric II de Gonzague, cinquième marquis et premier duc de Mantoue",
-    "artiste": "http://www.wikidata.org/.well-known/genid/862092f0c63f728b7674c82eab8ada70",
+    "artiste": "Artiste inconnu",
     "annee": "1616",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Jacquemart-Andr%C3%A9%20Tizian%20Freder%27%20Gonzaga.jpg",
     "technique": "peinture à l'huile",
@@ -1648,7 +1648,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q1635039",
     "titre": "Tobie et l'Ange",
-    "artiste": "http://www.wikidata.org/.well-known/genid/07f718c29caf0064631cf14e5c147a4d",
+    "artiste": "Artiste inconnu",
     "annee": "1470",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20del%20Verocchio%20-%20Tobias%20and%20the%20Angel.jpg",
     "technique": "détrempe à l'œuf",
@@ -6090,7 +6090,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q1813497",
     "titre": "Diptyque de Wilton",
-    "artiste": "http://www.wikidata.org/.well-known/genid/ffbef093f41550ffa45b30c5b91a3156",
+    "artiste": "Artiste inconnu",
     "annee": "1397",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilton%20Diptych.jpg",
     "technique": "tempera",
@@ -6809,7 +6809,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q18683163",
     "titre": "Portrait of a Man",
-    "artiste": "http://www.wikidata.org/.well-known/genid/1fcae382ffabdcda1e6738005744853a",
+    "artiste": "Artiste inconnu",
     "annee": "1530",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/German%2C%20South%20-%20Portrait%20of%20a%20Man%20-%20Google%20Art%20Project.jpg",
     "technique": "peinture à l'huile",
@@ -6823,7 +6823,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q18683165",
     "titre": "Saint Luke painting the Virgin and Child",
-    "artiste": "http://www.wikidata.org/.well-known/genid/8b3097ee412143a68c0cdc2749e40541",
+    "artiste": "Artiste inconnu",
     "annee": "1520",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Quinten%20Massys%20-%20Saint%20Luke%20painting%20the%20Virgin%20and%20Child%20-%20Google%20Art%20Project.jpg",
     "technique": "peinture à l'huile",
@@ -6837,7 +6837,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q18683182",
     "titre": "The Protonotary Giovanni Giuliano",
-    "artiste": "http://www.wikidata.org/.well-known/genid/463da082fa4ce7af90e2bec86aac8d4f",
+    "artiste": "Artiste inconnu",
     "annee": "1535",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Italian%2C%20North%20-%20The%20Protonotary%20Giovanni%20Giuliano%20%28Zuan%20Zulian%29%20-%20Google%20Art%20Project.jpg",
     "technique": "peinture à l'huile",
@@ -8339,7 +8339,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20262161",
     "titre": "The Raising of Lazarus",
-    "artiste": "http://www.wikidata.org/.well-known/genid/9515f43906a97bf96f9ddc8fa784b8b9",
+    "artiste": "Artiste inconnu",
     "annee": "1630",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Rembrandt%20Harmenszoon%20van%20Rijn%20-%20The%20Raising%20of%20Lazarus%20-%201970.1010%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -8354,7 +8354,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20262228",
     "titre": "Rape of the Sabines",
-    "artiste": "http://www.wikidata.org/.well-known/genid/b943d8a486bc04897694823ea4783f13",
+    "artiste": "Artiste inconnu",
     "annee": "1760",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Angeli%20-%20Rape%20of%20the%20Sabines%20-%201945.288%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -8631,7 +8631,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20264132",
     "titre": "Saracens and Crusaders",
-    "artiste": "http://www.wikidata.org/.well-known/genid/e51fb98d58f177be7b0eedec52f53278",
+    "artiste": "Artiste inconnu",
     "annee": "1846",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9odore%20Chass%C3%A9riau%20-%20Saracens%20and%20Crusaders%20-%201932.1180%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -8734,7 +8734,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20264325",
     "titre": "The Carousal (Scene from Faust?)",
-    "artiste": "http://www.wikidata.org/.well-known/genid/7ef6d18b7c53ac8e85e0018edd446ad5",
+    "artiste": "Artiste inconnu",
     "annee": "1865",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20School%20-%20The%20Carousal%20%28Scene%20from%20Faust%5E%29%20-%201947.73%20-%20Art%20Institute%20of%20Chicago.jpg",
     "dimensions": "19.7 × 35.1 cm",
@@ -8777,7 +8777,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20264378",
     "titre": "Portrait d'homme",
-    "artiste": "http://www.wikidata.org/.well-known/genid/6435daa6057912899916d2e545fd6013",
+    "artiste": "Artiste inconnu",
     "annee": "1627",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Anthonie%20van%20Dyck%20-%20Portrait%20of%20a%20Man%20-%201954.286%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -8836,7 +8836,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20264514",
     "titre": "The Carousal (Scene from Faust?)",
-    "artiste": "http://www.wikidata.org/.well-known/genid/177e56ad53ced73202f7fb0fdf634616",
+    "artiste": "Artiste inconnu",
     "annee": "1865",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20School%20-%20The%20Carousal%20%28Scene%20from%20Faust%5E%29%20-%201947.72%20-%20Art%20Institute%20of%20Chicago.jpg",
     "dimensions": "19.7 × 35.2 cm",
@@ -8937,7 +8937,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20264735",
     "titre": "Democritus, the Laughing Philosopher",
-    "artiste": "http://www.wikidata.org/.well-known/genid/e1b9df49e8466041ebda8b0a6de9964d",
+    "artiste": "Artiste inconnu",
     "annee": "1630",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20School%20-%20Democritus%2C%20the%20Laughing%20Philosopher%20-%201897.291%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -8951,7 +8951,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20264750",
     "titre": "Heraclitus, the Weeping Philosopher",
-    "artiste": "http://www.wikidata.org/.well-known/genid/f82d019e3ca4e068faa879371db5e1c2",
+    "artiste": "Artiste inconnu",
     "annee": "1630",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20School%20-%20Heraclitus%2C%20the%20Weeping%20Philosopher%20-%201897.296%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9157,7 +9157,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20265099",
     "titre": "Isabella of Bourbon, Wife of Philip IV of Spain",
-    "artiste": "http://www.wikidata.org/.well-known/genid/94045d79ad9b869dbb128150690b436b",
+    "artiste": "Artiste inconnu",
     "annee": "1632",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20of%20Diego%20Rodriguez%20de%20Vel%C3%A1zquez%20-%20Isabella%20of%20Bourbon%2C%20Wife%20of%20Philip%20IV%20of%20Spain%20-%201954.302%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9245,7 +9245,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20265939",
     "titre": "Book Binding",
-    "artiste": "http://www.wikidata.org/.well-known/genid/e1e078de209e4582b39ac565cfd1b181",
+    "artiste": "Artiste inconnu",
     "annee": "1800",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20-%20Book%20Binding%20-%201938.476%20-%20Art%20Institute%20of%20Chicago.jpg",
     "dimensions": "30.8 × 19.9 cm",
@@ -9259,7 +9259,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20265950",
     "titre": "In the Woods",
-    "artiste": "http://www.wikidata.org/.well-known/genid/1b9ff3828a7ec6110776d46cf307dffd",
+    "artiste": "Artiste inconnu",
     "annee": "1860",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imitator%20of%20Narcisse%20Virgile%20Diaz%20de%20la%20Pe%C3%B1a%20-%20In%20the%20Woods%20-%201940.1322%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9273,7 +9273,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20265962",
     "titre": "Head of a Woman",
-    "artiste": "http://www.wikidata.org/.well-known/genid/f0aa8fee9560f3e491f546783d8131e9",
+    "artiste": "Artiste inconnu",
     "annee": "1810",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Head%20of%20a%20Woman%20-%201969.330%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9287,7 +9287,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20265971",
     "titre": "Liberation of Saint Peter from Prison",
-    "artiste": "http://www.wikidata.org/.well-known/genid/51c550440dab93e90b716b99fc0ba690",
+    "artiste": "Artiste inconnu",
     "annee": "1600",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Liberation%20of%20Saint%20Peter%20from%20Prison%20-%201971.430%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9315,7 +9315,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20265995",
     "titre": "Praying Virgin",
-    "artiste": "http://www.wikidata.org/.well-known/genid/8b9fd13280492ff0253ccd3c9a59f906",
+    "artiste": "Artiste inconnu",
     "annee": "1720",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Praying%20Virgin%20-%201976.31%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9329,7 +9329,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266011",
     "titre": "Shipwreck",
-    "artiste": "http://www.wikidata.org/.well-known/genid/c9325fd0e7e1964a8785d78f2b3329e9",
+    "artiste": "Artiste inconnu",
     "annee": "1850",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Isabey%20-%20Shipwreck%20-%201975.667%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9451,7 +9451,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266137",
     "titre": "Italian Landscape",
-    "artiste": "http://www.wikidata.org/.well-known/genid/ab4ef20f4fd69dfba11d77aa4e9e209a",
+    "artiste": "Artiste inconnu",
     "annee": "1821",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Reinhold%20-%20Italian%20Landscape%20-%201986.1282%20-%20Art%20Institute%20of%20Chicago.jpg",
     "lieuConservation": "Art Institute of Chicago",
@@ -9492,7 +9492,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266181",
     "titre": "Saint Augustine and an Augustinian Canoness",
-    "artiste": "http://www.wikidata.org/.well-known/genid/70052771c77c79a0d23d5f9b21da7c1f",
+    "artiste": "Artiste inconnu",
     "annee": "1537",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Netherlandish%20School%20-%20Saint%20Augustine%20and%20an%20Augustinian%20Canoness%20-%201933.1041%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9507,7 +9507,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266193",
     "titre": "Saint Gertrude of Nivelles and an Augustinian Canoness",
-    "artiste": "http://www.wikidata.org/.well-known/genid/9d7c5791eadfedec7910ce6ee8fb81ef",
+    "artiste": "Artiste inconnu",
     "annee": "1537",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Netherlandish%20School%20-%20Saint%20Gertrude%20of%20Nivelles%20and%20an%20Augustinian%20Canoness%20-%201933.1042%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9522,7 +9522,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266229",
     "titre": "Portrait de femme",
-    "artiste": "http://www.wikidata.org/.well-known/genid/4e2f0ad3abd955a8ce27619951e0c244",
+    "artiste": "Artiste inconnu",
     "annee": "1820",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathias%20Stoltenberg%20-%20Portrait%20of%20a%20Woman%20-%201962.822%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9590,7 +9590,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266348",
     "titre": "Hercules and Hesione",
-    "artiste": "http://www.wikidata.org/.well-known/genid/fd90bf654a8bd9e9ae8e7e5d3e45af1b",
+    "artiste": "Artiste inconnu",
     "annee": "1630",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bartolomeo%20Salvestrini%20-%20Hercules%20and%20Hesione%20-%201976.32%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9619,7 +9619,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266351",
     "titre": "Portrait of a Gentleman",
-    "artiste": "http://www.wikidata.org/.well-known/genid/1c27a0e4ee6ebabb2d82f2eb668020a2",
+    "artiste": "Artiste inconnu",
     "annee": "1545",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Portrait%20of%20a%20Gentleman%20-%201954.195%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -9759,7 +9759,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20266522",
     "titre": "Man in Black",
-    "artiste": "http://www.wikidata.org/.well-known/genid/644be3eb4a9d7f65acb6f028cadbd93f",
+    "artiste": "Artiste inconnu",
     "annee": "1830",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Man%20in%20Black%20-%201980.734%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -10175,7 +10175,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q20267927",
     "titre": "Saint Catherine Delivered from the Wheel",
-    "artiste": "http://www.wikidata.org/.well-known/genid/f6f3c27811fca29c2311d3241841cde9",
+    "artiste": "Artiste inconnu",
     "annee": "1387",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Saint%20Catherine%20Delivered%20from%20the%20Wheel%20-%201932.989%20-%20Art%20Institute%20of%20Chicago.jpg",
     "dimensions": "35.8 × 33 cm",
@@ -10335,7 +10335,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q2113773",
     "titre": "Le Paradis terrestre",
-    "artiste": "http://www.wikidata.org/.well-known/genid/d6333807479beb98c81da9e982127684",
+    "artiste": "Artiste inconnu",
     "annee": "1509",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imitator%20of%20Hieronymus%20Bosch%20-%20The%20Garden%20of%20Paradise%20-%201936.239%20-%20Art%20Institute%20of%20Chicago.jpg",
     "technique": "peinture à l'huile",
@@ -13504,7 +13504,7 @@ export const ARTWORKS: Artwork[] = [
   {
     "id": "Q3937451",
     "titre": "Père d'Albrecht Dürer",
-    "artiste": "http://www.wikidata.org/.well-known/genid/8a558f806cd9baaeb5c20bf4d190bbbe",
+    "artiste": "Artiste inconnu",
     "annee": "1497",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Portrait%20of%20D%C3%BCrer%27s%20Father%20at%2070.jpg",
     "technique": "peinture à l'huile",
@@ -15309,6 +15309,10 @@ export const FACETTES = {
       "nombre": 35
     },
     {
+      "valeur": "Artiste inconnu",
+      "nombre": 34
+    },
+    {
       "valeur": "Édouard Manet",
       "nombre": 30
     },
@@ -15881,10 +15885,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/838fc844eb51a03b2a86dafbaf78ad64",
-      "nombre": 1
-    },
-    {
       "valeur": "Jean-Baptiste Greuze",
       "nombre": 1
     },
@@ -15901,10 +15901,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/e166099110a4f7bba86479046cf284d3",
-      "nombre": 1
-    },
-    {
       "valeur": "Adèle Romany",
       "nombre": 1
     },
@@ -15914,10 +15910,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Andrea del Verrocchio",
-      "nombre": 1
-    },
-    {
-      "valeur": "Artiste inconnu",
       "nombre": 1
     },
     {
@@ -15938,10 +15930,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Eva Gonzalès",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/862092f0c63f728b7674c82eab8ada70",
       "nombre": 1
     },
     {
@@ -15966,10 +15954,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Jean-Marc Nattier",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/07f718c29caf0064631cf14e5c147a4d",
       "nombre": 1
     },
     {
@@ -16265,10 +16249,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/ffbef093f41550ffa45b30c5b91a3156",
-      "nombre": 1
-    },
-    {
       "valeur": "Jan Steen",
       "nombre": 1
     },
@@ -16306,18 +16286,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Alphonse Legros",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/1fcae382ffabdcda1e6738005744853a",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/8b3097ee412143a68c0cdc2749e40541",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/463da082fa4ce7af90e2bec86aac8d4f",
       "nombre": 1
     },
     {
@@ -16465,14 +16433,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/9515f43906a97bf96f9ddc8fa784b8b9",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/b943d8a486bc04897694823ea4783f13",
-      "nombre": 1
-    },
-    {
       "valeur": "Charles Cottet",
       "nombre": 1
     },
@@ -16493,10 +16453,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/e51fb98d58f177be7b0eedec52f53278",
-      "nombre": 1
-    },
-    {
       "valeur": "Eugène Carrière",
       "nombre": 1
     },
@@ -16513,19 +16469,7 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/7ef6d18b7c53ac8e85e0018edd446ad5",
-      "nombre": 1
-    },
-    {
       "valeur": "Émile van Marcke",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/6435daa6057912899916d2e545fd6013",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/177e56ad53ced73202f7fb0fdf634616",
       "nombre": 1
     },
     {
@@ -16549,14 +16493,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/e1b9df49e8466041ebda8b0a6de9964d",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/f82d019e3ca4e068faa879371db5e1c2",
-      "nombre": 1
-    },
-    {
       "valeur": "Maurice Utrillo",
       "nombre": 1
     },
@@ -16577,10 +16513,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/94045d79ad9b869dbb128150690b436b",
-      "nombre": 1
-    },
-    {
       "valeur": "Giovanni Paolo Panini",
       "nombre": 1
     },
@@ -16589,31 +16521,7 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/e1e078de209e4582b39ac565cfd1b181",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/1b9ff3828a7ec6110776d46cf307dffd",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/f0aa8fee9560f3e491f546783d8131e9",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/51c550440dab93e90b716b99fc0ba690",
-      "nombre": 1
-    },
-    {
       "valeur": "Jozef Israëls",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/8b9fd13280492ff0253ccd3c9a59f906",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/c9325fd0e7e1964a8785d78f2b3329e9",
       "nombre": 1
     },
     {
@@ -16641,23 +16549,7 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/ab4ef20f4fd69dfba11d77aa4e9e209a",
-      "nombre": 1
-    },
-    {
       "valeur": "Nicolaes Berchem",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/70052771c77c79a0d23d5f9b21da7c1f",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/9d7c5791eadfedec7910ce6ee8fb81ef",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/4e2f0ad3abd955a8ce27619951e0c244",
       "nombre": 1
     },
     {
@@ -16673,23 +16565,11 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/fd90bf654a8bd9e9ae8e7e5d3e45af1b",
-      "nombre": 1
-    },
-    {
       "valeur": "Maxime Maufra",
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/1c27a0e4ee6ebabb2d82f2eb668020a2",
-      "nombre": 1
-    },
-    {
       "valeur": "Martín Rico",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/644be3eb4a9d7f65acb6f028cadbd93f",
       "nombre": 1
     },
     {
@@ -16713,10 +16593,6 @@ export const FACETTES = {
       "nombre": 1
     },
     {
-      "valeur": "http://www.wikidata.org/.well-known/genid/f6f3c27811fca29c2311d3241841cde9",
-      "nombre": 1
-    },
-    {
       "valeur": "Philippe-Jacques de Loutherbourg",
       "nombre": 1
     },
@@ -16726,10 +16602,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Jacob van Ruisdael",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/d6333807479beb98c81da9e982127684",
       "nombre": 1
     },
     {
@@ -16822,10 +16694,6 @@ export const FACETTES = {
     },
     {
       "valeur": "Pinturicchio",
-      "nombre": 1
-    },
-    {
-      "valeur": "http://www.wikidata.org/.well-known/genid/8a558f806cd9baaeb5c20bf4d190bbbe",
       "nombre": 1
     },
     {

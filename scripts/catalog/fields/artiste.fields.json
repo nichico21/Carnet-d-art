@@ -1,0 +1,170 @@
+{
+  "champs": [
+    {
+      "nom": "id",
+      "type": "slug",
+      "obligatoire": true,
+      "source": "systeme"
+    },
+    {
+      "nom": "nom",
+      "type": "texte",
+      "obligatoire": true,
+      "source": "collecte",
+      "aide": "Nom d'usage, tel qu'il s'affiche (ex. Édouard Manet)."
+    },
+    {
+      "nom": "alias",
+      "type": "liste_texte",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Autres graphies et pseudonymes (« Brancusi », « El Greco »). Servent à relier les articles et documentaires de la veille."
+    },
+    {
+      "nom": "nomNaissance",
+      "type": "texte",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Nom de naissance, quand il diffère du nom d'usage."
+    },
+    {
+      "nom": "wikidataId",
+      "type": "identifiant_wikidata",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Identifiant Wikidata de l'artiste (Q...)."
+    },
+    {
+      "nom": "wikipediaUrl",
+      "type": "url",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Page Wikipédia de l'artiste."
+    },
+    {
+      "nom": "ulanId",
+      "type": "texte",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Identifiant dans l'index d'artistes du Getty (ULAN)."
+    },
+    {
+      "nom": "imageUrl",
+      "type": "url",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Portrait libre de droits (Wikimedia Commons) ou image de ton choix."
+    },
+    {
+      "nom": "naissance",
+      "type": "texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "AAAA, AAAA-MM ou AAAA-MM-JJ (année négative pour avant notre ère)."
+    },
+    {
+      "nom": "deces",
+      "type": "texte",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "Même format ; à laisser vide pour un artiste vivant."
+    },
+    {
+      "nom": "datesApproximatives",
+      "type": "booleen",
+      "obligatoire": false,
+      "source": "collecte",
+      "aide": "true si une des dates est incertaine (« vers 1390 »)."
+    },
+    {
+      "nom": "villeNaissance",
+      "type": "texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Ville de naissance."
+    },
+    {
+      "nom": "paysNaissance",
+      "type": "texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Pays actuel du lieu de naissance (nom de la table pays_regions)."
+    },
+    {
+      "nom": "nationalites",
+      "type": "liste_texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Un ou plusieurs pays (noms de la table pays_regions)."
+    },
+    {
+      "nom": "disciplines",
+      "type": "vocabulaire_liste",
+      "vocabulaire": "disciplines",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Peinture, sculpture, photographie…"
+    },
+    {
+      "nom": "mouvements",
+      "type": "vocabulaire_liste",
+      "vocabulaire": "mouvements",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Un ou plusieurs mouvements de la liste (Wikidata ne les connaît pas toujours)."
+    },
+    {
+      "nom": "epoques",
+      "type": "vocabulaire_liste",
+      "vocabulaire": "epoques",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "collecte",
+      "aide": "Déduite des dates de l'artiste ; modifiable."
+    },
+    {
+      "nom": "description",
+      "type": "texte",
+      "obligatoire": false,
+      "recommande": true,
+      "source": "curation",
+      "aide": "2 à 3 phrases, en tes propres mots."
+    },
+    {
+      "nom": "anecdote",
+      "type": "texte",
+      "obligatoire": false,
+      "source": "curation",
+      "aide": "Un « Le saviez-vous ? » sur l'artiste."
+    },
+    {
+      "nom": "incontournable",
+      "type": "booleen",
+      "obligatoire": false,
+      "source": "curation",
+      "aide": "true pour mettre l'artiste en avant."
+    },
+    {
+      "nom": "oeuvresIncontournablesIds",
+      "type": "liste_texte",
+      "obligatoire": false,
+      "source": "curation",
+      "aide": "Identifiants d'œuvres du catalogue à mettre en avant (8 au plus)."
+    },
+    {
+      "nom": "nomsCatalogue",
+      "type": "liste_texte",
+      "obligatoire": false,
+      "source": "systeme",
+      "aide": "Noms de l'artiste tels qu'ils sont écrits dans les fiches d'œuvres."
+    }
+  ]
+}

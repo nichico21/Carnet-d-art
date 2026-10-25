@@ -1,0 +1,88 @@
+[
+  {
+    "mots": [
+      "peintre",
+      "peintresse",
+      "painter"
+    ],
+    "discipline": "Peinture"
+  },
+  {
+    "mots": [
+      "sculpteur",
+      "sculptrice",
+      "sculptor"
+    ],
+    "discipline": "Sculpture"
+  },
+  {
+    "mots": [
+      "photographe",
+      "photographer"
+    ],
+    "discipline": "Photographie"
+  },
+  {
+    "mots": [
+      "graveur",
+      "graveuse",
+      "printmaker",
+      "engraver",
+      "etcher",
+      "lithographe",
+      "lithographer",
+      "dessinateur",
+      "dessinatrice",
+      "draughtsperson",
+      "draftsperson",
+      "draughtsman",
+      "draftsman",
+      "illustrateur",
+      "illustratrice",
+      "illustrator",
+      "caricaturiste",
+      "cartoonist",
+      "affichiste",
+      "miniaturiste",
+      "enlumineur",
+      "enlumineuse",
+      "illuminator",
+      "graphique",
+      "graphic"
+    ],
+    "discipline": "Arts graphiques"
+  },
+  {
+    "mots": [
+      "architecte",
+      "architect"
+    ],
+    "discipline": "Architecture"
+  },
+  {
+    "mots": [
+      "ceramiste",
+      "ceramicist",
+      "ceramist",
+      "potier",
+      "potter",
+      "verrier",
+      "orfevre",
+      "goldsmith",
+      "tapissier",
+      "tapissiere",
+      "ebeniste",
+      "decorateur",
+      "decoratrice"
+    ],
+    "discipline": "Arts décoratifs"
+  },
+  {
+    "mots": [
+      "videaste",
+      "video",
+      "installation"
+    ],
+    "discipline": "Installation et vidéo"
+  }
+]

@@ -13,5 +13,14 @@
   "statut": "brouillon",
   "description": null,
   "motsCles": [],
-  "oeuvresLiees": []
+  "oeuvresLiees": [],
+  "artistes": [],
+  "mouvements": [],
+  "epoques": [],
+  "disciplines": [],
+  "museesIds": [],
+  "sourceId": null,
+  "guid": null,
+  "acces": null,
+  "etiquetagePar": null
 }

@@ -1,0 +1,4016 @@
+{
+  "date": "2026-10-24",
+  "oeuvres": 1057,
+  "sansArtiste": 0,
+  "artistes": [
+    {
+      "nom": "Claude Monet",
+      "oeuvres": 51,
+      "ids": [
+        "Q10271033",
+        "Q10346982",
+        "Q1167912",
+        "Q11826533",
+        "Q1212084",
+        "Q1451508",
+        "Q15974183",
+        "Q17436678",
+        "Q17490740",
+        "Q17490850",
+        "Q17490875",
+        "Q17490991",
+        "Q17490992",
+        "Q17491016",
+        "Q17491064",
+        "Q17491280",
+        "Q17491281",
+        "Q17492002",
+        "Q17492319",
+        "Q17492321",
+        "Q17492333",
+        "Q17492904",
+        "Q17492954",
+        "Q20266369",
+        "Q20266903",
+        "Q20267583",
+        "Q20267671",
+        "Q2270028",
+        "Q2381272",
+        "Q2385427",
+        "Q2734892",
+        "Q2872715",
+        "Q3146246",
+        "Q3212522",
+        "Q3220338",
+        "Q3231771",
+        "Q3236083",
+        "Q3454959",
+        "Q3820704",
+        "Q3820705",
+        "Q3820706",
+        "Q3821170",
+        "Q3821388",
+        "Q3828534",
+        "Q3835893",
+        "Q3873319",
+        "Q3936373",
+        "Q3966658",
+        "Q3983137",
+        "Q4429116",
+        "Q7723379"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Auguste Renoir",
+      "oeuvres": 43,
+      "ids": [
+        "Q1114571",
+        "Q1114718",
+        "Q1118456",
+        "Q11702934",
+        "Q15875216",
+        "Q16547914",
+        "Q17490926",
+        "Q17490968",
+        "Q17490987",
+        "Q17490990",
+        "Q17491029",
+        "Q17491086",
+        "Q17491097",
+        "Q17491783",
+        "Q17491790",
+        "Q17492951",
+        "Q20267498",
+        "Q20267500",
+        "Q20267511",
+        "Q20267580",
+        "Q20267911",
+        "Q20268119",
+        "Q3089617",
+        "Q3211900",
+        "Q3633456",
+        "Q3682520",
+        "Q3795766",
+        "Q3808227",
+        "Q3821171",
+        "Q3822843",
+        "Q3824626",
+        "Q3828749",
+        "Q3879260",
+        "Q3879267",
+        "Q3937455",
+        "Q3937498",
+        "Q3937499",
+        "Q3937662",
+        "Q3937675",
+        "Q3985182",
+        "Q6251620",
+        "Q630121",
+        "Q683274"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Edgar Degas",
+      "oeuvres": 38,
+      "ids": [
+        "Q1125919",
+        "Q1239950",
+        "Q17490745",
+        "Q17491198",
+        "Q17491199",
+        "Q17491205",
+        "Q17491384",
+        "Q17491962",
+        "Q17510059",
+        "Q20264907",
+        "Q20267406",
+        "Q2622172",
+        "Q2912117",
+        "Q3614243",
+        "Q3630723",
+        "Q3633412",
+        "Q3660766",
+        "Q3661658",
+        "Q3663927",
+        "Q3713907",
+        "Q3713909",
+        "Q3713911",
+        "Q3807752",
+        "Q3819661",
+        "Q3821820",
+        "Q3823757",
+        "Q3829104",
+        "Q3837030",
+        "Q3842241",
+        "Q3847862",
+        "Q387377",
+        "Q3874376",
+        "Q3924416",
+        "Q3937379",
+        "Q3937564",
+        "Q3937721",
+        "Q3955081",
+        "Q5753517"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Cézanne",
+      "oeuvres": 35,
+      "ids": [
+        "Q1165042",
+        "Q17490706",
+        "Q17490813",
+        "Q17490823",
+        "Q17490867",
+        "Q17490916",
+        "Q17490917",
+        "Q17490974",
+        "Q17491074",
+        "Q17491165",
+        "Q17491972",
+        "Q1884998",
+        "Q2656755",
+        "Q2962671",
+        "Q3108260",
+        "Q3213037",
+        "Q3630720",
+        "Q3632882",
+        "Q3632883",
+        "Q3694813",
+        "Q3818018",
+        "Q3820951",
+        "Q3821651",
+        "Q3821663",
+        "Q3873324",
+        "Q3873326",
+        "Q3873330",
+        "Q3897512",
+        "Q3956440",
+        "Q3983798",
+        "Q4024897",
+        "Q614986",
+        "Q7232274",
+        "Q9183696",
+        "Q955670"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Édouard Manet",
+      "oeuvres": 30,
+      "ids": [
+        "Q126467",
+        "Q12900049",
+        "Q14159615",
+        "Q152509",
+        "Q1551926",
+        "Q15917726",
+        "Q15973357",
+        "Q16648934",
+        "Q16709550",
+        "Q17490691",
+        "Q17490693",
+        "Q17490851",
+        "Q17490865",
+        "Q17490935",
+        "Q210277",
+        "Q2481954",
+        "Q2529703",
+        "Q26250",
+        "Q2899286",
+        "Q2974978",
+        "Q2984952",
+        "Q2997933",
+        "Q3178376",
+        "Q3206709",
+        "Q3290768",
+        "Q3505997",
+        "Q44124",
+        "Q737062",
+        "Q775407",
+        "Q942276"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Georges Seurat",
+      "oeuvres": 19,
+      "ids": [
+        "Q1044742",
+        "Q1090837",
+        "Q1119387",
+        "Q2275610",
+        "Q3602905",
+        "Q3607971",
+        "Q3832504",
+        "Q3853687",
+        "Q3859804",
+        "Q3859805",
+        "Q3859806",
+        "Q3882034",
+        "Q3888838",
+        "Q3888853",
+        "Q3888858",
+        "Q3908651",
+        "Q3941966",
+        "Q3955440",
+        "Q3976298"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Vincent van Gogh",
+      "oeuvres": 19,
+      "ids": [
+        "Q1118295",
+        "Q11826275",
+        "Q1213917",
+        "Q1464531",
+        "Q17491222",
+        "Q18713076",
+        "Q20265518",
+        "Q20266924",
+        "Q2269047",
+        "Q3399385",
+        "Q3630735",
+        "Q3661863",
+        "Q3703013",
+        "Q3847052",
+        "Q3933507",
+        "Q5287337",
+        "Q843044",
+        "Q9162657",
+        "Q9332868"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alfred Sisley",
+      "oeuvres": 18,
+      "ids": [
+        "Q16038630",
+        "Q17490847",
+        "Q17490962",
+        "Q17491997",
+        "Q17492331",
+        "Q20266151",
+        "Q2381965",
+        "Q2838937",
+        "Q3204212",
+        "Q3212767",
+        "Q3220784",
+        "Q3226360",
+        "Q3235227",
+        "Q3451370",
+        "Q3558973",
+        "Q3563746",
+        "Q3875097",
+        "Q3955422"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albrecht Dürer",
+      "oeuvres": 15,
+      "ids": [
+        "Q18338436",
+        "Q18338438",
+        "Q18338443",
+        "Q18338444",
+        "Q18338466",
+        "Q18338487",
+        "Q18338502",
+        "Q18338506",
+        "Q18338507",
+        "Q18338508",
+        "Q18338526",
+        "Q18338528",
+        "Q18338548",
+        "Q18339715",
+        "Q3944478"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Gauguin",
+      "oeuvres": 14,
+      "ids": [
+        "Q11918682",
+        "Q1422666",
+        "Q17491976",
+        "Q19894296",
+        "Q20266356",
+        "Q2872722",
+        "Q3358957",
+        "Q3622074",
+        "Q3765980",
+        "Q4896868",
+        "Q5745603",
+        "Q5849763",
+        "Q9162690",
+        "Q930535"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pierre Bonnard",
+      "oeuvres": 14,
+      "ids": [
+        "Q17491091",
+        "Q17491092",
+        "Q17491196",
+        "Q17491204",
+        "Q17491966",
+        "Q17492338",
+        "Q17492360",
+        "Q17492369",
+        "Q17492394",
+        "Q17492885",
+        "Q17492969",
+        "Q2842418",
+        "Q3819310",
+        "Q3821557"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Camille Pissarro",
+      "oeuvres": 13,
+      "ids": [
+        "Q17490677",
+        "Q17490808",
+        "Q17490900",
+        "Q17491020",
+        "Q17491040",
+        "Q17491044",
+        "Q17491090",
+        "Q17491279",
+        "Q17492055",
+        "Q17492323",
+        "Q20088061",
+        "Q2843906",
+        "Q8192229"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Titien",
+      "oeuvres": 13,
+      "ids": [
+        "Q1112863",
+        "Q1133103",
+        "Q1206860",
+        "Q1238886",
+        "Q1633898",
+        "Q20266718",
+        "Q2528145",
+        "Q2528177",
+        "Q2898121",
+        "Q3936368",
+        "Q3937551",
+        "Q3937708",
+        "Q4161055"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Édouard Vuillard",
+      "oeuvres": 12,
+      "ids": [
+        "Q17490698",
+        "Q17490717",
+        "Q17490795",
+        "Q17490920",
+        "Q17491084",
+        "Q17491093",
+        "Q17492057",
+        "Q17492161",
+        "Q17492896",
+        "Q17492920",
+        "Q17492922",
+        "Q20266332"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frans Hals",
+      "oeuvres": 12,
+      "ids": [
+        "Q16038699",
+        "Q17818220",
+        "Q17818339",
+        "Q17818491",
+        "Q17855742",
+        "Q17904794",
+        "Q17907497",
+        "Q17985764",
+        "Q17986760",
+        "Q18009980",
+        "Q18009990",
+        "Q18010861"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Odilon Redon",
+      "oeuvres": 12,
+      "ids": [
+        "Q17490719",
+        "Q17490724",
+        "Q17490792",
+        "Q17490837",
+        "Q17490885",
+        "Q17490915",
+        "Q17490979",
+        "Q17491385",
+        "Q17492069",
+        "Q20261224",
+        "Q20262365",
+        "Q3236211"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gustave Courbet",
+      "oeuvres": 11,
+      "ids": [
+        "Q1167178",
+        "Q17353205",
+        "Q17490874",
+        "Q17490936",
+        "Q17491017",
+        "Q17492101",
+        "Q17492959",
+        "Q20267840",
+        "Q334138",
+        "Q540488",
+        "Q6508106"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Battista Moroni",
+      "oeuvres": 10,
+      "ids": [
+        "Q18685836",
+        "Q18685840",
+        "Q18685847",
+        "Q18685851",
+        "Q18685858",
+        "Q18685865",
+        "Q18685873",
+        "Q18685880",
+        "Q18685887",
+        "Q5561848"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alessandro Bonvicino",
+      "oeuvres": 8,
+      "ids": [
+        "Q18683060",
+        "Q18683063",
+        "Q18683064",
+        "Q18683066",
+        "Q18683067",
+        "Q3907489",
+        "Q3937529",
+        "Q3937793"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Camille Corot",
+      "oeuvres": 8,
+      "ids": [
+        "Q18177375",
+        "Q18177376",
+        "Q18177384",
+        "Q18178091",
+        "Q18178111",
+        "Q20262034",
+        "Q20264490",
+        "Q5966448"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Fantin-Latour",
+      "oeuvres": 8,
+      "ids": [
+        "Q1626128",
+        "Q17490659",
+        "Q17490821",
+        "Q17491009",
+        "Q17491197",
+        "Q2873059",
+        "Q428985",
+        "Q8187529"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "William Turner",
+      "oeuvres": 8,
+      "ids": [
+        "Q1652056",
+        "Q20261032",
+        "Q20267642",
+        "Q219271",
+        "Q2339059",
+        "Q257580",
+        "Q3027255",
+        "Q3213272"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antoine van Dyck",
+      "oeuvres": 7,
+      "ids": [
+        "Q3937481",
+        "Q3937501",
+        "Q3937508",
+        "Q3937593",
+        "Q85502878",
+        "Q88483146",
+        "Q89696442"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Diego Vélasquez",
+      "oeuvres": 7,
+      "ids": [
+        "Q1087226",
+        "Q1090371",
+        "Q275349",
+        "Q3149023",
+        "Q4274886",
+        "Q4473607",
+        "Q4556646"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Émile Bernard",
+      "oeuvres": 7,
+      "ids": [
+        "Q17490655",
+        "Q17490716",
+        "Q17490794",
+        "Q17490824",
+        "Q17490941",
+        "Q17492114",
+        "Q19208943"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri de Toulouse-Lautrec",
+      "oeuvres": 7,
+      "ids": [
+        "Q12015473",
+        "Q17027477",
+        "Q17491969",
+        "Q3607521",
+        "Q3607561",
+        "Q3824633",
+        "Q951954"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pierre Paul Rubens",
+      "oeuvres": 7,
+      "ids": [
+        "Q10366854",
+        "Q17519105",
+        "Q17519113",
+        "Q20261407",
+        "Q20266389",
+        "Q2594673",
+        "Q611583"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pierre Puvis de Chavannes",
+      "oeuvres": 7,
+      "ids": [
+        "Q17491805",
+        "Q17491810",
+        "Q17492402",
+        "Q20261428",
+        "Q20262400",
+        "Q20264857",
+        "Q9171012"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Raphaël",
+      "oeuvres": 7,
+      "ids": [
+        "Q1245388",
+        "Q2165279",
+        "Q2503581",
+        "Q2713620",
+        "Q3210258",
+        "Q552040",
+        "Q598913"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Rembrandt",
+      "oeuvres": 7,
+      "ids": [
+        "Q1167932",
+        "Q14911808",
+        "Q20264458",
+        "Q21401849",
+        "Q21401882",
+        "Q21401888",
+        "Q570163"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frédéric Bazille",
+      "oeuvres": 6,
+      "ids": [
+        "Q12142552",
+        "Q15876329",
+        "Q15877622",
+        "Q20264990",
+        "Q3212360",
+        "Q325981"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "John Constable",
+      "oeuvres": 6,
+      "ids": [
+        "Q20261512",
+        "Q20267641",
+        "Q2272625",
+        "Q2366825",
+        "Q5637936",
+        "Q960383"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Véronèse",
+      "oeuvres": 6,
+      "ids": [
+        "Q18688334",
+        "Q18688335",
+        "Q18688336",
+        "Q18688338",
+        "Q18688339",
+        "Q18688340"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Q155626 (à corriger)",
+      "oeuvres": 6,
+      "ids": [
+        "Q1560719",
+        "Q17491277",
+        "Q20266537",
+        "Q20267153",
+        "Q20267796",
+        "Q20267842"
+      ],
+      "alertes": [
+        "précision entre parenthèses",
+        "chiffre dans le nom"
+      ]
+    },
+    {
+      "nom": "Sandro Botticelli",
+      "oeuvres": 6,
+      "ids": [
+        "Q117196927",
+        "Q117199655",
+        "Q1760564",
+        "Q20267910",
+        "Q2293953",
+        "Q974674"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "William Bouguereau",
+      "oeuvres": 6,
+      "ids": [
+        "Q10871494",
+        "Q1283024",
+        "Q16372213",
+        "Q17491105",
+        "Q2568551",
+        "Q2665048"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Andrea Mantegna",
+      "oeuvres": 5,
+      "ids": [
+        "Q1239065",
+        "Q1751164",
+        "Q3204269",
+        "Q3842434",
+        "Q3842511"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Ernest Hébert",
+      "oeuvres": 5,
+      "ids": [
+        "Q17490699",
+        "Q17490790",
+        "Q17491192",
+        "Q17492063",
+        "Q17492935"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gérard David",
+      "oeuvres": 5,
+      "ids": [
+        "Q18685738",
+        "Q18685744",
+        "Q18685752",
+        "Q18685756",
+        "Q18685761"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Bellini",
+      "oeuvres": 5,
+      "ids": [
+        "Q1115613",
+        "Q1131110",
+        "Q117196581",
+        "Q1759759",
+        "Q3937688"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gustave Caillebotte",
+      "oeuvres": 5,
+      "ids": [
+        "Q1452762",
+        "Q15526285",
+        "Q15973382",
+        "Q1766454",
+        "Q1857132"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Matisse",
+      "oeuvres": 5,
+      "ids": [
+        "Q17490789",
+        "Q1853880",
+        "Q20262847",
+        "Q20263630",
+        "Q20267578"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-François Millet",
+      "oeuvres": 5,
+      "ids": [
+        "Q1368055",
+        "Q17491982",
+        "Q20265181",
+        "Q2571560",
+        "Q3921662"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Léon Gérôme",
+      "oeuvres": 5,
+      "ids": [
+        "Q121461514",
+        "Q17353200",
+        "Q17491812",
+        "Q19861832",
+        "Q5665712"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "John Everett Millais",
+      "oeuvres": 5,
+      "ids": [
+        "Q1065493",
+        "Q4146206",
+        "Q470541",
+        "Q822541",
+        "Q960157"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Le Pérugin",
+      "oeuvres": 5,
+      "ids": [
+        "Q117197151",
+        "Q3202254",
+        "Q3202258",
+        "Q3213761",
+        "Q3213792"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Léon Bonnat",
+      "oeuvres": 5,
+      "ids": [
+        "Q17490746",
+        "Q17491814",
+        "Q17491817",
+        "Q17492088",
+        "Q20262344"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Sérusier",
+      "oeuvres": 5,
+      "ids": [
+        "Q17490827",
+        "Q17490940",
+        "Q17491981",
+        "Q17492009",
+        "Q3227509"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Q123740 (à corriger)",
+      "oeuvres": 5,
+      "ids": [
+        "Q17490669",
+        "Q17490788",
+        "Q17491076",
+        "Q17492918",
+        "Q20262293"
+      ],
+      "alertes": [
+        "précision entre parenthèses",
+        "chiffre dans le nom"
+      ]
+    },
+    {
+      "nom": "Berthe Morisot",
+      "oeuvres": 4,
+      "ids": [
+        "Q17491014",
+        "Q17491182",
+        "Q17491784",
+        "Q5966403"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Boudin",
+      "oeuvres": 4,
+      "ids": [
+        "Q17490814",
+        "Q17492168",
+        "Q17492170",
+        "Q17492171"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Francisco de Goya",
+      "oeuvres": 4,
+      "ids": [
+        "Q1585399",
+        "Q20266381",
+        "Q5795925",
+        "Q6011091"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Rousseau",
+      "oeuvres": 4,
+      "ids": [
+        "Q20263649",
+        "Q20268115",
+        "Q3207251",
+        "Q960447"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Charles Cazin",
+      "oeuvres": 4,
+      "ids": [
+        "Q17490661",
+        "Q20262383",
+        "Q20265005",
+        "Q20265023"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Maurice Denis",
+      "oeuvres": 4,
+      "ids": [
+        "Q17490942",
+        "Q17491206",
+        "Q17492093",
+        "Q3139726"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Vassily Kandinsky",
+      "oeuvres": 4,
+      "ids": [
+        "Q18709542",
+        "Q20260908",
+        "Q20268022",
+        "Q75387404"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert André",
+      "oeuvres": 3,
+      "ids": [
+        "Q17490623",
+        "Q17491210",
+        "Q20262306"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Anders Zorn",
+      "oeuvres": 3,
+      "ids": [
+        "Q17490672",
+        "Q20263998",
+        "Q20264880"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Armand Guillaumin",
+      "oeuvres": 3,
+      "ids": [
+        "Q14734192",
+        "Q17491032",
+        "Q20262241"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Charles-François Daubigny",
+      "oeuvres": 3,
+      "ids": [
+        "Q13107489",
+        "Q17492071",
+        "Q20261191"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Ernest Meissonier",
+      "oeuvres": 3,
+      "ids": [
+        "Q14900433",
+        "Q17490895",
+        "Q20264293"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Delacroix",
+      "oeuvres": 3,
+      "ids": [
+        "Q17318501",
+        "Q17491013",
+        "Q19636500"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frederic Leighton",
+      "oeuvres": 3,
+      "ids": [
+        "Q1230842",
+        "Q18685536",
+        "Q4012247"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gustave Moreau",
+      "oeuvres": 3,
+      "ids": [
+        "Q12878041",
+        "Q3356655",
+        "Q6445802"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Hans Holbein le Jeune",
+      "oeuvres": 3,
+      "ids": [
+        "Q1212937",
+        "Q18685969",
+        "Q4373334"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "James Tissot",
+      "oeuvres": 3,
+      "ids": [
+        "Q17189312",
+        "Q17190953",
+        "Q656132"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jan van Eyck",
+      "oeuvres": 3,
+      "ids": [
+        "Q1150782",
+        "Q220859",
+        "Q2392901"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean Siméon Chardin",
+      "oeuvres": 3,
+      "ids": [
+        "Q138412291",
+        "Q138412296",
+        "Q138412969"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Auguste-Dominique Ingres",
+      "oeuvres": 3,
+      "ids": [
+        "Q1215604",
+        "Q15615053",
+        "Q3137278"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Baptiste Carpeaux",
+      "oeuvres": 3,
+      "ids": [
+        "Q17434855",
+        "Q17490832",
+        "Q3208129"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Joachim Bueckelaer",
+      "oeuvres": 3,
+      "ids": [
+        "Q18686580",
+        "Q18686585",
+        "Q18686590"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Juan Gris",
+      "oeuvres": 3,
+      "ids": [
+        "Q20261490",
+        "Q20264954",
+        "Q3399451"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jules Bastien-Lepage",
+      "oeuvres": 3,
+      "ids": [
+        "Q16696928",
+        "Q17490658",
+        "Q17491297"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Le Caravage",
+      "oeuvres": 3,
+      "ids": [
+        "Q2318325",
+        "Q318947",
+        "Q585437"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Le Greco",
+      "oeuvres": 3,
+      "ids": [
+        "Q11837891",
+        "Q16536566",
+        "Q2680589"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Le Tintoret",
+      "oeuvres": 3,
+      "ids": [
+        "Q1984131",
+        "Q2274267",
+        "Q9355684"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lorenzo Lotto",
+      "oeuvres": 3,
+      "ids": [
+        "Q1994442",
+        "Q3937545",
+        "Q3937550"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Maître de Delft",
+      "oeuvres": 3,
+      "ids": [
+        "Q18688151",
+        "Q18688152",
+        "Q18688153"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paolo Uccello",
+      "oeuvres": 3,
+      "ids": [
+        "Q18564234",
+        "Q18891273",
+        "Q780466"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Lawrence",
+      "oeuvres": 3,
+      "ids": [
+        "Q20261105",
+        "Q20266355",
+        "Q20267693"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Adolphe Monticelli",
+      "oeuvres": 2,
+      "ids": [
+        "Q20264337",
+        "Q20264632"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert Maignan",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490973",
+        "Q17491211"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert Marquet",
+      "oeuvres": 2,
+      "ids": [
+        "Q20263979",
+        "Q20266427"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alessandro Magnasco",
+      "oeuvres": 2,
+      "ids": [
+        "Q20261697",
+        "Q20264150"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Altobello Melone",
+      "oeuvres": 2,
+      "ids": [
+        "Q18683099",
+        "Q18683101"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Amedeo Modigliani",
+      "oeuvres": 2,
+      "ids": [
+        "Q3806044",
+        "Q3842248"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Andrea Previtali",
+      "oeuvres": 2,
+      "ids": [
+        "Q18683110",
+        "Q18683111"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Annibale Carracci",
+      "oeuvres": 2,
+      "ids": [
+        "Q1227679",
+        "Q17651293"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antoine Guillemet",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490859",
+        "Q17492172"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antonello de Messine",
+      "oeuvres": 2,
+      "ids": [
+        "Q2715353",
+        "Q3937397"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Aristide Maillol",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491965",
+        "Q3212334"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Arthur Hughes",
+      "oeuvres": 2,
+      "ids": [
+        "Q1523473",
+        "Q18683353"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Benjamin West",
+      "oeuvres": 2,
+      "ids": [
+        "Q18683405",
+        "Q20268018"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Canaletto",
+      "oeuvres": 2,
+      "ids": [
+        "Q17435911",
+        "Q2943415"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Carel Fabritius",
+      "oeuvres": 2,
+      "ids": [
+        "Q18162507",
+        "Q18210290"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Carolus-Duran",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491276",
+        "Q2105253"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Caspar David Friedrich",
+      "oeuvres": 2,
+      "ids": [
+        "Q18602465",
+        "Q18602470"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Corneille de Lyon",
+      "oeuvres": 2,
+      "ids": [
+        "Q54770036",
+        "Q54772523"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Dante Gabriel Rossetti",
+      "oeuvres": 2,
+      "ids": [
+        "Q2425901",
+        "Q2712679"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Fromentin",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491011",
+        "Q20266094"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Fernand Cormon",
+      "oeuvres": 2,
+      "ids": [
+        "Q12878468",
+        "Q17491298"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Fra Filippo Lippi",
+      "oeuvres": 2,
+      "ids": [
+        "Q1056007",
+        "Q3202172"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Francisco de Zurbarán",
+      "oeuvres": 2,
+      "ids": [
+        "Q20265152",
+        "Q3221342"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gaudenzio Ferrari",
+      "oeuvres": 2,
+      "ids": [
+        "Q18685593",
+        "Q18685597"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "George Morland",
+      "oeuvres": 2,
+      "ids": [
+        "Q20266352",
+        "Q20266353"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gerard ter Borch",
+      "oeuvres": 2,
+      "ids": [
+        "Q18608272",
+        "Q20267677"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Gerolamo Savoldo",
+      "oeuvres": 2,
+      "ids": [
+        "Q18685925",
+        "Q20261356"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Hans Baldung",
+      "oeuvres": 2,
+      "ids": [
+        "Q18685962",
+        "Q18685963"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Gervex",
+      "oeuvres": 2,
+      "ids": [
+        "Q14855249",
+        "Q17490801"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Le Sidaner",
+      "oeuvres": 2,
+      "ids": [
+        "Q17492363",
+        "Q17492914"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri-Edmond Cross",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490718",
+        "Q17492000"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henry Scott Tuke",
+      "oeuvres": 2,
+      "ids": [
+        "Q17511117",
+        "Q4820652"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Honoré Daumier",
+      "oeuvres": 2,
+      "ids": [
+        "Q20264473",
+        "Q5220825"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jacques-Louis David",
+      "oeuvres": 2,
+      "ids": [
+        "Q3399482",
+        "Q3399490"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "James Abbott McNeill Whistler",
+      "oeuvres": 2,
+      "ids": [
+        "Q589002",
+        "Q687182"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean Béraud",
+      "oeuvres": 2,
+      "ids": [
+        "Q17492050",
+        "Q17492894"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-François Raffaëlli",
+      "oeuvres": 2,
+      "ids": [
+        "Q20261207",
+        "Q20261610"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Joseph Benjamin-Constant",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490673",
+        "Q17490685"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Louis Forain",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491195",
+        "Q17491308"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Paul Laurens",
+      "oeuvres": 2,
+      "ids": [
+        "Q15874391",
+        "Q17491208"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Johannes Vermeer",
+      "oeuvres": 2,
+      "ids": [
+        "Q2267440",
+        "Q2624258"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "John William Waterhouse",
+      "oeuvres": 2,
+      "ids": [
+        "Q2445726",
+        "Q5164607"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Joshua Reynolds",
+      "oeuvres": 2,
+      "ids": [
+        "Q18542665",
+        "Q6106762"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "József Rippl-Rónai",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490742",
+        "Q20264765"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Léon Augustin Lhermitte",
+      "oeuvres": 2,
+      "ids": [
+        "Q17492143",
+        "Q20262434"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Marcel Baschet",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490666",
+        "Q17491085"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Mary Cassatt",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491792",
+        "Q3172226"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Michel-Ange Buronarroti",
+      "oeuvres": 2,
+      "ids": [
+        "Q1213160",
+        "Q1684762"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Nicolas Poussin",
+      "oeuvres": 2,
+      "ids": [
+        "Q18688231",
+        "Q377810"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Norbert Gœneutte",
+      "oeuvres": 2,
+      "ids": [
+        "Q17492350",
+        "Q17492924"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Palma le Vieux",
+      "oeuvres": 2,
+      "ids": [
+        "Q18688288",
+        "Q18688290"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paolo Morando",
+      "oeuvres": 2,
+      "ids": [
+        "Q18688292",
+        "Q18688294"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pascal Dagnan-Bouveret",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491175",
+        "Q17492974"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Baudry",
+      "oeuvres": 2,
+      "ids": [
+        "Q17491003",
+        "Q17491999"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Signac",
+      "oeuvres": 2,
+      "ids": [
+        "Q17490903",
+        "Q17492906"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Piero della Francesca",
+      "oeuvres": 2,
+      "ids": [
+        "Q2632688",
+        "Q3211055"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Piet Mondrian",
+      "oeuvres": 2,
+      "ids": [
+        "Q18710675",
+        "Q20267929"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Quentin Metsys",
+      "oeuvres": 2,
+      "ids": [
+        "Q2706250",
+        "Q27068580"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Raimundo de Madrazo y Garreta",
+      "oeuvres": 2,
+      "ids": [
+        "Q17492086",
+        "Q17492087"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Robert Campin",
+      "oeuvres": 2,
+      "ids": [
+        "Q18508787",
+        "Q18508788"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Rosa Bonheur",
+      "oeuvres": 2,
+      "ids": [
+        "Q14127232",
+        "Q20266025"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Théodore Chassériau",
+      "oeuvres": 2,
+      "ids": [
+        "Q12902282",
+        "Q17491031"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Cole",
+      "oeuvres": 2,
+      "ids": [
+        "Q19900709",
+        "Q19900717"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Gainsborough",
+      "oeuvres": 2,
+      "ids": [
+        "Q1619527",
+        "Q4233234"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Abel Faivre",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491964"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Abraham Janssens I",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266902"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Adèle Romany",
+      "oeuvres": 1,
+      "ids": [
+        "Q116953348"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Adolf Schreyer",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490998"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Adriaan de Lelie",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266060"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Adriaen Isenbrant",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683035"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert Bartholomé",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491178"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert Besnard",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490689"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert Bierstadt",
+      "oeuvres": 1,
+      "ids": [
+        "Q19900812"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albert Joseph Moore",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683042"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Albrecht Altdorfer",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683046"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alessandro Longhi",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261179"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alesso Baldovinetti",
+      "oeuvres": 1,
+      "ids": [
+        "Q124565126"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alexandre Cabanel",
+      "oeuvres": 1,
+      "ids": [
+        "Q1212861"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alexandre Charpentier",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492113"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alfred Dehodencq",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490880"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alfred Philippe Roll",
+      "oeuvres": 1,
+      "ids": [
+        "Q15879053"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alfred Stevens",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490984"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Alphonse Legros",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683097"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Amadeo de Souza-Cardoso",
+      "oeuvres": 1,
+      "ids": [
+        "Q10368659"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Andrea del Verrocchio",
+      "oeuvres": 1,
+      "ids": [
+        "Q117459768"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Andrea Vaccaro",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264207"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antoine Chintreuil",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490977"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antoine Wiertz",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266043"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antonin Mercié",
+      "oeuvres": 1,
+      "ids": [
+        "Q107224322"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antonio Pollaiuolo",
+      "oeuvres": 1,
+      "ids": [
+        "Q1410866"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Antonio Solario",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683345"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Arent de Gelder",
+      "oeuvres": 1,
+      "ids": [
+        "Q17275748"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Artiste inconnu",
+      "oeuvres": 1,
+      "ids": [
+        "Q117459806"
+      ],
+      "alertes": [
+        "anonyme ou inconnu"
+      ]
+    },
+    {
+      "nom": "Auguste Rodin",
+      "oeuvres": 1,
+      "ids": [
+        "Q3463880"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Augustin Théodule Ribot",
+      "oeuvres": 1,
+      "ids": [
+        "Q20263686"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Augustus Wall Callcott",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683376"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Bartolomeo Veneto",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683396"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Bernardino da Asola",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683411"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Bernardo Bellotto",
+      "oeuvres": 1,
+      "ids": [
+        "Q19681547"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Bronzino",
+      "oeuvres": 1,
+      "ids": [
+        "Q1430990"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Camille-Félix Bellanger",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490648"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Carlo Crivelli",
+      "oeuvres": 1,
+      "ids": [
+        "Q642198"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Caspar Netscher",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264936"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Cecco del Caravaggio",
+      "oeuvres": 1,
+      "ids": [
+        "Q20087471"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Cesare Augusto Detti",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266082"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Charles Cottet",
+      "oeuvres": 1,
+      "ids": [
+        "Q20262255"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Charles de Tournemine",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491290"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Charles Maurin",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491106"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Charles Müller",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261379"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Charles-François Marchal",
+      "oeuvres": 1,
+      "ids": [
+        "Q3214068"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Christoffer Wilhelm Eckersberg",
+      "oeuvres": 1,
+      "ids": [
+        "Q20267111"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Cima da Conegliano",
+      "oeuvres": 1,
+      "ids": [
+        "Q117193762"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Constant Troyon",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490878"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Constantin Makovski",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492966"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Cornelis Huysmans",
+      "oeuvres": 1,
+      "ids": [
+        "Q20262120"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Cornelis Visscher",
+      "oeuvres": 1,
+      "ids": [
+        "Q47534662"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "David Teniers le Jeune",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265168"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Denis Calvaert",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266249"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Désiré François Laugée",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492962"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Donatello",
+      "oeuvres": 1,
+      "ids": [
+        "Q651579"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Edmond Aman-Jean",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491791"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Édouard Béliard",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266280"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Édouard Detaille",
+      "oeuvres": 1,
+      "ids": [
+        "Q15709560"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Edvard Munch",
+      "oeuvres": 1,
+      "ids": [
+        "Q18891063"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Edward Burne-Jones",
+      "oeuvres": 1,
+      "ids": [
+        "Q18684845"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Edward Hopper",
+      "oeuvres": 1,
+      "ids": [
+        "Q83872"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Edwin Landseer",
+      "oeuvres": 1,
+      "ids": [
+        "Q4656515"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Élisabeth Vigée Le Brun",
+      "oeuvres": 1,
+      "ids": [
+        "Q41433015"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Émile Lévy",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491816"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Émile van Marcke",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264358"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Étienne Dinet",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491797"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Étienne Moreau-Nélaton",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492156"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Baudin",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490955"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Bléry",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266267"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Burnand",
+      "oeuvres": 1,
+      "ids": [
+        "Q3232117"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Carrière",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264183"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Humbert",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491807"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eugène Lawrence Vail",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490841"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Eva Gonzalès",
+      "oeuvres": 1,
+      "ids": [
+        "Q13575429"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Evert Pieters",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266072"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Félix Ziem",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261297"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Ferdinand Hodler",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491213"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Floris Claesz van Dijck",
+      "oeuvres": 1,
+      "ids": [
+        "Q18522875"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Francesco Botticini",
+      "oeuvres": 1,
+      "ids": [
+        "Q323753"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Francesco Guardi",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265081"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Francesco Solimena",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266107"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "François Bonvin",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491994"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "François Boucher",
+      "oeuvres": 1,
+      "ids": [
+        "Q20268047"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "François Gérard",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261171"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "François-Louis Français",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491200"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frank Bernard Dicksee",
+      "oeuvres": 1,
+      "ids": [
+        "Q18685487"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frans II Francken",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264228"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frans Post",
+      "oeuvres": 1,
+      "ids": [
+        "Q17324366"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Franz Ludwig Catel",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264668"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Franz Xaver Winterhalter",
+      "oeuvres": 1,
+      "ids": [
+        "Q116819047"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frederic Edwin Church",
+      "oeuvres": 1,
+      "ids": [
+        "Q20202175"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Frederick Walker",
+      "oeuvres": 1,
+      "ids": [
+        "Q18685560"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gabriel Ferrier",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491008"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gari Melchers",
+      "oeuvres": 1,
+      "ids": [
+        "Q20267435"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "George Frederic Watts",
+      "oeuvres": 1,
+      "ids": [
+        "Q18685617"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "George Stubbs",
+      "oeuvres": 1,
+      "ids": [
+        "Q3012259"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "George-Daniel de Monfreid",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490923"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Georges Lemmen",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490676"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Georgia O'Keeffe",
+      "oeuvres": 1,
+      "ids": [
+        "Q3171842"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gerrit Lundens",
+      "oeuvres": 1,
+      "ids": [
+        "Q18608264"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giambattista Tiepolo",
+      "oeuvres": 1,
+      "ids": [
+        "Q5968478"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giandomenico Tiepolo",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264814"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Battista Piazzetta",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264689"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Boldini",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265063"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Cariani",
+      "oeuvres": 1,
+      "ids": [
+        "Q138312766"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Francesco Romanelli",
+      "oeuvres": 1,
+      "ids": [
+        "Q29160339"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giovanni Paolo Panini",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265120"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giulio Carpioni",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264115"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Giuseppe De Nittis",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492157"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Grant Wood",
+      "oeuvres": 1,
+      "ids": [
+        "Q464782"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gustave Doré",
+      "oeuvres": 1,
+      "ids": [
+        "Q3205326"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gustave Guillaumet",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491821"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Gustave Léonard de Jonghe",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491804"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Hans Memling",
+      "oeuvres": 1,
+      "ids": [
+        "Q43932494"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Hans von Aachen",
+      "oeuvres": 1,
+      "ids": [
+        "Q18685987"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Hans Wertinger",
+      "oeuvres": 1,
+      "ids": [
+        "Q18685990"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Harald Sohlberg",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261316"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Hendrick ter Brugghen",
+      "oeuvres": 1,
+      "ids": [
+        "Q17152781"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Evenepoel",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491007"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Lebasque",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492964"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Rouart",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492382"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri Villain",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490931"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henri-Paul Motte",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491979"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henry Benbridge",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266535"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Henry Wallis",
+      "oeuvres": 1,
+      "ids": [
+        "Q18686015"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Herbert Draper",
+      "oeuvres": 1,
+      "ids": [
+        "Q871812"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/07f718c29caf0064631cf14e5c147a4d",
+      "oeuvres": 1,
+      "ids": [
+        "Q1635039"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/177e56ad53ced73202f7fb0fdf634616",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264514"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/1b9ff3828a7ec6110776d46cf307dffd",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265950"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/1c27a0e4ee6ebabb2d82f2eb668020a2",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266351"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/1fcae382ffabdcda1e6738005744853a",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683163"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/463da082fa4ce7af90e2bec86aac8d4f",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683182"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/4e2f0ad3abd955a8ce27619951e0c244",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266229"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/51c550440dab93e90b716b99fc0ba690",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265971"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/6435daa6057912899916d2e545fd6013",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264378"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/644be3eb4a9d7f65acb6f028cadbd93f",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266522"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/70052771c77c79a0d23d5f9b21da7c1f",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266181"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/7ef6d18b7c53ac8e85e0018edd446ad5",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264325"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/838fc844eb51a03b2a86dafbaf78ad64",
+      "oeuvres": 1,
+      "ids": [
+        "Q114646470"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/862092f0c63f728b7674c82eab8ada70",
+      "oeuvres": 1,
+      "ids": [
+        "Q136394382"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/8a558f806cd9baaeb5c20bf4d190bbbe",
+      "oeuvres": 1,
+      "ids": [
+        "Q3937451"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/8b3097ee412143a68c0cdc2749e40541",
+      "oeuvres": 1,
+      "ids": [
+        "Q18683165"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/8b9fd13280492ff0253ccd3c9a59f906",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265995"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/94045d79ad9b869dbb128150690b436b",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265099"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/9515f43906a97bf96f9ddc8fa784b8b9",
+      "oeuvres": 1,
+      "ids": [
+        "Q20262161"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/9d7c5791eadfedec7910ce6ee8fb81ef",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266193"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/ab4ef20f4fd69dfba11d77aa4e9e209a",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266137"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/b943d8a486bc04897694823ea4783f13",
+      "oeuvres": 1,
+      "ids": [
+        "Q20262228"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/c9325fd0e7e1964a8785d78f2b3329e9",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266011"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/d6333807479beb98c81da9e982127684",
+      "oeuvres": 1,
+      "ids": [
+        "Q2113773"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/e166099110a4f7bba86479046cf284d3",
+      "oeuvres": 1,
+      "ids": [
+        "Q116819050"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/e1b9df49e8466041ebda8b0a6de9964d",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264735"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/e1e078de209e4582b39ac565cfd1b181",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265939"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/e51fb98d58f177be7b0eedec52f53278",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264132"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/f0aa8fee9560f3e491f546783d8131e9",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265962"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/f6f3c27811fca29c2311d3241841cde9",
+      "oeuvres": 1,
+      "ids": [
+        "Q20267927"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/f82d019e3ca4e068faa879371db5e1c2",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264750"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/fd90bf654a8bd9e9ae8e7e5d3e45af1b",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266348"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "http://www.wikidata.org/.well-known/genid/ffbef093f41550ffa45b30c5b91a3156",
+      "oeuvres": 1,
+      "ids": [
+        "Q1813497"
+      ],
+      "alertes": [
+        "chiffre dans le nom",
+        "nom très long"
+      ]
+    },
+    {
+      "nom": "Ignacio Zuloaga",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490844"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Ilia Répine",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492968"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Isidore Pils",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492121"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jacob van Ruisdael",
+      "oeuvres": 1,
+      "ids": [
+        "Q20856047"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jacopo Bassano",
+      "oeuvres": 1,
+      "ids": [
+        "Q18686226"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "James Grellier Forbes",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264064"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "James Ward",
+      "oeuvres": 1,
+      "ids": [
+        "Q18686379"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jan Mabuse",
+      "oeuvres": 1,
+      "ids": [
+        "Q1952284"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jan Steen",
+      "oeuvres": 1,
+      "ids": [
+        "Q18195700"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jan Wildens",
+      "oeuvres": 1,
+      "ids": [
+        "Q28113766"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Baptiste Greuze",
+      "oeuvres": 1,
+      "ids": [
+        "Q115356343"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Honoré Fragonard",
+      "oeuvres": 1,
+      "ids": [
+        "Q3232204"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Jacques Henner",
+      "oeuvres": 1,
+      "ids": [
+        "Q17450435"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Joseph Weerts",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492117"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Jules-Antoine Lecomte du Nouÿ",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490657"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Louis Hamon",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491102"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jean-Marc Nattier",
+      "oeuvres": 1,
+      "ids": [
+        "Q16038645"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jérôme Bosch",
+      "oeuvres": 1,
+      "ids": [
+        "Q2733729"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Johan Barthold Jongkind",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261126"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Johann Friedrich August Tischbein",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261749"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "John Simpson",
+      "oeuvres": 1,
+      "ids": [
+        "Q20087513"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Joseph Wright of Derby",
+      "oeuvres": 1,
+      "ids": [
+        "Q1167796"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jozef Israëls",
+      "oeuvres": 1,
+      "ids": [
+        "Q20265984"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Judith Leyster",
+      "oeuvres": 1,
+      "ids": [
+        "Q19326212"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jules Dupré",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492077"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jules Lefebvre",
+      "oeuvres": 1,
+      "ids": [
+        "Q17594752"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Jules-Élie Delaunay",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264648"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Karel van der Pluym",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261585"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lawrence Alma-Tadema",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491169"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Le Corrège",
+      "oeuvres": 1,
+      "ids": [
+        "Q3842518"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Léonard de Vinci",
+      "oeuvres": 1,
+      "ids": [
+        "Q2471531"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lorado Taft",
+      "oeuvres": 1,
+      "ids": [
+        "Q787883"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lorenzo Costa",
+      "oeuvres": 1,
+      "ids": [
+        "Q4231876"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Louis Le Nain",
+      "oeuvres": 1,
+      "ids": [
+        "Q4684626"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Louis Pastour",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490929"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Louis-Ernest Barrias",
+      "oeuvres": 1,
+      "ids": [
+        "Q3178029"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Louis-Maurice Boutet de Monvel",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490709"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Louis-Michel van Loo",
+      "oeuvres": 1,
+      "ids": [
+        "Q122459501"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Louise Moillon",
+      "oeuvres": 1,
+      "ids": [
+        "Q17638206"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lovell Birge Harrison",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491080"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lucas Cranach l'Ancien",
+      "oeuvres": 1,
+      "ids": [
+        "Q2805058"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Lucien Simon",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491825"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Luigi Loir",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266125"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Maître de la Madone André",
+      "oeuvres": 1,
+      "ids": [
+        "Q27219520"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Maître du Bigallo",
+      "oeuvres": 1,
+      "ids": [
+        "Q18577996"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Marc Chagall",
+      "oeuvres": 1,
+      "ids": [
+        "Q3698207"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Marco Marcola",
+      "oeuvres": 1,
+      "ids": [
+        "Q20261533"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Marià Fortuny",
+      "oeuvres": 1,
+      "ids": [
+        "Q2925575"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Marie-Auguste Flameng",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490843"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Martín Rico",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266354"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Masaccio",
+      "oeuvres": 1,
+      "ids": [
+        "Q369582"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Maurice Utrillo",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264782"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Max Liebermann",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490937"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Maxime Maufra",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266349"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Meyer de Haan",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490912"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Mihály Munkácsy",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264274"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Nélie Jacquemart",
+      "oeuvres": 1,
+      "ids": [
+        "Q23047624"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Nicolaes Berchem",
+      "oeuvres": 1,
+      "ids": [
+        "Q20266160"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Nicolas Neufchâtel",
+      "oeuvres": 1,
+      "ids": [
+        "Q18688228"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Olivier van Deuren",
+      "oeuvres": 1,
+      "ids": [
+        "Q18654839"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pâris Bordone",
+      "oeuvres": 1,
+      "ids": [
+        "Q18688295"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Parmigianino",
+      "oeuvres": 1,
+      "ids": [
+        "Q3937763"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Albert Laurens",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490688"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Delaroche",
+      "oeuvres": 1,
+      "ids": [
+        "Q1213453"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul Guigou",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491095"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Paul-Élie Ranson",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492345"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Peder Severin Krøyer",
+      "oeuvres": 1,
+      "ids": [
+        "Q17490849"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Philippe-Jacques de Loutherbourg",
+      "oeuvres": 1,
+      "ids": [
+        "Q20267949"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pier Francesco Mola",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264090"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Piero di Cosimo",
+      "oeuvres": 1,
+      "ids": [
+        "Q2457026"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Piero Pollaiuolo",
+      "oeuvres": 1,
+      "ids": [
+        "Q1028282"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pierre Georges Jeanniot",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491993"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pierre-Charles Comte",
+      "oeuvres": 1,
+      "ids": [
+        "Q17281106"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Piet Verhaert",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264601"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pieter Brueghel l'Ancien",
+      "oeuvres": 1,
+      "ids": [
+        "Q4680634"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pietro Longhi",
+      "oeuvres": 1,
+      "ids": [
+        "Q20264712"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pinturicchio",
+      "oeuvres": 1,
+      "ids": [
+        "Q3937370"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pisanello",
+      "oeuvres": 1,
+      "ids": [
+        "Q669872"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Pontormo",
+      "oeuvres": 1,
+      "ids": [
+        "Q1706136"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Q314350 (à corriger)",
+      "oeuvres": 1,
+      "ids": [
+        "Q582428"
+      ],
+      "alertes": [
+        "précision entre parenthèses",
+        "chiffre dans le nom"
+      ]
+    },
+    {
+      "nom": "René Ménard",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491001"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "René-Xavier Prinet",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491799"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Robert Delaunay",
+      "oeuvres": 1,
+      "ids": [
+        "Q19018655"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Rogier van der Weyden",
+      "oeuvres": 1,
+      "ids": [
+        "Q3039856"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Rosso Fiorentino",
+      "oeuvres": 1,
+      "ids": [
+        "Q3937716"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Sanford Robinson Gifford",
+      "oeuvres": 1,
+      "ids": [
+        "Q20267079"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Sebastiano del Piombo",
+      "oeuvres": 1,
+      "ids": [
+        "Q18397539"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Shaun Greenhalgh",
+      "oeuvres": 1,
+      "ids": [
+        "Q17004235"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Théo Van Rysselberghe",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491370"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Théophile Alexandre Steinlen",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491018"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Alexander Harrison",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492343"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Couture",
+      "oeuvres": 1,
+      "ids": [
+        "Q636001"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Eakins",
+      "oeuvres": 1,
+      "ids": [
+        "Q17491083"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Thomas Jones",
+      "oeuvres": 1,
+      "ids": [
+        "Q1910985"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Tony Robert-Fleury",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492912"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Valentin de Boulogne",
+      "oeuvres": 1,
+      "ids": [
+        "Q4515121"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Virginie Demont-Breton",
+      "oeuvres": 1,
+      "ids": [
+        "Q17492163"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "Vittore Carpaccio",
+      "oeuvres": 1,
+      "ids": [
+        "Q116819049"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "William Blake",
+      "oeuvres": 1,
+      "ids": [
+        "Q1996494"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "William Hogarth",
+      "oeuvres": 1,
+      "ids": [
+        "Q4164272"
+      ],
+      "alertes": []
+    },
+    {
+      "nom": "William Maw Egley",
+      "oeuvres": 1,
+      "ids": [
+        "Q17017753"
+      ],
+      "alertes": []
+    }
+  ],
+  "variantes": [],
+  "repartition": {
+    "une": 261,
+    "deuxACinq": 108,
+    "sixADix": 19,
+    "plusDeDix": 17
+  }
+}

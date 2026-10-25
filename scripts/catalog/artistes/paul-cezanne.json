@@ -1,0 +1,34 @@
+{
+  "id": "paul-cezanne",
+  "nom": "Paul Cézanne",
+  "alias": [
+    "P. Cezanne",
+    "P. Sezanas",
+    "Polʹ Sezann",
+    "Pol Sezan"
+  ],
+  "wikidataId": "Q35548",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_C%C3%A9zanne",
+  "ulanId": "500004793",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg?width=1200",
+  "naissance": "1839-01-19",
+  "deces": "1906-10-22",
+  "villeNaissance": "Aix-en-Provence",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Post-impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Paul Cézanne"
+  ]
+}

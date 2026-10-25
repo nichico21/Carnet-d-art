@@ -1,0 +1,42 @@
+{
+  "id": "camille-pissarro",
+  "nom": "Camille Pissarro",
+  "alias": [
+    "Pissaro",
+    "Jacob Camille Pissarro",
+    "Camille Jacob Pissaro",
+    "Jacob-Abraham-Camille Pissarro",
+    "Camille-Abraham-Jacob Pissarro",
+    "C. Pissarro",
+    "C. Pissaro",
+    "Camillo Pissarro",
+    "Camille Jacob Pissarro"
+  ],
+  "nomNaissance": "Jacob Abraham Camille Pissarro",
+  "wikidataId": "Q134741",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Camille_Pissarro",
+  "ulanId": "500001924",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg?width=1200",
+  "naissance": "1830-07-10",
+  "deces": "1903-11-13",
+  "villeNaissance": "Charlotte-Amélie",
+  "paysNaissance": "îles Vierges des États-Unis",
+  "nationalites": [
+    "France",
+    "Danemark"
+  ],
+  "disciplines": [
+    "Arts graphiques",
+    "Peinture"
+  ],
+  "mouvements": [
+    "Impressionnisme",
+    "Pointillisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Camille Pissarro"
+  ]
+}

@@ -17,6 +17,7 @@ interface CarnetState {
   favoris: Record<string, boolean>;
   expositionNotes: Record<string, number>;
   expositionsFavorites: Record<string, boolean>;
+  artistesFavoris: Record<string, boolean>;
   veilleEnregistres: Record<string, boolean>;
   veilleDerniereConsultationId: string | null;
   jeux: JeuxState;
@@ -28,6 +29,7 @@ interface CarnetContextValue extends CarnetState {
   toggleFavori: (artworkId: string) => void;
   setExpositionNote: (expositionId: string, note: number) => void;
   toggleExpositionFavori: (expositionId: string) => void;
+  toggleArtisteFavori: (artisteId: string) => void;
   toggleVeilleEnregistre: (contenuId: string) => void;
   setVeilleDerniereConsultation: (contenuId: string) => void;
   enregistrerPartie: (jeuId: string, score: number, xpGagne: number) => void;
@@ -49,6 +51,7 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
     favoris: {},
     expositionNotes: {},
     expositionsFavorites: {},
+    artistesFavoris: {},
     veilleEnregistres: {},
     veilleDerniereConsultationId: null,
     jeux: JEUX_PAR_DEFAUT,
@@ -98,6 +101,11 @@ export function CarnetProvider({ children }: { children: React.ReactNode }) {
             ...prev.expositionsFavorites,
             [expositionId]: !prev.expositionsFavorites[expositionId],
           },
+        })),
+      toggleArtisteFavori: (artisteId) =>
+        setState((prev) => ({
+          ...prev,
+          artistesFavoris: { ...prev.artistesFavoris, [artisteId]: !prev.artistesFavoris[artisteId] },
         })),
       toggleVeilleEnregistre: (contenuId) =>
         setState((prev) => ({

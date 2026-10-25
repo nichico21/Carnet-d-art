@@ -1,0 +1,33 @@
+{
+  "id": "edgar-degas",
+  "nom": "Edgar Degas",
+  "alias": [
+    "Hilaire Germain Edgar de Gas"
+  ],
+  "wikidataId": "Q46373",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Edgar_Degas",
+  "ulanId": "500115194",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg?width=1200",
+  "naissance": "1834-07-19",
+  "deces": "1917-09-27",
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Edgar Degas"
+  ]
+}

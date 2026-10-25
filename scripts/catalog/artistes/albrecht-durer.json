@@ -1,0 +1,43 @@
+{
+  "id": "albrecht-durer",
+  "nom": "Albrecht Dürer",
+  "alias": [
+    "Albert Durer",
+    "Alberdure",
+    "Albr. Dürer",
+    "A.B. Duur",
+    "Aldrecht Durer",
+    "Alverto Dureño",
+    "Alb. Durer",
+    "Albert van Dürer",
+    "Al. Durer",
+    "Alberto Dura",
+    "Alberto Duro",
+    "Albrecht DurerDura"
+  ],
+  "wikidataId": "Q5580",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+  "ulanId": "500115493",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg?width=1200",
+  "naissance": "1471-05-21",
+  "deces": "1528-04-06",
+  "villeNaissance": "Nuremberg",
+  "paysNaissance": "Allemagne",
+  "nationalites": [
+    "Allemagne"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Renaissance en Europe du Nord"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "nomsCatalogue": [
+    "Albrecht Dürer"
+  ]
+}

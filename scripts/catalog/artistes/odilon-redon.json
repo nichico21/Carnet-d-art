@@ -1,0 +1,39 @@
+{
+  "id": "odilon-redon",
+  "nom": "Odilon Redon",
+  "alias": [
+    "Bertrand Jean Redon",
+    "Bertrand Redon",
+    "Odilon Bertrand-Jean Redon",
+    "Odilon-Bertrand Redon",
+    "Redon",
+    "Redon O.",
+    "O. Redon"
+  ],
+  "nomNaissance": "Bertrand Redom",
+  "wikidataId": "Q154349",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Odilon_Redon",
+  "ulanId": "500007292",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20vers%201880.jpg?width=1200",
+  "naissance": "1840-04-20",
+  "deces": "1916-07-06",
+  "villeNaissance": "Bordeaux",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Sculpture"
+  ],
+  "mouvements": [
+    "Symbolisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Odilon Redon"
+  ]
+}

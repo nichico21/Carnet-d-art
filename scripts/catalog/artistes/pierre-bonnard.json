@@ -1,0 +1,36 @@
+{
+  "id": "pierre-bonnard",
+  "nom": "Pierre Bonnard",
+  "alias": [
+    "P'er Bonnar",
+    "Pierre Eugène Frédéric Bonnard",
+    "P. Bonnard",
+    "Bonnard P.",
+    "Bonnard"
+  ],
+  "wikidataId": "Q26408",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Pierre_Bonnard",
+  "ulanId": "500115555",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait-1889.jpg?width=1200",
+  "naissance": "1867-10-03",
+  "deces": "1947-01-23",
+  "villeNaissance": "Fontenay-aux-Roses",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Nabis"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Pierre Bonnard"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "titien",
+  "nom": "Titien",
+  "alias": [
+    "Tiziano da Cador",
+    "Le Titien",
+    "dit le Titien Titiano Vecelli da Cadore",
+    "dit Le Titien Titianus Vecellio",
+    "Tiziani",
+    "Vicelli",
+    "Tizian Vecellio",
+    "Detiano",
+    "Veccelli Titian genoemd Titiaan",
+    "Thitsian",
+    "called Titian Veccellio",
+    "Titiano"
+  ],
+  "wikidataId": "Q47551",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Titien",
+  "ulanId": "500031075",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg?width=1200",
+  "naissance": "1490",
+  "deces": "1576-08-27",
+  "datesApproximatives": true,
+  "villeNaissance": "Pieve di Cadore",
+  "paysNaissance": "Italie",
+  "nationalites": [
+    "Italie"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Ecole vénitienne",
+    "Haute Renaissance"
+  ],
+  "epoques": [
+    "XVIe siècle"
+  ],
+  "nomsCatalogue": [
+    "Titien"
+  ]
+}

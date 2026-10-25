@@ -1,0 +1,39 @@
+{
+  "id": "georges-seurat",
+  "nom": "Georges Seurat",
+  "alias": [
+    "Seurat",
+    "Georges-Pierre Seurat",
+    "G. Seurat",
+    "George Pierre Seurat",
+    "Seurat Geo.",
+    "Geo. Seurat",
+    "Hsiu-la",
+    "Zhorzh Sera"
+  ],
+  "wikidataId": "Q34013",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Georges_Seurat",
+  "ulanId": "500008873",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20(cropped).jpg?width=1200",
+  "naissance": "1859-12-02",
+  "deces": "1891-03-29",
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Pointillisme",
+    "Post-impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Georges Seurat"
+  ]
+}

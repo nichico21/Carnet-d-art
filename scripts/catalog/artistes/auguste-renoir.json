@@ -1,0 +1,43 @@
+{
+  "id": "auguste-renoir",
+  "nom": "Auguste Renoir",
+  "alias": [
+    "Pierre-Auguste Renoir",
+    "Renoir P.A.",
+    "Renoir",
+    "Firmin Auguste Renoir",
+    "Pierre August Renoir",
+    "P.A. Renoir",
+    "Pjer-Ogist Renoar",
+    "August Renoir",
+    "A. Renoir"
+  ],
+  "nomNaissance": "Pierre Auguste Renoir",
+  "wikidataId": "Q39931",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Auguste_Renoir",
+  "ulanId": "500115467",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg?width=1200",
+  "naissance": "1841-02-25",
+  "deces": "1919-12-03",
+  "villeNaissance": "Limoges",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Impressionnisme"
+  ],
+  "epoques": [
+    "XIXe siècle",
+    "XXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Auguste Renoir"
+  ]
+}

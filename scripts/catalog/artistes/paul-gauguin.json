@@ -1,0 +1,49 @@
+{
+  "id": "paul-gauguin",
+  "nom": "Paul Gauguin",
+  "alias": [
+    "Gauguin",
+    "Eugene-Henri-Paul Gauguin",
+    "Paul Eugène Henri Gauguin",
+    "P. gaugin",
+    "Kao-keng",
+    "Eugène Henry Paul Gauguin",
+    "Gauguin Paul",
+    "Paul Gaugin",
+    "Pablo Gauguin",
+    "Polʹ Gogen",
+    "P. Gauguin",
+    "Eugene-Henri Gauguin"
+  ],
+  "nomNaissance": "Eugène Henri Paul Gauguin",
+  "wikidataId": "Q37693",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paul_Gauguin",
+  "ulanId": "500011421",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png?width=1200",
+  "naissance": "1848-06-07",
+  "deces": "1903-05-08",
+  "villeNaissance": "Paris",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Sculpture",
+    "Arts graphiques",
+    "Arts décoratifs"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Synthétisme",
+    "Symbolisme",
+    "Impressionnisme",
+    "Primitivisme"
+  ],
+  "epoques": [
+    "XIXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Paul Gauguin"
+  ]
+}

@@ -41,6 +41,7 @@ export const ARTISTES: Artiste[] = [
       "XIXe siècle",
       "XXe siècle"
     ],
+    "description": "Claude Monet (1840-1926) est la figure de proue de l'impressionnisme : c'est sa toile « Impression, soleil levant », exposée en 1874, qui a donné son nom au mouvement. Fidèle à la peinture sur le motif, il poursuit les variations de la lumière en reprenant un même sujet à toute heure et en toute saison, des Meules aux Cathédrales de Rouen puis aux Nymphéas. À partir de 1883, son jardin de Giverny devient le sujet et le laboratoire de ses dernières recherches.",
     "oeuvresIncontournablesIds": [],
     "nomsCatalogue": [
       "Claude Monet"
@@ -142,6 +143,7 @@ export const ARTISTES: Artiste[] = [
     "epoques": [
       "XIXe siècle"
     ],
+    "description": "Vincent van Gogh (1853-1890), peintre néerlandais, est l'une des grandes figures du post-impressionnisme. Venu tard à la peinture, vers 1880, il réalise en une dizaine d'années plus de deux mille œuvres, peintures comme dessins ; l'essentiel de ses toiles date de ses dernières années en France, à Arles, à Saint-Rémy-de-Provence puis à Auvers-sur-Oise. Sa touche vibrante et ses couleurs expressives en font un précurseur de l'art moderne, même s'il n'a connu que très peu de reconnaissance de son vivant.",
     "oeuvresIncontournablesIds": [],
     "nomsCatalogue": [
       "Vincent van Gogh"

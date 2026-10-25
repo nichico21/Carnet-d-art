@@ -2,9 +2,13 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { FlatList, Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { ARTWORKS, FACETTES } from '../data/artworks.generated';
+import { ARTISTES } from '../data/artistes.generated';
 import { MUSEES } from '../data/musees.generated';
+import { Artiste } from '../types/artiste';
 import { Artwork } from '../types/artwork';
 import { Musee } from '../types/musee';
+import { ArtisteDetail } from '../components/artistes/ArtisteDetail';
+import { ArtistesView } from '../components/artistes/ArtistesView';
 import { ArtworkDetail } from '../components/ArtworkDetail';
 import { construireBlocs, GridBlock } from '../components/ArtworkGrid';
 import { CategoryList } from '../components/CategoryList';
@@ -31,6 +35,7 @@ export function CatalogueScreen() {
   const navigation = useNavigation();
   const [selected, setSelected] = useState<Artwork | null>(null);
   const [museeOuvert, setMuseeOuvert] = useState<Musee | null>(null);
+  const [artisteOuvert, setArtisteOuvert] = useState<Artiste | null>(null);
   const [sousOnglet, setSousOnglet] = useState<(typeof SOUS_ONGLETS)[number]>('Catalogue');
   const [vue, setVue] = useState<(typeof VUES)[number]>('Œuvres');
   const [filtres, setFiltres] = useState<FiltresActifs>({});
@@ -90,7 +95,7 @@ export function CatalogueScreen() {
         ))}
       </View>
 
-      {vue !== 'Musées' && <FilterBar facettes={FACETTES} filtres={filtres} onChange={setFiltres} />}
+      {vue !== 'Musées' && vue !== 'Artistes' && <FilterBar facettes={FACETTES} filtres={filtres} onChange={setFiltres} />}
 
       {vue === 'Œuvres' && (
         data.length === 0 ? (
@@ -113,7 +118,16 @@ export function CatalogueScreen() {
         <CategoryList items={FACETTES.mouvements} onSelect={(v) => { setFiltres({ mouvement: v }); setVue('Œuvres'); }} />
       )}
       {vue === 'Artistes' && (
-        <CategoryList items={FACETTES.artistes} onSelect={(v) => { setFiltres({ artiste: v }); setVue('Œuvres'); }} />
+        <ArtistesView
+          artistes={ARTISTES}
+          artworks={ARTWORKS}
+          facettesArtistes={FACETTES.artistes}
+          onOuvrirArtiste={setArtisteOuvert}
+          onSelectArtisteCatalogue={(nom) => {
+            setFiltres({ artiste: nom });
+            setVue('Œuvres');
+          }}
+        />
       )}
       {vue === 'Musées' && (
         <MuseesView
@@ -127,6 +141,18 @@ export function CatalogueScreen() {
           }}
         />
       )}
+
+      <ArtisteDetail
+        artiste={artisteOuvert}
+        onClose={() => setArtisteOuvert(null)}
+        onOuvrirExposition={(expositionId) => {
+          setArtisteOuvert(null);
+          (navigation.navigate as (name: string, params?: object) => void)('Accueil', {
+            screen: 'Expositions',
+            params: { expositionId },
+          });
+        }}
+      />
 
       <MuseeDetail
         musee={museeOuvert}

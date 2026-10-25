@@ -1,0 +1,44 @@
+{
+  "id": "frans-hals",
+  "nom": "Frans Hals",
+  "alias": [
+    "Franz Hals",
+    "Frans Hal",
+    "François Haals",
+    "Frans Khalʹs",
+    "Frankals",
+    "Frantz Hal",
+    "Franshalce",
+    "Hals François",
+    "Franakhale",
+    "François Hall",
+    "Francois Hals",
+    "Fran. Halse"
+  ],
+  "wikidataId": "Q167654",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Frans_Hals",
+  "ulanId": "500027794",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20(1582-83%E2%80%931666)%20MET%20DP251935.jpg?width=1200",
+  "naissance": "1582",
+  "deces": "1666-08-26",
+  "datesApproximatives": true,
+  "villeNaissance": "Anvers",
+  "paysNaissance": "Belgique",
+  "nationalites": [
+    "Pays-Bas"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques"
+  ],
+  "mouvements": [
+    "Baroque",
+    "Age d’or de l’art hollandais"
+  ],
+  "epoques": [
+    "XVIIe siècle"
+  ],
+  "nomsCatalogue": [
+    "Frans Hals"
+  ]
+}

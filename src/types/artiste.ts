@@ -32,6 +32,11 @@ export interface Artiste {
   epoques: string[];
   description?: string;
   anecdote?: string;
+  /** Une phrase courte pour le bandeau « À la une » (90 caractères au plus). */
+  accroche?: string;
+  /** Citation de l'artiste ; publiée seulement avec sa source. */
+  citation?: string;
+  citationSource?: string;
   incontournable?: boolean;
   oeuvresIncontournablesIds: string[];
   /** Noms de l'artiste tels qu'ils sont écrits dans les fiches d'œuvres. */

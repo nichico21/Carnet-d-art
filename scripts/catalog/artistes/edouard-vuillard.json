@@ -1,0 +1,38 @@
+{
+  "id": "edouard-vuillard",
+  "nom": "Édouard Vuillard",
+  "alias": [
+    "Jean Edouard Vuillard",
+    "E. Vuillard",
+    "Vuillard",
+    "Edouard Vuilliard"
+  ],
+  "nomNaissance": "Jean Édouard Vuillard",
+  "wikidataId": "Q239394",
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/%C3%89douard_Vuillard",
+  "ulanId": "500014954",
+  "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%2C%20Aged%2021%20A21192.jpg?width=1200",
+  "naissance": "1868-11-11",
+  "deces": "1940-06-21",
+  "villeNaissance": "Cuiseaux",
+  "paysNaissance": "France",
+  "nationalites": [
+    "France"
+  ],
+  "disciplines": [
+    "Peinture",
+    "Arts graphiques",
+    "Photographie"
+  ],
+  "mouvements": [
+    "Post-impressionnisme",
+    "Japonisme",
+    "Nabis"
+  ],
+  "epoques": [
+    "XXe siècle"
+  ],
+  "nomsCatalogue": [
+    "Édouard Vuillard"
+  ]
+}
